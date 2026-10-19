@@ -15,7 +15,7 @@
   "properties": {
     "test_id": {
       "type": "string",
-      "pattern": "^TTR-ENG-(A2|B1|B2|C2|SP)-\\d{3}$"
+      "pattern": "^TTR-ENG-(A2|B1|B2|C1|C2|SP)-\\d{3}$"
     },
     "title": {
       "type": "string",
@@ -28,7 +28,8 @@
         "B1",
         "B2",
         "B1/B2",
-        "C2"
+        "C2",
+        "C1"
       ]
     },
     "category": {

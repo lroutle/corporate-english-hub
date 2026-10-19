@@ -1,5 +1,5 @@
 """
-Generator for all 80 Tatra Engineering modules (20 A2, 20 B1, 20 B2, 20 C2).
+Generator for all 80 Tatra Engineering modules (20 A2, 20 B1, 20 B2, 20 C1).
 Preserves existing validated modules and procedural-generates the remainder with high pedagogical rigor.
 """
 
@@ -220,11 +220,11 @@ def generate_b2_question(module_meta, q_idx):
 
     return make_q(qid, prompt, opts, target_k, exps, cz_pt, module_meta["workplace_track"])
 
-def generate_c2_question(module_meta, q_idx):
+def generate_c1_question(module_meta, q_idx):
     qid = f"{module_meta['test_id']}-Q{q_idx+1}"
     target_k = KEY_PATTERN[q_idx % len(KEY_PATTERN)]
     
-    c2_scenarios = [
+    c1_scenarios = [
         ("The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.", "furnish", "furnishes", "shall furnish", "must to furnish", "Mandative subjunctive requires base form 'furnish' after 'mandated that'."),
         ("It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.", "undergo", "undergoes", "will undergo", "must undergoes", "Formulaic subjunctive after 'imperative that' requires base form 'undergo'."),
         ("Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.", "have our metallurgists", "our metallurgists have", "did our metallurgists had", "had our metallurgists have", "Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'."),
@@ -236,9 +236,9 @@ def generate_c2_question(module_meta, q_idx):
         ("Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.", "is the tribunal to permit", "the tribunal is to permit", "will the tribunal permits", "the tribunal permits", "Negative inversion: 'Under no circumstances is the tribunal to permit'."),
         ("The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.", "be dispatched", "are dispatched", "will be dispatched", "must to be dispatched", "Passive mandative subjunctive: 'insisted that specimens be dispatched'.")
     ]
-    prompt, correct_text, w1, w2, w3, rule = c2_scenarios[q_idx % len(c2_scenarios)]
+    prompt, correct_text, w1, w2, w3, rule = c1_scenarios[q_idx % len(c1_scenarios)]
     distractors = [w1, w2, w3]
-    correct_exp = f"Mastery-tier syntax: {rule}"
+    correct_exp = f"Advanced-tier syntax: {rule}"
     distractor_exps = [
         f"Option '{w1}' incorrectly applies indicative or non-inverted word order.",
         f"Option '{w2}' violates formal mandative subjunctive or inversion rules.",
@@ -284,8 +284,8 @@ def generate_tatra_eng_modules():
                     q = generate_b1_question(mod, q_idx)
                 elif lvl == "B2":
                     q = generate_b2_question(mod, q_idx)
-                else: # C2
-                    q = generate_c2_question(mod, q_idx)
+                else: # C1
+                    q = generate_c1_question(mod, q_idx)
                 questions.append(q)
 
             test_obj = build_test_module(

@@ -1,5 +1,5 @@
 """
-Generator for all 80 Teva IT modules (20 A2, 20 B1, 20 B2, 20 C2).
+Generator for all 80 Teva IT modules (20 A2, 20 B1, 20 B2, 20 C1).
 Preserves existing validated modules and procedural-generates the remainder with high pedagogical rigor.
 """
 
@@ -189,11 +189,11 @@ def generate_b2_question(module_meta, q_idx):
 
     return make_q(qid, prompt, opts, target_k, exps, cz_pt, module_meta["workplace_track"])
 
-def generate_c2_question(module_meta, q_idx):
+def generate_c1_question(module_meta, q_idx):
     qid = f"{module_meta['test_id']}-Q{q_idx+1}"
     target_k = KEY_PATTERN[q_idx % len(KEY_PATTERN)]
     
-    c2_scenarios = [
+    c1_scenarios = [
         ("The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.", "suspend", "suspends", "shall suspend", "must to suspend", "Mandative subjunctive requires base form 'suspend' after 'mandated that'."),
         ("Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.", "have", "are", "were", "did", "Negative inversion: 'Seldom have arbitral tribunals awarded'."),
         ("It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.", "retain", "retains", "will retain", "must to retain", "Formulaic subjunctive: 'paramount governance necessity that the CISO retain'."),
@@ -205,9 +205,9 @@ def generate_c2_question(module_meta, q_idx):
         ("Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.", "had", "was", "did", "has", "Inversion: 'Barely had the team completed... when...'."),
         ("The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.", "remain", "remains", "will remain", "shall to remain", "Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.")
     ]
-    prompt, correct_text, w1, w2, w3, rule = c2_scenarios[q_idx % len(c2_scenarios)]
+    prompt, correct_text, w1, w2, w3, rule = c1_scenarios[q_idx % len(c1_scenarios)]
     distractors = [w1, w2, w3]
-    correct_exp = f"C2 cloud litigation & cyber governance discourse: {rule}"
+    correct_exp = f"C1 cloud litigation & cyber governance discourse: {rule}"
     distractor_exps = [
         f"Option '{w1}' violates formal mandative subjunctive or inversion rules.",
         f"Option '{w2}' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
@@ -250,8 +250,8 @@ def generate_teva_it_modules():
                     q = generate_b1_question(mod, q_idx)
                 elif lvl == "B2":
                     q = generate_b2_question(mod, q_idx)
-                else: # C2
-                    q = generate_c2_question(mod, q_idx)
+                else: # C1
+                    q = generate_c1_question(mod, q_idx)
                 questions.append(q)
 
             test_obj = build_test_module(

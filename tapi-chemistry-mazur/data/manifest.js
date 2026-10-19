@@ -600,9 +600,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Upper-intermediate chemical API synthesis module analyzing unannounced health authority audit of laboratory data integrity (alcoa+)."
   },
   {
-    "test_id": "TAPI-CHEM-C2-001",
+    "test_id": "TAPI-CHEM-C1-001",
     "title": "Pharmacopeial Monograph Harmonization, Nitrosamines & ICH Q2(R2)",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
     "grammar_focus": "Diplomatic Counter-Argumentation & Hedging",
@@ -610,9 +610,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining pharmacopeial monograph harmonization, nitrosamines & ich q2(r2)."
   },
   {
-    "test_id": "TAPI-CHEM-C2-002",
+    "test_id": "TAPI-CHEM-C1-002",
     "title": "Patent Invalidation Litigation: Novel Polymorphic Salt Crystal Forms",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
     "grammar_focus": "High-Register Patent Jurisprudence",
@@ -620,9 +620,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining patent invalidation litigation: novel polymorphic salt crystal forms."
   },
   {
-    "test_id": "TAPI-CHEM-C2-003",
+    "test_id": "TAPI-CHEM-C1-003",
     "title": "Nitrosamine Mutagenic Risk Toxicological Assessment (ICH M7) Defense",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines",
     "grammar_focus": "Forensic Toxicological Deposition",
@@ -630,9 +630,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining nitrosamine mutagenic risk toxicological assessment (ich m7) defense."
   },
   {
-    "test_id": "TAPI-CHEM-C2-004",
+    "test_id": "TAPI-CHEM-C1-004",
     "title": "Cross-Border API Supply Contract Quality Agreement Breach Litigation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
     "grammar_focus": "Contractual Breach & Indemnification",
@@ -640,9 +640,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining cross-border api supply contract quality agreement breach litigation."
   },
   {
-    "test_id": "TAPI-CHEM-C2-005",
+    "test_id": "TAPI-CHEM-C1-005",
     "title": "Genotoxic Impurity Threshold of Toxicological Concern (TTC) Inquests",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines",
     "grammar_focus": "Epistemic Hedging in Regulatory Filings",
@@ -650,9 +650,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining genotoxic impurity threshold of toxicological concern (ttc) inquests."
   },
   {
-    "test_id": "TAPI-CHEM-C2-006",
+    "test_id": "TAPI-CHEM-C1-006",
     "title": "European Directorate (EDQM) Certificate of Suitability (CEP) Suspension Appeals",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
     "grammar_focus": "Administrative Law Appeals Syntax",
@@ -660,9 +660,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining european directorate (edqm) certificate of suitability (cep) suspension appeals."
   },
   {
-    "test_id": "TAPI-CHEM-C2-007",
+    "test_id": "TAPI-CHEM-C1-007",
     "title": "Catastrophic Chemical Plant Toxic Runaway Effluent Discharge Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
     "grammar_focus": "Environmental Tort Liability Inquest",
@@ -670,9 +670,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining catastrophic chemical plant toxic runaway effluent discharge inquest."
   },
   {
-    "test_id": "TAPI-CHEM-C2-008",
+    "test_id": "TAPI-CHEM-C1-008",
     "title": "Supercritical Fluid Chromatography Commercial Technology Transfer Disputes",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
     "grammar_focus": "Complex Multi-Clause Scientific Argumentation",
@@ -680,9 +680,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining supercritical fluid chromatography commercial technology transfer disputes."
   },
   {
-    "test_id": "TAPI-CHEM-C2-009",
+    "test_id": "TAPI-CHEM-C1-009",
     "title": "Chiral Inversion in Vivo Pharmacokinetic Patent Defense Inquests",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
     "grammar_focus": "Biochemical Patent Defense Syntax",
@@ -690,9 +690,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining chiral inversion in vivo pharmacokinetic patent defense inquests."
   },
   {
-    "test_id": "TAPI-CHEM-C2-010",
+    "test_id": "TAPI-CHEM-C1-010",
     "title": "Continuous Synthesis Micro-Reactor Reactor Blockage Explosive Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
     "grammar_focus": "Forensic Incident Inquest Discourse",
@@ -700,9 +700,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining continuous synthesis micro-reactor reactor blockage explosive inquest."
   },
   {
-    "test_id": "TAPI-CHEM-C2-011",
+    "test_id": "TAPI-CHEM-C1-011",
     "title": "Expert Witness Deposition: Analytical Method Cross-Validation Failures",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
     "grammar_focus": "Forensic Cross-Examination Deposition",
@@ -710,9 +710,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining expert witness deposition: analytical method cross-validation failures."
   },
   {
-    "test_id": "TAPI-CHEM-C2-012",
+    "test_id": "TAPI-CHEM-C1-012",
     "title": "Harmonization of Pharmacopeial Dissolution Testing Protocols (Ph. Eur. vs USP)",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
     "grammar_focus": "Treaty & Monograph Harmonization Syntax",
@@ -720,9 +720,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining harmonization of pharmacopeial dissolution testing protocols (ph. eur. vs usp)."
   },
   {
-    "test_id": "TAPI-CHEM-C2-013",
+    "test_id": "TAPI-CHEM-C1-013",
     "title": "Industrial Solvent Recovery Distillation Column Dioxin Formation Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
     "grammar_focus": "Toxicological Environmental Discourse",
@@ -730,9 +730,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining industrial solvent recovery distillation column dioxin formation inquest."
   },
   {
-    "test_id": "TAPI-CHEM-C2-014",
+    "test_id": "TAPI-CHEM-C1-014",
     "title": "Catalytic Asymmetric Hydrogenation Intellectual Property Counter-Claims",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
     "grammar_focus": "Patent Claim Construction Terminology",
@@ -740,9 +740,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining catalytic asymmetric hydrogenation intellectual property counter-claims."
   },
   {
-    "test_id": "TAPI-CHEM-C2-015",
+    "test_id": "TAPI-CHEM-C1-015",
     "title": "OOS False Negative Release Fraud Inquest: Regulatory Whistleblower Defense",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
     "grammar_focus": "Regulatory Fraud Investigation Register",
@@ -750,9 +750,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining oos false negative release fraud inquest: regulatory whistleblower defense."
   },
   {
-    "test_id": "TAPI-CHEM-C2-016",
+    "test_id": "TAPI-CHEM-C1-016",
     "title": "Solid-State Degradation Kinetics in High-Temperature Tropical Storage",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
     "grammar_focus": "High-Register Physical Chemistry Discourse",
@@ -760,9 +760,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining solid-state degradation kinetics in high-temperature tropical storage."
   },
   {
-    "test_id": "TAPI-CHEM-C2-017",
+    "test_id": "TAPI-CHEM-C1-017",
     "title": "International Arbitration of Raw Material Contamination Damage Claims",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
     "grammar_focus": "Commercial Arbitration Formulas",
@@ -770,9 +770,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining international arbitration of raw material contamination damage claims."
   },
   {
-    "test_id": "TAPI-CHEM-C2-018",
+    "test_id": "TAPI-CHEM-C1-018",
     "title": "Executive Board Defense of Green Chemistry API Capital Re-Tooling",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
     "grammar_focus": "Corporate Strategic Persuasion Syntax",
@@ -780,9 +780,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining executive board defense of green chemistry api capital re-tooling."
   },
   {
-    "test_id": "TAPI-CHEM-C2-019",
+    "test_id": "TAPI-CHEM-C1-019",
     "title": "Regulatory Warning Letter Response: Impurity Analytical Method Deficiencies",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
     "grammar_focus": "High-Stakes Regulatory Response Phrasing",
@@ -790,9 +790,9 @@ window.CURRICULUM_MANIFEST = [
     "description": "Mastery-tier chemical research and regulatory governance module examining regulatory warning letter response: impurity analytical method deficiencies."
   },
   {
-    "test_id": "TAPI-CHEM-C2-020",
+    "test_id": "TAPI-CHEM-C1-020",
     "title": "Scientific Advisory Board Dispute: Synthetic Route Freedom to Operate",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
     "grammar_focus": "High-Register Scientific Counsel Dialogue",

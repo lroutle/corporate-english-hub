@@ -600,203 +600,203 @@ window.CURRICULUM_MANIFEST = [
     "description": "Upper-intermediate engineering module investigating ece r29 cabin crash-worthiness & impact energy absorption inquest."
   },
   {
-    "test_id": "TTR-ENG-C2-001",
+    "test_id": "TTR-ENG-C1-001",
     "title": "Forensic Failure Analysis, Structural Metallurgy & NATO Offsets",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
     "grammar_focus": "Negative Inversion & Nuanced Hedging",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining forensic failure analysis, structural metallurgy & nato offsets."
+    "description": "Advanced-tier forensic and executive engineering module examining forensic failure analysis, structural metallurgy & nato offsets."
   },
   {
-    "test_id": "TTR-ENG-C2-002",
+    "test_id": "TTR-ENG-C1-002",
     "title": "Intergovernmental Military Vehicle Procurement & Defense Treaty Compliance",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "grammar_focus": "Diplomatic Subjunctive & Treaty Nomenclature",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining intergovernmental military vehicle procurement & defense treaty compliance."
+    "description": "Advanced-tier forensic and executive engineering module examining intergovernmental military vehicle procurement & defense treaty compliance."
   },
   {
-    "test_id": "TTR-ENG-C2-003",
+    "test_id": "TTR-ENG-C1-003",
     "title": "Catastrophic Drivetrain Shear Fracture: Multi-Physics Forensic Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
     "grammar_focus": "Epistemic Hedging in Legal Inquests",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining catastrophic drivetrain shear fracture: multi-physics forensic inquest."
+    "description": "Advanced-tier forensic and executive engineering module examining catastrophic drivetrain shear fracture: multi-physics forensic inquest."
   },
   {
-    "test_id": "TTR-ENG-C2-004",
+    "test_id": "TTR-ENG-C1-004",
     "title": "Patent Infringement Arbitration: Central Backbone Tube Tubular Backbone Concept",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Central Backbone Tube & Chassis R&D",
     "grammar_focus": "Litigation Syntax & Counter-Argumentation",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining patent infringement arbitration: central backbone tube tubular backbone concept."
+    "description": "Advanced-tier forensic and executive engineering module examining patent infringement arbitration: central backbone tube tubular backbone concept."
   },
   {
-    "test_id": "TTR-ENG-C2-005",
+    "test_id": "TTR-ENG-C1-005",
     "title": "Hydrogen Embrittlement in High-Tensile Axle Flange Fasteners",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
     "grammar_focus": "High-Register Scientific Discourse",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining hydrogen embrittlement in high-tensile axle flange fasteners."
+    "description": "Advanced-tier forensic and executive engineering module examining hydrogen embrittlement in high-tensile axle flange fasteners."
   },
   {
-    "test_id": "TTR-ENG-C2-006",
+    "test_id": "TTR-ENG-C1-006",
     "title": "Multi-National Joint Venture Technology Transfer & IP Protection Clauses",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "grammar_focus": "Contractual Subjunctive & Risk Mitigation",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining multi-national joint venture technology transfer & ip protection clauses."
+    "description": "Advanced-tier forensic and executive engineering module examining multi-national joint venture technology transfer & ip protection clauses."
   },
   {
-    "test_id": "TTR-ENG-C2-007",
+    "test_id": "TTR-ENG-C1-007",
     "title": "Stochastic Dynamic Load Life Prediction Under Severe Off-Road Torture Rigs",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Central Backbone Tube & Chassis R&D",
     "grammar_focus": "Advanced Participle Clauses & Density",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining stochastic dynamic load life prediction under severe off-road torture rigs."
+    "description": "Advanced-tier forensic and executive engineering module examining stochastic dynamic load life prediction under severe off-road torture rigs."
   },
   {
-    "test_id": "TTR-ENG-C2-008",
+    "test_id": "TTR-ENG-C1-008",
     "title": "Ballistic & Mine-Blast Shock Wave Propagation Through Modular Armor Cabins",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "grammar_focus": "Complex Cause-Effect Nominal Constructions",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining ballistic & mine-blast shock wave propagation through modular armor cabins."
+    "description": "Advanced-tier forensic and executive engineering module examining ballistic & mine-blast shock wave propagation through modular armor cabins."
   },
   {
-    "test_id": "TTR-ENG-C2-009",
+    "test_id": "TTR-ENG-C1-009",
     "title": "Autonomous Military Convoy Platooning Protocol Functional Safety (ISO 26262)",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "grammar_focus": "Regulatory Imperatives & Deontic Modality",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining autonomous military convoy platooning protocol functional safety (iso 26262)."
+    "description": "Advanced-tier forensic and executive engineering module examining autonomous military convoy platooning protocol functional safety (iso 26262)."
   },
   {
-    "test_id": "TTR-ENG-C2-010",
+    "test_id": "TTR-ENG-C1-010",
     "title": "Aero-Thermal Engine Bay Fluid Dynamics in 55°C Ambient Desert Operations",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
     "grammar_focus": "Stylistic Fronting & Structural Inversion",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining aero-thermal engine bay fluid dynamics in 55°c ambient desert operations."
+    "description": "Advanced-tier forensic and executive engineering module examining aero-thermal engine bay fluid dynamics in 55°c ambient desert operations."
   },
   {
-    "test_id": "TTR-ENG-C2-011",
+    "test_id": "TTR-ENG-C1-011",
     "title": "Expert Witness Deposition: Multi-Axle Roll-Over Dynamic Stability Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "grammar_focus": "Forensic Deposition & Cross-Examination Syntax",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining expert witness deposition: multi-axle roll-over dynamic stability inquest."
+    "description": "Advanced-tier forensic and executive engineering module examining expert witness deposition: multi-axle roll-over dynamic stability inquest."
   },
   {
-    "test_id": "TTR-ENG-C2-012",
+    "test_id": "TTR-ENG-C1-012",
     "title": "Electro-Hydraulic Steer-by-Wire Redundancy Architecture Legal Certification",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
     "grammar_focus": "Normative Directives & Mandatory Shall",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining electro-hydraulic steer-by-wire redundancy architecture legal certification."
+    "description": "Advanced-tier forensic and executive engineering module examining electro-hydraulic steer-by-wire redundancy architecture legal certification."
   },
   {
-    "test_id": "TTR-ENG-C2-013",
+    "test_id": "TTR-ENG-C1-013",
     "title": "Composite Material Delamination in Lightweight Heavy-Duty Drivelines",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
     "grammar_focus": "Nuanced Stance & Authorial Confidence Markers",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining composite material delamination in lightweight heavy-duty drivelines."
+    "description": "Advanced-tier forensic and executive engineering module examining composite material delamination in lightweight heavy-duty drivelines."
   },
   {
-    "test_id": "TTR-ENG-C2-014",
+    "test_id": "TTR-ENG-C1-014",
     "title": "Lifecycle Environmental Sustainability & EU Heavy-Duty Fleet CO2 Mandates",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
     "grammar_focus": "Policy Argumentation & Counter-Claims",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining lifecycle environmental sustainability & eu heavy-duty fleet co2 mandates."
+    "description": "Advanced-tier forensic and executive engineering module examining lifecycle environmental sustainability & eu heavy-duty fleet co2 mandates."
   },
   {
-    "test_id": "TTR-ENG-C2-015",
+    "test_id": "TTR-ENG-C1-015",
     "title": "Supply Chain Force Majeure Invocations & Geopolitical Embargo Compliance",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "grammar_focus": "Contractual Liability & Exemption Clauses",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining supply chain force majeure invocations & geopolitical embargo compliance."
+    "description": "Advanced-tier forensic and executive engineering module examining supply chain force majeure invocations & geopolitical embargo compliance."
   },
   {
-    "test_id": "TTR-ENG-C2-016",
+    "test_id": "TTR-ENG-C1-016",
     "title": "Advanced Fatigue Crack Tip Plasticity Modeling in Forged Half-Axles",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
     "grammar_focus": "Academic Research Register & Passive Density",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining advanced fatigue crack tip plasticity modeling in forged half-axles."
+    "description": "Advanced-tier forensic and executive engineering module examining advanced fatigue crack tip plasticity modeling in forged half-axles."
   },
   {
-    "test_id": "TTR-ENG-C2-017",
+    "test_id": "TTR-ENG-C1-017",
     "title": "High-Register Executive Board Defense of Capital R&D Platform Investment",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Central Backbone Tube & Chassis R&D",
     "grammar_focus": "Executive Persuasion & Strategic Hedging",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining high-register executive board defense of capital r&d platform investment."
+    "description": "Advanced-tier forensic and executive engineering module examining high-register executive board defense of capital r&d platform investment."
   },
   {
-    "test_id": "TTR-ENG-C2-018",
+    "test_id": "TTR-ENG-C1-018",
     "title": "Cross-Border Warranty Dispute Arbitration Under UNCITRAL Model Law",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Quality Assurance, Inspection & Torque Verification",
     "grammar_focus": "Legalistic Conditionals & Arbitration Formulas",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining cross-border warranty dispute arbitration under uncitral model law."
+    "description": "Advanced-tier forensic and executive engineering module examining cross-border warranty dispute arbitration under uncitral model law."
   },
   {
-    "test_id": "TTR-ENG-C2-019",
+    "test_id": "TTR-ENG-C1-019",
     "title": "Autonomous Off-Road Vehicle Lidar Sensor Degradation Under Heavy Mud Splash",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "grammar_focus": "Techno-Scientific Qualification of Limits",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining autonomous off-road vehicle lidar sensor degradation under heavy mud splash."
+    "description": "Advanced-tier forensic and executive engineering module examining autonomous off-road vehicle lidar sensor degradation under heavy mud splash."
   },
   {
-    "test_id": "TTR-ENG-C2-020",
+    "test_id": "TTR-ENG-C1-020",
     "title": "Sovereign Defense Ministry Counter-Trade & Offset Fulfillment Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "grammar_focus": "Bilateral Intergovernmental Treaty Syntax",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining sovereign defense ministry counter-trade & offset fulfillment inquest."
+    "description": "Advanced-tier forensic and executive engineering module examining sovereign defense ministry counter-trade & offset fulfillment inquest."
   }
 ];

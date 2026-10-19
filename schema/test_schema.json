@@ -26,12 +26,20 @@
     },
     "level": {
       "type": "string",
-      "enum": ["B1", "B2", "B1/B2"],
+      "enum": [
+        "B1",
+        "B2",
+        "B1/B2",
+        "C1"
+      ],
       "description": "Target CEFR proficiency level"
     },
     "category": {
       "type": "string",
-      "enum": ["core", "specialized"],
+      "enum": [
+        "core",
+        "specialized"
+      ],
       "description": "Core grammar/workplace test vs specialized unit"
     },
     "workplace_track": {
@@ -59,7 +67,9 @@
     },
     "learning_objectives": {
       "type": "array",
-      "items": { "type": "string" },
+      "items": {
+        "type": "string"
+      },
       "description": "List of pedagogical goals addressed by this test"
     },
     "questions": {
@@ -95,11 +105,20 @@
             "maxItems": 5,
             "items": {
               "type": "object",
-              "required": ["key", "text"],
+              "required": [
+                "key",
+                "text"
+              ],
               "properties": {
                 "key": {
                   "type": "string",
-                  "enum": ["A", "B", "C", "D", "E"]
+                  "enum": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                  ]
                 },
                 "text": {
                   "type": "string",
@@ -110,20 +129,42 @@
           },
           "correct_key": {
             "type": "string",
-            "enum": ["A", "B", "C", "D", "E"]
+            "enum": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ]
           },
           "explanations": {
             "type": "object",
-            "required": ["correct"],
+            "required": [
+              "correct"
+            ],
             "properties": {
-              "correct": { "type": "string" },
-              "wrong_A": { "type": "string" },
-              "wrong_B": { "type": "string" },
-              "wrong_C": { "type": "string" },
-              "wrong_D": { "type": "string" },
-              "wrong_E": { "type": "string" }
+              "correct": {
+                "type": "string"
+              },
+              "wrong_A": {
+                "type": "string"
+              },
+              "wrong_B": {
+                "type": "string"
+              },
+              "wrong_C": {
+                "type": "string"
+              },
+              "wrong_D": {
+                "type": "string"
+              },
+              "wrong_E": {
+                "type": "string"
+              }
             },
-            "additionalProperties": { "type": "string" }
+            "additionalProperties": {
+              "type": "string"
+            }
           },
           "cz_learning_point": {
             "type": "string",

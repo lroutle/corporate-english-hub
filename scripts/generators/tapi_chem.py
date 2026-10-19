@@ -1,5 +1,5 @@
 """
-Generator for all 80 Tapi Chemistry modules (20 A2, 20 B1, 20 B2, 20 C2).
+Generator for all 80 Tapi Chemistry modules (20 A2, 20 B1, 20 B2, 20 C1).
 Preserves existing validated modules and procedural-generates the remainder with high pedagogical rigor.
 """
 
@@ -189,11 +189,11 @@ def generate_b2_question(module_meta, q_idx):
 
     return make_q(qid, prompt, opts, target_k, exps, cz_pt, module_meta["workplace_track"])
 
-def generate_c2_question(module_meta, q_idx):
+def generate_c1_question(module_meta, q_idx):
     qid = f"{module_meta['test_id']}-Q{q_idx+1}"
     target_k = KEY_PATTERN[q_idx % len(KEY_PATTERN)]
     
-    c2_scenarios = [
+    c1_scenarios = [
         ("The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.", "be", "is", "shall be", "must to be", "Mandative subjunctive requires base form 'be' after 'mandated that'."),
         ("Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.", "have", "are", "were", "did", "Negative inversion: 'Seldom have regulatory agencies accepted'."),
         ("It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.", "be", "is", "will be", "must to be", "Formulaic subjunctive: 'paramount scientific necessity that every method be validated'."),
@@ -205,9 +205,9 @@ def generate_c2_question(module_meta, q_idx):
         ("Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.", "had", "was", "did", "has", "Inversion: 'Barely had the EDQM granted... when...'."),
         ("The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.", "be", "is", "will be", "shall to be", "Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.")
     ]
-    prompt, correct_text, w1, w2, w3, rule = c2_scenarios[q_idx % len(c2_scenarios)]
+    prompt, correct_text, w1, w2, w3, rule = c1_scenarios[q_idx % len(c1_scenarios)]
     distractors = [w1, w2, w3]
-    correct_exp = f"C2 chemical patent litigation & toxicological discourse: {rule}"
+    correct_exp = f"C1 chemical patent litigation & toxicological discourse: {rule}"
     distractor_exps = [
         f"Option '{w1}' violates formal mandative subjunctive or inversion rules.",
         f"Option '{w2}' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
@@ -250,8 +250,8 @@ def generate_tapi_chem_modules():
                     q = generate_b1_question(mod, q_idx)
                 elif lvl == "B2":
                     q = generate_b2_question(mod, q_idx)
-                else: # C2
-                    q = generate_c2_question(mod, q_idx)
+                else: # C1
+                    q = generate_c1_question(mod, q_idx)
                 questions.append(q)
 
             test_obj = build_test_module(

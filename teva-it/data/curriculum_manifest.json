@@ -600,9 +600,9 @@
     "description": "Upper-intermediate enterprise IT and cybersecurity module analyzing executive ciso briefing: external red team attack surface findings."
   },
   {
-    "test_id": "TEV-IT-C2-001",
+    "test_id": "TEV-IT-C1-001",
     "title": "Enterprise Zero Trust Breach Disclosure, Cloud SLA Litigation & Governance",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "grammar_focus": "Diplomatic Counter-Argumentation & Hedging",
@@ -610,9 +610,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining enterprise zero trust breach disclosure, cloud sla litigation & governance."
   },
   {
-    "test_id": "TEV-IT-C2-002",
+    "test_id": "TEV-IT-C1-002",
     "title": "Board-Level Cyber Catastrophe Inquest: Nation-State APT Intrusion",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "grammar_focus": "High-Register Cybersecurity Governance",
@@ -620,9 +620,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining board-level cyber catastrophe inquest: nation-state apt intrusion."
   },
   {
-    "test_id": "TEV-IT-C2-003",
+    "test_id": "TEV-IT-C1-003",
     "title": "Transatlantic Cloud Data Residency Litigation: EU-US Data Privacy Framework",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "grammar_focus": "Forensic Data Privacy Jurisprudence",
@@ -630,9 +630,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining transatlantic cloud data residency litigation: eu-us data privacy framework."
   },
   {
-    "test_id": "TEV-IT-C2-004",
+    "test_id": "TEV-IT-C1-004",
     "title": "Multi-Million Dollar Global Cloud Hyperscaler SLA Default Litigation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "grammar_focus": "Contractual Breach & Indemnification",
@@ -640,9 +640,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining multi-million dollar global cloud hyperscaler sla default litigation."
   },
   {
-    "test_id": "TEV-IT-C2-005",
+    "test_id": "TEV-IT-C1-005",
     "title": "Cyber Insurance Carrier Claim Repudiation Arbitration Under English Law",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "grammar_focus": "Arbitration Formulas & Exemption Clauses",
@@ -650,9 +650,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining cyber insurance carrier claim repudiation arbitration under english law."
   },
   {
-    "test_id": "TEV-IT-C2-006",
+    "test_id": "TEV-IT-C1-006",
     "title": "Enterprise Ransomware Extortion Inquest: Sanctions Compliance (OFAC)",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture",
     "grammar_focus": "Deontic Inversion & Sanctions Law",
@@ -660,9 +660,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining enterprise ransomware extortion inquest: sanctions compliance (ofac)."
   },
   {
-    "test_id": "TEV-IT-C2-007",
+    "test_id": "TEV-IT-C1-007",
     "title": "Critical Infrastructure Cybersecurity Directive (EU NIS2) Board Governance",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "grammar_focus": "Administrative Governance Syntax",
@@ -670,9 +670,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining critical infrastructure cybersecurity directive (eu nis2) board governance."
   },
   {
-    "test_id": "TEV-IT-C2-008",
+    "test_id": "TEV-IT-C1-008",
     "title": "Zero-Day Exploit Supply Chain Breach Inquest: Third-Party Vendor Liability",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture",
     "grammar_focus": "Epistemic Hedging in Liability Disputes",
@@ -680,9 +680,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining zero-day exploit supply chain breach inquest: third-party vendor liability."
   },
   {
-    "test_id": "TEV-IT-C2-009",
+    "test_id": "TEV-IT-C1-009",
     "title": "GAMP 5 Multi-Tenant Cloud SaaS Validation Audits in Pharmaceutical IT",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery",
     "grammar_focus": "Regulatory Administrative Law Syntax",
@@ -690,9 +690,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining gamp 5 multi-tenant cloud saas validation audits in pharmaceutical it."
   },
   {
-    "test_id": "TEV-IT-C2-010",
+    "test_id": "TEV-IT-C1-010",
     "title": "Forensic Expert Deposition: Insider Threat Data Exfiltration Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "grammar_focus": "Forensic Deposition & Cross-Examination",
@@ -700,9 +700,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining forensic expert deposition: insider threat data exfiltration inquest."
   },
   {
-    "test_id": "TEV-IT-C2-011",
+    "test_id": "TEV-IT-C1-011",
     "title": "Global Identity Federation Kerberos/OAuth Protocol Vulnerability Analysis",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)",
     "grammar_focus": "Participial Density & Cryptographic Jargon",
@@ -710,9 +710,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining global identity federation kerberos/oauth protocol vulnerability analysis."
   },
   {
-    "test_id": "TEV-IT-C2-012",
+    "test_id": "TEV-IT-C1-012",
     "title": "Dark Web Credential Spill Forensic Response: Corporate Reputational Defense",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture",
     "grammar_focus": "Executive Strategic Defense Phrasing",
@@ -720,9 +720,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining dark web credential spill forensic response: corporate reputational defense."
   },
   {
-    "test_id": "TEV-IT-C2-013",
+    "test_id": "TEV-IT-C1-013",
     "title": "Enterprise AI Large Language Model Data Leakage & Confidentiality Breach",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture",
     "grammar_focus": "Techno-Legal Stance & Intellectual Property",
@@ -730,9 +730,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining enterprise ai large language model data leakage & confidentiality breach."
   },
   {
-    "test_id": "TEV-IT-C2-014",
+    "test_id": "TEV-IT-C1-014",
     "title": "Submarine Fiber Optic Cable Severance: International Cloud Force Majeure",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)",
     "grammar_focus": "Maritime International Law & Force Majeure",
@@ -740,9 +740,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining submarine fiber optic cable severance: international cloud force majeure."
   },
   {
-    "test_id": "TEV-IT-C2-015",
+    "test_id": "TEV-IT-C1-015",
     "title": "Class Action Shareholder Litigation Post-Cybersecurity Breach Disclosure",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "grammar_focus": "Corporate Securities Litigation Discourse",
@@ -750,9 +750,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining class action shareholder litigation post-cybersecurity breach disclosure."
   },
   {
-    "test_id": "TEV-IT-C2-016",
+    "test_id": "TEV-IT-C1-016",
     "title": "Post-Quantum Cryptography Migration Strategy Before Executive Committee",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture",
     "grammar_focus": "High-Register Executive Persuasion Syntax",
@@ -760,9 +760,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining post-quantum cryptography migration strategy before executive committee."
   },
   {
-    "test_id": "TEV-IT-C2-017",
+    "test_id": "TEV-IT-C1-017",
     "title": "Global Data Center Catastrophic Power Failure Emergency Arbitration",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)",
     "grammar_focus": "Commercial Arbitration Formulas",
@@ -770,9 +770,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining global data center catastrophic power failure emergency arbitration."
   },
   {
-    "test_id": "TEV-IT-C2-018",
+    "test_id": "TEV-IT-C1-018",
     "title": "Software Bill of Materials (SBOM) Open-Source License Invalidation Claims",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture",
     "grammar_focus": "Intellectual Property Claim Construction",
@@ -780,9 +780,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining software bill of materials (sbom) open-source license invalidation claims."
   },
   {
-    "test_id": "TEV-IT-C2-019",
+    "test_id": "TEV-IT-C1-019",
     "title": "Regulatory Fine Defense: GDPR Article 32 Technical Measures Violation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "grammar_focus": "Administrative Regulatory Penal Defense",
@@ -790,9 +790,9 @@
     "description": "Mastery-tier global IT leadership and cybersecurity governance module examining regulatory fine defense: gdpr article 32 technical measures violation."
   },
   {
-    "test_id": "TEV-IT-C2-020",
+    "test_id": "TEV-IT-C1-020",
     "title": "CISO Keynote Defense: Enterprise Digital Sovereignty in Hostile Geopolitics",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "grammar_focus": "High-Register Geopolitical Rhetoric",

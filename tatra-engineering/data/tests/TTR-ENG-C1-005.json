@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-C1-005",
+  "title": "Hydrogen Embrittlement in High-Tensile Axle Flange Fasteners",
+  "level": "C1",
+  "category": "core",
+  "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
+  "estimated_time_minutes": 20,
+  "description": "Advanced-tier forensic and executive engineering module examining hydrogen embrittlement in high-tensile axle flange fasteners.",
+  "learning_objectives": [
+    "Master professional High-Register Scientific Discourse in automotive engineering",
+    "Eliminate common Czech interference errors in hydrogen embrittlement in high-tensile axle flange fasteners",
+    "Demonstrate precision in technical and regulatory documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-C1-005-Q1",
+      "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
+      "options": [
+        {
+          "key": "A",
+          "text": "furnishes"
+        },
+        {
+          "key": "B",
+          "text": "furnish"
+        },
+        {
+          "key": "C",
+          "text": "shall furnish"
+        },
+        {
+          "key": "D",
+          "text": "must to furnish"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+        "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
+        "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
+        "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
+      },
+      "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-C1-005-Q2",
+      "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
+      "options": [
+        {
+          "key": "A",
+          "text": "undergoes"
+        },
+        {
+          "key": "B",
+          "text": "will undergo"
+        },
+        {
+          "key": "C",
+          "text": "undergo"
+        },
+        {
+          "key": "D",
+          "text": "must undergoes"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+        "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
+        "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
+        "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
+      },
+      "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-C1-005-Q3",
+      "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have our metallurgists"
+        },
+        {
+          "key": "B",
+          "text": "our metallurgists have"
+        },
+        {
+          "key": "C",
+          "text": "did our metallurgists had"
+        },
+        {
+          "key": "D",
+          "text": "had our metallurgists have"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+        "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
+        "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
+        "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
+      },
+      "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-C1-005-Q4",
+      "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is not assessed"
+        },
+        {
+          "key": "B",
+          "text": "will not be assessed"
+        },
+        {
+          "key": "C",
+          "text": "should not to be assessed"
+        },
+        {
+          "key": "D",
+          "text": "not be assessed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+        "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
+        "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
+      },
+      "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-C1-005-Q5",
+      "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Had"
+        },
+        {
+          "key": "B",
+          "text": "Should"
+        },
+        {
+          "key": "C",
+          "text": "Were"
+        },
+        {
+          "key": "D",
+          "text": "If were"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+        "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
+        "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
+        "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
+      },
+      "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-C1-005-Q6",
+      "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the supplier's cabin did"
+        },
+        {
+          "key": "B",
+          "text": "did the supplier's cabin"
+        },
+        {
+          "key": "C",
+          "text": "was the supplier's cabin"
+        },
+        {
+          "key": "D",
+          "text": "has the supplier's cabin"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+        "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
+        "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
+        "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
+      },
+      "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-C1-005-Q7",
+      "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
+      "options": [
+        {
+          "key": "A",
+          "text": "could be"
+        },
+        {
+          "key": "B",
+          "text": "had been"
+        },
+        {
+          "key": "C",
+          "text": "would be able to be"
+        },
+        {
+          "key": "D",
+          "text": "could have been"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+        "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
+        "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
+      },
+      "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-C1-005-Q8",
+      "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
+      "options": [
+        {
+          "key": "A",
+          "text": "remain"
+        },
+        {
+          "key": "B",
+          "text": "remains"
+        },
+        {
+          "key": "C",
+          "text": "will remain"
+        },
+        {
+          "key": "D",
+          "text": "are remaining"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+        "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
+        "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
+        "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
+      },
+      "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-C1-005-Q9",
+      "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the tribunal is to permit"
+        },
+        {
+          "key": "B",
+          "text": "will the tribunal permits"
+        },
+        {
+          "key": "C",
+          "text": "is the tribunal to permit"
+        },
+        {
+          "key": "D",
+          "text": "the tribunal permits"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+        "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
+        "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
+        "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
+      },
+      "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-C1-005-Q10",
+      "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are dispatched"
+        },
+        {
+          "key": "B",
+          "text": "be dispatched"
+        },
+        {
+          "key": "C",
+          "text": "will be dispatched"
+        },
+        {
+          "key": "D",
+          "text": "must to be dispatched"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+        "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
+        "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
+        "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
+      },
+      "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    }
+  ]
+}

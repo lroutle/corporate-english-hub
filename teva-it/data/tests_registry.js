@@ -19561,85 +19561,116 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-001": {
-    "test_id": "TEV-IT-C2-001",
+  "TEV-IT-C1-001": {
+    "test_id": "TEV-IT-C1-001",
     "title": "Enterprise Zero Trust Breach Disclosure, Cloud SLA Litigation & Governance",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "estimated_time_minutes": 20,
-    "description": "Chief Information Security Officer (CISO) and lead architect communications: managing board-level cybersecurity crisis disclosures, litigating hyperscale cloud provider SLA failures, and framing GDPR/NIS2 breach timelines with forensic precision.",
+    "description": "Mastery-tier global IT leadership and cybersecurity governance module examining enterprise zero trust breach disclosure, cloud sla litigation & governance.",
     "learning_objectives": [
-      "Master high-stakes cybersecurity crisis communication and forensic hedging",
-      "Formulate board-level executive risk disclosures under GDPR and NIS2 directives",
-      "Utilize negative inversion and subjunctive mandates in global cloud SLA dispute litigation"
+      "Master professional Diplomatic Counter-Argumentation & Hedging in enterprise IT infrastructure and cloud operations",
+      "Eliminate common Czech interference errors in enterprise zero trust breach disclosure, cloud sla litigation & governance",
+      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-001-Q1",
-        "prompt": "Under no circumstances _____ enterprise privileged access management (PAM) tokens be stored in unencrypted repository configuration files.",
+        "id": "TEV-IT-C1-001-Q1",
+        "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
             "key": "A",
-            "text": "developers will allow"
+            "text": "suspends"
           },
           {
             "key": "B",
-            "text": "may developers allow"
+            "text": "suspend"
           },
           {
             "key": "C",
-            "text": "developers must"
+            "text": "shall suspend"
           },
           {
             "key": "D",
-            "text": "are developers to"
+            "text": "must to suspend"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Fronted negative restrictive phrase 'Under no circumstances' requires subject-auxiliary inversion ('may developers allow').",
-          "wrong_A": "Lacks required inversion after fronted negative phrase.",
-          "wrong_C": "Direct word order violates the formal inversion rule.",
-          "wrong_D": "'Are developers to' creates invalid syntax with the sentence structure."
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
+          "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
+          "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
         },
-        "cz_learning_point": "Czech 'Za žádných okolností nesmí vývojáři ukládat...'. In enterprise cybersecurity policies and audit findings, use fronted inversion: 'Under no circumstances may developers allow...'.",
-        "workplace_track": "Enterprise Cybersecurity, Threat Hunting & Zero Trust"
+        "cz_learning_point": "Executive cyber governance and cloud contract litigation demand absolute mastery of mandative subjunctive ('mandated that it suspend') and inversion ('Seldom have tribunals awarded').",
+        "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-001-Q2",
-        "prompt": "The preliminary SIEM packet capture data _____ that the unauthorized data exfiltration occurred via compromised API credentials rather than an internal insider threat.",
+        "id": "TEV-IT-C1-001-Q2",
+        "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
             "key": "A",
-            "text": "unequivocally proves beyond any argument whatsoever"
+            "text": "are"
           },
           {
             "key": "B",
-            "text": "is definitely yelling proof"
+            "text": "were"
           },
           {
             "key": "C",
-            "text": "would seem to indicate"
+            "text": "have"
           },
           {
             "key": "D",
-            "text": "is undeniably bound to reveal"
+            "text": "did"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "In board-level breach disclosures and legal regulatory filings, forensic hedging ('would seem to indicate') prevents making premature assertions before digital forensics completes memory dump analysis.",
-          "wrong_A": "Unprofessionally absolute and premature for ongoing cyber incident forensics.",
-          "wrong_B": "Colloquial and completely unacceptable in executive communications.",
-          "wrong_D": "Aggressive, unverified register."
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
+          "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
+          "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
         },
-        "cz_learning_point": "Czech 'by se zdálo nasvědčovat tomu, že...'. In cybersecurity forensics and GDPR breach notices, use prudent hedging: 'would seem to indicate'.",
-        "workplace_track": "Cybersecurity Crisis Communication, Cloud SLA Litigation & Global Compliance"
+        "cz_learning_point": "Executive cyber governance and cloud contract litigation demand absolute mastery of mandative subjunctive ('mandated that it suspend') and inversion ('Seldom have tribunals awarded').",
+        "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-001-Q3",
-        "prompt": "_____ the Kubernetes orchestration cluster maintained geo-redundant automated state reconciliation, the multi-region cloud outage would not have disrupted SAP ERP batch transactions.",
+        "id": "TEV-IT-C1-001-Q3",
+        "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
+        "options": [
+          {
+            "key": "A",
+            "text": "retain"
+          },
+          {
+            "key": "B",
+            "text": "retains"
+          },
+          {
+            "key": "C",
+            "text": "will retain"
+          },
+          {
+            "key": "D",
+            "text": "must to retain"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
+          "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
+          "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
+        },
+        "cz_learning_point": "Executive cyber governance and cloud contract litigation demand absolute mastery of mandative subjunctive ('mandated that it suspend') and inversion ('Seldom have tribunals awarded').",
+        "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
+      },
+      {
+        "id": "TEV-IT-C1-001-Q4",
+        "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
             "key": "A",
@@ -19647,65 +19678,65 @@ Object.assign(window.TEST_REGISTRY, {
           },
           {
             "key": "B",
-            "text": "If"
+            "text": "Should"
           },
           {
             "key": "C",
-            "text": "Were"
+            "text": "If were"
           },
           {
             "key": "D",
-            "text": "Should"
+            "text": "Were"
           }
         ],
-        "correct_key": "A",
+        "correct_key": "D",
         "explanations": {
-          "correct": "Inverted third conditional ('Had the cluster maintained...') denotes a past counterfactual architectural condition without using 'if'.",
-          "wrong_B": "'If' would require uninverted syntax ('If the cluster had maintained...').",
-          "wrong_C": "'Were' pairs with present/future hypothetical conditions, not completed past outages.",
-          "wrong_D": "'Should' expresses future potential contingencies."
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
+          "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
+          "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
         },
-        "cz_learning_point": "Czech 'Kdyby cluster udržoval geo-redundanci...'. In executive cloud infrastructure post-mortems, invert 'had': 'Had the cluster maintained...'.",
-        "workplace_track": "Cloud Architecture & Hybrid Infrastructure (AWS & Azure)"
+        "cz_learning_point": "Executive cyber governance and cloud contract litigation demand absolute mastery of mandative subjunctive ('mandated that it suspend') and inversion ('Seldom have tribunals awarded').",
+        "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-001-Q4",
-        "prompt": "The Global Chief Information Security Officer (CISO) mandated that the enterprise identity provider _____ immediate multi-factor re-authentication across all European tenant domains.",
+        "id": "TEV-IT-C1-001-Q5",
+        "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
             "key": "A",
-            "text": "enforce"
+            "text": "the third-party vendor did"
           },
           {
             "key": "B",
-            "text": "enforces"
+            "text": "was the third-party vendor"
           },
           {
             "key": "C",
-            "text": "shall enforce"
+            "text": "did the third-party vendor"
           },
           {
             "key": "D",
-            "text": "is enforcing"
+            "text": "has the third-party vendor"
           }
         ],
-        "correct_key": "A",
+        "correct_key": "C",
         "explanations": {
-          "correct": "Mandative subjunctive after 'mandated that' requires the uninflected base verb 'enforce'.",
-          "wrong_B": "Third person singular 'enforces' violates the mandative subjunctive mood required in formal security directives.",
-          "wrong_C": "'Shall enforce' is used in contracts, but standard high-register executive English uses the bare subjunctive following 'mandated that'.",
-          "wrong_D": "Continuous aspect is incorrect in formal administrative directives."
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
+          "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
+          "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
         },
-        "cz_learning_point": "Czech 'CISO nařídil, aby poskytovatel identity vynutil...'. Mandative subjunctive: 'mandated that the provider enforce...'.",
-        "workplace_track": "Enterprise Cybersecurity, Threat Hunting & Zero Trust"
+        "cz_learning_point": "Executive cyber governance and cloud contract litigation demand absolute mastery of mandative subjunctive ('mandated that it suspend') and inversion ('Seldom have tribunals awarded').",
+        "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-001-Q5",
-        "prompt": "Seldom _____ a Tier-IV public cloud hyperscaler suffer simultaneous availability zone power failures resulting in catastrophic database quorum loss.",
+        "id": "TEV-IT-C1-001-Q6",
+        "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
             "key": "A",
-            "text": "a cloud provider does"
+            "text": "are"
           },
           {
             "key": "B",
@@ -19713,154 +19744,92 @@ Object.assign(window.TEST_REGISTRY, {
           },
           {
             "key": "C",
-            "text": "does"
+            "text": "will"
           },
           {
             "key": "D",
             "text": "has"
           }
         ],
-        "correct_key": "C",
-        "explanations": {
-          "correct": "Fronted restrictive frequency adverb 'Seldom' followed by singular subject 'a hyperscaler' and base verb 'suffer' requires dummy auxiliary inversion 'does' ('Seldom does a cloud hyperscaler suffer...').",
-          "wrong_A": "Lacks required inversion after fronted restrictive adverb.",
-          "wrong_B": "'Is' cannot invert with base action verb 'suffer'.",
-          "wrong_D": "'Has' would require past participle 'suffered'."
-        },
-        "cz_learning_point": "Czech 'Málokdy se stane, že by poskytovatel cloudu utrpěl...'. Fronted 'Seldom' forces inversion: 'Seldom does a hyperscaler suffer...'.",
-        "workplace_track": "Cloud Architecture & Hybrid Infrastructure (AWS & Azure)"
-      },
-      {
-        "id": "TEV-IT-C2-001-Q6",
-        "prompt": "All cloud service level agreement (SLA) breach notices must be filed within 72 hours of incident resolution, _____ the enterprise forfeit its legal right to financial service credits.",
-        "options": [
-          {
-            "key": "A",
-            "text": "in order that"
-          },
-          {
-            "key": "B",
-            "text": "lest"
-          },
-          {
-            "key": "C",
-            "text": "unless that"
-          },
-          {
-            "key": "D",
-            "text": "otherwise that"
-          }
-        ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Formal conjunction 'lest' ('for fear that') introduces a severe financial/legal forfeiture and takes the subjunctive verb 'forfeit'.",
-          "wrong_A": "'In order that' indicates purpose, which reverses the intended prohibitive meaning.",
-          "wrong_C": "'Unless that' is ungrammatical in standard English.",
-          "wrong_D": "'Otherwise that' is a literal Czenglish transfer error (*jinak aby ne*)."
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
+          "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
+          "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
         },
-        "cz_learning_point": "Czech 'aby společnost neztratila své právní právo na slevu...'. Formal commercial contract English uses 'lest [subject] [subjunctive verb]': 'lest the enterprise forfeit...'.",
-        "workplace_track": "Cybersecurity Crisis Communication, Cloud SLA Litigation & Global Compliance"
+        "cz_learning_point": "Executive cyber governance and cloud contract litigation demand absolute mastery of mandative subjunctive ('mandated that it suspend') and inversion ('Seldom have tribunals awarded').",
+        "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-001-Q7",
-        "prompt": "No sooner had the Red Team penetrated the peripheral VPN gateway _____ the automated Zero Trust endpoint containment policy severed the compromised session.",
+        "id": "TEV-IT-C1-001-Q7",
+        "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
             "key": "A",
-            "text": "when"
+            "text": "are"
           },
           {
             "key": "B",
-            "text": "that"
+            "text": "were"
           },
           {
             "key": "C",
-            "text": "as"
+            "text": "will be"
           },
           {
             "key": "D",
-            "text": "than"
+            "text": "be"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "'No sooner had [action]... than [second action]' is the strictly required correlative pair in high-level English.",
-          "wrong_A": "'When' pairs with 'Scarcely' or 'Hardly', not 'No sooner'.",
-          "wrong_B": "'That' cannot introduce the temporal correlative clause.",
-          "wrong_C": "'As' is colloquial and grammatically invalid here."
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
+          "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
+          "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
         },
-        "cz_learning_point": "Czech 'Sotva útočník pronikl... než systém okamžitě odpojil relaci'. Always pair 'No sooner had...' with 'THAN'.",
-        "workplace_track": "Enterprise Cybersecurity, Threat Hunting & Zero Trust"
+        "cz_learning_point": "Executive cyber governance and cloud contract litigation demand absolute mastery of mandative subjunctive ('mandated that it suspend') and inversion ('Seldom have tribunals awarded').",
+        "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-001-Q8",
-        "prompt": "_____ an unauthorized data breach impact EU citizen personal identifiable information (PII), the Data Protection Officer must notify the supervisory authority within 72 hours under GDPR Article 33.",
+        "id": "TEV-IT-C1-001-Q8",
+        "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
             "key": "A",
-            "text": "Should"
+            "text": "would have paralyzed"
           },
           {
             "key": "B",
-            "text": "Were"
+            "text": "would paralyze"
           },
           {
             "key": "C",
-            "text": "Had"
+            "text": "had paralyzed"
           },
           {
             "key": "D",
-            "text": "If so"
+            "text": "will paralyze"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Inverted first conditional ('Should an unauthorized breach impact...') denotes formal regulatory compliance protocol phrasing for future eventualities.",
-          "wrong_B": "'Were' would require 'to impact', not bare infinitive 'impact'.",
-          "wrong_C": "'Had' pairs with past counterfactual events, not future compliance notification procedures.",
-          "wrong_D": "'If so' cannot act as a subordinate conditional clause conjunction."
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
+          "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
+          "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
         },
-        "cz_learning_point": "Czech 'Pokud by neoprávněný únik zasáhl...'. In formal compliance protocols, use 'Should a data breach impact...'.",
-        "workplace_track": "Cybersecurity Crisis Communication, Cloud SLA Litigation & Global Compliance"
+        "cz_learning_point": "Executive cyber governance and cloud contract litigation demand absolute mastery of mandative subjunctive ('mandated that it suspend') and inversion ('Seldom have tribunals awarded').",
+        "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-001-Q9",
-        "prompt": "The latency degradation experienced by remote users cannot _____ solely to domestic ISP peering bottlenecks without auditing enterprise egress proxy logs.",
+        "id": "TEV-IT-C1-001-Q9",
+        "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
             "key": "A",
-            "text": "unquestionably blame"
-          },
-          {
-            "key": "B",
-            "text": "blame itself"
-          },
-          {
-            "key": "C",
-            "text": "plausibly be attributed"
-          },
-          {
-            "key": "D",
-            "text": "be having blamed"
-          }
-        ],
-        "correct_key": "C",
-        "explanations": {
-          "correct": "Passive modal construction with technical hedging ('cannot plausibly be attributed to...') accurately qualifies root cause analysis in complex distributed IT enterprise networks.",
-          "wrong_A": "Active voice 'blame' cannot take the inanimate latency degradation as its subject.",
-          "wrong_B": "'Blame itself' is a literal Czech reflexive error (*přičítat se*).",
-          "wrong_D": "Ungrammatical progressive passive construction."
-        },
-        "cz_learning_point": "Czech 'zhoršení odezvy nelze věrohodně přičítat pouze...'. Do not translate reflexively (*blame itself*). Use passive modal 'cannot plausibly be attributed to...'.",
-        "workplace_track": "Cloud Architecture & Hybrid Infrastructure (AWS & Azure)"
-      },
-      {
-        "id": "TEV-IT-C2-001-Q10",
-        "prompt": "Not for one second _____ the enterprise incident response team consider paying a ransomware extortion demand in cryptocurrency.",
-        "options": [
-          {
-            "key": "A",
-            "text": "is"
+            "text": "was"
           },
           {
             "key": "B",
@@ -19868,29 +19837,60 @@ Object.assign(window.TEST_REGISTRY, {
           },
           {
             "key": "C",
-            "text": "has"
+            "text": "had"
           },
           {
             "key": "D",
-            "text": "would"
+            "text": "has"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
+          "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
+          "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
+        },
+        "cz_learning_point": "Executive cyber governance and cloud contract litigation demand absolute mastery of mandative subjunctive ('mandated that it suspend') and inversion ('Seldom have tribunals awarded').",
+        "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
+      },
+      {
+        "id": "TEV-IT-C1-001-Q10",
+        "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
+        "options": [
+          {
+            "key": "A",
+            "text": "remains"
+          },
+          {
+            "key": "B",
+            "text": "remain"
+          },
+          {
+            "key": "C",
+            "text": "will remain"
+          },
+          {
+            "key": "D",
+            "text": "shall to remain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Fronted negative phrase 'Not for one second' with past action verb 'consider' requires past auxiliary inversion 'did' ('Not for one second did the team consider...').",
-          "wrong_A": "'Is' cannot invert with past lexical verb 'consider'.",
-          "wrong_C": "'Has' would require past participle 'considered'.",
-          "wrong_D": "'Would' suggests hypothetical willingness rather than an emphatic historical fact."
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
+          "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
+          "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
         },
-        "cz_learning_point": "Czech 'Ani na vteřinu tým neuvažoval o zaplacení...'. Inverted negative construction: 'Not for one second did the team consider...'.",
-        "workplace_track": "Enterprise Cybersecurity, Threat Hunting & Zero Trust"
+        "cz_learning_point": "Executive cyber governance and cloud contract litigation demand absolute mastery of mandative subjunctive ('mandated that it suspend') and inversion ('Seldom have tribunals awarded').",
+        "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       }
     ]
   },
-  "TEV-IT-C2-002": {
-    "test_id": "TEV-IT-C2-002",
+  "TEV-IT-C1-002": {
+    "test_id": "TEV-IT-C1-002",
     "title": "Board-Level Cyber Catastrophe Inquest: Nation-State APT Intrusion",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "estimated_time_minutes": 20,
@@ -19902,7 +19902,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-002-Q1",
+        "id": "TEV-IT-C1-002-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -19924,7 +19924,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -19933,7 +19933,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-002-Q2",
+        "id": "TEV-IT-C1-002-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -19955,7 +19955,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -19964,7 +19964,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-002-Q3",
+        "id": "TEV-IT-C1-002-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -19986,7 +19986,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -19995,7 +19995,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-002-Q4",
+        "id": "TEV-IT-C1-002-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -20017,7 +20017,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -20026,7 +20026,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-002-Q5",
+        "id": "TEV-IT-C1-002-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -20048,7 +20048,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -20057,7 +20057,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-002-Q6",
+        "id": "TEV-IT-C1-002-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -20079,7 +20079,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -20088,7 +20088,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-002-Q7",
+        "id": "TEV-IT-C1-002-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -20110,7 +20110,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -20119,7 +20119,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-002-Q8",
+        "id": "TEV-IT-C1-002-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -20141,7 +20141,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -20150,7 +20150,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-002-Q9",
+        "id": "TEV-IT-C1-002-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -20172,7 +20172,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -20181,7 +20181,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-002-Q10",
+        "id": "TEV-IT-C1-002-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -20203,7 +20203,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -20213,10 +20213,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-003": {
-    "test_id": "TEV-IT-C2-003",
+  "TEV-IT-C1-003": {
+    "test_id": "TEV-IT-C1-003",
     "title": "Transatlantic Cloud Data Residency Litigation: EU-US Data Privacy Framework",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "estimated_time_minutes": 20,
@@ -20228,7 +20228,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-003-Q1",
+        "id": "TEV-IT-C1-003-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -20250,7 +20250,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -20259,7 +20259,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-003-Q2",
+        "id": "TEV-IT-C1-003-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -20281,7 +20281,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -20290,7 +20290,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-003-Q3",
+        "id": "TEV-IT-C1-003-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -20312,7 +20312,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -20321,7 +20321,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-003-Q4",
+        "id": "TEV-IT-C1-003-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -20343,7 +20343,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -20352,7 +20352,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-003-Q5",
+        "id": "TEV-IT-C1-003-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -20374,7 +20374,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -20383,7 +20383,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-003-Q6",
+        "id": "TEV-IT-C1-003-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -20405,7 +20405,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -20414,7 +20414,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-003-Q7",
+        "id": "TEV-IT-C1-003-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -20436,7 +20436,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -20445,7 +20445,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-003-Q8",
+        "id": "TEV-IT-C1-003-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -20467,7 +20467,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -20476,7 +20476,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-003-Q9",
+        "id": "TEV-IT-C1-003-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -20498,7 +20498,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -20507,7 +20507,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-003-Q10",
+        "id": "TEV-IT-C1-003-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -20529,7 +20529,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -20539,10 +20539,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-004": {
-    "test_id": "TEV-IT-C2-004",
+  "TEV-IT-C1-004": {
+    "test_id": "TEV-IT-C1-004",
     "title": "Multi-Million Dollar Global Cloud Hyperscaler SLA Default Litigation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "estimated_time_minutes": 20,
@@ -20554,7 +20554,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-004-Q1",
+        "id": "TEV-IT-C1-004-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -20576,7 +20576,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -20585,7 +20585,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-004-Q2",
+        "id": "TEV-IT-C1-004-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -20607,7 +20607,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -20616,7 +20616,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-004-Q3",
+        "id": "TEV-IT-C1-004-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -20638,7 +20638,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -20647,7 +20647,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-004-Q4",
+        "id": "TEV-IT-C1-004-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -20669,7 +20669,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -20678,7 +20678,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-004-Q5",
+        "id": "TEV-IT-C1-004-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -20700,7 +20700,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -20709,7 +20709,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-004-Q6",
+        "id": "TEV-IT-C1-004-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -20731,7 +20731,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -20740,7 +20740,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-004-Q7",
+        "id": "TEV-IT-C1-004-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -20762,7 +20762,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -20771,7 +20771,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-004-Q8",
+        "id": "TEV-IT-C1-004-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -20793,7 +20793,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -20802,7 +20802,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-004-Q9",
+        "id": "TEV-IT-C1-004-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -20824,7 +20824,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -20833,7 +20833,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-004-Q10",
+        "id": "TEV-IT-C1-004-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -20855,7 +20855,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -20865,10 +20865,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-005": {
-    "test_id": "TEV-IT-C2-005",
+  "TEV-IT-C1-005": {
+    "test_id": "TEV-IT-C1-005",
     "title": "Cyber Insurance Carrier Claim Repudiation Arbitration Under English Law",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "estimated_time_minutes": 20,
@@ -20880,7 +20880,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-005-Q1",
+        "id": "TEV-IT-C1-005-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -20902,7 +20902,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -20911,7 +20911,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-005-Q2",
+        "id": "TEV-IT-C1-005-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -20933,7 +20933,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -20942,7 +20942,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-005-Q3",
+        "id": "TEV-IT-C1-005-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -20964,7 +20964,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -20973,7 +20973,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-005-Q4",
+        "id": "TEV-IT-C1-005-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -20995,7 +20995,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -21004,7 +21004,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-005-Q5",
+        "id": "TEV-IT-C1-005-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -21026,7 +21026,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -21035,7 +21035,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-005-Q6",
+        "id": "TEV-IT-C1-005-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -21057,7 +21057,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -21066,7 +21066,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-005-Q7",
+        "id": "TEV-IT-C1-005-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -21088,7 +21088,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -21097,7 +21097,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-005-Q8",
+        "id": "TEV-IT-C1-005-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -21119,7 +21119,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -21128,7 +21128,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-005-Q9",
+        "id": "TEV-IT-C1-005-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -21150,7 +21150,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -21159,7 +21159,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-005-Q10",
+        "id": "TEV-IT-C1-005-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -21181,7 +21181,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -21191,10 +21191,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-006": {
-    "test_id": "TEV-IT-C2-006",
+  "TEV-IT-C1-006": {
+    "test_id": "TEV-IT-C1-006",
     "title": "Enterprise Ransomware Extortion Inquest: Sanctions Compliance (OFAC)",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture",
     "estimated_time_minutes": 20,
@@ -21206,7 +21206,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-006-Q1",
+        "id": "TEV-IT-C1-006-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -21228,7 +21228,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -21237,7 +21237,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-006-Q2",
+        "id": "TEV-IT-C1-006-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -21259,7 +21259,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -21268,7 +21268,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-006-Q3",
+        "id": "TEV-IT-C1-006-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -21290,7 +21290,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -21299,7 +21299,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-006-Q4",
+        "id": "TEV-IT-C1-006-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -21321,7 +21321,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -21330,7 +21330,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-006-Q5",
+        "id": "TEV-IT-C1-006-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -21352,7 +21352,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -21361,7 +21361,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-006-Q6",
+        "id": "TEV-IT-C1-006-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -21383,7 +21383,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -21392,7 +21392,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-006-Q7",
+        "id": "TEV-IT-C1-006-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -21414,7 +21414,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -21423,7 +21423,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-006-Q8",
+        "id": "TEV-IT-C1-006-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -21445,7 +21445,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -21454,7 +21454,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-006-Q9",
+        "id": "TEV-IT-C1-006-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -21476,7 +21476,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -21485,7 +21485,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-006-Q10",
+        "id": "TEV-IT-C1-006-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -21507,7 +21507,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -21517,10 +21517,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-007": {
-    "test_id": "TEV-IT-C2-007",
+  "TEV-IT-C1-007": {
+    "test_id": "TEV-IT-C1-007",
     "title": "Critical Infrastructure Cybersecurity Directive (EU NIS2) Board Governance",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "estimated_time_minutes": 20,
@@ -21532,7 +21532,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-007-Q1",
+        "id": "TEV-IT-C1-007-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -21554,7 +21554,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -21563,7 +21563,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-007-Q2",
+        "id": "TEV-IT-C1-007-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -21585,7 +21585,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -21594,7 +21594,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-007-Q3",
+        "id": "TEV-IT-C1-007-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -21616,7 +21616,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -21625,7 +21625,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-007-Q4",
+        "id": "TEV-IT-C1-007-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -21647,7 +21647,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -21656,7 +21656,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-007-Q5",
+        "id": "TEV-IT-C1-007-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -21678,7 +21678,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -21687,7 +21687,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-007-Q6",
+        "id": "TEV-IT-C1-007-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -21709,7 +21709,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -21718,7 +21718,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-007-Q7",
+        "id": "TEV-IT-C1-007-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -21740,7 +21740,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -21749,7 +21749,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-007-Q8",
+        "id": "TEV-IT-C1-007-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -21771,7 +21771,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -21780,7 +21780,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-007-Q9",
+        "id": "TEV-IT-C1-007-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -21802,7 +21802,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -21811,7 +21811,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-007-Q10",
+        "id": "TEV-IT-C1-007-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -21833,7 +21833,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -21843,10 +21843,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-008": {
-    "test_id": "TEV-IT-C2-008",
+  "TEV-IT-C1-008": {
+    "test_id": "TEV-IT-C1-008",
     "title": "Zero-Day Exploit Supply Chain Breach Inquest: Third-Party Vendor Liability",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture",
     "estimated_time_minutes": 20,
@@ -21858,7 +21858,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-008-Q1",
+        "id": "TEV-IT-C1-008-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -21880,7 +21880,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -21889,7 +21889,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-008-Q2",
+        "id": "TEV-IT-C1-008-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -21911,7 +21911,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -21920,7 +21920,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-008-Q3",
+        "id": "TEV-IT-C1-008-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -21942,7 +21942,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -21951,7 +21951,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-008-Q4",
+        "id": "TEV-IT-C1-008-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -21973,7 +21973,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -21982,7 +21982,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-008-Q5",
+        "id": "TEV-IT-C1-008-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -22004,7 +22004,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -22013,7 +22013,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-008-Q6",
+        "id": "TEV-IT-C1-008-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -22035,7 +22035,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -22044,7 +22044,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-008-Q7",
+        "id": "TEV-IT-C1-008-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -22066,7 +22066,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -22075,7 +22075,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-008-Q8",
+        "id": "TEV-IT-C1-008-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -22097,7 +22097,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -22106,7 +22106,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-008-Q9",
+        "id": "TEV-IT-C1-008-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -22128,7 +22128,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -22137,7 +22137,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-008-Q10",
+        "id": "TEV-IT-C1-008-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -22159,7 +22159,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -22169,10 +22169,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-009": {
-    "test_id": "TEV-IT-C2-009",
+  "TEV-IT-C1-009": {
+    "test_id": "TEV-IT-C1-009",
     "title": "GAMP 5 Multi-Tenant Cloud SaaS Validation Audits in Pharmaceutical IT",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery",
     "estimated_time_minutes": 20,
@@ -22184,7 +22184,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-009-Q1",
+        "id": "TEV-IT-C1-009-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -22206,7 +22206,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -22215,7 +22215,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
-        "id": "TEV-IT-C2-009-Q2",
+        "id": "TEV-IT-C1-009-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -22237,7 +22237,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -22246,7 +22246,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
-        "id": "TEV-IT-C2-009-Q3",
+        "id": "TEV-IT-C1-009-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -22268,7 +22268,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -22277,7 +22277,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
-        "id": "TEV-IT-C2-009-Q4",
+        "id": "TEV-IT-C1-009-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -22299,7 +22299,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -22308,7 +22308,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
-        "id": "TEV-IT-C2-009-Q5",
+        "id": "TEV-IT-C1-009-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -22330,7 +22330,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -22339,7 +22339,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
-        "id": "TEV-IT-C2-009-Q6",
+        "id": "TEV-IT-C1-009-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -22361,7 +22361,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -22370,7 +22370,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
-        "id": "TEV-IT-C2-009-Q7",
+        "id": "TEV-IT-C1-009-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -22392,7 +22392,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -22401,7 +22401,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
-        "id": "TEV-IT-C2-009-Q8",
+        "id": "TEV-IT-C1-009-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -22423,7 +22423,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -22432,7 +22432,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
-        "id": "TEV-IT-C2-009-Q9",
+        "id": "TEV-IT-C1-009-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -22454,7 +22454,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -22463,7 +22463,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
-        "id": "TEV-IT-C2-009-Q10",
+        "id": "TEV-IT-C1-009-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -22485,7 +22485,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -22495,10 +22495,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-010": {
-    "test_id": "TEV-IT-C2-010",
+  "TEV-IT-C1-010": {
+    "test_id": "TEV-IT-C1-010",
     "title": "Forensic Expert Deposition: Insider Threat Data Exfiltration Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "estimated_time_minutes": 20,
@@ -22510,7 +22510,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-010-Q1",
+        "id": "TEV-IT-C1-010-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -22532,7 +22532,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -22541,7 +22541,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-010-Q2",
+        "id": "TEV-IT-C1-010-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -22563,7 +22563,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -22572,7 +22572,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-010-Q3",
+        "id": "TEV-IT-C1-010-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -22594,7 +22594,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -22603,7 +22603,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-010-Q4",
+        "id": "TEV-IT-C1-010-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -22625,7 +22625,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -22634,7 +22634,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-010-Q5",
+        "id": "TEV-IT-C1-010-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -22656,7 +22656,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -22665,7 +22665,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-010-Q6",
+        "id": "TEV-IT-C1-010-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -22687,7 +22687,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -22696,7 +22696,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-010-Q7",
+        "id": "TEV-IT-C1-010-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -22718,7 +22718,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -22727,7 +22727,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-010-Q8",
+        "id": "TEV-IT-C1-010-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -22749,7 +22749,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -22758,7 +22758,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-010-Q9",
+        "id": "TEV-IT-C1-010-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -22780,7 +22780,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -22789,7 +22789,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-010-Q10",
+        "id": "TEV-IT-C1-010-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -22811,7 +22811,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -22821,10 +22821,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-011": {
-    "test_id": "TEV-IT-C2-011",
+  "TEV-IT-C1-011": {
+    "test_id": "TEV-IT-C1-011",
     "title": "Global Identity Federation Kerberos/OAuth Protocol Vulnerability Analysis",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)",
     "estimated_time_minutes": 20,
@@ -22836,7 +22836,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-011-Q1",
+        "id": "TEV-IT-C1-011-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -22858,7 +22858,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -22867,7 +22867,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
-        "id": "TEV-IT-C2-011-Q2",
+        "id": "TEV-IT-C1-011-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -22889,7 +22889,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -22898,7 +22898,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
-        "id": "TEV-IT-C2-011-Q3",
+        "id": "TEV-IT-C1-011-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -22920,7 +22920,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -22929,7 +22929,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
-        "id": "TEV-IT-C2-011-Q4",
+        "id": "TEV-IT-C1-011-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -22951,7 +22951,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -22960,7 +22960,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
-        "id": "TEV-IT-C2-011-Q5",
+        "id": "TEV-IT-C1-011-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -22982,7 +22982,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -22991,7 +22991,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
-        "id": "TEV-IT-C2-011-Q6",
+        "id": "TEV-IT-C1-011-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -23013,7 +23013,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -23022,7 +23022,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
-        "id": "TEV-IT-C2-011-Q7",
+        "id": "TEV-IT-C1-011-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -23044,7 +23044,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -23053,7 +23053,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
-        "id": "TEV-IT-C2-011-Q8",
+        "id": "TEV-IT-C1-011-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -23075,7 +23075,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -23084,7 +23084,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
-        "id": "TEV-IT-C2-011-Q9",
+        "id": "TEV-IT-C1-011-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -23106,7 +23106,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -23115,7 +23115,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
-        "id": "TEV-IT-C2-011-Q10",
+        "id": "TEV-IT-C1-011-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -23137,7 +23137,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -23147,10 +23147,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-012": {
-    "test_id": "TEV-IT-C2-012",
+  "TEV-IT-C1-012": {
+    "test_id": "TEV-IT-C1-012",
     "title": "Dark Web Credential Spill Forensic Response: Corporate Reputational Defense",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture",
     "estimated_time_minutes": 20,
@@ -23162,7 +23162,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-012-Q1",
+        "id": "TEV-IT-C1-012-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -23184,7 +23184,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -23193,7 +23193,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-012-Q2",
+        "id": "TEV-IT-C1-012-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -23215,7 +23215,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -23224,7 +23224,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-012-Q3",
+        "id": "TEV-IT-C1-012-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -23246,7 +23246,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -23255,7 +23255,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-012-Q4",
+        "id": "TEV-IT-C1-012-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -23277,7 +23277,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -23286,7 +23286,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-012-Q5",
+        "id": "TEV-IT-C1-012-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -23308,7 +23308,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -23317,7 +23317,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-012-Q6",
+        "id": "TEV-IT-C1-012-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -23339,7 +23339,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -23348,7 +23348,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-012-Q7",
+        "id": "TEV-IT-C1-012-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -23370,7 +23370,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -23379,7 +23379,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-012-Q8",
+        "id": "TEV-IT-C1-012-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -23401,7 +23401,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -23410,7 +23410,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-012-Q9",
+        "id": "TEV-IT-C1-012-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -23432,7 +23432,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -23441,7 +23441,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-012-Q10",
+        "id": "TEV-IT-C1-012-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -23463,7 +23463,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -23473,10 +23473,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-013": {
-    "test_id": "TEV-IT-C2-013",
+  "TEV-IT-C1-013": {
+    "test_id": "TEV-IT-C1-013",
     "title": "Enterprise AI Large Language Model Data Leakage & Confidentiality Breach",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture",
     "estimated_time_minutes": 20,
@@ -23488,7 +23488,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-013-Q1",
+        "id": "TEV-IT-C1-013-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -23510,7 +23510,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -23519,7 +23519,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-013-Q2",
+        "id": "TEV-IT-C1-013-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -23541,7 +23541,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -23550,7 +23550,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-013-Q3",
+        "id": "TEV-IT-C1-013-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -23572,7 +23572,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -23581,7 +23581,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-013-Q4",
+        "id": "TEV-IT-C1-013-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -23603,7 +23603,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -23612,7 +23612,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-013-Q5",
+        "id": "TEV-IT-C1-013-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -23634,7 +23634,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -23643,7 +23643,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-013-Q6",
+        "id": "TEV-IT-C1-013-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -23665,7 +23665,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -23674,7 +23674,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-013-Q7",
+        "id": "TEV-IT-C1-013-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -23696,7 +23696,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -23705,7 +23705,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-013-Q8",
+        "id": "TEV-IT-C1-013-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -23727,7 +23727,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -23736,7 +23736,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-013-Q9",
+        "id": "TEV-IT-C1-013-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -23758,7 +23758,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -23767,7 +23767,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-013-Q10",
+        "id": "TEV-IT-C1-013-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -23789,7 +23789,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -23799,10 +23799,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-014": {
-    "test_id": "TEV-IT-C2-014",
+  "TEV-IT-C1-014": {
+    "test_id": "TEV-IT-C1-014",
     "title": "Submarine Fiber Optic Cable Severance: International Cloud Force Majeure",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)",
     "estimated_time_minutes": 20,
@@ -23814,7 +23814,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-014-Q1",
+        "id": "TEV-IT-C1-014-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -23836,7 +23836,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -23845,7 +23845,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-014-Q2",
+        "id": "TEV-IT-C1-014-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -23867,7 +23867,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -23876,7 +23876,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-014-Q3",
+        "id": "TEV-IT-C1-014-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -23898,7 +23898,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -23907,7 +23907,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-014-Q4",
+        "id": "TEV-IT-C1-014-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -23929,7 +23929,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -23938,7 +23938,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-014-Q5",
+        "id": "TEV-IT-C1-014-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -23960,7 +23960,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -23969,7 +23969,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-014-Q6",
+        "id": "TEV-IT-C1-014-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -23991,7 +23991,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -24000,7 +24000,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-014-Q7",
+        "id": "TEV-IT-C1-014-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -24022,7 +24022,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -24031,7 +24031,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-014-Q8",
+        "id": "TEV-IT-C1-014-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -24053,7 +24053,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -24062,7 +24062,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-014-Q9",
+        "id": "TEV-IT-C1-014-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -24084,7 +24084,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -24093,7 +24093,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-014-Q10",
+        "id": "TEV-IT-C1-014-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -24115,7 +24115,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -24125,10 +24125,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-015": {
-    "test_id": "TEV-IT-C2-015",
+  "TEV-IT-C1-015": {
+    "test_id": "TEV-IT-C1-015",
     "title": "Class Action Shareholder Litigation Post-Cybersecurity Breach Disclosure",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "estimated_time_minutes": 20,
@@ -24140,7 +24140,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-015-Q1",
+        "id": "TEV-IT-C1-015-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -24162,7 +24162,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -24171,7 +24171,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-015-Q2",
+        "id": "TEV-IT-C1-015-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -24193,7 +24193,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -24202,7 +24202,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-015-Q3",
+        "id": "TEV-IT-C1-015-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -24224,7 +24224,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -24233,7 +24233,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-015-Q4",
+        "id": "TEV-IT-C1-015-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -24255,7 +24255,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -24264,7 +24264,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-015-Q5",
+        "id": "TEV-IT-C1-015-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -24286,7 +24286,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -24295,7 +24295,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-015-Q6",
+        "id": "TEV-IT-C1-015-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -24317,7 +24317,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -24326,7 +24326,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-015-Q7",
+        "id": "TEV-IT-C1-015-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -24348,7 +24348,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -24357,7 +24357,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-015-Q8",
+        "id": "TEV-IT-C1-015-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -24379,7 +24379,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -24388,7 +24388,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-015-Q9",
+        "id": "TEV-IT-C1-015-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -24410,7 +24410,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -24419,7 +24419,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-015-Q10",
+        "id": "TEV-IT-C1-015-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -24441,7 +24441,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -24451,10 +24451,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-016": {
-    "test_id": "TEV-IT-C2-016",
+  "TEV-IT-C1-016": {
+    "test_id": "TEV-IT-C1-016",
     "title": "Post-Quantum Cryptography Migration Strategy Before Executive Committee",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture",
     "estimated_time_minutes": 20,
@@ -24466,7 +24466,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-016-Q1",
+        "id": "TEV-IT-C1-016-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -24488,7 +24488,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -24497,7 +24497,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-016-Q2",
+        "id": "TEV-IT-C1-016-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -24519,7 +24519,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -24528,7 +24528,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-016-Q3",
+        "id": "TEV-IT-C1-016-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -24550,7 +24550,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -24559,7 +24559,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-016-Q4",
+        "id": "TEV-IT-C1-016-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -24581,7 +24581,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -24590,7 +24590,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-016-Q5",
+        "id": "TEV-IT-C1-016-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -24612,7 +24612,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -24621,7 +24621,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-016-Q6",
+        "id": "TEV-IT-C1-016-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -24643,7 +24643,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -24652,7 +24652,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-016-Q7",
+        "id": "TEV-IT-C1-016-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -24674,7 +24674,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -24683,7 +24683,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-016-Q8",
+        "id": "TEV-IT-C1-016-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -24705,7 +24705,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -24714,7 +24714,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-016-Q9",
+        "id": "TEV-IT-C1-016-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -24736,7 +24736,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -24745,7 +24745,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
-        "id": "TEV-IT-C2-016-Q10",
+        "id": "TEV-IT-C1-016-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -24767,7 +24767,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -24777,10 +24777,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-017": {
-    "test_id": "TEV-IT-C2-017",
+  "TEV-IT-C1-017": {
+    "test_id": "TEV-IT-C1-017",
     "title": "Global Data Center Catastrophic Power Failure Emergency Arbitration",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)",
     "estimated_time_minutes": 20,
@@ -24792,7 +24792,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-017-Q1",
+        "id": "TEV-IT-C1-017-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -24814,7 +24814,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -24823,7 +24823,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-017-Q2",
+        "id": "TEV-IT-C1-017-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -24845,7 +24845,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -24854,7 +24854,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-017-Q3",
+        "id": "TEV-IT-C1-017-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -24876,7 +24876,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -24885,7 +24885,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-017-Q4",
+        "id": "TEV-IT-C1-017-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -24907,7 +24907,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -24916,7 +24916,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-017-Q5",
+        "id": "TEV-IT-C1-017-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -24938,7 +24938,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -24947,7 +24947,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-017-Q6",
+        "id": "TEV-IT-C1-017-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -24969,7 +24969,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -24978,7 +24978,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-017-Q7",
+        "id": "TEV-IT-C1-017-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -25000,7 +25000,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -25009,7 +25009,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-017-Q8",
+        "id": "TEV-IT-C1-017-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -25031,7 +25031,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -25040,7 +25040,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-017-Q9",
+        "id": "TEV-IT-C1-017-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -25062,7 +25062,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -25071,7 +25071,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
-        "id": "TEV-IT-C2-017-Q10",
+        "id": "TEV-IT-C1-017-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -25093,7 +25093,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -25103,10 +25103,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-018": {
-    "test_id": "TEV-IT-C2-018",
+  "TEV-IT-C1-018": {
+    "test_id": "TEV-IT-C1-018",
     "title": "Software Bill of Materials (SBOM) Open-Source License Invalidation Claims",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture",
     "estimated_time_minutes": 20,
@@ -25118,7 +25118,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-018-Q1",
+        "id": "TEV-IT-C1-018-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -25140,7 +25140,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -25149,7 +25149,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-018-Q2",
+        "id": "TEV-IT-C1-018-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -25171,7 +25171,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -25180,7 +25180,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-018-Q3",
+        "id": "TEV-IT-C1-018-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -25202,7 +25202,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -25211,7 +25211,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-018-Q4",
+        "id": "TEV-IT-C1-018-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -25233,7 +25233,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -25242,7 +25242,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-018-Q5",
+        "id": "TEV-IT-C1-018-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -25264,7 +25264,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -25273,7 +25273,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-018-Q6",
+        "id": "TEV-IT-C1-018-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -25295,7 +25295,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -25304,7 +25304,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-018-Q7",
+        "id": "TEV-IT-C1-018-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -25326,7 +25326,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -25335,7 +25335,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-018-Q8",
+        "id": "TEV-IT-C1-018-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -25357,7 +25357,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -25366,7 +25366,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-018-Q9",
+        "id": "TEV-IT-C1-018-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -25388,7 +25388,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -25397,7 +25397,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
-        "id": "TEV-IT-C2-018-Q10",
+        "id": "TEV-IT-C1-018-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -25419,7 +25419,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -25429,10 +25429,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-019": {
-    "test_id": "TEV-IT-C2-019",
+  "TEV-IT-C1-019": {
+    "test_id": "TEV-IT-C1-019",
     "title": "Regulatory Fine Defense: GDPR Article 32 Technical Measures Violation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "estimated_time_minutes": 20,
@@ -25444,7 +25444,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-019-Q1",
+        "id": "TEV-IT-C1-019-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -25466,7 +25466,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -25475,7 +25475,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-019-Q2",
+        "id": "TEV-IT-C1-019-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -25497,7 +25497,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -25506,7 +25506,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-019-Q3",
+        "id": "TEV-IT-C1-019-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -25528,7 +25528,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -25537,7 +25537,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-019-Q4",
+        "id": "TEV-IT-C1-019-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -25559,7 +25559,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -25568,7 +25568,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-019-Q5",
+        "id": "TEV-IT-C1-019-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -25590,7 +25590,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -25599,7 +25599,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-019-Q6",
+        "id": "TEV-IT-C1-019-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -25621,7 +25621,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -25630,7 +25630,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-019-Q7",
+        "id": "TEV-IT-C1-019-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -25652,7 +25652,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -25661,7 +25661,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-019-Q8",
+        "id": "TEV-IT-C1-019-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -25683,7 +25683,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -25692,7 +25692,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-019-Q9",
+        "id": "TEV-IT-C1-019-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -25714,7 +25714,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -25723,7 +25723,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-019-Q10",
+        "id": "TEV-IT-C1-019-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -25745,7 +25745,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."
@@ -25755,10 +25755,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-IT-C2-020": {
-    "test_id": "TEV-IT-C2-020",
+  "TEV-IT-C1-020": {
+    "test_id": "TEV-IT-C1-020",
     "title": "CISO Keynote Defense: Enterprise Digital Sovereignty in Hostile Geopolitics",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation",
     "estimated_time_minutes": 20,
@@ -25770,7 +25770,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-IT-C2-020-Q1",
+        "id": "TEV-IT-C1-020-Q1",
         "prompt": "The European Data Protection Board mandated that the enterprise cloud provider _____ all transatlantic telemetry transfers pending adequacy review.",
         "options": [
           {
@@ -25792,7 +25792,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive requires base form 'suspend' after 'mandated that'.",
           "wrong_A": "Option 'suspends' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall suspend' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to suspend' is completely non-standard in international cyber jurisprudence."
@@ -25801,7 +25801,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-020-Q2",
+        "id": "TEV-IT-C1-020-Q2",
         "prompt": "Seldom _____ international commercial arbitral tribunals awarded punitive damages against hyperscale cloud providers for unannounced SLA defaults.",
         "options": [
           {
@@ -25823,7 +25823,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Seldom have arbitral tribunals awarded'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'did' is completely non-standard in international cyber jurisprudence."
@@ -25832,7 +25832,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-020-Q3",
+        "id": "TEV-IT-C1-020-Q3",
         "prompt": "It is of paramount corporate governance necessity that the Chief Information Security Officer (CISO) _____ direct reporting access to the Board.",
         "options": [
           {
@@ -25854,7 +25854,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Formulaic subjunctive: 'paramount governance necessity that the CISO retain'.",
           "wrong_B": "Option 'retains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will retain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'must to retain' is completely non-standard in international cyber jurisprudence."
@@ -25863,7 +25863,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-020-Q4",
+        "id": "TEV-IT-C1-020-Q4",
         "prompt": "_____ the cloud infrastructure provider to repudiate the 99.999% high-availability service level agreement, catastrophic business interruption liability would ensue.",
         "options": [
           {
@@ -25885,7 +25885,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'If were' is completely non-standard in international cyber jurisprudence."
@@ -25894,7 +25894,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-020-Q5",
+        "id": "TEV-IT-C1-020-Q5",
         "prompt": "Not only _____ fail to implement timely zero-day mitigation patches, but the enterprise also concealed the ransomware breach for forty-eight hours.",
         "options": [
           {
@@ -25916,7 +25916,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion after 'Not only': 'did the vendor fail'.",
           "wrong_A": "Option 'the third-party vendor did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the third-party vendor' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has the third-party vendor' is completely non-standard in international cyber jurisprudence."
@@ -25925,7 +25925,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-020-Q6",
+        "id": "TEV-IT-C1-020-Q6",
         "prompt": "Under no circumstances _____ the corporate incident response team to pay ransom extortions without prior approval from sovereign sanctions authorities.",
         "options": [
           {
@@ -25947,7 +25947,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Negative inversion: 'Under no circumstances is the team to pay'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -25956,7 +25956,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-020-Q7",
+        "id": "TEV-IT-C1-020-Q7",
         "prompt": "The Lead Forensic Investigator insisted that digital chain of custody records _____ preserved in immutable write-once-read-many (WORM) storage.",
         "options": [
           {
@@ -25978,7 +25978,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Passive mandative subjunctive: 'insisted that records be preserved'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_C": "Option 'will be' is completely non-standard in international cyber jurisprudence."
@@ -25987,7 +25987,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-020-Q8",
+        "id": "TEV-IT-C1-020-Q8",
         "prompt": "Had the enterprise not decoupled its active directory forest from the breached subsidiary, lateral ransomware propagation _____ the entire global domain.",
         "options": [
           {
@@ -26009,7 +26009,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Third Conditional counterfactual: 'would have paralyzed'.",
           "wrong_B": "Option 'would paralyze' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had paralyzed' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'will paralyze' is completely non-standard in international cyber jurisprudence."
@@ -26018,7 +26018,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-020-Q9",
+        "id": "TEV-IT-C1-020-Q9",
         "prompt": "Barely _____ the digital forensics team completed memory snapshot acquisition when the nation-state threat actor initiated self-deleting wiper routines.",
         "options": [
           {
@@ -26040,7 +26040,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Inversion: 'Barely had the team completed... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'has' is completely non-standard in international cyber jurisprudence."
@@ -26049,7 +26049,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Enterprise Cyber Breach Governance & SLA Litigation"
       },
       {
-        "id": "TEV-IT-C2-020-Q10",
+        "id": "TEV-IT-C1-020-Q10",
         "prompt": "The multi-million dollar cloud services master agreement stipulates that all customer data encryption keys _____ exclusively under customer escrow control.",
         "options": [
           {
@@ -26071,7 +26071,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
+          "correct": "C1 cloud litigation & cyber governance discourse: Mandative subjunctive in SLA contracts: 'stipulates that keys remain under customer control'.",
           "wrong_A": "Option 'remains' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will remain' applies inappropriate indicative or non-inverted syntax in formal legal IT discourse.",
           "wrong_D": "Option 'shall to remain' is completely non-standard in international cyber jurisprudence."

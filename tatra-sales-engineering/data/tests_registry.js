@@ -19560,302 +19560,54 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-001": {
-    "test_id": "TTR-SALES-C2-001",
+  "TTR-SALES-C1-001": {
+    "test_id": "TTR-SALES-C1-001",
     "title": "International Defense Tender Arbitration, ICC Jurisdiction & Force Majeure",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
     "estimated_time_minutes": 20,
-    "description": "Executive sales and contract legal engineering: drafting liquidated damages indemnities, managing ICC Paris arbitration clauses, navigating split liability under Incoterms 2020 DPU/DAP, and diplomatic de-escalation of foreign ministry disputes.",
+    "description": "Mastery-tier international commercial and defense sales module examining international defense tender arbitration, icc jurisdiction & force majeure.",
     "learning_objectives": [
-      "Master mandative and formulaic subjunctive in international military procurement contracts",
-      "Formulate precise risk transfer stipulations under Incoterms 2020 rules",
-      "Utilize high-register diplomatic hedging in multi-million dollar defense contract negotiations"
+      "Master professional Contractual Subjunctive & Risk Hedging in technical sales and export contracts",
+      "Eliminate common Czech interference errors in international defense tender arbitration, icc jurisdiction & force majeure",
+      "Demonstrate mastery in international negotiations and Incoterms documentation"
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-001-Q1",
-        "prompt": "Be it resolved that Tatra Trucks _____ harmless the defense ministry against any third-party patent infringement claims arising from the proprietary pneumatic suspension system.",
+        "id": "TTR-SALES-C1-001-Q1",
+        "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
             "key": "A",
-            "text": "shall hold"
+            "text": "restitutes"
           },
           {
             "key": "B",
-            "text": "hold"
+            "text": "restitute"
           },
           {
             "key": "C",
-            "text": "holds"
+            "text": "shall restitute"
           },
           {
             "key": "D",
-            "text": "is holding"
+            "text": "must to restitute"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Formulaic legal subjunctive ('Be it resolved that [entity] hold harmless...') uses the bare base form 'hold' without third-person '-s' or modal auxiliary.",
-          "wrong_A": "'Shall hold' is standard contractual obligation, but follows standard clauses, not the archaic formulaic subjunctive preamble 'Be it resolved that'.",
-          "wrong_C": "Indicative 'holds' violates the formulaic legal subjunctive mood.",
-          "wrong_D": "Continuous aspect is completely inappropriate in legal indemnity deeds."
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
+          "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
+          "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
         },
-        "cz_learning_point": "Czech 'Budiž ujednáno, že Tatra Trucks odškodní...'. Formal legal preambles use formulaic subjunctive base forms: 'Be it resolved that Tatra Trucks hold harmless...'.",
-        "workplace_track": "International Contract Law, ICC Arbitration & Defense Tender Litigation"
+        "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+        "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-001-Q2",
-        "prompt": "Under the agreed Incoterms 2020 DPU (Delivered at Place Unloaded) terms, at what exact juncture _____ to the procurement authority?",
-        "options": [
-          {
-            "key": "A",
-            "text": "transfers the risk of damage"
-          },
-          {
-            "key": "B",
-            "text": "the risk of accidental loss is transferring"
-          },
-          {
-            "key": "C",
-            "text": "does the risk of loss pass"
-          },
-          {
-            "key": "D",
-            "text": "passes the risk of damage"
-          }
-        ],
-        "correct_key": "C",
-        "explanations": {
-          "correct": "Formal interrogative syntax requires auxiliary inversion ('does the risk of loss pass') for clean, unambiguous commercial arbitration clarity.",
-          "wrong_A": "Lacks required auxiliary verb 'does' in direct technical inquiry.",
-          "wrong_B": "Indirect word order without inversion cannot form a direct question.",
-          "wrong_D": "Inversion of full lexical verb ('passes the risk') is archaic and grammatically incorrect in modern commercial English."
-        },
-        "cz_learning_point": "Czech 'v jakém okamžiku přechází riziko škody na...?'. In English, questions require auxiliary 'does': 'At what exact juncture does the risk of loss pass...?'",
-        "workplace_track": "Commercial Contracts, Incoterms 2020 & Risk Transfer"
-      },
-      {
-        "id": "TTR-SALES-C2-001-Q3",
-        "prompt": "_____ the ministry to invoke the force majeure clause prematurely due to port customs congestion, our legal counsel would immediately initiate ICC expedited arbitration proceedings.",
-        "options": [
-          {
-            "key": "A",
-            "text": "Were"
-          },
-          {
-            "key": "B",
-            "text": "If"
-          },
-          {
-            "key": "C",
-            "text": "Had"
-          },
-          {
-            "key": "D",
-            "text": "Should"
-          }
-        ],
-        "correct_key": "A",
-        "explanations": {
-          "correct": "Inverted second conditional ('Were the ministry to invoke...') denotes a formal hypothetical future contingency with dignified diplomatic distance.",
-          "wrong_B": "'If' would require standard word order ('If the ministry were to invoke...').",
-          "wrong_C": "'Had' pairs with past counterfactual participles, not the infinitive 'to invoke'.",
-          "wrong_D": "'Should' would be followed by bare infinitive 'invoke', not 'to invoke'."
-        },
-        "cz_learning_point": "Czech 'Kdyby ministerstvo předčasně uplatnilo...'. Formal diplomatic legal phrasing inverts 'were': 'Were the ministry to invoke...'.",
-        "workplace_track": "International Contract Law, ICC Arbitration & Defense Tender Litigation"
-      },
-      {
-        "id": "TTR-SALES-C2-001-Q4",
-        "prompt": "It is stipulated in section 14.2 that the supplier _____ penalty payments in the event that spare parts deliveries fail to achieve the 98% operational availability metric.",
-        "options": [
-          {
-            "key": "A",
-            "text": "remit"
-          },
-          {
-            "key": "B",
-            "text": "remits"
-          },
-          {
-            "key": "C",
-            "text": "shall remit"
-          },
-          {
-            "key": "D",
-            "text": "to remit"
-          }
-        ],
-        "correct_key": "A",
-        "explanations": {
-          "correct": "Mandative subjunctive after passive verb of requirement ('It is stipulated that [entity] remit...') requires base verb 'remit'.",
-          "wrong_B": "Third person singular 'remits' is indicative, whereas legal stipulations require the subjunctive base form.",
-          "wrong_C": "'Shall remit' is common in drafting, but when introduced by 'It is stipulated that...', the subjunctive bare form 'remit' is the most refined legal register.",
-          "wrong_D": "Infinitive 'to remit' cannot stand as the main predicate of a 'that'-clause."
-        },
-        "cz_learning_point": "Czech 'Je stanoveno, že dodavatel uhradí...'. English mandative subjunctive uses base form: 'It is stipulated that the supplier remit...'.",
-        "workplace_track": "International Contract Law, ICC Arbitration & Defense Tender Litigation"
-      },
-      {
-        "id": "TTR-SALES-C2-001-Q5",
-        "prompt": "Only by providing an unconditional standby letter of credit from an internationally rated tier-1 bank _____ the tender evaluation committee permit the bid bond exemption.",
-        "options": [
-          {
-            "key": "A",
-            "text": "will"
-          },
-          {
-            "key": "B",
-            "text": "does"
-          },
-          {
-            "key": "C",
-            "text": "did"
-          },
-          {
-            "key": "D",
-            "text": "would"
-          }
-        ],
-        "correct_key": "A",
-        "explanations": {
-          "correct": "Fronted restrictive phrase 'Only by providing...' requires subject-auxiliary inversion with future modal 'will' ('will the committee permit').",
-          "wrong_B": "'Does' refers to general habit, whereas tender evaluations are specific future conditional determinations.",
-          "wrong_C": "'Did' refers to completed past action, conflicting with the prospective tender evaluation process.",
-          "wrong_D": "'Would' requires a counterfactual condition, which is absent here."
-        },
-        "cz_learning_point": "Czech 'Pouze předložením neodvolatelného akreditivu výbor povolí...'. In English, fronted 'Only by...' demands inversion: 'Only by providing... will the committee permit...'.",
-        "workplace_track": "International Defense Bids & NATO STANAG Tenders"
-      },
-      {
-        "id": "TTR-SALES-C2-001-Q6",
-        "prompt": "Our negotiation posture must remain uncompromising regarding warranty ceilings, _____ we risk setting an adverse contractual precedent across all Eastern European defense tenders.",
-        "options": [
-          {
-            "key": "A",
-            "text": "otherwise"
-          },
-          {
-            "key": "B",
-            "text": "lest"
-          },
-          {
-            "key": "C",
-            "text": "in case"
-          },
-          {
-            "key": "D",
-            "text": "unless"
-          }
-        ],
-        "correct_key": "B",
-        "explanations": {
-          "correct": "Formal conjunction 'lest' ('for fear that / in order to avoid') introduces an adverse risk and pairs with subjunctive or indicative in elevated diplomatic English.",
-          "wrong_A": "'Otherwise' is an adverb requiring a semicolon or coordinator, not a subordinating conjunction.",
-          "wrong_C": "'In case' indicates precaution, not avoidance of a direct hazard.",
-          "wrong_D": "'Unless' means 'except if', which reverses the intended causal meaning."
-        },
-        "cz_learning_point": "Czech 'abychom neriskovali... / jinak hrozí, že...'. High-level diplomatic English uses 'lest' ('lest we risk setting an adverse precedent').",
-        "workplace_track": "Executive Contract Negotiation & Dealer Relations"
-      },
-      {
-        "id": "TTR-SALES-C2-001-Q7",
-        "prompt": "No sooner had the bilateral tender contract been signed in Abu Dhabi _____ the ministry issued an addendum demanding supplementary cold-weather cabin modifications.",
-        "options": [
-          {
-            "key": "A",
-            "text": "when"
-          },
-          {
-            "key": "B",
-            "text": "that"
-          },
-          {
-            "key": "C",
-            "text": "as"
-          },
-          {
-            "key": "D",
-            "text": "than"
-          }
-        ],
-        "correct_key": "D",
-        "explanations": {
-          "correct": "'No sooner had [action]... than [second action]' is the strictly required correlative pair in high-level English.",
-          "wrong_A": "'When' pairs with 'Scarcely' or 'Hardly', not 'No sooner'.",
-          "wrong_B": "'That' cannot introduce the temporal correlative clause.",
-          "wrong_C": "'As' is colloquial and grammatically invalid here."
-        },
-        "cz_learning_point": "Czech 'Sotva byla smlouva podepsána, než ministerstvo vydalo dodatek'. Always pair 'No sooner had...' with 'THAN'.",
-        "workplace_track": "International Defense Bids & NATO STANAG Tenders"
-      },
-      {
-        "id": "TTR-SALES-C2-001-Q8",
-        "prompt": "_____ the military attache inquire regarding our export licensing status under EU dual-use regulations, reassure him that our authorization dossier is already before the licensing board.",
-        "options": [
-          {
-            "key": "A",
-            "text": "Should"
-          },
-          {
-            "key": "B",
-            "text": "Were"
-          },
-          {
-            "key": "C",
-            "text": "Could"
-          },
-          {
-            "key": "D",
-            "text": "Had"
-          }
-        ],
-        "correct_key": "A",
-        "explanations": {
-          "correct": "Inverted first conditional ('Should the attache inquire...') represents formal diplomatic courtesy for possible future inquiries.",
-          "wrong_B": "'Were the attache to inquire' would be acceptable, but 'Were' cannot pair directly with bare infinitive 'inquire'.",
-          "wrong_C": "'Could' cannot form an inverted conditional clause of this type.",
-          "wrong_D": "'Had' pairs with past counterfactual actions."
-        },
-        "cz_learning_point": "Czech 'Kdyby se vojenský atašé dotazoval...'. Formal diplomatic correspondence uses 'Should [subject] [base verb]...': 'Should the attache inquire...'.",
-        "workplace_track": "Executive Contract Negotiation & Dealer Relations"
-      },
-      {
-        "id": "TTR-SALES-C2-001-Q9",
-        "prompt": "The arbitration panel ruled that the delayed vehicle commissioning was _____ attributable to port blockades rather than any defect in Tatra's powertrain components.",
-        "options": [
-          {
-            "key": "A",
-            "text": "unquestionably"
-          },
-          {
-            "key": "B",
-            "text": "unequivocally"
-          },
-          {
-            "key": "C",
-            "text": "principally"
-          },
-          {
-            "key": "D",
-            "text": "hardly"
-          }
-        ],
-        "correct_key": "C",
-        "explanations": {
-          "correct": "In high-stakes dispute resolution, nuanced legal qualification ('principally attributable' = chiefly/primarily) accurately allocates proportional liability without absolute overclaiming.",
-          "wrong_A": "'Unquestionably' is rhetorically aggressive and weakens evidentiary arbitration credibility.",
-          "wrong_B": "'Unequivocally' is excessively absolute when dealing with multi-factor logistics delays.",
-          "wrong_D": "'Hardly' reverses the intended meaning, suggesting Tatra was to blame."
-        },
-        "cz_learning_point": "Czech 'převážně / v hlavní míře přičitatelné'. In arbitration findings, 'principally attributable' balances evidentiary accuracy and legal liability.",
-        "workplace_track": "International Contract Law, ICC Arbitration & Defense Tender Litigation"
-      },
-      {
-        "id": "TTR-SALES-C2-001-Q10",
-        "prompt": "Not for one moment _____ our commercial negotiation team consider conceding sovereign immunity jurisdiction to a local foreign domestic court.",
+        "id": "TTR-SALES-C1-001-Q2",
+        "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
             "key": "A",
@@ -19863,7 +19615,7 @@ Object.assign(window.TEST_REGISTRY, {
           },
           {
             "key": "B",
-            "text": "did"
+            "text": "was"
           },
           {
             "key": "C",
@@ -19871,25 +19623,273 @@ Object.assign(window.TEST_REGISTRY, {
           },
           {
             "key": "D",
-            "text": "would"
+            "text": "did"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
+          "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
+          "wrong_D": "Option 'did' is completely non-standard in international contract law."
+        },
+        "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+        "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
+      },
+      {
+        "id": "TTR-SALES-C1-001-Q3",
+        "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
+        "options": [
+          {
+            "key": "A",
+            "text": "disclaim"
+          },
+          {
+            "key": "B",
+            "text": "disclaims"
+          },
+          {
+            "key": "C",
+            "text": "will disclaim"
+          },
+          {
+            "key": "D",
+            "text": "must to disclaim"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
+          "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
+          "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
+        },
+        "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+        "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
+      },
+      {
+        "id": "TTR-SALES-C1-001-Q4",
+        "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Had"
+          },
+          {
+            "key": "B",
+            "text": "Should"
+          },
+          {
+            "key": "C",
+            "text": "If were"
+          },
+          {
+            "key": "D",
+            "text": "Were"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
+          "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
+          "wrong_C": "Option 'If were' is completely non-standard in international contract law."
+        },
+        "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+        "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
+      },
+      {
+        "id": "TTR-SALES-C1-001-Q5",
+        "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
+        "options": [
+          {
+            "key": "A",
+            "text": "the sovereign buyer did"
+          },
+          {
+            "key": "B",
+            "text": "was the sovereign buyer"
+          },
+          {
+            "key": "C",
+            "text": "did the sovereign buyer"
+          },
+          {
+            "key": "D",
+            "text": "has the sovereign buyer"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
+          "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
+          "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
+        },
+        "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+        "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
+      },
+      {
+        "id": "TTR-SALES-C1-001-Q6",
+        "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
+        "options": [
+          {
+            "key": "A",
+            "text": "are"
+          },
+          {
+            "key": "B",
+            "text": "is"
+          },
+          {
+            "key": "C",
+            "text": "will"
+          },
+          {
+            "key": "D",
+            "text": "has"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Fronted negative phrase 'Not for one moment' with past action verb 'consider' demands past auxiliary inversion 'did' ('Not for one moment did our team consider...').",
-          "wrong_A": "'Is' cannot pair with past lexical verb 'consider'.",
-          "wrong_C": "'Has' would require past participle 'considered'.",
-          "wrong_D": "'Would' suggests hypothetical willingness rather than an emphatic historical fact."
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
+          "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
+          "wrong_D": "Option 'has' is completely non-standard in international contract law."
         },
-        "cz_learning_point": "Czech 'Ani na jediný okamžik náš tým neuvažoval...'. Inverted negative construction: 'Not for one moment did our team consider...'.",
-        "workplace_track": "International Contract Law, ICC Arbitration & Defense Tender Litigation"
+        "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+        "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
+      },
+      {
+        "id": "TTR-SALES-C1-001-Q7",
+        "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
+        "options": [
+          {
+            "key": "A",
+            "text": "are deposited"
+          },
+          {
+            "key": "B",
+            "text": "will be deposited"
+          },
+          {
+            "key": "C",
+            "text": "must to be deposited"
+          },
+          {
+            "key": "D",
+            "text": "be deposited"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
+          "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
+          "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
+        },
+        "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+        "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
+      },
+      {
+        "id": "TTR-SALES-C1-001-Q8",
+        "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
+        "options": [
+          {
+            "key": "A",
+            "text": "would have been"
+          },
+          {
+            "key": "B",
+            "text": "would be"
+          },
+          {
+            "key": "C",
+            "text": "had been"
+          },
+          {
+            "key": "D",
+            "text": "will be"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
+          "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
+          "wrong_D": "Option 'will be' is completely non-standard in international contract law."
+        },
+        "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+        "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
+      },
+      {
+        "id": "TTR-SALES-C1-001-Q9",
+        "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
+        "options": [
+          {
+            "key": "A",
+            "text": "was"
+          },
+          {
+            "key": "B",
+            "text": "did"
+          },
+          {
+            "key": "C",
+            "text": "had"
+          },
+          {
+            "key": "D",
+            "text": "has"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
+          "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
+          "wrong_D": "Option 'has' is completely non-standard in international contract law."
+        },
+        "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+        "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
+      },
+      {
+        "id": "TTR-SALES-C1-001-Q10",
+        "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
+        "options": [
+          {
+            "key": "A",
+            "text": "is"
+          },
+          {
+            "key": "B",
+            "text": "be"
+          },
+          {
+            "key": "C",
+            "text": "will be"
+          },
+          {
+            "key": "D",
+            "text": "shall to be"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
+          "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
+          "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
+        },
+        "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+        "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       }
     ]
   },
-  "TTR-SALES-C2-002": {
-    "test_id": "TTR-SALES-C2-002",
+  "TTR-SALES-C1-002": {
+    "test_id": "TTR-SALES-C1-002",
     "title": "Sovereign Debt Default & Paris Club Intergovernmental Rescheduling",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Commercial Negotiation & Payment Milestones",
     "estimated_time_minutes": 20,
@@ -19901,7 +19901,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-002-Q1",
+        "id": "TTR-SALES-C1-002-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -19923,7 +19923,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -19932,7 +19932,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-002-Q2",
+        "id": "TTR-SALES-C1-002-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -19954,7 +19954,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -19963,7 +19963,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-002-Q3",
+        "id": "TTR-SALES-C1-002-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -19985,7 +19985,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -19994,7 +19994,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-002-Q4",
+        "id": "TTR-SALES-C1-002-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -20016,7 +20016,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -20025,7 +20025,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-002-Q5",
+        "id": "TTR-SALES-C1-002-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -20047,7 +20047,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -20056,7 +20056,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-002-Q6",
+        "id": "TTR-SALES-C1-002-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -20078,7 +20078,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -20087,7 +20087,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-002-Q7",
+        "id": "TTR-SALES-C1-002-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -20109,7 +20109,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -20118,7 +20118,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-002-Q8",
+        "id": "TTR-SALES-C1-002-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -20140,7 +20140,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -20149,7 +20149,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-002-Q9",
+        "id": "TTR-SALES-C1-002-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -20171,7 +20171,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -20180,7 +20180,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-002-Q10",
+        "id": "TTR-SALES-C1-002-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -20202,7 +20202,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -20212,10 +20212,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-003": {
-    "test_id": "TTR-SALES-C2-003",
+  "TTR-SALES-C1-003": {
+    "test_id": "TTR-SALES-C1-003",
     "title": "Cross-Border Patent Invalidation Defense in Military All-Wheel Drive",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
     "estimated_time_minutes": 20,
@@ -20227,7 +20227,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-003-Q1",
+        "id": "TTR-SALES-C1-003-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -20249,7 +20249,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -20258,7 +20258,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-003-Q2",
+        "id": "TTR-SALES-C1-003-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -20280,7 +20280,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -20289,7 +20289,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-003-Q3",
+        "id": "TTR-SALES-C1-003-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -20311,7 +20311,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -20320,7 +20320,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-003-Q4",
+        "id": "TTR-SALES-C1-003-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -20342,7 +20342,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -20351,7 +20351,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-003-Q5",
+        "id": "TTR-SALES-C1-003-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -20373,7 +20373,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -20382,7 +20382,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-003-Q6",
+        "id": "TTR-SALES-C1-003-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -20404,7 +20404,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -20413,7 +20413,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-003-Q7",
+        "id": "TTR-SALES-C1-003-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -20435,7 +20435,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -20444,7 +20444,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-003-Q8",
+        "id": "TTR-SALES-C1-003-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -20466,7 +20466,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -20475,7 +20475,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-003-Q9",
+        "id": "TTR-SALES-C1-003-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -20497,7 +20497,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -20506,7 +20506,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-003-Q10",
+        "id": "TTR-SALES-C1-003-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -20528,7 +20528,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -20538,10 +20538,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-004": {
-    "test_id": "TTR-SALES-C2-004",
+  "TTR-SALES-C1-004": {
+    "test_id": "TTR-SALES-C1-004",
     "title": "Geopolitical Embargo Repudiation & Bilateral Defense Supply Arbitration",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
     "estimated_time_minutes": 20,
@@ -20553,7 +20553,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-004-Q1",
+        "id": "TTR-SALES-C1-004-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -20575,7 +20575,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -20584,7 +20584,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-004-Q2",
+        "id": "TTR-SALES-C1-004-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -20606,7 +20606,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -20615,7 +20615,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-004-Q3",
+        "id": "TTR-SALES-C1-004-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -20637,7 +20637,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -20646,7 +20646,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-004-Q4",
+        "id": "TTR-SALES-C1-004-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -20668,7 +20668,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -20677,7 +20677,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-004-Q5",
+        "id": "TTR-SALES-C1-004-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -20699,7 +20699,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -20708,7 +20708,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-004-Q6",
+        "id": "TTR-SALES-C1-004-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -20730,7 +20730,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -20739,7 +20739,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-004-Q7",
+        "id": "TTR-SALES-C1-004-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -20761,7 +20761,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -20770,7 +20770,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-004-Q8",
+        "id": "TTR-SALES-C1-004-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -20792,7 +20792,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -20801,7 +20801,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-004-Q9",
+        "id": "TTR-SALES-C1-004-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -20823,7 +20823,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -20832,7 +20832,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-004-Q10",
+        "id": "TTR-SALES-C1-004-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -20854,7 +20854,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -20864,10 +20864,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-005": {
-    "test_id": "TTR-SALES-C2-005",
+  "TTR-SALES-C1-005": {
+    "test_id": "TTR-SALES-C1-005",
     "title": "Multi-Billion Dollar NATO Framework Agreement Defense Consortium Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
     "estimated_time_minutes": 20,
@@ -20879,7 +20879,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-005-Q1",
+        "id": "TTR-SALES-C1-005-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -20901,7 +20901,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -20910,7 +20910,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-005-Q2",
+        "id": "TTR-SALES-C1-005-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -20932,7 +20932,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -20941,7 +20941,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-005-Q3",
+        "id": "TTR-SALES-C1-005-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -20963,7 +20963,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -20972,7 +20972,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-005-Q4",
+        "id": "TTR-SALES-C1-005-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -20994,7 +20994,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -21003,7 +21003,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-005-Q5",
+        "id": "TTR-SALES-C1-005-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -21025,7 +21025,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -21034,7 +21034,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-005-Q6",
+        "id": "TTR-SALES-C1-005-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -21056,7 +21056,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -21065,7 +21065,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-005-Q7",
+        "id": "TTR-SALES-C1-005-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -21087,7 +21087,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -21096,7 +21096,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-005-Q8",
+        "id": "TTR-SALES-C1-005-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -21118,7 +21118,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -21127,7 +21127,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-005-Q9",
+        "id": "TTR-SALES-C1-005-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -21149,7 +21149,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -21158,7 +21158,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-005-Q10",
+        "id": "TTR-SALES-C1-005-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -21180,7 +21180,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -21190,10 +21190,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-006": {
-    "test_id": "TTR-SALES-C2-006",
+  "TTR-SALES-C1-006": {
+    "test_id": "TTR-SALES-C1-006",
     "title": "Foreign Corrupt Practices Act (FCPA) Multi-Jurisdictional Forensic Audit",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
     "estimated_time_minutes": 20,
@@ -21205,7 +21205,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-006-Q1",
+        "id": "TTR-SALES-C1-006-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -21227,7 +21227,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -21236,7 +21236,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-006-Q2",
+        "id": "TTR-SALES-C1-006-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -21258,7 +21258,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -21267,7 +21267,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-006-Q3",
+        "id": "TTR-SALES-C1-006-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -21289,7 +21289,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -21298,7 +21298,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-006-Q4",
+        "id": "TTR-SALES-C1-006-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -21320,7 +21320,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -21329,7 +21329,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-006-Q5",
+        "id": "TTR-SALES-C1-006-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -21351,7 +21351,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -21360,7 +21360,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-006-Q6",
+        "id": "TTR-SALES-C1-006-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -21382,7 +21382,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -21391,7 +21391,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-006-Q7",
+        "id": "TTR-SALES-C1-006-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -21413,7 +21413,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -21422,7 +21422,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-006-Q8",
+        "id": "TTR-SALES-C1-006-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -21444,7 +21444,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -21453,7 +21453,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-006-Q9",
+        "id": "TTR-SALES-C1-006-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -21475,7 +21475,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -21484,7 +21484,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-006-Q10",
+        "id": "TTR-SALES-C1-006-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -21506,7 +21506,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -21516,10 +21516,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-007": {
-    "test_id": "TTR-SALES-C2-007",
+  "TTR-SALES-C1-007": {
+    "test_id": "TTR-SALES-C1-007",
     "title": "Bilateral Defense Offset Technology Co-Production Treaty Drafting",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
     "estimated_time_minutes": 20,
@@ -21531,7 +21531,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-007-Q1",
+        "id": "TTR-SALES-C1-007-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -21553,7 +21553,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -21562,7 +21562,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-007-Q2",
+        "id": "TTR-SALES-C1-007-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -21584,7 +21584,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -21593,7 +21593,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-007-Q3",
+        "id": "TTR-SALES-C1-007-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -21615,7 +21615,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -21624,7 +21624,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-007-Q4",
+        "id": "TTR-SALES-C1-007-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -21646,7 +21646,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -21655,7 +21655,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-007-Q5",
+        "id": "TTR-SALES-C1-007-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -21677,7 +21677,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -21686,7 +21686,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-007-Q6",
+        "id": "TTR-SALES-C1-007-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -21708,7 +21708,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -21717,7 +21717,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-007-Q7",
+        "id": "TTR-SALES-C1-007-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -21739,7 +21739,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -21748,7 +21748,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-007-Q8",
+        "id": "TTR-SALES-C1-007-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -21770,7 +21770,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -21779,7 +21779,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-007-Q9",
+        "id": "TTR-SALES-C1-007-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -21801,7 +21801,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -21810,7 +21810,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-007-Q10",
+        "id": "TTR-SALES-C1-007-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -21832,7 +21832,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -21842,10 +21842,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-008": {
-    "test_id": "TTR-SALES-C2-008",
+  "TTR-SALES-C1-008": {
+    "test_id": "TTR-SALES-C1-008",
     "title": "WTO Subsidies & Countervailing Measures Appellate Body Defense",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Commercial Negotiation & Payment Milestones",
     "estimated_time_minutes": 20,
@@ -21857,7 +21857,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-008-Q1",
+        "id": "TTR-SALES-C1-008-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -21879,7 +21879,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -21888,7 +21888,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-008-Q2",
+        "id": "TTR-SALES-C1-008-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -21910,7 +21910,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -21919,7 +21919,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-008-Q3",
+        "id": "TTR-SALES-C1-008-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -21941,7 +21941,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -21950,7 +21950,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-008-Q4",
+        "id": "TTR-SALES-C1-008-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -21972,7 +21972,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -21981,7 +21981,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-008-Q5",
+        "id": "TTR-SALES-C1-008-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -22003,7 +22003,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -22012,7 +22012,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-008-Q6",
+        "id": "TTR-SALES-C1-008-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -22034,7 +22034,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -22043,7 +22043,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-008-Q7",
+        "id": "TTR-SALES-C1-008-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -22065,7 +22065,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -22074,7 +22074,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-008-Q8",
+        "id": "TTR-SALES-C1-008-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -22096,7 +22096,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -22105,7 +22105,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-008-Q9",
+        "id": "TTR-SALES-C1-008-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -22127,7 +22127,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -22136,7 +22136,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-008-Q10",
+        "id": "TTR-SALES-C1-008-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -22158,7 +22158,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -22168,10 +22168,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-009": {
-    "test_id": "TTR-SALES-C2-009",
+  "TTR-SALES-C1-009": {
+    "test_id": "TTR-SALES-C1-009",
     "title": "International Chamber of Commerce (ICC) Emergency Arbitrator Injunctions",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
     "estimated_time_minutes": 20,
@@ -22183,7 +22183,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-009-Q1",
+        "id": "TTR-SALES-C1-009-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -22205,7 +22205,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -22214,7 +22214,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-009-Q2",
+        "id": "TTR-SALES-C1-009-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -22236,7 +22236,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -22245,7 +22245,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-009-Q3",
+        "id": "TTR-SALES-C1-009-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -22267,7 +22267,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -22276,7 +22276,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-009-Q4",
+        "id": "TTR-SALES-C1-009-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -22298,7 +22298,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -22307,7 +22307,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-009-Q5",
+        "id": "TTR-SALES-C1-009-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -22329,7 +22329,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -22338,7 +22338,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-009-Q6",
+        "id": "TTR-SALES-C1-009-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -22360,7 +22360,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -22369,7 +22369,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-009-Q7",
+        "id": "TTR-SALES-C1-009-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -22391,7 +22391,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -22400,7 +22400,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-009-Q8",
+        "id": "TTR-SALES-C1-009-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -22422,7 +22422,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -22431,7 +22431,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-009-Q9",
+        "id": "TTR-SALES-C1-009-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -22453,7 +22453,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -22462,7 +22462,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-009-Q10",
+        "id": "TTR-SALES-C1-009-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -22484,7 +22484,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -22494,10 +22494,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-010": {
-    "test_id": "TTR-SALES-C2-010",
+  "TTR-SALES-C1-010": {
+    "test_id": "TTR-SALES-C1-010",
     "title": "Sovereign Immunity Waiver Clauses in Military Vehicle Supply Pacts",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
     "estimated_time_minutes": 20,
@@ -22509,7 +22509,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-010-Q1",
+        "id": "TTR-SALES-C1-010-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -22531,7 +22531,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -22540,7 +22540,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-010-Q2",
+        "id": "TTR-SALES-C1-010-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -22562,7 +22562,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -22571,7 +22571,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-010-Q3",
+        "id": "TTR-SALES-C1-010-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -22593,7 +22593,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -22602,7 +22602,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-010-Q4",
+        "id": "TTR-SALES-C1-010-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -22624,7 +22624,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -22633,7 +22633,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-010-Q5",
+        "id": "TTR-SALES-C1-010-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -22655,7 +22655,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -22664,7 +22664,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-010-Q6",
+        "id": "TTR-SALES-C1-010-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -22686,7 +22686,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -22695,7 +22695,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-010-Q7",
+        "id": "TTR-SALES-C1-010-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -22717,7 +22717,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -22726,7 +22726,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-010-Q8",
+        "id": "TTR-SALES-C1-010-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -22748,7 +22748,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -22757,7 +22757,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-010-Q9",
+        "id": "TTR-SALES-C1-010-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -22779,7 +22779,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -22788,7 +22788,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-010-Q10",
+        "id": "TTR-SALES-C1-010-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -22810,7 +22810,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -22820,10 +22820,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-011": {
-    "test_id": "TTR-SALES-C2-011",
+  "TTR-SALES-C1-011": {
+    "test_id": "TTR-SALES-C1-011",
     "title": "Transnational Joint Venture Shareholder Deadlock Dissolution Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
     "estimated_time_minutes": 20,
@@ -22835,7 +22835,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-011-Q1",
+        "id": "TTR-SALES-C1-011-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -22857,7 +22857,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -22866,7 +22866,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-011-Q2",
+        "id": "TTR-SALES-C1-011-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -22888,7 +22888,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -22897,7 +22897,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-011-Q3",
+        "id": "TTR-SALES-C1-011-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -22919,7 +22919,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -22928,7 +22928,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-011-Q4",
+        "id": "TTR-SALES-C1-011-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -22950,7 +22950,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -22959,7 +22959,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-011-Q5",
+        "id": "TTR-SALES-C1-011-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -22981,7 +22981,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -22990,7 +22990,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-011-Q6",
+        "id": "TTR-SALES-C1-011-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -23012,7 +23012,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -23021,7 +23021,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-011-Q7",
+        "id": "TTR-SALES-C1-011-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -23043,7 +23043,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -23052,7 +23052,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-011-Q8",
+        "id": "TTR-SALES-C1-011-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -23074,7 +23074,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -23083,7 +23083,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-011-Q9",
+        "id": "TTR-SALES-C1-011-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -23105,7 +23105,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -23114,7 +23114,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-011-Q10",
+        "id": "TTR-SALES-C1-011-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -23136,7 +23136,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -23146,10 +23146,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-012": {
-    "test_id": "TTR-SALES-C2-012",
+  "TTR-SALES-C1-012": {
+    "test_id": "TTR-SALES-C1-012",
     "title": "Strategic Dual-Use Export License Revocation Judicial Review",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
     "estimated_time_minutes": 20,
@@ -23161,7 +23161,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-012-Q1",
+        "id": "TTR-SALES-C1-012-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -23183,7 +23183,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -23192,7 +23192,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-012-Q2",
+        "id": "TTR-SALES-C1-012-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -23214,7 +23214,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -23223,7 +23223,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-012-Q3",
+        "id": "TTR-SALES-C1-012-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -23245,7 +23245,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -23254,7 +23254,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-012-Q4",
+        "id": "TTR-SALES-C1-012-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -23276,7 +23276,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -23285,7 +23285,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-012-Q5",
+        "id": "TTR-SALES-C1-012-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -23307,7 +23307,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -23316,7 +23316,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-012-Q6",
+        "id": "TTR-SALES-C1-012-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -23338,7 +23338,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -23347,7 +23347,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-012-Q7",
+        "id": "TTR-SALES-C1-012-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -23369,7 +23369,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -23378,7 +23378,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-012-Q8",
+        "id": "TTR-SALES-C1-012-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -23400,7 +23400,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -23409,7 +23409,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-012-Q9",
+        "id": "TTR-SALES-C1-012-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -23431,7 +23431,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -23440,7 +23440,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-012-Q10",
+        "id": "TTR-SALES-C1-012-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -23462,7 +23462,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -23472,10 +23472,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-013": {
-    "test_id": "TTR-SALES-C2-013",
+  "TTR-SALES-C1-013": {
+    "test_id": "TTR-SALES-C1-013",
     "title": "Catastrophic Maritime Cargo Loss: Hague-Visby Rules Carrier Liability",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
     "estimated_time_minutes": 20,
@@ -23487,7 +23487,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-013-Q1",
+        "id": "TTR-SALES-C1-013-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -23509,7 +23509,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -23518,7 +23518,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-013-Q2",
+        "id": "TTR-SALES-C1-013-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -23540,7 +23540,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -23549,7 +23549,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-013-Q3",
+        "id": "TTR-SALES-C1-013-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -23571,7 +23571,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -23580,7 +23580,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-013-Q4",
+        "id": "TTR-SALES-C1-013-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -23602,7 +23602,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -23611,7 +23611,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-013-Q5",
+        "id": "TTR-SALES-C1-013-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -23633,7 +23633,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -23642,7 +23642,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-013-Q6",
+        "id": "TTR-SALES-C1-013-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -23664,7 +23664,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -23673,7 +23673,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-013-Q7",
+        "id": "TTR-SALES-C1-013-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -23695,7 +23695,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -23704,7 +23704,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-013-Q8",
+        "id": "TTR-SALES-C1-013-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -23726,7 +23726,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -23735,7 +23735,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-013-Q9",
+        "id": "TTR-SALES-C1-013-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -23757,7 +23757,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -23766,7 +23766,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-013-Q10",
+        "id": "TTR-SALES-C1-013-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -23788,7 +23788,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -23798,10 +23798,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-014": {
-    "test_id": "TTR-SALES-C2-014",
+  "TTR-SALES-C1-014": {
+    "test_id": "TTR-SALES-C1-014",
     "title": "UN Sanctions Implementation & Third-Country Transshipment Inquests",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
     "estimated_time_minutes": 20,
@@ -23813,7 +23813,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-014-Q1",
+        "id": "TTR-SALES-C1-014-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -23835,7 +23835,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -23844,7 +23844,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-014-Q2",
+        "id": "TTR-SALES-C1-014-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -23866,7 +23866,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -23875,7 +23875,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-014-Q3",
+        "id": "TTR-SALES-C1-014-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -23897,7 +23897,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -23906,7 +23906,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-014-Q4",
+        "id": "TTR-SALES-C1-014-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -23928,7 +23928,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -23937,7 +23937,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-014-Q5",
+        "id": "TTR-SALES-C1-014-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -23959,7 +23959,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -23968,7 +23968,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-014-Q6",
+        "id": "TTR-SALES-C1-014-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -23990,7 +23990,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -23999,7 +23999,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-014-Q7",
+        "id": "TTR-SALES-C1-014-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -24021,7 +24021,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -24030,7 +24030,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-014-Q8",
+        "id": "TTR-SALES-C1-014-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -24052,7 +24052,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -24061,7 +24061,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-014-Q9",
+        "id": "TTR-SALES-C1-014-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -24083,7 +24083,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -24092,7 +24092,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
-        "id": "TTR-SALES-C2-014-Q10",
+        "id": "TTR-SALES-C1-014-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -24114,7 +24114,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -24124,10 +24124,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-015": {
-    "test_id": "TTR-SALES-C2-015",
+  "TTR-SALES-C1-015": {
+    "test_id": "TTR-SALES-C1-015",
     "title": "Hostile Takeover Defense & Defense Asset Golden Share Protection",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Commercial Negotiation & Payment Milestones",
     "estimated_time_minutes": 20,
@@ -24139,7 +24139,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-015-Q1",
+        "id": "TTR-SALES-C1-015-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -24161,7 +24161,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -24170,7 +24170,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-015-Q2",
+        "id": "TTR-SALES-C1-015-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -24192,7 +24192,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -24201,7 +24201,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-015-Q3",
+        "id": "TTR-SALES-C1-015-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -24223,7 +24223,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -24232,7 +24232,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-015-Q4",
+        "id": "TTR-SALES-C1-015-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -24254,7 +24254,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -24263,7 +24263,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-015-Q5",
+        "id": "TTR-SALES-C1-015-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -24285,7 +24285,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -24294,7 +24294,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-015-Q6",
+        "id": "TTR-SALES-C1-015-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -24316,7 +24316,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -24325,7 +24325,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-015-Q7",
+        "id": "TTR-SALES-C1-015-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -24347,7 +24347,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -24356,7 +24356,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-015-Q8",
+        "id": "TTR-SALES-C1-015-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -24378,7 +24378,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -24387,7 +24387,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-015-Q9",
+        "id": "TTR-SALES-C1-015-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -24409,7 +24409,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -24418,7 +24418,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-015-Q10",
+        "id": "TTR-SALES-C1-015-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -24440,7 +24440,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -24450,10 +24450,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-016": {
-    "test_id": "TTR-SALES-C2-016",
+  "TTR-SALES-C1-016": {
+    "test_id": "TTR-SALES-C1-016",
     "title": "Sovereign Buyer Repudiation of Defense Contracts in Post-War Transition",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
     "estimated_time_minutes": 20,
@@ -24465,7 +24465,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-016-Q1",
+        "id": "TTR-SALES-C1-016-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -24487,7 +24487,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -24496,7 +24496,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-016-Q2",
+        "id": "TTR-SALES-C1-016-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -24518,7 +24518,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -24527,7 +24527,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-016-Q3",
+        "id": "TTR-SALES-C1-016-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -24549,7 +24549,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -24558,7 +24558,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-016-Q4",
+        "id": "TTR-SALES-C1-016-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -24580,7 +24580,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -24589,7 +24589,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-016-Q5",
+        "id": "TTR-SALES-C1-016-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -24611,7 +24611,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -24620,7 +24620,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-016-Q6",
+        "id": "TTR-SALES-C1-016-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -24642,7 +24642,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -24651,7 +24651,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-016-Q7",
+        "id": "TTR-SALES-C1-016-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -24673,7 +24673,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -24682,7 +24682,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-016-Q8",
+        "id": "TTR-SALES-C1-016-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -24704,7 +24704,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -24713,7 +24713,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-016-Q9",
+        "id": "TTR-SALES-C1-016-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -24735,7 +24735,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -24744,7 +24744,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-016-Q10",
+        "id": "TTR-SALES-C1-016-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -24766,7 +24766,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -24776,10 +24776,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-017": {
-    "test_id": "TTR-SALES-C2-017",
+  "TTR-SALES-C1-017": {
+    "test_id": "TTR-SALES-C1-017",
     "title": "Multi-Tiered Alternative Dispute Resolution (ADR) Escalation Clauses",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
     "estimated_time_minutes": 20,
@@ -24791,7 +24791,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-017-Q1",
+        "id": "TTR-SALES-C1-017-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -24813,7 +24813,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -24822,7 +24822,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-017-Q2",
+        "id": "TTR-SALES-C1-017-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -24844,7 +24844,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -24853,7 +24853,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-017-Q3",
+        "id": "TTR-SALES-C1-017-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -24875,7 +24875,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -24884,7 +24884,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-017-Q4",
+        "id": "TTR-SALES-C1-017-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -24906,7 +24906,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -24915,7 +24915,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-017-Q5",
+        "id": "TTR-SALES-C1-017-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -24937,7 +24937,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -24946,7 +24946,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-017-Q6",
+        "id": "TTR-SALES-C1-017-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -24968,7 +24968,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -24977,7 +24977,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-017-Q7",
+        "id": "TTR-SALES-C1-017-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -24999,7 +24999,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -25008,7 +25008,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-017-Q8",
+        "id": "TTR-SALES-C1-017-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -25030,7 +25030,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -25039,7 +25039,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-017-Q9",
+        "id": "TTR-SALES-C1-017-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -25061,7 +25061,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -25070,7 +25070,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "International Defense Tender Arbitration & ICC Contracts"
       },
       {
-        "id": "TTR-SALES-C2-017-Q10",
+        "id": "TTR-SALES-C1-017-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -25092,7 +25092,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -25102,10 +25102,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-018": {
-    "test_id": "TTR-SALES-C2-018",
+  "TTR-SALES-C1-018": {
+    "test_id": "TTR-SALES-C1-018",
     "title": "Public Procurement Integrity Inquests & Whistleblower Defense Protocols",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
     "estimated_time_minutes": 20,
@@ -25117,7 +25117,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-018-Q1",
+        "id": "TTR-SALES-C1-018-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -25139,7 +25139,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -25148,7 +25148,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-018-Q2",
+        "id": "TTR-SALES-C1-018-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -25170,7 +25170,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -25179,7 +25179,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-018-Q3",
+        "id": "TTR-SALES-C1-018-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -25201,7 +25201,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -25210,7 +25210,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-018-Q4",
+        "id": "TTR-SALES-C1-018-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -25232,7 +25232,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -25241,7 +25241,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-018-Q5",
+        "id": "TTR-SALES-C1-018-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -25263,7 +25263,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -25272,7 +25272,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-018-Q6",
+        "id": "TTR-SALES-C1-018-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -25294,7 +25294,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -25303,7 +25303,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-018-Q7",
+        "id": "TTR-SALES-C1-018-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -25325,7 +25325,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -25334,7 +25334,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-018-Q8",
+        "id": "TTR-SALES-C1-018-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -25356,7 +25356,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -25365,7 +25365,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-018-Q9",
+        "id": "TTR-SALES-C1-018-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -25387,7 +25387,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -25396,7 +25396,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-018-Q10",
+        "id": "TTR-SALES-C1-018-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -25418,7 +25418,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -25428,10 +25428,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-019": {
-    "test_id": "TTR-SALES-C2-019",
+  "TTR-SALES-C1-019": {
+    "test_id": "TTR-SALES-C1-019",
     "title": "Cross-Border Technology Licensing Royalty Withholding Tax Litigation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Commercial Negotiation & Payment Milestones",
     "estimated_time_minutes": 20,
@@ -25443,7 +25443,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-019-Q1",
+        "id": "TTR-SALES-C1-019-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -25465,7 +25465,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -25474,7 +25474,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-019-Q2",
+        "id": "TTR-SALES-C1-019-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -25496,7 +25496,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -25505,7 +25505,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-019-Q3",
+        "id": "TTR-SALES-C1-019-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -25527,7 +25527,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -25536,7 +25536,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-019-Q4",
+        "id": "TTR-SALES-C1-019-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -25558,7 +25558,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -25567,7 +25567,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-019-Q5",
+        "id": "TTR-SALES-C1-019-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -25589,7 +25589,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -25598,7 +25598,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-019-Q6",
+        "id": "TTR-SALES-C1-019-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -25620,7 +25620,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -25629,7 +25629,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-019-Q7",
+        "id": "TTR-SALES-C1-019-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -25651,7 +25651,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -25660,7 +25660,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-019-Q8",
+        "id": "TTR-SALES-C1-019-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -25682,7 +25682,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -25691,7 +25691,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-019-Q9",
+        "id": "TTR-SALES-C1-019-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -25713,7 +25713,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -25722,7 +25722,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
-        "id": "TTR-SALES-C2-019-Q10",
+        "id": "TTR-SALES-C1-019-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -25744,7 +25744,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
@@ -25754,10 +25754,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-SALES-C2-020": {
-    "test_id": "TTR-SALES-C2-020",
+  "TTR-SALES-C1-020": {
+    "test_id": "TTR-SALES-C1-020",
     "title": "Ministerial Bilateral Defense Agreement Ratification Press Briefing",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
     "estimated_time_minutes": 20,
@@ -25769,7 +25769,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-SALES-C2-020-Q1",
+        "id": "TTR-SALES-C1-020-Q1",
         "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
         "options": [
           {
@@ -25791,7 +25791,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
           "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
@@ -25800,7 +25800,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-020-Q2",
+        "id": "TTR-SALES-C1-020-Q2",
         "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
         "options": [
           {
@@ -25822,7 +25822,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'did' is completely non-standard in international contract law."
@@ -25831,7 +25831,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-020-Q3",
+        "id": "TTR-SALES-C1-020-Q3",
         "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
         "options": [
           {
@@ -25853,7 +25853,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+          "correct": "C1 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
           "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
@@ -25862,7 +25862,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-020-Q4",
+        "id": "TTR-SALES-C1-020-Q4",
         "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
         "options": [
           {
@@ -25884,7 +25884,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+          "correct": "C1 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
           "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'If were' is completely non-standard in international contract law."
@@ -25893,7 +25893,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-020-Q5",
+        "id": "TTR-SALES-C1-020-Q5",
         "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
         "options": [
           {
@@ -25915,7 +25915,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+          "correct": "C1 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
           "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
@@ -25924,7 +25924,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-020-Q6",
+        "id": "TTR-SALES-C1-020-Q6",
         "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
         "options": [
           {
@@ -25946,7 +25946,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+          "correct": "C1 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
           "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -25955,7 +25955,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-020-Q7",
+        "id": "TTR-SALES-C1-020-Q7",
         "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
         "options": [
           {
@@ -25977,7 +25977,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+          "correct": "C1 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
           "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
           "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
@@ -25986,7 +25986,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-020-Q8",
+        "id": "TTR-SALES-C1-020-Q8",
         "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
         "options": [
           {
@@ -26008,7 +26008,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+          "correct": "C1 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
           "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'will be' is completely non-standard in international contract law."
@@ -26017,7 +26017,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-020-Q9",
+        "id": "TTR-SALES-C1-020-Q9",
         "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
         "options": [
           {
@@ -26039,7 +26039,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+          "correct": "C1 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
           "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'has' is completely non-standard in international contract law."
@@ -26048,7 +26048,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
-        "id": "TTR-SALES-C2-020-Q10",
+        "id": "TTR-SALES-C1-020-Q10",
         "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
         "options": [
           {
@@ -26070,7 +26070,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+          "correct": "C1 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
           "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
           "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."

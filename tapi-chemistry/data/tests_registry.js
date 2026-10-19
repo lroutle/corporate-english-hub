@@ -19560,151 +19560,89 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-001": {
-    "test_id": "TAPI-CHEM-C2-001",
+  "TAPI-CHEM-C1-001": {
+    "test_id": "TAPI-CHEM-C1-001",
     "title": "Pharmacopeial Monograph Harmonization, Nitrosamines & ICH Q2(R2)",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
     "estimated_time_minutes": 20,
-    "description": "Expert analytical chemistry defenses: arguing chromatographic peak co-elution resolution, justifying mutagenic nitrosamine purge factors, and negotiating monograph variations with EDQM/USP pharmacopeial committees.",
+    "description": "Mastery-tier chemical research and regulatory governance module examining pharmacopeial monograph harmonization, nitrosamines & ich q2(r2).",
     "learning_objectives": [
-      "Master scientific epistemic hedging in pharmacopeial monograph dispute committees",
-      "Formulate precise negative inversion in analytical method validation reports",
-      "Articulate complex risk-based impurity arguments adhering to ICH Q2(R2) and ICH M7"
+      "Master professional Diplomatic Counter-Argumentation & Hedging in organic API synthesis and QC analysis",
+      "Eliminate common Czech interference errors in pharmacopeial monograph harmonization, nitrosamines & ich q2(r2)",
+      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-001-Q1",
-        "prompt": "At no time _____ the synthesis reaction temperature exceed 45°C during the exothermic addition of thionyl chloride, lest thermal degradation generate genotoxic impurities.",
+        "id": "TAPI-CHEM-C1-001-Q1",
+        "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
             "key": "A",
-            "text": "the operator must permit"
+            "text": "is"
           },
           {
             "key": "B",
-            "text": "must the batch operator permit"
+            "text": "be"
           },
           {
             "key": "C",
-            "text": "the batch operator will permit"
+            "text": "shall be"
           },
           {
             "key": "D",
-            "text": "must the operator to permit"
+            "text": "must to be"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Fronted negative restrictive phrase 'At no time' requires subject-auxiliary inversion ('must the batch operator permit').",
-          "wrong_A": "Lacks required inversion after fronted negative phrase.",
-          "wrong_C": "Standard word order violates the formal inversion rule.",
-          "wrong_D": "Modal 'must' cannot pair with infinitive 'to permit'."
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+          "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+          "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
         },
-        "cz_learning_point": "Czech 'V žádném okamžiku nesmí operátor překročit...'. In English batch manufacturing records, use fronted inversion: 'At no time must the operator permit...'.",
-        "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+        "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+        "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-001-Q2",
-        "prompt": "The trace peak observed at relative retention time (RRT) 1.24 _____ to co-eluting excipient degradation rather than an unclassified mutagenic nitrosamine precursor.",
+        "id": "TAPI-CHEM-C1-001-Q2",
+        "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
             "key": "A",
-            "text": "manifestly and unquestionably corresponds"
+            "text": "are"
           },
           {
             "key": "B",
-            "text": "definitely screams out evidence"
+            "text": "were"
           },
           {
             "key": "C",
-            "text": "would tentatively seem attributable"
+            "text": "have"
           },
           {
             "key": "D",
-            "text": "is undeniably bound to pertain"
+            "text": "did"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "In health authority analytical disputes, sophisticated epistemic hedging ('would tentatively seem attributable') is essential until LC-MS/MS fragment validation confirms the molecular formula.",
-          "wrong_A": "Prematurely absolute claim without orthogonal mass spectrometry validation.",
-          "wrong_B": "Colloquial and highly unprofessional.",
-          "wrong_D": "Aggressive, unscientific register."
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
+          "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+          "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
         },
-        "cz_learning_point": "Czech 'by se předběžně dalo přičítat...'. In pharmacopeial analytical reports, use elegant scientific hedging: 'would tentatively seem attributable'.",
-        "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+        "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+        "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-001-Q3",
-        "prompt": "_____ the analytical development team validated the chiral HPLC stationary phase at lower flow rates, the enantiomeric purity resolution would have met ICH Q2(R2) acceptance criteria.",
+        "id": "TAPI-CHEM-C1-001-Q3",
+        "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
             "key": "A",
-            "text": "Had"
-          },
-          {
-            "key": "B",
-            "text": "If"
-          },
-          {
-            "key": "C",
-            "text": "Were"
-          },
-          {
-            "key": "D",
-            "text": "Should"
-          }
-        ],
-        "correct_key": "A",
-        "explanations": {
-          "correct": "Inverted third conditional ('Had the analytical team validated...') expresses formal past counterfactual technical conditions without using 'if'.",
-          "wrong_B": "'If' requires uninverted syntax ('If the analytical team had validated...').",
-          "wrong_C": "'Were' pairs with present/future hypothetical conditions, not past completed validation studies.",
-          "wrong_D": "'Should' expresses future contingencies."
-        },
-        "cz_learning_point": "Czech 'Kdyby tým validoval...'. In elevated technical chemistry reporting, omit 'if' via inversion: 'Had the analytical development team validated...'.",
-        "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
-      },
-      {
-        "id": "TAPI-CHEM-C2-001-Q4",
-        "prompt": "The European Directorate for the Quality of Medicines (EDQM) requested that the API manufacturer _____ the limit of detection (LOD) for residual dimethylformamide to 10 ppm.",
-        "options": [
-          {
-            "key": "A",
-            "text": "lower"
-          },
-          {
-            "key": "B",
-            "text": "lowers"
-          },
-          {
-            "key": "C",
-            "text": "must lower"
-          },
-          {
-            "key": "D",
-            "text": "to lower"
-          }
-        ],
-        "correct_key": "A",
-        "explanations": {
-          "correct": "Mandative subjunctive after 'requested that' requires the uninflected base verb 'lower'.",
-          "wrong_B": "Third person singular 'lowers' violates the required mandative subjunctive mood.",
-          "wrong_C": "Modal 'must' is redundant and colloquially informal in a formal subjunctive clause.",
-          "wrong_D": "Infinitive 'to lower' is ungrammatical as the finite verb of a 'that'-clause."
-        },
-        "cz_learning_point": "Czech 'EDQM požadovalo, aby výrobce snížil...'. English mandative subjunctive uses the bare base verb: 'requested that the manufacturer lower...'.",
-        "workplace_track": "Pharmacopeial Compliance, Impurity Profiling & Regulatory Submissions"
-      },
-      {
-        "id": "TAPI-CHEM-C2-001-Q5",
-        "prompt": "Under no circumstances _____ hazardous chlorinated solvents be disposed of into the standard aqueous effluent recovery pipeline.",
-        "options": [
-          {
-            "key": "A",
-            "text": "an operator can"
+            "text": "be"
           },
           {
             "key": "B",
@@ -19712,150 +19650,212 @@ Object.assign(window.TEST_REGISTRY, {
           },
           {
             "key": "C",
-            "text": "may"
+            "text": "will be"
           },
           {
             "key": "D",
-            "text": "will an operator to"
+            "text": "must to be"
           }
         ],
-        "correct_key": "C",
+        "correct_key": "A",
         "explanations": {
-          "correct": "Fronted negative phrase 'Under no circumstances' followed by passive subject 'hazardous solvents' requires auxiliary inversion 'may' ('Under no circumstances may hazardous solvents be disposed...').",
-          "wrong_A": "Lacks required auxiliary-subject inversion.",
-          "wrong_B": "'Is' cannot pair with plural passive subject 'solvents'.",
-          "wrong_D": "'Will... to' is ungrammatical."
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+          "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+          "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
         },
-        "cz_learning_point": "Czech 'Za žádných okolností nesmí být rozpouštědla vypouštěna...'. Formal inversion: 'Under no circumstances may hazardous solvents be disposed of...'.",
-        "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+        "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+        "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-001-Q6",
-        "prompt": "The regulatory dossier must demonstrate a purge factor of greater than 1000 for mutagenic acyl chlorides, _____ the European Medicines Agency reject the marketing authorization.",
+        "id": "TAPI-CHEM-C1-001-Q4",
+        "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
             "key": "A",
-            "text": "otherwise that"
+            "text": "Had"
           },
           {
             "key": "B",
-            "text": "lest"
+            "text": "Should"
           },
           {
             "key": "C",
-            "text": "in case"
+            "text": "If were"
           },
           {
             "key": "D",
-            "text": "for that"
-          }
-        ],
-        "correct_key": "B",
-        "explanations": {
-          "correct": "Formal conjunction 'lest' ('for fear that') introduces a severe regulatory consequence and takes the subjunctive verb 'reject'.",
-          "wrong_A": "'Otherwise that' is a literal Czech translation mistake (*jinak aby*).",
-          "wrong_C": "'In case' expresses precaution, not consequence.",
-          "wrong_D": "'For that' is archaic and ungrammatical in modern regulatory English."
-        },
-        "cz_learning_point": "Czech 'aby Evropská léková agentura nezamítla...'. High-register regulatory submission English uses 'lest [agency] [subjunctive verb]': 'lest the EMA reject...'.",
-        "workplace_track": "Pharmacopeial Compliance, Impurity Profiling & Regulatory Submissions"
-      },
-      {
-        "id": "TAPI-CHEM-C2-001-Q7",
-        "prompt": "Scarcely had the crystallization slurry been cooled to 5°C _____ the active pharmaceutical ingredient began precipitating in the undesired polymorphic form.",
-        "options": [
-          {
-            "key": "A",
-            "text": "than"
-          },
-          {
-            "key": "B",
-            "text": "that"
-          },
-          {
-            "key": "C",
-            "text": "after"
-          },
-          {
-            "key": "D",
-            "text": "when"
+            "text": "Were"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "'Scarcely had [action]... when [second action]' is the strictly required correlative pair.",
-          "wrong_A": "'Than' pairs with 'No sooner had...', not 'Scarcely'.",
-          "wrong_B": "'That' cannot act as correlative temporal conjunction.",
-          "wrong_C": "'After' is redundant with past perfect auxiliary inversion."
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
+          "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+          "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
         },
-        "cz_learning_point": "Czech 'Sotva byla krystalizační suspenze ochlazena, když v tom...'. Correlative pair for 'Scarcely had...' is always 'WHEN'.",
-        "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+        "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+        "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-001-Q8",
-        "prompt": "_____ an unknown chromatographic impurity exceed the 0.05% identification threshold, the QC laboratory must isolate the fraction for nuclear magnetic resonance (NMR) characterization.",
+        "id": "TAPI-CHEM-C1-001-Q5",
+        "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
             "key": "A",
-            "text": "Should"
+            "text": "the supplier's laboratory did"
           },
           {
             "key": "B",
-            "text": "Were"
+            "text": "was the supplier's laboratory"
           },
           {
             "key": "C",
-            "text": "Had"
+            "text": "did the supplier's laboratory"
           },
           {
             "key": "D",
-            "text": "If so"
-          }
-        ],
-        "correct_key": "A",
-        "explanations": {
-          "correct": "Inverted first conditional ('Should an unknown impurity exceed...') represents formal pharmacopeial SOP protocol phrasing for future analytical deviations.",
-          "wrong_B": "'Were' would require 'to exceed', not bare infinitive 'exceed'.",
-          "wrong_C": "'Had' pairs with past counterfactual events, not future test requirements.",
-          "wrong_D": "'If so' cannot act as a subordinate conditional clause conjunction."
-        },
-        "cz_learning_point": "Czech 'Pokud by neznámá nečistota překročila...'. In formal pharmacopeial testing SOPs, use 'Should an unknown impurity exceed...'.",
-        "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
-      },
-      {
-        "id": "TAPI-CHEM-C2-001-Q9",
-        "prompt": "The minor baseline drift observed during the gas chromatography run cannot _____ to column bleeding alone without evaluating septa deterioration.",
-        "options": [
-          {
-            "key": "A",
-            "text": "definitely impute"
-          },
-          {
-            "key": "B",
-            "text": "impute itself"
-          },
-          {
-            "key": "C",
-            "text": "legitimately be imputed"
-          },
-          {
-            "key": "D",
-            "text": "be having imputed"
+            "text": "has the supplier's laboratory"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive modal construction with technical hedging ('cannot legitimately be imputed to...') accurately frames chromatographic root-cause attribution in official QC investigations.",
-          "wrong_A": "Active voice 'impute' cannot take the inanimate baseline drift as its subject.",
-          "wrong_B": "'Impute itself' is a literal Czech reflexive translation error (*přičítat se*).",
-          "wrong_D": "Ungrammatical progressive passive construction."
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
+          "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+          "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
         },
-        "cz_learning_point": "Czech 'posun základní linie nelze oprávněně přičítat pouze...'. Do not translate reflexively (*impute itself*). Use passive modal 'cannot legitimately be imputed to...'.",
-        "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+        "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+        "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-001-Q10",
-        "prompt": "Not only _____ the multi-step convergent chemical synthesis increase overall API yield, but it also curtails the formation of genotoxic reaction intermediates.",
+        "id": "TAPI-CHEM-C1-001-Q6",
+        "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
+        "options": [
+          {
+            "key": "A",
+            "text": "are"
+          },
+          {
+            "key": "B",
+            "text": "is"
+          },
+          {
+            "key": "C",
+            "text": "will"
+          },
+          {
+            "key": "D",
+            "text": "has"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
+          "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+          "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
+        },
+        "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+        "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
+      },
+      {
+        "id": "TAPI-CHEM-C1-001-Q7",
+        "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
+        "options": [
+          {
+            "key": "A",
+            "text": "is performed"
+          },
+          {
+            "key": "B",
+            "text": "will be performed"
+          },
+          {
+            "key": "C",
+            "text": "must to be performed"
+          },
+          {
+            "key": "D",
+            "text": "be performed"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
+          "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+          "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
+        },
+        "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+        "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
+      },
+      {
+        "id": "TAPI-CHEM-C1-001-Q8",
+        "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
+        "options": [
+          {
+            "key": "A",
+            "text": "would not have been"
+          },
+          {
+            "key": "B",
+            "text": "would not be"
+          },
+          {
+            "key": "C",
+            "text": "had not been"
+          },
+          {
+            "key": "D",
+            "text": "will not be"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
+          "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+          "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
+        },
+        "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+        "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
+      },
+      {
+        "id": "TAPI-CHEM-C1-001-Q9",
+        "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
+        "options": [
+          {
+            "key": "A",
+            "text": "was"
+          },
+          {
+            "key": "B",
+            "text": "did"
+          },
+          {
+            "key": "C",
+            "text": "had"
+          },
+          {
+            "key": "D",
+            "text": "has"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
+          "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+          "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
+        },
+        "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+        "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
+      },
+      {
+        "id": "TAPI-CHEM-C1-001-Q10",
+        "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
             "key": "A",
@@ -19863,33 +19863,33 @@ Object.assign(window.TEST_REGISTRY, {
           },
           {
             "key": "B",
-            "text": "does"
+            "text": "be"
           },
           {
             "key": "C",
-            "text": "has"
+            "text": "will be"
           },
           {
             "key": "D",
-            "text": "will"
+            "text": "shall to be"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Fronted correlative 'Not only' with base action verb 'increase' demands dummy auxiliary inversion 'does' ('Not only does the synthesis increase...').",
-          "wrong_A": "'Is' cannot invert with base action verb 'increase'.",
-          "wrong_C": "'Has' would require past participle 'increased'.",
-          "wrong_D": "'Will' implies future promise rather than verified chemical fact."
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+          "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+          "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
         },
-        "cz_learning_point": "Czech 'Nejenže vícestupňová syntéza zvyšuje výtěžek..., ale také...'. English requires auxiliary inversion: 'Not only does the synthesis increase..., but it also...'.",
-        "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+        "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+        "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       }
     ]
   },
-  "TAPI-CHEM-C2-002": {
-    "test_id": "TAPI-CHEM-C2-002",
+  "TAPI-CHEM-C1-002": {
+    "test_id": "TAPI-CHEM-C1-002",
     "title": "Patent Invalidation Litigation: Novel Polymorphic Salt Crystal Forms",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
     "estimated_time_minutes": 20,
@@ -19901,7 +19901,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-002-Q1",
+        "id": "TAPI-CHEM-C1-002-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -19923,7 +19923,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -19932,7 +19932,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-002-Q2",
+        "id": "TAPI-CHEM-C1-002-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -19954,7 +19954,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -19963,7 +19963,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-002-Q3",
+        "id": "TAPI-CHEM-C1-002-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -19985,7 +19985,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -19994,7 +19994,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-002-Q4",
+        "id": "TAPI-CHEM-C1-002-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -20016,7 +20016,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20025,7 +20025,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-002-Q5",
+        "id": "TAPI-CHEM-C1-002-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -20047,7 +20047,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20056,7 +20056,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-002-Q6",
+        "id": "TAPI-CHEM-C1-002-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -20078,7 +20078,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20087,7 +20087,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-002-Q7",
+        "id": "TAPI-CHEM-C1-002-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -20109,7 +20109,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20118,7 +20118,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-002-Q8",
+        "id": "TAPI-CHEM-C1-002-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -20140,7 +20140,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20149,7 +20149,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-002-Q9",
+        "id": "TAPI-CHEM-C1-002-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -20171,7 +20171,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20180,7 +20180,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-002-Q10",
+        "id": "TAPI-CHEM-C1-002-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -20202,7 +20202,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20212,10 +20212,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-003": {
-    "test_id": "TAPI-CHEM-C2-003",
+  "TAPI-CHEM-C1-003": {
+    "test_id": "TAPI-CHEM-C1-003",
     "title": "Nitrosamine Mutagenic Risk Toxicological Assessment (ICH M7) Defense",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines",
     "estimated_time_minutes": 20,
@@ -20227,7 +20227,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-003-Q1",
+        "id": "TAPI-CHEM-C1-003-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -20249,7 +20249,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20258,7 +20258,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-003-Q2",
+        "id": "TAPI-CHEM-C1-003-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -20280,7 +20280,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20289,7 +20289,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-003-Q3",
+        "id": "TAPI-CHEM-C1-003-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -20311,7 +20311,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20320,7 +20320,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-003-Q4",
+        "id": "TAPI-CHEM-C1-003-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -20342,7 +20342,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20351,7 +20351,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-003-Q5",
+        "id": "TAPI-CHEM-C1-003-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -20373,7 +20373,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20382,7 +20382,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-003-Q6",
+        "id": "TAPI-CHEM-C1-003-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -20404,7 +20404,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20413,7 +20413,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-003-Q7",
+        "id": "TAPI-CHEM-C1-003-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -20435,7 +20435,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20444,7 +20444,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-003-Q8",
+        "id": "TAPI-CHEM-C1-003-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -20466,7 +20466,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20475,7 +20475,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-003-Q9",
+        "id": "TAPI-CHEM-C1-003-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -20497,7 +20497,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20506,7 +20506,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-003-Q10",
+        "id": "TAPI-CHEM-C1-003-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -20528,7 +20528,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20538,10 +20538,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-004": {
-    "test_id": "TAPI-CHEM-C2-004",
+  "TAPI-CHEM-C1-004": {
+    "test_id": "TAPI-CHEM-C1-004",
     "title": "Cross-Border API Supply Contract Quality Agreement Breach Litigation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
     "estimated_time_minutes": 20,
@@ -20553,7 +20553,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-004-Q1",
+        "id": "TAPI-CHEM-C1-004-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -20575,7 +20575,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20584,7 +20584,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-004-Q2",
+        "id": "TAPI-CHEM-C1-004-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -20606,7 +20606,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20615,7 +20615,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-004-Q3",
+        "id": "TAPI-CHEM-C1-004-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -20637,7 +20637,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20646,7 +20646,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-004-Q4",
+        "id": "TAPI-CHEM-C1-004-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -20668,7 +20668,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20677,7 +20677,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-004-Q5",
+        "id": "TAPI-CHEM-C1-004-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -20699,7 +20699,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20708,7 +20708,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-004-Q6",
+        "id": "TAPI-CHEM-C1-004-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -20730,7 +20730,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20739,7 +20739,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-004-Q7",
+        "id": "TAPI-CHEM-C1-004-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -20761,7 +20761,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20770,7 +20770,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-004-Q8",
+        "id": "TAPI-CHEM-C1-004-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -20792,7 +20792,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20801,7 +20801,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-004-Q9",
+        "id": "TAPI-CHEM-C1-004-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -20823,7 +20823,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20832,7 +20832,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-004-Q10",
+        "id": "TAPI-CHEM-C1-004-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -20854,7 +20854,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20864,10 +20864,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-005": {
-    "test_id": "TAPI-CHEM-C2-005",
+  "TAPI-CHEM-C1-005": {
+    "test_id": "TAPI-CHEM-C1-005",
     "title": "Genotoxic Impurity Threshold of Toxicological Concern (TTC) Inquests",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines",
     "estimated_time_minutes": 20,
@@ -20879,7 +20879,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-005-Q1",
+        "id": "TAPI-CHEM-C1-005-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -20901,7 +20901,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20910,7 +20910,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-005-Q2",
+        "id": "TAPI-CHEM-C1-005-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -20932,7 +20932,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20941,7 +20941,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-005-Q3",
+        "id": "TAPI-CHEM-C1-005-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -20963,7 +20963,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -20972,7 +20972,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-005-Q4",
+        "id": "TAPI-CHEM-C1-005-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -20994,7 +20994,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21003,7 +21003,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-005-Q5",
+        "id": "TAPI-CHEM-C1-005-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -21025,7 +21025,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21034,7 +21034,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-005-Q6",
+        "id": "TAPI-CHEM-C1-005-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -21056,7 +21056,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21065,7 +21065,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-005-Q7",
+        "id": "TAPI-CHEM-C1-005-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -21087,7 +21087,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21096,7 +21096,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-005-Q8",
+        "id": "TAPI-CHEM-C1-005-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -21118,7 +21118,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21127,7 +21127,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-005-Q9",
+        "id": "TAPI-CHEM-C1-005-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -21149,7 +21149,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21158,7 +21158,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines"
       },
       {
-        "id": "TAPI-CHEM-C2-005-Q10",
+        "id": "TAPI-CHEM-C1-005-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -21180,7 +21180,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21190,10 +21190,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-006": {
-    "test_id": "TAPI-CHEM-C2-006",
+  "TAPI-CHEM-C1-006": {
+    "test_id": "TAPI-CHEM-C1-006",
     "title": "European Directorate (EDQM) Certificate of Suitability (CEP) Suspension Appeals",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
     "estimated_time_minutes": 20,
@@ -21205,7 +21205,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-006-Q1",
+        "id": "TAPI-CHEM-C1-006-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -21227,7 +21227,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21236,7 +21236,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-006-Q2",
+        "id": "TAPI-CHEM-C1-006-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -21258,7 +21258,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21267,7 +21267,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-006-Q3",
+        "id": "TAPI-CHEM-C1-006-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -21289,7 +21289,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21298,7 +21298,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-006-Q4",
+        "id": "TAPI-CHEM-C1-006-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -21320,7 +21320,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21329,7 +21329,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-006-Q5",
+        "id": "TAPI-CHEM-C1-006-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -21351,7 +21351,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21360,7 +21360,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-006-Q6",
+        "id": "TAPI-CHEM-C1-006-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -21382,7 +21382,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21391,7 +21391,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-006-Q7",
+        "id": "TAPI-CHEM-C1-006-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -21413,7 +21413,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21422,7 +21422,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-006-Q8",
+        "id": "TAPI-CHEM-C1-006-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -21444,7 +21444,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21453,7 +21453,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-006-Q9",
+        "id": "TAPI-CHEM-C1-006-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -21475,7 +21475,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21484,7 +21484,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-006-Q10",
+        "id": "TAPI-CHEM-C1-006-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -21506,7 +21506,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21516,10 +21516,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-007": {
-    "test_id": "TAPI-CHEM-C2-007",
+  "TAPI-CHEM-C1-007": {
+    "test_id": "TAPI-CHEM-C1-007",
     "title": "Catastrophic Chemical Plant Toxic Runaway Effluent Discharge Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
     "estimated_time_minutes": 20,
@@ -21531,7 +21531,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-007-Q1",
+        "id": "TAPI-CHEM-C1-007-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -21553,7 +21553,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21562,7 +21562,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-007-Q2",
+        "id": "TAPI-CHEM-C1-007-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -21584,7 +21584,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21593,7 +21593,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-007-Q3",
+        "id": "TAPI-CHEM-C1-007-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -21615,7 +21615,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21624,7 +21624,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-007-Q4",
+        "id": "TAPI-CHEM-C1-007-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -21646,7 +21646,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21655,7 +21655,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-007-Q5",
+        "id": "TAPI-CHEM-C1-007-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -21677,7 +21677,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21686,7 +21686,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-007-Q6",
+        "id": "TAPI-CHEM-C1-007-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -21708,7 +21708,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21717,7 +21717,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-007-Q7",
+        "id": "TAPI-CHEM-C1-007-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -21739,7 +21739,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21748,7 +21748,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-007-Q8",
+        "id": "TAPI-CHEM-C1-007-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -21770,7 +21770,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21779,7 +21779,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-007-Q9",
+        "id": "TAPI-CHEM-C1-007-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -21801,7 +21801,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21810,7 +21810,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-007-Q10",
+        "id": "TAPI-CHEM-C1-007-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -21832,7 +21832,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21842,10 +21842,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-008": {
-    "test_id": "TAPI-CHEM-C2-008",
+  "TAPI-CHEM-C1-008": {
+    "test_id": "TAPI-CHEM-C1-008",
     "title": "Supercritical Fluid Chromatography Commercial Technology Transfer Disputes",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
     "estimated_time_minutes": 20,
@@ -21857,7 +21857,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-008-Q1",
+        "id": "TAPI-CHEM-C1-008-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -21879,7 +21879,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21888,7 +21888,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
-        "id": "TAPI-CHEM-C2-008-Q2",
+        "id": "TAPI-CHEM-C1-008-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -21910,7 +21910,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21919,7 +21919,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
-        "id": "TAPI-CHEM-C2-008-Q3",
+        "id": "TAPI-CHEM-C1-008-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -21941,7 +21941,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21950,7 +21950,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
-        "id": "TAPI-CHEM-C2-008-Q4",
+        "id": "TAPI-CHEM-C1-008-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -21972,7 +21972,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -21981,7 +21981,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
-        "id": "TAPI-CHEM-C2-008-Q5",
+        "id": "TAPI-CHEM-C1-008-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -22003,7 +22003,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22012,7 +22012,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
-        "id": "TAPI-CHEM-C2-008-Q6",
+        "id": "TAPI-CHEM-C1-008-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -22034,7 +22034,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22043,7 +22043,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
-        "id": "TAPI-CHEM-C2-008-Q7",
+        "id": "TAPI-CHEM-C1-008-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -22065,7 +22065,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22074,7 +22074,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
-        "id": "TAPI-CHEM-C2-008-Q8",
+        "id": "TAPI-CHEM-C1-008-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -22096,7 +22096,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22105,7 +22105,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
-        "id": "TAPI-CHEM-C2-008-Q9",
+        "id": "TAPI-CHEM-C1-008-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -22127,7 +22127,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22136,7 +22136,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
-        "id": "TAPI-CHEM-C2-008-Q10",
+        "id": "TAPI-CHEM-C1-008-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -22158,7 +22158,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22168,10 +22168,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-009": {
-    "test_id": "TAPI-CHEM-C2-009",
+  "TAPI-CHEM-C1-009": {
+    "test_id": "TAPI-CHEM-C1-009",
     "title": "Chiral Inversion in Vivo Pharmacokinetic Patent Defense Inquests",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
     "estimated_time_minutes": 20,
@@ -22183,7 +22183,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-009-Q1",
+        "id": "TAPI-CHEM-C1-009-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -22205,7 +22205,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22214,7 +22214,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-009-Q2",
+        "id": "TAPI-CHEM-C1-009-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -22236,7 +22236,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22245,7 +22245,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-009-Q3",
+        "id": "TAPI-CHEM-C1-009-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -22267,7 +22267,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22276,7 +22276,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-009-Q4",
+        "id": "TAPI-CHEM-C1-009-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -22298,7 +22298,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22307,7 +22307,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-009-Q5",
+        "id": "TAPI-CHEM-C1-009-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -22329,7 +22329,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22338,7 +22338,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-009-Q6",
+        "id": "TAPI-CHEM-C1-009-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -22360,7 +22360,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22369,7 +22369,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-009-Q7",
+        "id": "TAPI-CHEM-C1-009-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -22391,7 +22391,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22400,7 +22400,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-009-Q8",
+        "id": "TAPI-CHEM-C1-009-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -22422,7 +22422,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22431,7 +22431,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-009-Q9",
+        "id": "TAPI-CHEM-C1-009-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -22453,7 +22453,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22462,7 +22462,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-009-Q10",
+        "id": "TAPI-CHEM-C1-009-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -22484,7 +22484,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22494,10 +22494,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-010": {
-    "test_id": "TAPI-CHEM-C2-010",
+  "TAPI-CHEM-C1-010": {
+    "test_id": "TAPI-CHEM-C1-010",
     "title": "Continuous Synthesis Micro-Reactor Reactor Blockage Explosive Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
     "estimated_time_minutes": 20,
@@ -22509,7 +22509,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-010-Q1",
+        "id": "TAPI-CHEM-C1-010-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -22531,7 +22531,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22540,7 +22540,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-010-Q2",
+        "id": "TAPI-CHEM-C1-010-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -22562,7 +22562,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22571,7 +22571,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-010-Q3",
+        "id": "TAPI-CHEM-C1-010-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -22593,7 +22593,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22602,7 +22602,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-010-Q4",
+        "id": "TAPI-CHEM-C1-010-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -22624,7 +22624,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22633,7 +22633,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-010-Q5",
+        "id": "TAPI-CHEM-C1-010-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -22655,7 +22655,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22664,7 +22664,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-010-Q6",
+        "id": "TAPI-CHEM-C1-010-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -22686,7 +22686,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22695,7 +22695,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-010-Q7",
+        "id": "TAPI-CHEM-C1-010-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -22717,7 +22717,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22726,7 +22726,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-010-Q8",
+        "id": "TAPI-CHEM-C1-010-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -22748,7 +22748,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22757,7 +22757,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-010-Q9",
+        "id": "TAPI-CHEM-C1-010-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -22779,7 +22779,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22788,7 +22788,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-010-Q10",
+        "id": "TAPI-CHEM-C1-010-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -22810,7 +22810,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22820,10 +22820,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-011": {
-    "test_id": "TAPI-CHEM-C2-011",
+  "TAPI-CHEM-C1-011": {
+    "test_id": "TAPI-CHEM-C1-011",
     "title": "Expert Witness Deposition: Analytical Method Cross-Validation Failures",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
     "estimated_time_minutes": 20,
@@ -22835,7 +22835,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-011-Q1",
+        "id": "TAPI-CHEM-C1-011-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -22857,7 +22857,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22866,7 +22866,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-011-Q2",
+        "id": "TAPI-CHEM-C1-011-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -22888,7 +22888,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22897,7 +22897,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-011-Q3",
+        "id": "TAPI-CHEM-C1-011-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -22919,7 +22919,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22928,7 +22928,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-011-Q4",
+        "id": "TAPI-CHEM-C1-011-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -22950,7 +22950,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22959,7 +22959,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-011-Q5",
+        "id": "TAPI-CHEM-C1-011-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -22981,7 +22981,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -22990,7 +22990,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-011-Q6",
+        "id": "TAPI-CHEM-C1-011-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -23012,7 +23012,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23021,7 +23021,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-011-Q7",
+        "id": "TAPI-CHEM-C1-011-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -23043,7 +23043,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23052,7 +23052,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-011-Q8",
+        "id": "TAPI-CHEM-C1-011-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -23074,7 +23074,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23083,7 +23083,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-011-Q9",
+        "id": "TAPI-CHEM-C1-011-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -23105,7 +23105,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23114,7 +23114,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-011-Q10",
+        "id": "TAPI-CHEM-C1-011-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -23136,7 +23136,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23146,10 +23146,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-012": {
-    "test_id": "TAPI-CHEM-C2-012",
+  "TAPI-CHEM-C1-012": {
+    "test_id": "TAPI-CHEM-C1-012",
     "title": "Harmonization of Pharmacopeial Dissolution Testing Protocols (Ph. Eur. vs USP)",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
     "estimated_time_minutes": 20,
@@ -23161,7 +23161,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-012-Q1",
+        "id": "TAPI-CHEM-C1-012-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -23183,7 +23183,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23192,7 +23192,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-012-Q2",
+        "id": "TAPI-CHEM-C1-012-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -23214,7 +23214,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23223,7 +23223,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-012-Q3",
+        "id": "TAPI-CHEM-C1-012-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -23245,7 +23245,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23254,7 +23254,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-012-Q4",
+        "id": "TAPI-CHEM-C1-012-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -23276,7 +23276,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23285,7 +23285,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-012-Q5",
+        "id": "TAPI-CHEM-C1-012-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -23307,7 +23307,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23316,7 +23316,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-012-Q6",
+        "id": "TAPI-CHEM-C1-012-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -23338,7 +23338,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23347,7 +23347,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-012-Q7",
+        "id": "TAPI-CHEM-C1-012-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -23369,7 +23369,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23378,7 +23378,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-012-Q8",
+        "id": "TAPI-CHEM-C1-012-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -23400,7 +23400,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23409,7 +23409,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-012-Q9",
+        "id": "TAPI-CHEM-C1-012-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -23431,7 +23431,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23440,7 +23440,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-012-Q10",
+        "id": "TAPI-CHEM-C1-012-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -23462,7 +23462,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23472,10 +23472,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-013": {
-    "test_id": "TAPI-CHEM-C2-013",
+  "TAPI-CHEM-C1-013": {
+    "test_id": "TAPI-CHEM-C1-013",
     "title": "Industrial Solvent Recovery Distillation Column Dioxin Formation Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
     "estimated_time_minutes": 20,
@@ -23487,7 +23487,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-013-Q1",
+        "id": "TAPI-CHEM-C1-013-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -23509,7 +23509,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23518,7 +23518,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-013-Q2",
+        "id": "TAPI-CHEM-C1-013-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -23540,7 +23540,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23549,7 +23549,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-013-Q3",
+        "id": "TAPI-CHEM-C1-013-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -23571,7 +23571,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23580,7 +23580,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-013-Q4",
+        "id": "TAPI-CHEM-C1-013-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -23602,7 +23602,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23611,7 +23611,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-013-Q5",
+        "id": "TAPI-CHEM-C1-013-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -23633,7 +23633,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23642,7 +23642,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-013-Q6",
+        "id": "TAPI-CHEM-C1-013-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -23664,7 +23664,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23673,7 +23673,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-013-Q7",
+        "id": "TAPI-CHEM-C1-013-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -23695,7 +23695,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23704,7 +23704,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-013-Q8",
+        "id": "TAPI-CHEM-C1-013-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -23726,7 +23726,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23735,7 +23735,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-013-Q9",
+        "id": "TAPI-CHEM-C1-013-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -23757,7 +23757,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23766,7 +23766,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
-        "id": "TAPI-CHEM-C2-013-Q10",
+        "id": "TAPI-CHEM-C1-013-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -23788,7 +23788,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23798,10 +23798,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-014": {
-    "test_id": "TAPI-CHEM-C2-014",
+  "TAPI-CHEM-C1-014": {
+    "test_id": "TAPI-CHEM-C1-014",
     "title": "Catalytic Asymmetric Hydrogenation Intellectual Property Counter-Claims",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
     "estimated_time_minutes": 20,
@@ -23813,7 +23813,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-014-Q1",
+        "id": "TAPI-CHEM-C1-014-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -23835,7 +23835,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23844,7 +23844,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-014-Q2",
+        "id": "TAPI-CHEM-C1-014-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -23866,7 +23866,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23875,7 +23875,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-014-Q3",
+        "id": "TAPI-CHEM-C1-014-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -23897,7 +23897,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23906,7 +23906,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-014-Q4",
+        "id": "TAPI-CHEM-C1-014-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -23928,7 +23928,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23937,7 +23937,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-014-Q5",
+        "id": "TAPI-CHEM-C1-014-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -23959,7 +23959,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23968,7 +23968,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-014-Q6",
+        "id": "TAPI-CHEM-C1-014-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -23990,7 +23990,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -23999,7 +23999,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-014-Q7",
+        "id": "TAPI-CHEM-C1-014-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -24021,7 +24021,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24030,7 +24030,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-014-Q8",
+        "id": "TAPI-CHEM-C1-014-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -24052,7 +24052,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24061,7 +24061,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-014-Q9",
+        "id": "TAPI-CHEM-C1-014-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -24083,7 +24083,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24092,7 +24092,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-014-Q10",
+        "id": "TAPI-CHEM-C1-014-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -24114,7 +24114,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24124,10 +24124,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-015": {
-    "test_id": "TAPI-CHEM-C2-015",
+  "TAPI-CHEM-C1-015": {
+    "test_id": "TAPI-CHEM-C1-015",
     "title": "OOS False Negative Release Fraud Inquest: Regulatory Whistleblower Defense",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
     "estimated_time_minutes": 20,
@@ -24139,7 +24139,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-015-Q1",
+        "id": "TAPI-CHEM-C1-015-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -24161,7 +24161,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24170,7 +24170,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-015-Q2",
+        "id": "TAPI-CHEM-C1-015-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -24192,7 +24192,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24201,7 +24201,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-015-Q3",
+        "id": "TAPI-CHEM-C1-015-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -24223,7 +24223,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24232,7 +24232,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-015-Q4",
+        "id": "TAPI-CHEM-C1-015-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -24254,7 +24254,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24263,7 +24263,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-015-Q5",
+        "id": "TAPI-CHEM-C1-015-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -24285,7 +24285,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24294,7 +24294,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-015-Q6",
+        "id": "TAPI-CHEM-C1-015-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -24316,7 +24316,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24325,7 +24325,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-015-Q7",
+        "id": "TAPI-CHEM-C1-015-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -24347,7 +24347,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24356,7 +24356,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-015-Q8",
+        "id": "TAPI-CHEM-C1-015-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -24378,7 +24378,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24387,7 +24387,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-015-Q9",
+        "id": "TAPI-CHEM-C1-015-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -24409,7 +24409,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24418,7 +24418,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-015-Q10",
+        "id": "TAPI-CHEM-C1-015-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -24440,7 +24440,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24450,10 +24450,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-016": {
-    "test_id": "TAPI-CHEM-C2-016",
+  "TAPI-CHEM-C1-016": {
+    "test_id": "TAPI-CHEM-C1-016",
     "title": "Solid-State Degradation Kinetics in High-Temperature Tropical Storage",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
     "estimated_time_minutes": 20,
@@ -24465,7 +24465,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-016-Q1",
+        "id": "TAPI-CHEM-C1-016-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -24487,7 +24487,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24496,7 +24496,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-016-Q2",
+        "id": "TAPI-CHEM-C1-016-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -24518,7 +24518,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24527,7 +24527,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-016-Q3",
+        "id": "TAPI-CHEM-C1-016-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -24549,7 +24549,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24558,7 +24558,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-016-Q4",
+        "id": "TAPI-CHEM-C1-016-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -24580,7 +24580,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24589,7 +24589,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-016-Q5",
+        "id": "TAPI-CHEM-C1-016-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -24611,7 +24611,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24620,7 +24620,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-016-Q6",
+        "id": "TAPI-CHEM-C1-016-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -24642,7 +24642,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24651,7 +24651,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-016-Q7",
+        "id": "TAPI-CHEM-C1-016-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -24673,7 +24673,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24682,7 +24682,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-016-Q8",
+        "id": "TAPI-CHEM-C1-016-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -24704,7 +24704,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24713,7 +24713,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-016-Q9",
+        "id": "TAPI-CHEM-C1-016-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -24735,7 +24735,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24744,7 +24744,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
-        "id": "TAPI-CHEM-C2-016-Q10",
+        "id": "TAPI-CHEM-C1-016-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -24766,7 +24766,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24776,10 +24776,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-017": {
-    "test_id": "TAPI-CHEM-C2-017",
+  "TAPI-CHEM-C1-017": {
+    "test_id": "TAPI-CHEM-C1-017",
     "title": "International Arbitration of Raw Material Contamination Damage Claims",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
     "estimated_time_minutes": 20,
@@ -24791,7 +24791,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-017-Q1",
+        "id": "TAPI-CHEM-C1-017-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -24813,7 +24813,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24822,7 +24822,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-017-Q2",
+        "id": "TAPI-CHEM-C1-017-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -24844,7 +24844,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24853,7 +24853,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-017-Q3",
+        "id": "TAPI-CHEM-C1-017-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -24875,7 +24875,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24884,7 +24884,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-017-Q4",
+        "id": "TAPI-CHEM-C1-017-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -24906,7 +24906,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24915,7 +24915,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-017-Q5",
+        "id": "TAPI-CHEM-C1-017-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -24937,7 +24937,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24946,7 +24946,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-017-Q6",
+        "id": "TAPI-CHEM-C1-017-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -24968,7 +24968,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -24977,7 +24977,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-017-Q7",
+        "id": "TAPI-CHEM-C1-017-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -24999,7 +24999,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25008,7 +25008,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-017-Q8",
+        "id": "TAPI-CHEM-C1-017-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -25030,7 +25030,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25039,7 +25039,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-017-Q9",
+        "id": "TAPI-CHEM-C1-017-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -25061,7 +25061,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25070,7 +25070,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-017-Q10",
+        "id": "TAPI-CHEM-C1-017-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -25092,7 +25092,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25102,10 +25102,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-018": {
-    "test_id": "TAPI-CHEM-C2-018",
+  "TAPI-CHEM-C1-018": {
+    "test_id": "TAPI-CHEM-C1-018",
     "title": "Executive Board Defense of Green Chemistry API Capital Re-Tooling",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
     "estimated_time_minutes": 20,
@@ -25117,7 +25117,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-018-Q1",
+        "id": "TAPI-CHEM-C1-018-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -25139,7 +25139,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25148,7 +25148,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-018-Q2",
+        "id": "TAPI-CHEM-C1-018-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -25170,7 +25170,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25179,7 +25179,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-018-Q3",
+        "id": "TAPI-CHEM-C1-018-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -25201,7 +25201,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25210,7 +25210,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-018-Q4",
+        "id": "TAPI-CHEM-C1-018-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -25232,7 +25232,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25241,7 +25241,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-018-Q5",
+        "id": "TAPI-CHEM-C1-018-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -25263,7 +25263,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25272,7 +25272,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-018-Q6",
+        "id": "TAPI-CHEM-C1-018-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -25294,7 +25294,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25303,7 +25303,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-018-Q7",
+        "id": "TAPI-CHEM-C1-018-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -25325,7 +25325,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25334,7 +25334,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-018-Q8",
+        "id": "TAPI-CHEM-C1-018-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -25356,7 +25356,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25365,7 +25365,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-018-Q9",
+        "id": "TAPI-CHEM-C1-018-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -25387,7 +25387,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25396,7 +25396,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
-        "id": "TAPI-CHEM-C2-018-Q10",
+        "id": "TAPI-CHEM-C1-018-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -25418,7 +25418,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25428,10 +25428,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-019": {
-    "test_id": "TAPI-CHEM-C2-019",
+  "TAPI-CHEM-C1-019": {
+    "test_id": "TAPI-CHEM-C1-019",
     "title": "Regulatory Warning Letter Response: Impurity Analytical Method Deficiencies",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
     "estimated_time_minutes": 20,
@@ -25443,7 +25443,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-019-Q1",
+        "id": "TAPI-CHEM-C1-019-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -25465,7 +25465,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25474,7 +25474,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-019-Q2",
+        "id": "TAPI-CHEM-C1-019-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -25496,7 +25496,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25505,7 +25505,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-019-Q3",
+        "id": "TAPI-CHEM-C1-019-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -25527,7 +25527,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25536,7 +25536,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-019-Q4",
+        "id": "TAPI-CHEM-C1-019-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -25558,7 +25558,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25567,7 +25567,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-019-Q5",
+        "id": "TAPI-CHEM-C1-019-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -25589,7 +25589,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25598,7 +25598,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-019-Q6",
+        "id": "TAPI-CHEM-C1-019-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -25620,7 +25620,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25629,7 +25629,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-019-Q7",
+        "id": "TAPI-CHEM-C1-019-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -25651,7 +25651,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25660,7 +25660,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-019-Q8",
+        "id": "TAPI-CHEM-C1-019-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -25682,7 +25682,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25691,7 +25691,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-019-Q9",
+        "id": "TAPI-CHEM-C1-019-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -25713,7 +25713,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25722,7 +25722,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
-        "id": "TAPI-CHEM-C2-019-Q10",
+        "id": "TAPI-CHEM-C1-019-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -25744,7 +25744,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25754,10 +25754,10 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TAPI-CHEM-C2-020": {
-    "test_id": "TAPI-CHEM-C2-020",
+  "TAPI-CHEM-C1-020": {
+    "test_id": "TAPI-CHEM-C1-020",
     "title": "Scientific Advisory Board Dispute: Synthetic Route Freedom to Operate",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
     "estimated_time_minutes": 20,
@@ -25769,7 +25769,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TAPI-CHEM-C2-020-Q1",
+        "id": "TAPI-CHEM-C1-020-Q1",
         "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
         "options": [
           {
@@ -25791,7 +25791,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25800,7 +25800,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-020-Q2",
+        "id": "TAPI-CHEM-C1-020-Q2",
         "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
         "options": [
           {
@@ -25822,7 +25822,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25831,7 +25831,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-020-Q3",
+        "id": "TAPI-CHEM-C1-020-Q3",
         "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
         "options": [
           {
@@ -25853,7 +25853,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
           "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25862,7 +25862,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-020-Q4",
+        "id": "TAPI-CHEM-C1-020-Q4",
         "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
         "options": [
           {
@@ -25884,7 +25884,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
           "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25893,7 +25893,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-020-Q5",
+        "id": "TAPI-CHEM-C1-020-Q5",
         "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
         "options": [
           {
@@ -25915,7 +25915,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
           "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25924,7 +25924,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-020-Q6",
+        "id": "TAPI-CHEM-C1-020-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
         "options": [
           {
@@ -25946,7 +25946,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
           "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25955,7 +25955,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-020-Q7",
+        "id": "TAPI-CHEM-C1-020-Q7",
         "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
         "options": [
           {
@@ -25977,7 +25977,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
           "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
@@ -25986,7 +25986,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-020-Q8",
+        "id": "TAPI-CHEM-C1-020-Q8",
         "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
         "options": [
           {
@@ -26008,7 +26008,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
           "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
@@ -26017,7 +26017,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-020-Q9",
+        "id": "TAPI-CHEM-C1-020-Q9",
         "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
         "options": [
           {
@@ -26039,7 +26039,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
           "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
           "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
@@ -26048,7 +26048,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Patent Litigation & Monograph Harmonization"
       },
       {
-        "id": "TAPI-CHEM-C2-020-Q10",
+        "id": "TAPI-CHEM-C1-020-Q10",
         "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
         "options": [
           {
@@ -26070,7 +26070,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+          "correct": "C1 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
           "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
           "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."

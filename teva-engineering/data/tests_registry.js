@@ -19561,151 +19561,89 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-001": {
-    "test_id": "TEV-ENG-C2-001",
+  "TEV-ENG-C1-001": {
+    "test_id": "TEV-ENG-C1-001",
     "title": "Unannounced FDA/EMA Regulatory Inspection Defense & GAMP 5 Disputes",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
     "estimated_time_minutes": 20,
-    "description": "Lead CSV and sterile facility engineering responses: addressing FDA Form 483 inspection observations, defending SCADA audit trails, and framing cleanroom HVAC cascade mitigations without admitting willful non-compliance.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining unannounced fda/ema regulatory inspection defense & gamp 5 disputes.",
     "learning_objectives": [
-      "Master diplomatic counter-argumentation during high-stakes health authority audits",
-      "Formulate precise passive hedging in computerized system validation (CSV) audit defenses",
-      "Utilize formal mandative and inverted structures in regulatory corrective action plans"
+      "Master professional Diplomatic Counter-Argumentation & Hedging in pharmaceutical engineering and cleanroom automation",
+      "Eliminate common Czech interference errors in unannounced fda/ema regulatory inspection defense & gamp 5 disputes",
+      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-001-Q1",
-        "prompt": "On no account _____ authorized cleanroom operators share administrative credentials to bypass electronic signature controls on the Lyophilizer SCADA terminal.",
+        "id": "TEV-ENG-C1-001-Q1",
+        "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
             "key": "A",
-            "text": "the personnel may"
+            "text": "institutes"
           },
           {
             "key": "B",
-            "text": "may authorized"
+            "text": "institute"
           },
           {
             "key": "C",
-            "text": "personnel should"
+            "text": "shall institute"
           },
           {
             "key": "D",
-            "text": "are to"
+            "text": "must to institute"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Fronted negative restrictive prepositional phrase 'On no account' requires subject-auxiliary inversion ('may authorized cleanroom operators share').",
-          "wrong_A": "Lacks required inversion after fronted negative phrase.",
-          "wrong_C": "Direct word order violates the formal inversion rule.",
-          "wrong_D": "'Are to' creates invalid syntax with the sentence structure."
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+          "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
+          "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
         },
-        "cz_learning_point": "Czech 'Za žádných okolností nesmí operátoři sdílet...'. In formal GMP SOPs and audit responses, use fronted inversion: 'On no account may authorized operators share...'.",
-        "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+        "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+        "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-001-Q2",
-        "prompt": "While the FDA inspector noted an apparent audit trail gap, our forensic server telemetry _____ that the system was undergoing pre-scheduled NTP synchronization.",
+        "id": "TEV-ENG-C1-001-Q2",
+        "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
             "key": "A",
-            "text": "categorically proves beyond all shadow of doubt"
+            "text": "are"
           },
           {
             "key": "B",
-            "text": "unmistakably and undeniably asserts"
+            "text": "were"
           },
           {
             "key": "C",
-            "text": "would appear to substantiate"
+            "text": "have"
           },
           {
             "key": "D",
-            "text": "is shouting out"
+            "text": "did"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "In regulatory audit responses, diplomatic epistemic hedging ('would appear to substantiate') demonstrates objective scientific rigor without triggering regulatory antagonism.",
-          "wrong_A": "Excessively emotional and absolute phrasing ('beyond all shadow of doubt') is considered unprofessional in official FDA 483 responses.",
-          "wrong_B": "Confrontational and unscientific register.",
-          "wrong_D": "Colloquial idiom completely out of place in pharmaceutical regulatory governance."
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+          "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
+          "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
         },
-        "cz_learning_point": "Czech 'se zdá potvrzovat / nasvědčuje tomu'. In FDA 483 responses, avoid belligerent claims; use refined hedging like 'would appear to substantiate'.",
-        "workplace_track": "Regulatory Health Authority Audits, GAMP 5 & Computerized System Validation"
+        "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+        "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-001-Q3",
-        "prompt": "_____ the computerized building management system (BMS) executed an automated failover during the cleanroom pressure drop, the Grade B aseptic envelope would have remained compromised.",
+        "id": "TEV-ENG-C1-001-Q3",
+        "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
             "key": "A",
-            "text": "Had not"
-          },
-          {
-            "key": "B",
-            "text": "Were not"
-          },
-          {
-            "key": "C",
-            "text": "Had"
-          },
-          {
-            "key": "D",
-            "text": "Should not"
-          }
-        ],
-        "correct_key": "A",
-        "explanations": {
-          "correct": "Inverted third conditional negative ('Had not the computerized BMS executed...' or 'Had the computerized BMS not executed...') describes a past counterfactual disaster that was successfully prevented.",
-          "wrong_B": "'Were not' cannot pair with past participle 'executed'.",
-          "wrong_C": "Positive 'Had' would mean the failure occurred BECAUSE of the failover, reversing the causal reality.",
-          "wrong_D": "'Should not' applies to future possibilities, not historical past incidents."
-        },
-        "cz_learning_point": "Czech 'Kdyby systém neprovedl automatické přepnutí...'. High-register validation reporting inverts 'had': 'Had the BMS not executed...'.",
-        "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
-      },
-      {
-        "id": "TEV-ENG-C2-001-Q4",
-        "prompt": "The Corporate Quality Assurance Directorate mandated that the validation lead engineer _____ an immediate retrospection audit of all GAMP Category 4 configurable software packages.",
-        "options": [
-          {
-            "key": "A",
-            "text": "undertake"
-          },
-          {
-            "key": "B",
-            "text": "undertakes"
-          },
-          {
-            "key": "C",
-            "text": "shall undertake"
-          },
-          {
-            "key": "D",
-            "text": "is undertaking"
-          }
-        ],
-        "correct_key": "A",
-        "explanations": {
-          "correct": "Mandative subjunctive after 'mandated that' requires the uninflected base verb 'undertake'.",
-          "wrong_B": "Third person singular 'undertakes' violates the mandative subjunctive mood required in formal quality directives.",
-          "wrong_C": "'Shall undertake' is valid in contractual obligations, but after 'mandated that', standard high-register English uses the bare subjunctive.",
-          "wrong_D": "Continuous aspect is incorrect in formal administrative directives."
-        },
-        "cz_learning_point": "Czech 'vedení nařídilo, aby vedoucí inženýr provedl...'. Mandative subjunctive: 'mandated that the engineer undertake...'.",
-        "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
-      },
-      {
-        "id": "TEV-ENG-C2-001-Q5",
-        "prompt": "Rarely _____ an unannounced regulatory health inspection uncover zero computerized system validation discrepancies across an entire multi-suite sterile filling facility.",
-        "options": [
-          {
-            "key": "A",
-            "text": "an inspector does"
+            "text": "be"
           },
           {
             "key": "B",
@@ -19713,150 +19651,181 @@ Object.assign(window.TEST_REGISTRY, {
           },
           {
             "key": "C",
-            "text": "does"
+            "text": "will be"
+          },
+          {
+            "key": "D",
+            "text": "must to be"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+          "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
+          "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
+        },
+        "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+        "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
+      },
+      {
+        "id": "TEV-ENG-C1-001-Q4",
+        "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Had"
+          },
+          {
+            "key": "B",
+            "text": "Should"
+          },
+          {
+            "key": "C",
+            "text": "If were"
+          },
+          {
+            "key": "D",
+            "text": "Were"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+          "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
+          "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
+        },
+        "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+        "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
+      },
+      {
+        "id": "TEV-ENG-C1-001-Q5",
+        "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
+        "options": [
+          {
+            "key": "A",
+            "text": "the HVAC system did"
+          },
+          {
+            "key": "B",
+            "text": "was the HVAC system"
+          },
+          {
+            "key": "C",
+            "text": "did the HVAC system"
+          },
+          {
+            "key": "D",
+            "text": "has the HVAC system"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+          "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
+          "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
+        },
+        "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+        "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
+      },
+      {
+        "id": "TEV-ENG-C1-001-Q6",
+        "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
+        "options": [
+          {
+            "key": "A",
+            "text": "are"
+          },
+          {
+            "key": "B",
+            "text": "is"
+          },
+          {
+            "key": "C",
+            "text": "will"
           },
           {
             "key": "D",
             "text": "has"
           }
         ],
-        "correct_key": "C",
-        "explanations": {
-          "correct": "Fronted negative frequency adverb 'Rarely' followed by singular subject 'an inspection' and base verb 'uncover' requires dummy auxiliary inversion 'does' ('Rarely does an inspection uncover...').",
-          "wrong_A": "Lacks required inversion after fronted restrictive adverb.",
-          "wrong_B": "'Is' cannot invert with base action verb 'uncover'.",
-          "wrong_D": "'Has' would require past participle 'uncovered'."
-        },
-        "cz_learning_point": "Czech 'Zřídkakdy neohlášená inspekce neodhalí...'. English fronted 'Rarely' forces inversion: 'Rarely does an unannounced inspection uncover...'.",
-        "workplace_track": "Regulatory Health Authority Audits, GAMP 5 & Computerized System Validation"
-      },
-      {
-        "id": "TEV-ENG-C2-001-Q6",
-        "prompt": "The engineering remediation plan must be executed rigorously, _____ the regulatory body serve a formal Warning Letter against the sterile manufacturing plant.",
-        "options": [
-          {
-            "key": "A",
-            "text": "in order not"
-          },
-          {
-            "key": "B",
-            "text": "lest"
-          },
-          {
-            "key": "C",
-            "text": "unless that"
-          },
-          {
-            "key": "D",
-            "text": "otherwise that"
-          }
-        ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Formal conjunction 'lest' ('for fear that') introduces a severe regulatory consequence and takes the subjunctive verb 'serve'.",
-          "wrong_A": "'In order not' requires infinitive with 'to', not a full clause with subject.",
-          "wrong_C": "'Unless that' is ungrammatical in standard English.",
-          "wrong_D": "'Otherwise that' is a literal Czenglish transfer error (*jinak aby ne*)."
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+          "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
+          "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
         },
-        "cz_learning_point": "Czech 'aby inspekční orgán nevydal varovný dopis...'. Formal English uses 'lest [subject] [subjunctive verb]': 'lest the regulatory body serve a Warning Letter'.",
-        "workplace_track": "Regulatory Health Authority Audits, GAMP 5 & Computerized System Validation"
+        "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+        "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-001-Q7",
-        "prompt": "Hardly had the CIP (Clean-in-Place) caustic wash cycle terminated _____ the inline conductivity sensor recorded an out-of-specification rinse water reading.",
+        "id": "TEV-ENG-C1-001-Q7",
+        "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
             "key": "A",
-            "text": "than"
+            "text": "are presented"
           },
           {
             "key": "B",
-            "text": "that"
+            "text": "will be presented"
           },
           {
             "key": "C",
-            "text": "after"
+            "text": "must to be presented"
           },
           {
             "key": "D",
-            "text": "when"
+            "text": "be presented"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "'Hardly had [event]... when [second event]' is the strictly required correlative conjunction in formal technical reporting.",
-          "wrong_A": "'Than' pairs with 'No sooner', not 'Hardly'.",
-          "wrong_B": "'That' cannot act as the correlative conjunction for 'Hardly'.",
-          "wrong_C": "'After' is grammatically redundant with past perfect auxiliary inversion."
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+          "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
+          "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
         },
-        "cz_learning_point": "Czech 'Sotva skončil promývací cyklus, když v tom...'. 'Hardly had...' must always be paired with 'WHEN'.",
-        "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+        "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+        "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-001-Q8",
-        "prompt": "_____ an audit trail discrepancy arise in the batch release record, the Qualified Person (QP) must suspend lot disposition immediately.",
+        "id": "TEV-ENG-C1-001-Q8",
+        "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
             "key": "A",
-            "text": "Should"
+            "text": "would have migrated"
           },
           {
             "key": "B",
-            "text": "Were"
+            "text": "would migrate"
           },
           {
             "key": "C",
-            "text": "Had"
+            "text": "had migrated"
           },
           {
             "key": "D",
-            "text": "If so"
+            "text": "will migrate"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Inverted first conditional ('Should an audit trail discrepancy arise...') represents formal GMP standard operating procedure phrasing for future eventualities.",
-          "wrong_B": "'Were' would require 'to arise', not bare infinitive 'arise'.",
-          "wrong_C": "'Had' pairs with past counterfactual events, not future disposition procedures.",
-          "wrong_D": "'If so' cannot act as a subordinate conditional clause conjunction."
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+          "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
+          "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
         },
-        "cz_learning_point": "Czech 'Pokud by vznikla jakákoliv nesrovnalost...'. In formal SOP guidelines, use 'Should an audit trail discrepancy arise...'.",
-        "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+        "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+        "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-001-Q9",
-        "prompt": "The observed particle count excursion during vial stoppling cannot _____ solely to operator gowning shedding without evaluating HEPA filter face velocity.",
-        "options": [
-          {
-            "key": "A",
-            "text": "conclusively ascribe"
-          },
-          {
-            "key": "B",
-            "text": "ascribe itself"
-          },
-          {
-            "key": "C",
-            "text": "rationally be ascribed"
-          },
-          {
-            "key": "D",
-            "text": "be having ascribed"
-          }
-        ],
-        "correct_key": "C",
-        "explanations": {
-          "correct": "Passive modal construction with cognitive hedging ('cannot rationally be ascribed to...') accurately qualifies root cause analysis in pharmaceutical quality risk management.",
-          "wrong_A": "Active voice 'ascribe' cannot have the inanimate excursion as its subject.",
-          "wrong_B": "'Ascribe itself' is a direct Czenglish reflexive error (*připisovat se*).",
-          "wrong_D": "Ungrammatical progressive passive construction."
-        },
-        "cz_learning_point": "Czech 'odchylku nelze rozumně přičítat pouze...'. Do not translate reflexively (*ascribe itself*). Use passive modal 'cannot rationally be ascribed to...'.",
-        "workplace_track": "Sterile Compounding & Filling Line Automation"
-      },
-      {
-        "id": "TEV-ENG-C2-001-Q10",
-        "prompt": "Little _____ the plant automation team realize that a legacy firmware update on the programmable logic controller would corrupt historical 21 CFR Part 11 electronic signatures.",
+        "id": "TEV-ENG-C1-001-Q9",
+        "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
             "key": "A",
@@ -19868,33 +19837,64 @@ Object.assign(window.TEST_REGISTRY, {
           },
           {
             "key": "C",
-            "text": "has"
+            "text": "had"
           },
           {
             "key": "D",
-            "text": "had"
+            "text": "has"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+          "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
+          "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
+        },
+        "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+        "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
+      },
+      {
+        "id": "TEV-ENG-C1-001-Q10",
+        "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
+        "options": [
+          {
+            "key": "A",
+            "text": "is deemed"
+          },
+          {
+            "key": "B",
+            "text": "be deemed"
+          },
+          {
+            "key": "C",
+            "text": "will be deemed"
+          },
+          {
+            "key": "D",
+            "text": "shall to be deemed"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Fronted restrictive adverb 'Little' followed by base lexical verb 'realize' requires past auxiliary inversion 'did' ('Little did the team realize...').",
-          "wrong_A": "'Was' cannot invert with base action verb 'realize'.",
-          "wrong_C": "'Has' would require past participle 'realized'.",
-          "wrong_D": "'Had' creates awkward double-past perfect with 'would corrupt'."
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+          "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
+          "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
         },
-        "cz_learning_point": "Czech 'Tým si vůbec neuvědomoval, že...'. Formal dramatic negative inversion in incident post-mortems: 'Little did the plant automation team realize...'.",
-        "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+        "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+        "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       }
     ]
   },
-  "TEV-ENG-C2-002": {
-    "test_id": "TEV-ENG-C2-002",
+  "TEV-ENG-C1-002": {
+    "test_id": "TEV-ENG-C1-002",
     "title": "FDA Warning Letter Official Response: Data Integrity Remediation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining fda warning letter official response: data integrity remediation.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining fda warning letter official response: data integrity remediation.",
     "learning_objectives": [
       "Master professional High-Register Regulatory Legal Defense in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in fda warning letter official response: data integrity remediation",
@@ -19902,7 +19902,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-002-Q1",
+        "id": "TEV-ENG-C1-002-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -19924,7 +19924,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -19933,7 +19933,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-002-Q2",
+        "id": "TEV-ENG-C1-002-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -19955,7 +19955,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -19964,7 +19964,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-002-Q3",
+        "id": "TEV-ENG-C1-002-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -19986,7 +19986,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -19995,7 +19995,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-002-Q4",
+        "id": "TEV-ENG-C1-002-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -20017,7 +20017,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -20026,7 +20026,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-002-Q5",
+        "id": "TEV-ENG-C1-002-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -20048,7 +20048,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -20057,7 +20057,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-002-Q6",
+        "id": "TEV-ENG-C1-002-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -20079,7 +20079,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -20088,7 +20088,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-002-Q7",
+        "id": "TEV-ENG-C1-002-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -20110,7 +20110,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -20119,7 +20119,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-002-Q8",
+        "id": "TEV-ENG-C1-002-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -20141,7 +20141,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -20150,7 +20150,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-002-Q9",
+        "id": "TEV-ENG-C1-002-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -20172,7 +20172,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -20181,7 +20181,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-002-Q10",
+        "id": "TEV-ENG-C1-002-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -20203,7 +20203,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -20213,14 +20213,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-003": {
-    "test_id": "TEV-ENG-C2-003",
+  "TEV-ENG-C1-003": {
+    "test_id": "TEV-ENG-C1-003",
     "title": "Catastrophic Cleanroom Bio-Containment Breach Inquest & Liability",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining catastrophic cleanroom bio-containment breach inquest & liability.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining catastrophic cleanroom bio-containment breach inquest & liability.",
     "learning_objectives": [
       "Master professional Forensic Investigation Syntax in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in catastrophic cleanroom bio-containment breach inquest & liability",
@@ -20228,7 +20228,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-003-Q1",
+        "id": "TEV-ENG-C1-003-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -20250,7 +20250,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -20259,7 +20259,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-003-Q2",
+        "id": "TEV-ENG-C1-003-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -20281,7 +20281,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -20290,7 +20290,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-003-Q3",
+        "id": "TEV-ENG-C1-003-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -20312,7 +20312,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -20321,7 +20321,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-003-Q4",
+        "id": "TEV-ENG-C1-003-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -20343,7 +20343,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -20352,7 +20352,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-003-Q5",
+        "id": "TEV-ENG-C1-003-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -20374,7 +20374,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -20383,7 +20383,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-003-Q6",
+        "id": "TEV-ENG-C1-003-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -20405,7 +20405,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -20414,7 +20414,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-003-Q7",
+        "id": "TEV-ENG-C1-003-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -20436,7 +20436,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -20445,7 +20445,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-003-Q8",
+        "id": "TEV-ENG-C1-003-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -20467,7 +20467,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -20476,7 +20476,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-003-Q9",
+        "id": "TEV-ENG-C1-003-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -20498,7 +20498,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -20507,7 +20507,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-003-Q10",
+        "id": "TEV-ENG-C1-003-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -20529,7 +20529,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -20539,14 +20539,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-004": {
-    "test_id": "TEV-ENG-C2-004",
+  "TEV-ENG-C1-004": {
+    "test_id": "TEV-ENG-C1-004",
     "title": "EU GMP Annex 1 Revised Barrier Separation (RABS/Isolators) Litigation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining eu gmp annex 1 revised barrier separation (rabs/isolators) litigation.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining eu gmp annex 1 revised barrier separation (rabs/isolators) litigation.",
     "learning_objectives": [
       "Master professional Deontic Inversion & Legal Directives in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in eu gmp annex 1 revised barrier separation (rabs/isolators) litigation",
@@ -20554,7 +20554,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-004-Q1",
+        "id": "TEV-ENG-C1-004-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -20576,7 +20576,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -20585,7 +20585,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-004-Q2",
+        "id": "TEV-ENG-C1-004-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -20607,7 +20607,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -20616,7 +20616,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-004-Q3",
+        "id": "TEV-ENG-C1-004-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -20638,7 +20638,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -20647,7 +20647,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-004-Q4",
+        "id": "TEV-ENG-C1-004-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -20669,7 +20669,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -20678,7 +20678,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-004-Q5",
+        "id": "TEV-ENG-C1-004-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -20700,7 +20700,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -20709,7 +20709,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-004-Q6",
+        "id": "TEV-ENG-C1-004-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -20731,7 +20731,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -20740,7 +20740,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-004-Q7",
+        "id": "TEV-ENG-C1-004-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -20762,7 +20762,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -20771,7 +20771,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-004-Q8",
+        "id": "TEV-ENG-C1-004-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -20793,7 +20793,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -20802,7 +20802,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-004-Q9",
+        "id": "TEV-ENG-C1-004-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -20824,7 +20824,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -20833,7 +20833,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-004-Q10",
+        "id": "TEV-ENG-C1-004-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -20855,7 +20855,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -20865,14 +20865,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-005": {
-    "test_id": "TEV-ENG-C2-005",
+  "TEV-ENG-C1-005": {
+    "test_id": "TEV-ENG-C1-005",
     "title": "Global Multi-Site CSV Framework Harmonization Inquests",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Computerized System Validation (CSV & GAMP 5)",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining global multi-site csv framework harmonization inquests.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining global multi-site csv framework harmonization inquests.",
     "learning_objectives": [
       "Master professional Administrative Governance Syntax in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in global multi-site csv framework harmonization inquests",
@@ -20880,7 +20880,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-005-Q1",
+        "id": "TEV-ENG-C1-005-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -20902,7 +20902,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -20911,7 +20911,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
-        "id": "TEV-ENG-C2-005-Q2",
+        "id": "TEV-ENG-C1-005-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -20933,7 +20933,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -20942,7 +20942,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
-        "id": "TEV-ENG-C2-005-Q3",
+        "id": "TEV-ENG-C1-005-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -20964,7 +20964,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -20973,7 +20973,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
-        "id": "TEV-ENG-C2-005-Q4",
+        "id": "TEV-ENG-C1-005-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -20995,7 +20995,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -21004,7 +21004,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
-        "id": "TEV-ENG-C2-005-Q5",
+        "id": "TEV-ENG-C1-005-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -21026,7 +21026,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -21035,7 +21035,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
-        "id": "TEV-ENG-C2-005-Q6",
+        "id": "TEV-ENG-C1-005-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -21057,7 +21057,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -21066,7 +21066,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
-        "id": "TEV-ENG-C2-005-Q7",
+        "id": "TEV-ENG-C1-005-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -21088,7 +21088,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -21097,7 +21097,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
-        "id": "TEV-ENG-C2-005-Q8",
+        "id": "TEV-ENG-C1-005-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -21119,7 +21119,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -21128,7 +21128,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
-        "id": "TEV-ENG-C2-005-Q9",
+        "id": "TEV-ENG-C1-005-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -21150,7 +21150,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -21159,7 +21159,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
-        "id": "TEV-ENG-C2-005-Q10",
+        "id": "TEV-ENG-C1-005-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -21181,7 +21181,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -21191,14 +21191,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-006": {
-    "test_id": "TEV-ENG-C2-006",
+  "TEV-ENG-C1-006": {
+    "test_id": "TEV-ENG-C1-006",
     "title": "Lyophilizer Collapse During Multi-Million Dollar Biologic Batch Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Tablet Compression & Lyophilization Equipment",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining lyophilizer collapse during multi-million dollar biologic batch inquest.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining lyophilizer collapse during multi-million dollar biologic batch inquest.",
     "learning_objectives": [
       "Master professional Epistemic Hedging in Liability Disputes in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in lyophilizer collapse during multi-million dollar biologic batch inquest",
@@ -21206,7 +21206,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-006-Q1",
+        "id": "TEV-ENG-C1-006-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -21228,7 +21228,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -21237,7 +21237,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-006-Q2",
+        "id": "TEV-ENG-C1-006-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -21259,7 +21259,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -21268,7 +21268,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-006-Q3",
+        "id": "TEV-ENG-C1-006-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -21290,7 +21290,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -21299,7 +21299,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-006-Q4",
+        "id": "TEV-ENG-C1-006-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -21321,7 +21321,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -21330,7 +21330,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-006-Q5",
+        "id": "TEV-ENG-C1-006-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -21352,7 +21352,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -21361,7 +21361,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-006-Q6",
+        "id": "TEV-ENG-C1-006-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -21383,7 +21383,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -21392,7 +21392,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-006-Q7",
+        "id": "TEV-ENG-C1-006-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -21414,7 +21414,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -21423,7 +21423,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-006-Q8",
+        "id": "TEV-ENG-C1-006-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -21445,7 +21445,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -21454,7 +21454,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-006-Q9",
+        "id": "TEV-ENG-C1-006-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -21476,7 +21476,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -21485,7 +21485,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-006-Q10",
+        "id": "TEV-ENG-C1-006-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -21507,7 +21507,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -21517,14 +21517,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-007": {
-    "test_id": "TEV-ENG-C2-007",
+  "TEV-ENG-C1-007": {
+    "test_id": "TEV-ENG-C1-007",
     "title": "Pharmaceutical Continuous Manufacturing PAT Validation Disputes",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "SCADA, PLC & Industrial Automation",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining pharmaceutical continuous manufacturing pat validation disputes.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining pharmaceutical continuous manufacturing pat validation disputes.",
     "learning_objectives": [
       "Master professional Advanced Scientific Discourse in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in pharmaceutical continuous manufacturing pat validation disputes",
@@ -21532,7 +21532,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-007-Q1",
+        "id": "TEV-ENG-C1-007-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -21554,7 +21554,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -21563,7 +21563,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-007-Q2",
+        "id": "TEV-ENG-C1-007-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -21585,7 +21585,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -21594,7 +21594,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-007-Q3",
+        "id": "TEV-ENG-C1-007-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -21616,7 +21616,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -21625,7 +21625,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-007-Q4",
+        "id": "TEV-ENG-C1-007-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -21647,7 +21647,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -21656,7 +21656,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-007-Q5",
+        "id": "TEV-ENG-C1-007-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -21678,7 +21678,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -21687,7 +21687,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-007-Q6",
+        "id": "TEV-ENG-C1-007-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -21709,7 +21709,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -21718,7 +21718,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-007-Q7",
+        "id": "TEV-ENG-C1-007-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -21740,7 +21740,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -21749,7 +21749,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-007-Q8",
+        "id": "TEV-ENG-C1-007-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -21771,7 +21771,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -21780,7 +21780,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-007-Q9",
+        "id": "TEV-ENG-C1-007-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -21802,7 +21802,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -21811,7 +21811,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-007-Q10",
+        "id": "TEV-ENG-C1-007-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -21833,7 +21833,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -21843,14 +21843,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-008": {
-    "test_id": "TEV-ENG-C2-008",
+  "TEV-ENG-C1-008": {
+    "test_id": "TEV-ENG-C1-008",
     "title": "Cross-Border Active Substance Contamination Forensic Toxicology Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Sterile Compounding & Filling Line Automation",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining cross-border active substance contamination forensic toxicology inquest.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining cross-border active substance contamination forensic toxicology inquest.",
     "learning_objectives": [
       "Master professional Causative & Concessive Complex Syntax in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in cross-border active substance contamination forensic toxicology inquest",
@@ -21858,7 +21858,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-008-Q1",
+        "id": "TEV-ENG-C1-008-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -21880,7 +21880,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -21889,7 +21889,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-008-Q2",
+        "id": "TEV-ENG-C1-008-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -21911,7 +21911,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -21920,7 +21920,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-008-Q3",
+        "id": "TEV-ENG-C1-008-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -21942,7 +21942,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -21951,7 +21951,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-008-Q4",
+        "id": "TEV-ENG-C1-008-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -21973,7 +21973,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -21982,7 +21982,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-008-Q5",
+        "id": "TEV-ENG-C1-008-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -22004,7 +22004,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -22013,7 +22013,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-008-Q6",
+        "id": "TEV-ENG-C1-008-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -22035,7 +22035,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -22044,7 +22044,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-008-Q7",
+        "id": "TEV-ENG-C1-008-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -22066,7 +22066,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -22075,7 +22075,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-008-Q8",
+        "id": "TEV-ENG-C1-008-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -22097,7 +22097,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -22106,7 +22106,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-008-Q9",
+        "id": "TEV-ENG-C1-008-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -22128,7 +22128,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -22137,7 +22137,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-008-Q10",
+        "id": "TEV-ENG-C1-008-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -22159,7 +22159,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -22169,14 +22169,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-009": {
-    "test_id": "TEV-ENG-C2-009",
+  "TEV-ENG-C1-009": {
+    "test_id": "TEV-ENG-C1-009",
     "title": "GAMP 5 Electronic Audit Trail Tampering Forensic Expert Testimony",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining gamp 5 electronic audit trail tampering forensic expert testimony.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining gamp 5 electronic audit trail tampering forensic expert testimony.",
     "learning_objectives": [
       "Master professional Forensic Cross-Examination Deposition in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in gamp 5 electronic audit trail tampering forensic expert testimony",
@@ -22184,7 +22184,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-009-Q1",
+        "id": "TEV-ENG-C1-009-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -22206,7 +22206,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -22215,7 +22215,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-009-Q2",
+        "id": "TEV-ENG-C1-009-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -22237,7 +22237,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -22246,7 +22246,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-009-Q3",
+        "id": "TEV-ENG-C1-009-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -22268,7 +22268,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -22277,7 +22277,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-009-Q4",
+        "id": "TEV-ENG-C1-009-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -22299,7 +22299,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -22308,7 +22308,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-009-Q5",
+        "id": "TEV-ENG-C1-009-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -22330,7 +22330,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -22339,7 +22339,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-009-Q6",
+        "id": "TEV-ENG-C1-009-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -22361,7 +22361,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -22370,7 +22370,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-009-Q7",
+        "id": "TEV-ENG-C1-009-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -22392,7 +22392,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -22401,7 +22401,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-009-Q8",
+        "id": "TEV-ENG-C1-009-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -22423,7 +22423,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -22432,7 +22432,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-009-Q9",
+        "id": "TEV-ENG-C1-009-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -22454,7 +22454,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -22463,7 +22463,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
       },
       {
-        "id": "TEV-ENG-C2-009-Q10",
+        "id": "TEV-ENG-C1-009-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -22485,7 +22485,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -22495,14 +22495,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-010": {
-    "test_id": "TEV-ENG-C2-010",
+  "TEV-ENG-C1-010": {
+    "test_id": "TEV-ENG-C1-010",
     "title": "WFI Pyrogen Contamination Root Cause Inquest: Biofilm Kinetics",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining wfi pyrogen contamination root cause inquest: biofilm kinetics.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining wfi pyrogen contamination root cause inquest: biofilm kinetics.",
     "learning_objectives": [
       "Master professional High-Register Scientific Stance in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in wfi pyrogen contamination root cause inquest: biofilm kinetics",
@@ -22510,7 +22510,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-010-Q1",
+        "id": "TEV-ENG-C1-010-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -22532,7 +22532,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -22541,7 +22541,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-010-Q2",
+        "id": "TEV-ENG-C1-010-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -22563,7 +22563,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -22572,7 +22572,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-010-Q3",
+        "id": "TEV-ENG-C1-010-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -22594,7 +22594,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -22603,7 +22603,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-010-Q4",
+        "id": "TEV-ENG-C1-010-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -22625,7 +22625,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -22634,7 +22634,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-010-Q5",
+        "id": "TEV-ENG-C1-010-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -22656,7 +22656,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -22665,7 +22665,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-010-Q6",
+        "id": "TEV-ENG-C1-010-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -22687,7 +22687,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -22696,7 +22696,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-010-Q7",
+        "id": "TEV-ENG-C1-010-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -22718,7 +22718,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -22727,7 +22727,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-010-Q8",
+        "id": "TEV-ENG-C1-010-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -22749,7 +22749,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -22758,7 +22758,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-010-Q9",
+        "id": "TEV-ENG-C1-010-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -22780,7 +22780,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -22789,7 +22789,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-010-Q10",
+        "id": "TEV-ENG-C1-010-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -22811,7 +22811,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -22821,14 +22821,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-011": {
-    "test_id": "TEV-ENG-C2-011",
+  "TEV-ENG-C1-011": {
+    "test_id": "TEV-ENG-C1-011",
     "title": "Robotic Sterile Filling Cell Micro-Vibration & Particle Shedding Review",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Sterile Compounding & Filling Line Automation",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining robotic sterile filling cell micro-vibration & particle shedding review.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining robotic sterile filling cell micro-vibration & particle shedding review.",
     "learning_objectives": [
       "Master professional Participial Density & Nominal Groups in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in robotic sterile filling cell micro-vibration & particle shedding review",
@@ -22836,7 +22836,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-011-Q1",
+        "id": "TEV-ENG-C1-011-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -22858,7 +22858,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -22867,7 +22867,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-011-Q2",
+        "id": "TEV-ENG-C1-011-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -22889,7 +22889,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -22898,7 +22898,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-011-Q3",
+        "id": "TEV-ENG-C1-011-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -22920,7 +22920,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -22929,7 +22929,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-011-Q4",
+        "id": "TEV-ENG-C1-011-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -22951,7 +22951,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -22960,7 +22960,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-011-Q5",
+        "id": "TEV-ENG-C1-011-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -22982,7 +22982,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -22991,7 +22991,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-011-Q6",
+        "id": "TEV-ENG-C1-011-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -23013,7 +23013,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -23022,7 +23022,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-011-Q7",
+        "id": "TEV-ENG-C1-011-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -23044,7 +23044,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -23053,7 +23053,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-011-Q8",
+        "id": "TEV-ENG-C1-011-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -23075,7 +23075,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -23084,7 +23084,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-011-Q9",
+        "id": "TEV-ENG-C1-011-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -23106,7 +23106,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -23115,7 +23115,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-011-Q10",
+        "id": "TEV-ENG-C1-011-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -23137,7 +23137,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -23147,14 +23147,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-012": {
-    "test_id": "TEV-ENG-C2-012",
+  "TEV-ENG-C1-012": {
+    "test_id": "TEV-ENG-C1-012",
     "title": "Contract Engineering EPCMV Contractor Gross Negligence Litigation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining contract engineering epcmv contractor gross negligence litigation.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining contract engineering epcmv contractor gross negligence litigation.",
     "learning_objectives": [
       "Master professional Contractual Breach & Indemnification in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in contract engineering epcmv contractor gross negligence litigation",
@@ -23162,7 +23162,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-012-Q1",
+        "id": "TEV-ENG-C1-012-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -23184,7 +23184,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -23193,7 +23193,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-012-Q2",
+        "id": "TEV-ENG-C1-012-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -23215,7 +23215,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -23224,7 +23224,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-012-Q3",
+        "id": "TEV-ENG-C1-012-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -23246,7 +23246,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -23255,7 +23255,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-012-Q4",
+        "id": "TEV-ENG-C1-012-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -23277,7 +23277,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -23286,7 +23286,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-012-Q5",
+        "id": "TEV-ENG-C1-012-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -23308,7 +23308,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -23317,7 +23317,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-012-Q6",
+        "id": "TEV-ENG-C1-012-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -23339,7 +23339,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -23348,7 +23348,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-012-Q7",
+        "id": "TEV-ENG-C1-012-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -23370,7 +23370,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -23379,7 +23379,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-012-Q8",
+        "id": "TEV-ENG-C1-012-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -23401,7 +23401,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -23410,7 +23410,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-012-Q9",
+        "id": "TEV-ENG-C1-012-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -23432,7 +23432,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -23441,7 +23441,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-012-Q10",
+        "id": "TEV-ENG-C1-012-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -23463,7 +23463,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -23473,14 +23473,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-013": {
-    "test_id": "TEV-ENG-C2-013",
+  "TEV-ENG-C1-013": {
+    "test_id": "TEV-ENG-C1-013",
     "title": "Consent Decree Remediation Governance Before the US Department of Justice",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining consent decree remediation governance before the us department of justice.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining consent decree remediation governance before the us department of justice.",
     "learning_objectives": [
       "Master professional Judicial Decree & Compliance Discourse in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in consent decree remediation governance before the us department of justice",
@@ -23488,7 +23488,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-013-Q1",
+        "id": "TEV-ENG-C1-013-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -23510,7 +23510,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -23519,7 +23519,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-013-Q2",
+        "id": "TEV-ENG-C1-013-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -23541,7 +23541,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -23550,7 +23550,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-013-Q3",
+        "id": "TEV-ENG-C1-013-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -23572,7 +23572,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -23581,7 +23581,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-013-Q4",
+        "id": "TEV-ENG-C1-013-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -23603,7 +23603,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -23612,7 +23612,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-013-Q5",
+        "id": "TEV-ENG-C1-013-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -23634,7 +23634,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -23643,7 +23643,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-013-Q6",
+        "id": "TEV-ENG-C1-013-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -23665,7 +23665,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -23674,7 +23674,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-013-Q7",
+        "id": "TEV-ENG-C1-013-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -23696,7 +23696,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -23705,7 +23705,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-013-Q8",
+        "id": "TEV-ENG-C1-013-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -23727,7 +23727,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -23736,7 +23736,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-013-Q9",
+        "id": "TEV-ENG-C1-013-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -23758,7 +23758,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -23767,7 +23767,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-013-Q10",
+        "id": "TEV-ENG-C1-013-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -23789,7 +23789,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -23799,14 +23799,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-014": {
-    "test_id": "TEV-ENG-C2-014",
+  "TEV-ENG-C1-014": {
+    "test_id": "TEV-ENG-C1-014",
     "title": "Autonomous Mobile Robot (AMR) Cleanroom Logistics Safety Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining autonomous mobile robot (amr) cleanroom logistics safety inquest.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining autonomous mobile robot (amr) cleanroom logistics safety inquest.",
     "learning_objectives": [
       "Master professional Normative Safety Jurisprudence in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in autonomous mobile robot (amr) cleanroom logistics safety inquest",
@@ -23814,7 +23814,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-014-Q1",
+        "id": "TEV-ENG-C1-014-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -23836,7 +23836,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -23845,7 +23845,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-014-Q2",
+        "id": "TEV-ENG-C1-014-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -23867,7 +23867,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -23876,7 +23876,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-014-Q3",
+        "id": "TEV-ENG-C1-014-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -23898,7 +23898,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -23907,7 +23907,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-014-Q4",
+        "id": "TEV-ENG-C1-014-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -23929,7 +23929,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -23938,7 +23938,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-014-Q5",
+        "id": "TEV-ENG-C1-014-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -23960,7 +23960,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -23969,7 +23969,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-014-Q6",
+        "id": "TEV-ENG-C1-014-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -23991,7 +23991,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -24000,7 +24000,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-014-Q7",
+        "id": "TEV-ENG-C1-014-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -24022,7 +24022,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -24031,7 +24031,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-014-Q8",
+        "id": "TEV-ENG-C1-014-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -24053,7 +24053,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -24062,7 +24062,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-014-Q9",
+        "id": "TEV-ENG-C1-014-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -24084,7 +24084,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -24093,7 +24093,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
-        "id": "TEV-ENG-C2-014-Q10",
+        "id": "TEV-ENG-C1-014-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -24115,7 +24115,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -24125,14 +24125,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-015": {
-    "test_id": "TEV-ENG-C2-015",
+  "TEV-ENG-C1-015": {
+    "test_id": "TEV-ENG-C1-015",
     "title": "High-Potency Active Pharmaceutical Ingredient (HPAPI) Containment Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Sterile Compounding & Filling Line Automation",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining high-potency active pharmaceutical ingredient (hpapi) containment inquest.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining high-potency active pharmaceutical ingredient (hpapi) containment inquest.",
     "learning_objectives": [
       "Master professional Toxicological Risk Qualification in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in high-potency active pharmaceutical ingredient (hpapi) containment inquest",
@@ -24140,7 +24140,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-015-Q1",
+        "id": "TEV-ENG-C1-015-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -24162,7 +24162,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -24171,7 +24171,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-015-Q2",
+        "id": "TEV-ENG-C1-015-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -24193,7 +24193,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -24202,7 +24202,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-015-Q3",
+        "id": "TEV-ENG-C1-015-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -24224,7 +24224,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -24233,7 +24233,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-015-Q4",
+        "id": "TEV-ENG-C1-015-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -24255,7 +24255,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -24264,7 +24264,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-015-Q5",
+        "id": "TEV-ENG-C1-015-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -24286,7 +24286,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -24295,7 +24295,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-015-Q6",
+        "id": "TEV-ENG-C1-015-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -24317,7 +24317,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -24326,7 +24326,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-015-Q7",
+        "id": "TEV-ENG-C1-015-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -24348,7 +24348,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -24357,7 +24357,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-015-Q8",
+        "id": "TEV-ENG-C1-015-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -24379,7 +24379,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -24388,7 +24388,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-015-Q9",
+        "id": "TEV-ENG-C1-015-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -24410,7 +24410,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -24419,7 +24419,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
-        "id": "TEV-ENG-C2-015-Q10",
+        "id": "TEV-ENG-C1-015-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -24441,7 +24441,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -24451,14 +24451,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-016": {
-    "test_id": "TEV-ENG-C2-016",
+  "TEV-ENG-C1-016": {
+    "test_id": "TEV-ENG-C1-016",
     "title": "Pharmaceutical Cold Chain Global Distribution Breach Litigation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining pharmaceutical cold chain global distribution breach litigation.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining pharmaceutical cold chain global distribution breach litigation.",
     "learning_objectives": [
       "Master professional Multi-Jurisdictional Tort Liability in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in pharmaceutical cold chain global distribution breach litigation",
@@ -24466,7 +24466,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-016-Q1",
+        "id": "TEV-ENG-C1-016-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -24488,7 +24488,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -24497,7 +24497,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-016-Q2",
+        "id": "TEV-ENG-C1-016-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -24519,7 +24519,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -24528,7 +24528,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-016-Q3",
+        "id": "TEV-ENG-C1-016-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -24550,7 +24550,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -24559,7 +24559,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-016-Q4",
+        "id": "TEV-ENG-C1-016-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -24581,7 +24581,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -24590,7 +24590,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-016-Q5",
+        "id": "TEV-ENG-C1-016-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -24612,7 +24612,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -24621,7 +24621,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-016-Q6",
+        "id": "TEV-ENG-C1-016-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -24643,7 +24643,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -24652,7 +24652,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-016-Q7",
+        "id": "TEV-ENG-C1-016-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -24674,7 +24674,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -24683,7 +24683,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-016-Q8",
+        "id": "TEV-ENG-C1-016-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -24705,7 +24705,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -24714,7 +24714,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-016-Q9",
+        "id": "TEV-ENG-C1-016-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -24736,7 +24736,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -24745,7 +24745,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-016-Q10",
+        "id": "TEV-ENG-C1-016-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -24767,7 +24767,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -24777,14 +24777,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-017": {
-    "test_id": "TEV-ENG-C2-017",
+  "TEV-ENG-C1-017": {
+    "test_id": "TEV-ENG-C1-017",
     "title": "Sterile Facility Aging Infrastructure Re-Licensing Strategy Defense",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining sterile facility aging infrastructure re-licensing strategy defense.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining sterile facility aging infrastructure re-licensing strategy defense.",
     "learning_objectives": [
       "Master professional Executive Strategic Defense Phrasing in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in sterile facility aging infrastructure re-licensing strategy defense",
@@ -24792,7 +24792,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-017-Q1",
+        "id": "TEV-ENG-C1-017-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -24814,7 +24814,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -24823,7 +24823,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-017-Q2",
+        "id": "TEV-ENG-C1-017-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -24845,7 +24845,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -24854,7 +24854,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-017-Q3",
+        "id": "TEV-ENG-C1-017-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -24876,7 +24876,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -24885,7 +24885,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-017-Q4",
+        "id": "TEV-ENG-C1-017-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -24907,7 +24907,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -24916,7 +24916,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-017-Q5",
+        "id": "TEV-ENG-C1-017-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -24938,7 +24938,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -24947,7 +24947,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-017-Q6",
+        "id": "TEV-ENG-C1-017-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -24969,7 +24969,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -24978,7 +24978,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-017-Q7",
+        "id": "TEV-ENG-C1-017-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -25000,7 +25000,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -25009,7 +25009,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-017-Q8",
+        "id": "TEV-ENG-C1-017-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -25031,7 +25031,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -25040,7 +25040,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-017-Q9",
+        "id": "TEV-ENG-C1-017-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -25062,7 +25062,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -25071,7 +25071,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
-        "id": "TEV-ENG-C2-017-Q10",
+        "id": "TEV-ENG-C1-017-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -25093,7 +25093,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -25103,14 +25103,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-018": {
-    "test_id": "TEV-ENG-C2-018",
+  "TEV-ENG-C1-018": {
+    "test_id": "TEV-ENG-C1-018",
     "title": "Automated Visual Inspection False Rejection Rate Machine Learning Disputes",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "SCADA, PLC & Industrial Automation",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining automated visual inspection false rejection rate machine learning disputes.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining automated visual inspection false rejection rate machine learning disputes.",
     "learning_objectives": [
       "Master professional Algorithmic Validation Law Syntax in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in automated visual inspection false rejection rate machine learning disputes",
@@ -25118,7 +25118,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-018-Q1",
+        "id": "TEV-ENG-C1-018-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -25140,7 +25140,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -25149,7 +25149,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-018-Q2",
+        "id": "TEV-ENG-C1-018-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -25171,7 +25171,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -25180,7 +25180,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-018-Q3",
+        "id": "TEV-ENG-C1-018-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -25202,7 +25202,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -25211,7 +25211,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-018-Q4",
+        "id": "TEV-ENG-C1-018-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -25233,7 +25233,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -25242,7 +25242,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-018-Q5",
+        "id": "TEV-ENG-C1-018-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -25264,7 +25264,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -25273,7 +25273,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-018-Q6",
+        "id": "TEV-ENG-C1-018-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -25295,7 +25295,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -25304,7 +25304,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-018-Q7",
+        "id": "TEV-ENG-C1-018-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -25326,7 +25326,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -25335,7 +25335,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-018-Q8",
+        "id": "TEV-ENG-C1-018-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -25357,7 +25357,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -25366,7 +25366,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-018-Q9",
+        "id": "TEV-ENG-C1-018-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -25388,7 +25388,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -25397,7 +25397,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
-        "id": "TEV-ENG-C2-018-Q10",
+        "id": "TEV-ENG-C1-018-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -25419,7 +25419,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -25429,14 +25429,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-019": {
-    "test_id": "TEV-ENG-C2-019",
+  "TEV-ENG-C1-019": {
+    "test_id": "TEV-ENG-C1-019",
     "title": "Regulatory Recertification of Terminal Sterilization Cycles Post-Overhaul",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Tablet Compression & Lyophilization Equipment",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining regulatory recertification of terminal sterilization cycles post-overhaul.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining regulatory recertification of terminal sterilization cycles post-overhaul.",
     "learning_objectives": [
       "Master professional Administrative Adjudication Formulations in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in regulatory recertification of terminal sterilization cycles post-overhaul",
@@ -25444,7 +25444,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-019-Q1",
+        "id": "TEV-ENG-C1-019-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -25466,7 +25466,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -25475,7 +25475,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-019-Q2",
+        "id": "TEV-ENG-C1-019-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -25497,7 +25497,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -25506,7 +25506,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-019-Q3",
+        "id": "TEV-ENG-C1-019-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -25528,7 +25528,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -25537,7 +25537,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-019-Q4",
+        "id": "TEV-ENG-C1-019-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -25559,7 +25559,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -25568,7 +25568,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-019-Q5",
+        "id": "TEV-ENG-C1-019-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -25590,7 +25590,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -25599,7 +25599,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-019-Q6",
+        "id": "TEV-ENG-C1-019-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -25621,7 +25621,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -25630,7 +25630,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-019-Q7",
+        "id": "TEV-ENG-C1-019-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -25652,7 +25652,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -25661,7 +25661,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-019-Q8",
+        "id": "TEV-ENG-C1-019-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -25683,7 +25683,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -25692,7 +25692,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-019-Q9",
+        "id": "TEV-ENG-C1-019-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -25714,7 +25714,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -25723,7 +25723,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
-        "id": "TEV-ENG-C2-019-Q10",
+        "id": "TEV-ENG-C1-019-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -25745,7 +25745,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
@@ -25755,14 +25755,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TEV-ENG-C2-020": {
-    "test_id": "TEV-ENG-C2-020",
+  "TEV-ENG-C1-020": {
+    "test_id": "TEV-ENG-C1-020",
     "title": "Board-Level Capital Expenditure Justification for Next-Gen Biologics Plant",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining board-level capital expenditure justification for next-gen biologics plant.",
+    "description": "Advanced-tier pharmaceutical engineering governance module examining board-level capital expenditure justification for next-gen biologics plant.",
     "learning_objectives": [
       "Master professional Corporate Executive Persuasion & Rhetoric in pharmaceutical engineering and cleanroom automation",
       "Eliminate common Czech interference errors in board-level capital expenditure justification for next-gen biologics plant",
@@ -25770,7 +25770,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TEV-ENG-C2-020-Q1",
+        "id": "TEV-ENG-C1-020-Q1",
         "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
         "options": [
           {
@@ -25792,7 +25792,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
           "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
@@ -25801,7 +25801,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-020-Q2",
+        "id": "TEV-ENG-C1-020-Q2",
         "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
         "options": [
           {
@@ -25823,7 +25823,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
@@ -25832,7 +25832,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-020-Q3",
+        "id": "TEV-ENG-C1-020-Q3",
         "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
         "options": [
           {
@@ -25854,7 +25854,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
           "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
@@ -25863,7 +25863,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-020-Q4",
+        "id": "TEV-ENG-C1-020-Q4",
         "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
         "options": [
           {
@@ -25885,7 +25885,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+          "correct": "C1 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
           "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
@@ -25894,7 +25894,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-020-Q5",
+        "id": "TEV-ENG-C1-020-Q5",
         "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
         "options": [
           {
@@ -25916,7 +25916,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
           "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
@@ -25925,7 +25925,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-020-Q6",
+        "id": "TEV-ENG-C1-020-Q6",
         "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
         "options": [
           {
@@ -25947,7 +25947,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
           "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -25956,7 +25956,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-020-Q7",
+        "id": "TEV-ENG-C1-020-Q7",
         "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
         "options": [
           {
@@ -25978,7 +25978,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
           "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
@@ -25987,7 +25987,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-020-Q8",
+        "id": "TEV-ENG-C1-020-Q8",
         "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
         "options": [
           {
@@ -26009,7 +26009,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
           "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
@@ -26018,7 +26018,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-020-Q9",
+        "id": "TEV-ENG-C1-020-Q9",
         "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
         "options": [
           {
@@ -26040,7 +26040,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
           "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
@@ -26049,7 +26049,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management"
       },
       {
-        "id": "TEV-ENG-C2-020-Q10",
+        "id": "TEV-ENG-C1-020-Q10",
         "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
         "options": [
           {
@@ -26071,7 +26071,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+          "correct": "C1 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
           "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
           "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
           "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."

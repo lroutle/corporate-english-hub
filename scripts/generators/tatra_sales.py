@@ -1,5 +1,5 @@
 """
-Generator for all 80 Tatra Sales and Engineering modules (20 A2, 20 B1, 20 B2, 20 C2).
+Generator for all 80 Tatra Sales and Engineering modules (20 A2, 20 B1, 20 B2, 20 C1).
 Preserves existing validated modules and procedural-generates the remainder with high pedagogical rigor.
 """
 
@@ -189,11 +189,11 @@ def generate_b2_question(module_meta, q_idx):
 
     return make_q(qid, prompt, opts, target_k, exps, cz_pt, module_meta["workplace_track"])
 
-def generate_c2_question(module_meta, q_idx):
+def generate_c1_question(module_meta, q_idx):
     qid = f"{module_meta['test_id']}-Q{q_idx+1}"
     target_k = KEY_PATTERN[q_idx % len(KEY_PATTERN)]
     
-    c2_scenarios = [
+    c1_scenarios = [
         ("The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.", "restitute", "restitutes", "shall restitute", "must to restitute", "Mandative subjunctive requires base form 'restitute' after 'mandated that'."),
         ("Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.", "has", "is", "was", "did", "Negative inversion: 'Seldom has an international court upheld'."),
         ("It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.", "disclaim", "disclaims", "will disclaim", "must to disclaim", "Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'."),
@@ -205,9 +205,9 @@ def generate_c2_question(module_meta, q_idx):
         ("Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.", "had", "was", "did", "has", "Inversion: 'Barely had the award been rendered... when...'."),
         ("The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.", "be", "is", "will be", "shall to be", "Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.")
     ]
-    prompt, correct_text, w1, w2, w3, rule = c2_scenarios[q_idx % len(c2_scenarios)]
+    prompt, correct_text, w1, w2, w3, rule = c1_scenarios[q_idx % len(c1_scenarios)]
     distractors = [w1, w2, w3]
-    correct_exp = f"C2 legal and arbitration discourse: {rule}"
+    correct_exp = f"C1 legal and arbitration discourse: {rule}"
     distractor_exps = [
         f"Option '{w1}' violates formal arbitration syntax or mandative subjunctive requirements.",
         f"Option '{w2}' is an ungrammatical indicative construction in legal agreements.",
@@ -250,8 +250,8 @@ def generate_tatra_sales_modules():
                     q = generate_b1_question(mod, q_idx)
                 elif lvl == "B2":
                     q = generate_b2_question(mod, q_idx)
-                else: # C2
-                    q = generate_c2_question(mod, q_idx)
+                else: # C1
+                    q = generate_c1_question(mod, q_idx)
                 questions.append(q)
 
             test_obj = build_test_module(

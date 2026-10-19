@@ -1,6 +1,6 @@
 """
 Comprehensive 400-Module Curriculum Catalog for 5 Independent Corporate Testing Suites.
-80 Modules per suite: 20 A2 Foundation, 20 B1 Operational, 20 B2 Advanced, 20 C2 Mastery.
+80 Modules per suite: 20 A2 Foundation, 20 B1 Operational, 20 B2 Advanced, 20 C1 Advanced.
 """
 
 def get_tatra_eng_curriculum():
@@ -95,8 +95,8 @@ def get_tatra_eng_curriculum():
             "description": f"Upper-intermediate engineering module investigating {title.lower()}."
         })
 
-    # C2 (001-020)
-    c2_topics = [
+    # C1 (001-020)
+    c1_topics = [
         ("001", "Forensic Failure Analysis, Structural Metallurgy & NATO Offsets", "Forensic Failure Analysis & Structural Metallurgy", "Negative Inversion & Nuanced Hedging"),
         ("002", "Intergovernmental Military Vehicle Procurement & Defense Treaty Compliance", "Vehicle Homologation & NATO STANAG Mobility", "Diplomatic Subjunctive & Treaty Nomenclature"),
         ("003", "Catastrophic Drivetrain Shear Fracture: Multi-Physics Forensic Inquest", "Forensic Failure Analysis & Structural Metallurgy", "Epistemic Hedging in Legal Inquests"),
@@ -118,11 +118,11 @@ def get_tatra_eng_curriculum():
         ("019", "Autonomous Off-Road Vehicle Lidar Sensor Degradation Under Heavy Mud Splash", "Vehicle Homologation & NATO STANAG Mobility", "Techno-Scientific Qualification of Limits"),
         ("020", "Sovereign Defense Ministry Counter-Trade & Offset Fulfillment Inquest", "Vehicle Homologation & NATO STANAG Mobility", "Bilateral Intergovernmental Treaty Syntax")
     ]
-    for num, title, track, grammar in c2_topics:
+    for num, title, track, grammar in c1_topics:
         curriculum.append({
-            "test_id": f"TTR-ENG-C2-{num}", "title": title, "level": "C2", "category": "core",
+            "test_id": f"TTR-ENG-C1-{num}", "title": title, "level": "C1", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 20,
-            "description": f"Mastery-tier forensic and executive engineering module examining {title.lower()}."
+            "description": f"Advanced-tier forensic and executive engineering module examining {title.lower()}."
         })
 
     return curriculum
@@ -219,8 +219,8 @@ def get_tatra_sales_curriculum():
             "description": f"Upper-intermediate commercial and defense sales module analyzing {title.lower()}."
         })
 
-    # C2 (001-020)
-    c2_topics = [
+    # C1 (001-020)
+    c1_topics = [
         ("001", "International Defense Tender Arbitration, ICC Jurisdiction & Force Majeure", "International Defense Tender Arbitration & ICC Contracts", "Contractual Subjunctive & Risk Hedging"),
         ("002", "Sovereign Debt Default & Paris Club Intergovernmental Rescheduling", "Commercial Negotiation & Payment Milestones", "Intergovernmental Treaty Syntax"),
         ("003", "Cross-Border Patent Invalidation Defense in Military All-Wheel Drive", "International Defense Tender Arbitration & ICC Contracts", "Litigation Counter-Plea Formulas"),
@@ -242,9 +242,9 @@ def get_tatra_sales_curriculum():
         ("019", "Cross-Border Technology Licensing Royalty Withholding Tax Litigation", "Commercial Negotiation & Payment Milestones", "Fiscal Jurisdictional Argumentation"),
         ("020", "Ministerial Bilateral Defense Agreement Ratification Press Briefing", "Defense & Government Tenders (NATO STANAG Bids)", "High-Level Diplomatic Spokesperson Register")
     ]
-    for num, title, track, grammar in c2_topics:
+    for num, title, track, grammar in c1_topics:
         curriculum.append({
-            "test_id": f"TTR-SALES-C2-{num}", "title": title, "level": "C2", "category": "core",
+            "test_id": f"TTR-SALES-C1-{num}", "title": title, "level": "C1", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 20,
             "description": f"Mastery-tier international commercial and defense sales module examining {title.lower()}."
         })
@@ -346,8 +346,8 @@ def get_teva_eng_curriculum():
             "description": f"Upper-intermediate pharmaceutical engineering module analyzing {title.lower()}."
         })
 
-    # C2 (001-020)
-    c2_topics = [
+    # C1 (001-020)
+    c1_topics = [
         ("001", "Unannounced FDA/EMA Regulatory Inspection Defense & GAMP 5 Disputes", "FDA/EMA Regulatory Inspection Defense & Audit Management", "Diplomatic Counter-Argumentation & Hedging"),
         ("002", "FDA Warning Letter Official Response: Data Integrity Remediation", "21 CFR Part 11 Electronic Records & Data Integrity", "High-Register Regulatory Legal Defense"),
         ("003", "Catastrophic Cleanroom Bio-Containment Breach Inquest & Liability", "FDA/EMA Regulatory Inspection Defense & Audit Management", "Forensic Investigation Syntax"),
@@ -369,11 +369,11 @@ def get_teva_eng_curriculum():
         ("019", "Regulatory Recertification of Terminal Sterilization Cycles Post-Overhaul", "Tablet Compression & Lyophilization Equipment", "Administrative Adjudication Formulations"),
         ("020", "Board-Level Capital Expenditure Justification for Next-Gen Biologics Plant", "FDA/EMA Regulatory Inspection Defense & Audit Management", "Corporate Executive Persuasion & Rhetoric")
     ]
-    for num, title, track, grammar in c2_topics:
+    for num, title, track, grammar in c1_topics:
         curriculum.append({
-            "test_id": f"TEV-ENG-C2-{num}", "title": title, "level": "C2", "category": "core",
+            "test_id": f"TEV-ENG-C1-{num}", "title": title, "level": "C1", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 20,
-            "description": f"Mastery-tier pharmaceutical engineering governance module examining {title.lower()}."
+            "description": f"Advanced-tier pharmaceutical engineering governance module examining {title.lower()}."
         })
 
     return curriculum
@@ -470,8 +470,8 @@ def get_tapi_chem_curriculum():
             "description": f"Upper-intermediate chemical API synthesis module analyzing {title.lower()}."
         })
 
-    # C2 (001-020)
-    c2_topics = [
+    # C1 (001-020)
+    c1_topics = [
         ("001", "Pharmacopeial Monograph Harmonization, Nitrosamines & ICH Q2(R2)", "Forensic Patent Litigation & Monograph Harmonization", "Diplomatic Counter-Argumentation & Hedging"),
         ("002", "Patent Invalidation Litigation: Novel Polymorphic Salt Crystal Forms", "Forensic Patent Litigation & Monograph Harmonization", "High-Register Patent Jurisprudence"),
         ("003", "Nitrosamine Mutagenic Risk Toxicological Assessment (ICH M7) Defense", "Nitrosamine Impurity Profiling & ICH Guidelines", "Forensic Toxicological Deposition"),
@@ -493,9 +493,9 @@ def get_tapi_chem_curriculum():
         ("019", "Regulatory Warning Letter Response: Impurity Analytical Method Deficiencies", "In-Process Control (IPC) & Out-of-Specification (OOS)", "High-Stakes Regulatory Response Phrasing"),
         ("020", "Scientific Advisory Board Dispute: Synthetic Route Freedom to Operate", "Forensic Patent Litigation & Monograph Harmonization", "High-Register Scientific Counsel Dialogue")
     ]
-    for num, title, track, grammar in c2_topics:
+    for num, title, track, grammar in c1_topics:
         curriculum.append({
-            "test_id": f"TAPI-CHEM-C2-{num}", "title": title, "level": "C2", "category": "core",
+            "test_id": f"TAPI-CHEM-C1-{num}", "title": title, "level": "C1", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 20,
             "description": f"Mastery-tier chemical research and regulatory governance module examining {title.lower()}."
         })
@@ -594,8 +594,8 @@ def get_teva_it_curriculum():
             "description": f"Upper-intermediate enterprise IT and cybersecurity module analyzing {title.lower()}."
         })
 
-    # C2 (001-020)
-    c2_topics = [
+    # C1 (001-020)
+    c1_topics = [
         ("001", "Enterprise Zero Trust Breach Disclosure, Cloud SLA Litigation & Governance", "Enterprise Cyber Breach Governance & SLA Litigation", "Diplomatic Counter-Argumentation & Hedging"),
         ("002", "Board-Level Cyber Catastrophe Inquest: Nation-State APT Intrusion", "Enterprise Cyber Breach Governance & SLA Litigation", "High-Register Cybersecurity Governance"),
         ("003", "Transatlantic Cloud Data Residency Litigation: EU-US Data Privacy Framework", "Enterprise Cyber Breach Governance & SLA Litigation", "Forensic Data Privacy Jurisprudence"),
@@ -617,9 +617,9 @@ def get_teva_it_curriculum():
         ("019", "Regulatory Fine Defense: GDPR Article 32 Technical Measures Violation", "Enterprise Cyber Breach Governance & SLA Litigation", "Administrative Regulatory Penal Defense"),
         ("020", "CISO Keynote Defense: Enterprise Digital Sovereignty in Hostile Geopolitics", "Enterprise Cyber Breach Governance & SLA Litigation", "High-Register Geopolitical Rhetoric")
     ]
-    for num, title, track, grammar in c2_topics:
+    for num, title, track, grammar in c1_topics:
         curriculum.append({
-            "test_id": f"TEV-IT-C2-{num}", "title": title, "level": "C2", "category": "core",
+            "test_id": f"TEV-IT-C1-{num}", "title": title, "level": "C1", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 20,
             "description": f"Mastery-tier global IT leadership and cybersecurity governance module examining {title.lower()}."
         })

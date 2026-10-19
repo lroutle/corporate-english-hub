@@ -600,203 +600,203 @@ window.CURRICULUM_MANIFEST = [
     "description": "Upper-intermediate pharmaceutical engineering module analyzing unannounced regulatory audit defense: equipment maintenance records."
   },
   {
-    "test_id": "TEV-ENG-C2-001",
+    "test_id": "TEV-ENG-C1-001",
     "title": "Unannounced FDA/EMA Regulatory Inspection Defense & GAMP 5 Disputes",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
     "grammar_focus": "Diplomatic Counter-Argumentation & Hedging",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining unannounced fda/ema regulatory inspection defense & gamp 5 disputes."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining unannounced fda/ema regulatory inspection defense & gamp 5 disputes."
   },
   {
-    "test_id": "TEV-ENG-C2-002",
+    "test_id": "TEV-ENG-C1-002",
     "title": "FDA Warning Letter Official Response: Data Integrity Remediation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity",
     "grammar_focus": "High-Register Regulatory Legal Defense",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining fda warning letter official response: data integrity remediation."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining fda warning letter official response: data integrity remediation."
   },
   {
-    "test_id": "TEV-ENG-C2-003",
+    "test_id": "TEV-ENG-C1-003",
     "title": "Catastrophic Cleanroom Bio-Containment Breach Inquest & Liability",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
     "grammar_focus": "Forensic Investigation Syntax",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining catastrophic cleanroom bio-containment breach inquest & liability."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining catastrophic cleanroom bio-containment breach inquest & liability."
   },
   {
-    "test_id": "TEV-ENG-C2-004",
+    "test_id": "TEV-ENG-C1-004",
     "title": "EU GMP Annex 1 Revised Barrier Separation (RABS/Isolators) Litigation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE",
     "grammar_focus": "Deontic Inversion & Legal Directives",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining eu gmp annex 1 revised barrier separation (rabs/isolators) litigation."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining eu gmp annex 1 revised barrier separation (rabs/isolators) litigation."
   },
   {
-    "test_id": "TEV-ENG-C2-005",
+    "test_id": "TEV-ENG-C1-005",
     "title": "Global Multi-Site CSV Framework Harmonization Inquests",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Computerized System Validation (CSV & GAMP 5)",
     "grammar_focus": "Administrative Governance Syntax",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining global multi-site csv framework harmonization inquests."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining global multi-site csv framework harmonization inquests."
   },
   {
-    "test_id": "TEV-ENG-C2-006",
+    "test_id": "TEV-ENG-C1-006",
     "title": "Lyophilizer Collapse During Multi-Million Dollar Biologic Batch Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Tablet Compression & Lyophilization Equipment",
     "grammar_focus": "Epistemic Hedging in Liability Disputes",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining lyophilizer collapse during multi-million dollar biologic batch inquest."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining lyophilizer collapse during multi-million dollar biologic batch inquest."
   },
   {
-    "test_id": "TEV-ENG-C2-007",
+    "test_id": "TEV-ENG-C1-007",
     "title": "Pharmaceutical Continuous Manufacturing PAT Validation Disputes",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "SCADA, PLC & Industrial Automation",
     "grammar_focus": "Advanced Scientific Discourse",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining pharmaceutical continuous manufacturing pat validation disputes."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining pharmaceutical continuous manufacturing pat validation disputes."
   },
   {
-    "test_id": "TEV-ENG-C2-008",
+    "test_id": "TEV-ENG-C1-008",
     "title": "Cross-Border Active Substance Contamination Forensic Toxicology Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Sterile Compounding & Filling Line Automation",
     "grammar_focus": "Causative & Concessive Complex Syntax",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining cross-border active substance contamination forensic toxicology inquest."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining cross-border active substance contamination forensic toxicology inquest."
   },
   {
-    "test_id": "TEV-ENG-C2-009",
+    "test_id": "TEV-ENG-C1-009",
     "title": "GAMP 5 Electronic Audit Trail Tampering Forensic Expert Testimony",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity",
     "grammar_focus": "Forensic Cross-Examination Deposition",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining gamp 5 electronic audit trail tampering forensic expert testimony."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining gamp 5 electronic audit trail tampering forensic expert testimony."
   },
   {
-    "test_id": "TEV-ENG-C2-010",
+    "test_id": "TEV-ENG-C1-010",
     "title": "WFI Pyrogen Contamination Root Cause Inquest: Biofilm Kinetics",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure",
     "grammar_focus": "High-Register Scientific Stance",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining wfi pyrogen contamination root cause inquest: biofilm kinetics."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining wfi pyrogen contamination root cause inquest: biofilm kinetics."
   },
   {
-    "test_id": "TEV-ENG-C2-011",
+    "test_id": "TEV-ENG-C1-011",
     "title": "Robotic Sterile Filling Cell Micro-Vibration & Particle Shedding Review",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Sterile Compounding & Filling Line Automation",
     "grammar_focus": "Participial Density & Nominal Groups",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining robotic sterile filling cell micro-vibration & particle shedding review."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining robotic sterile filling cell micro-vibration & particle shedding review."
   },
   {
-    "test_id": "TEV-ENG-C2-012",
+    "test_id": "TEV-ENG-C1-012",
     "title": "Contract Engineering EPCMV Contractor Gross Negligence Litigation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
     "grammar_focus": "Contractual Breach & Indemnification",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining contract engineering epcmv contractor gross negligence litigation."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining contract engineering epcmv contractor gross negligence litigation."
   },
   {
-    "test_id": "TEV-ENG-C2-013",
+    "test_id": "TEV-ENG-C1-013",
     "title": "Consent Decree Remediation Governance Before the US Department of Justice",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
     "grammar_focus": "Judicial Decree & Compliance Discourse",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining consent decree remediation governance before the us department of justice."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining consent decree remediation governance before the us department of justice."
   },
   {
-    "test_id": "TEV-ENG-C2-014",
+    "test_id": "TEV-ENG-C1-014",
     "title": "Autonomous Mobile Robot (AMR) Cleanroom Logistics Safety Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE",
     "grammar_focus": "Normative Safety Jurisprudence",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining autonomous mobile robot (amr) cleanroom logistics safety inquest."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining autonomous mobile robot (amr) cleanroom logistics safety inquest."
   },
   {
-    "test_id": "TEV-ENG-C2-015",
+    "test_id": "TEV-ENG-C1-015",
     "title": "High-Potency Active Pharmaceutical Ingredient (HPAPI) Containment Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Sterile Compounding & Filling Line Automation",
     "grammar_focus": "Toxicological Risk Qualification",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining high-potency active pharmaceutical ingredient (hpapi) containment inquest."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining high-potency active pharmaceutical ingredient (hpapi) containment inquest."
   },
   {
-    "test_id": "TEV-ENG-C2-016",
+    "test_id": "TEV-ENG-C1-016",
     "title": "Pharmaceutical Cold Chain Global Distribution Breach Litigation",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
     "grammar_focus": "Multi-Jurisdictional Tort Liability",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining pharmaceutical cold chain global distribution breach litigation."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining pharmaceutical cold chain global distribution breach litigation."
   },
   {
-    "test_id": "TEV-ENG-C2-017",
+    "test_id": "TEV-ENG-C1-017",
     "title": "Sterile Facility Aging Infrastructure Re-Licensing Strategy Defense",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure",
     "grammar_focus": "Executive Strategic Defense Phrasing",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining sterile facility aging infrastructure re-licensing strategy defense."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining sterile facility aging infrastructure re-licensing strategy defense."
   },
   {
-    "test_id": "TEV-ENG-C2-018",
+    "test_id": "TEV-ENG-C1-018",
     "title": "Automated Visual Inspection False Rejection Rate Machine Learning Disputes",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "SCADA, PLC & Industrial Automation",
     "grammar_focus": "Algorithmic Validation Law Syntax",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining automated visual inspection false rejection rate machine learning disputes."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining automated visual inspection false rejection rate machine learning disputes."
   },
   {
-    "test_id": "TEV-ENG-C2-019",
+    "test_id": "TEV-ENG-C1-019",
     "title": "Regulatory Recertification of Terminal Sterilization Cycles Post-Overhaul",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Tablet Compression & Lyophilization Equipment",
     "grammar_focus": "Administrative Adjudication Formulations",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining regulatory recertification of terminal sterilization cycles post-overhaul."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining regulatory recertification of terminal sterilization cycles post-overhaul."
   },
   {
-    "test_id": "TEV-ENG-C2-020",
+    "test_id": "TEV-ENG-C1-020",
     "title": "Board-Level Capital Expenditure Justification for Next-Gen Biologics Plant",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
     "grammar_focus": "Corporate Executive Persuasion & Rhetoric",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier pharmaceutical engineering governance module examining board-level capital expenditure justification for next-gen biologics plant."
+    "description": "Advanced-tier pharmaceutical engineering governance module examining board-level capital expenditure justification for next-gen biologics plant."
   }
 ];

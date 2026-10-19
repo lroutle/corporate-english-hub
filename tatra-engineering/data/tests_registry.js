@@ -19560,340 +19560,340 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-001": {
-    "test_id": "TTR-ENG-C2-001",
+  "TTR-ENG-C1-001": {
+    "test_id": "TTR-ENG-C1-001",
     "title": "Forensic Failure Analysis, Structural Metallurgy & NATO Offsets",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
     "estimated_time_minutes": 20,
-    "description": "Executive and lead engineering diagnostics: negative inversion in structural failure forensics, diplomatic hedging in joint steering committees, and subjunctive specifications under NATO STANAG trials.",
+    "description": "Advanced-tier forensic and executive engineering module examining forensic failure analysis, structural metallurgy & nato offsets.",
     "learning_objectives": [
-      "Master negative inversion for high-stakes safety and metallurgical directives",
-      "Apply diplomatic hedging in forensic engineering dispute committees",
-      "Formulate formal inverted conditionals in structural failure reports"
+      "Master professional Negative Inversion & Nuanced Hedging in automotive engineering",
+      "Eliminate common Czech interference errors in forensic failure analysis, structural metallurgy & nato offsets",
+      "Demonstrate precision in technical and regulatory documentation"
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-001-Q1",
-        "prompt": "Under no circumstances _____ the central backbone tube torsional stress limit be exceeded during the accelerated rough-terrain endurance trial.",
+        "id": "TTR-ENG-C1-001-Q1",
+        "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
             "key": "A",
-            "text": "the engineers should permit"
+            "text": "furnishes"
           },
           {
             "key": "B",
-            "text": "should the engineers permit"
+            "text": "furnish"
           },
           {
             "key": "C",
-            "text": "the engineers will permit"
+            "text": "shall furnish"
           },
           {
             "key": "D",
-            "text": "must the engineers to permit"
+            "text": "must to furnish"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Negative restrictive phrase 'Under no circumstances' at the front of a clause requires subject-auxiliary inversion ('should the engineers permit').",
-          "wrong_A": "Lacks required subject-auxiliary inversion after fronted negative phrase.",
-          "wrong_C": "Direct word order is ungrammatical following fronted 'Under no circumstances'.",
-          "wrong_D": "Modal 'must' cannot be followed by an infinitive with 'to' (*to permit*)."
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
+          "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
+          "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
         },
-        "cz_learning_point": "Czech speakers naturally use standard word order ('Za žádných okolností inženýři nesmí dovolit'). In English, fronted negative adverbials trigger formal inversion: 'Under no circumstances should the engineers permit'.",
-        "workplace_track": "Forensic Root Cause Analysis, NATO Trials & Joint-Venture Steering"
+        "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+        "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-001-Q2",
-        "prompt": "The microscopic transgranular fracture patterns _____ that hydrogen embrittlement occurred during the electroplating process, rather than sheer mechanical overload.",
+        "id": "TTR-ENG-C1-001-Q2",
+        "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
             "key": "A",
-            "text": "are definitively testifying"
+            "text": "undergoes"
           },
           {
             "key": "B",
-            "text": "manifestly proving beyond dispute"
+            "text": "will undergo"
           },
           {
             "key": "C",
-            "text": "would tentatively suggest"
+            "text": "undergo"
           },
           {
             "key": "D",
-            "text": "are bound to undeniably show"
+            "text": "must undergoes"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "At C2 executive level, epistemic modal hedging ('would tentatively suggest') avoids unprovable dogmatic claims in official forensic failure investigations before metallurgical chemical testing is concluded.",
-          "wrong_A": "'Definitively testifying' is inappropriately dogmatic and stylistically clumsy for an engineering failure hypothesis.",
-          "wrong_B": "Prematurely asserts proof beyond dispute without supporting mass spectroscopy data.",
-          "wrong_D": "'Undeniably show' ignores required technical epistemic caution in dispute committees."
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
+          "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
+          "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
         },
-        "cz_learning_point": "Czech engineers often translate 'Jednoznačně to dokazuje' literally as *it definitely proves*. In C2 international forensic disputes, diplomatic hedging ('would tentatively suggest') protects liability.",
-        "workplace_track": "Forensic Root Cause Analysis, NATO Trials & Joint-Venture Steering"
+        "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+        "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-001-Q3",
-        "prompt": "_____ the metallurgical testing laboratory executed ultrasonic resonance screening on the swinging half-axles, the fatigue micro-fissures would have been identified prior to field deployment.",
+        "id": "TTR-ENG-C1-001-Q3",
+        "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
             "key": "A",
-            "text": "Had"
+            "text": "have our metallurgists"
           },
           {
             "key": "B",
-            "text": "If"
+            "text": "our metallurgists have"
           },
           {
             "key": "C",
-            "text": "Were"
+            "text": "did our metallurgists had"
           },
           {
             "key": "D",
-            "text": "Should"
+            "text": "had our metallurgists have"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Inverted third conditional ('Had the laboratory executed...') omits 'if' and front-inverts the auxiliary 'had' for high-register formal forensic reporting.",
-          "wrong_B": "'If' would require standard word order ('If the laboratory had executed...').",
-          "wrong_C": "'Were' pairs with present/future counterfactuals ('Were the lab to execute...'), not completed past actions.",
-          "wrong_D": "'Should' introduces future conditional possibility, not past counterfactual failure."
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
+          "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
+          "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
         },
-        "cz_learning_point": "Czech 'Kdyby zkušební laboratoř provedla...'. High-register technical English omits 'if' via inversion: 'Had the laboratory executed...'.",
-        "workplace_track": "Central Backbone Tube & Chassis R&D"
+        "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+        "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-001-Q4",
-        "prompt": "The Chief Technical Officer requested that every weld seam on the tactical 8x8 chassis frame _____ re-examined using magnetic particle inspection prior to NATO STANAG 4569 ballistic testing.",
+        "id": "TTR-ENG-C1-001-Q4",
+        "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
             "key": "A",
-            "text": "be"
+            "text": "is not assessed"
           },
           {
             "key": "B",
-            "text": "is"
+            "text": "will not be assessed"
           },
           {
             "key": "C",
-            "text": "must be"
+            "text": "should not to be assessed"
           },
           {
             "key": "D",
-            "text": "to be"
-          }
-        ],
-        "correct_key": "A",
-        "explanations": {
-          "correct": "Mandative subjunctive requires the base verb 'be' in subordinate clauses depending on verbs of formal demand/request ('requested that every weld seam be re-examined').",
-          "wrong_B": "Indicative 'is' violates the formal mandative subjunctive register expected in defense engineering specifications.",
-          "wrong_C": "Modal 'must be' is redundant and colloquially informal in a formal subjunctive clause following 'requested that'.",
-          "wrong_D": "Infinitive 'to be' is ungrammatical as the predicate of a finite 'that'-clause."
-        },
-        "cz_learning_point": "Czech 'CTO požádal, aby každý svar byl přezkoumán'. English mandative subjunctive uses the bare base form: 'requested that every weld seam be re-examined'.",
-        "workplace_track": "Forensic Root Cause Analysis, NATO Trials & Joint-Venture Steering"
-      },
-      {
-        "id": "TTR-ENG-C2-001-Q5",
-        "prompt": "Seldom _____ a heavy-duty chassis design combine independent swinging half-axles with a central backbone tube while retaining such high torsional rigidity.",
-        "options": [
-          {
-            "key": "A",
-            "text": "has seen"
-          },
-          {
-            "key": "B",
-            "text": "an automotive engineer sees"
-          },
-          {
-            "key": "C",
-            "text": "does"
-          },
-          {
-            "key": "D",
-            "text": "is seeing"
-          }
-        ],
-        "correct_key": "C",
-        "explanations": {
-          "correct": "Fronted restrictive frequency adverb 'Seldom' requires subject-auxiliary inversion with auxiliary 'does' ('Seldom does a chassis design combine...').",
-          "wrong_A": "Lacks subject and creates ungrammatical passive/active confusion.",
-          "wrong_B": "Standard word order violates inversion rule after fronted 'Seldom'.",
-          "wrong_D": "Stative verb 'combine' does not take continuous aspect here."
-        },
-        "cz_learning_point": "Czech 'Málokdy se vidí...' or 'Zřídka kdy konstrukce spojuje...'. In English, fronted 'Seldom' forces inversion: 'Seldom does a chassis design combine...'.",
-        "workplace_track": "Central Backbone Tube & Chassis R&D"
-      },
-      {
-        "id": "TTR-ENG-C2-001-Q6",
-        "prompt": "The client's arbitration claim is predicated on the assertion that the differential lock failure was caused by defective cast iron, _____ evidence indicates severe operator misapplication.",
-        "options": [
-          {
-            "key": "A",
-            "text": "irrespective"
-          },
-          {
-            "key": "B",
-            "text": "whereas empirical"
-          },
-          {
-            "key": "C",
-            "text": "in spite"
-          },
-          {
-            "key": "D",
-            "text": "despite that"
-          }
-        ],
-        "correct_key": "B",
-        "explanations": {
-          "correct": "'Whereas empirical' introduces a sharp, formal legal contrast between the adversary's subjective assertion and objective metallurgical findings.",
-          "wrong_A": "'Irrespective' requires preposition 'of' and does not connect two independent clauses.",
-          "wrong_C": "'In spite' requires 'of' and cannot take a finite clause directly.",
-          "wrong_D": "'Despite that' is clumsy and informal compared to the elegant contrastive connector 'whereas'."
-        },
-        "cz_learning_point": "Czech 'zatímco empirické důkazy ukazují...'. In legal/technical disputes, use 'whereas empirical evidence indicates...', avoiding awkward prepositions.",
-        "workplace_track": "Forensic Root Cause Analysis, NATO Trials & Joint-Venture Steering"
-      },
-      {
-        "id": "TTR-ENG-C2-001-Q7",
-        "prompt": "Scarcely had the prototype vehicle commenced the desert sand dune trial _____ the central tyre inflation system (CTIS) pressure manifold reported a critical pressure drop.",
-        "options": [
-          {
-            "key": "A",
-            "text": "than"
-          },
-          {
-            "key": "B",
-            "text": "that"
-          },
-          {
-            "key": "C",
-            "text": "after"
-          },
-          {
-            "key": "D",
-            "text": "when"
+            "text": "not be assessed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "'Scarcely had [action]... when [second action]' is the correlative grammatical structure for two rapid successive events.",
-          "wrong_A": "'Than' pairs with 'No sooner had...', not 'Scarcely'.",
-          "wrong_B": "'That' cannot serve as the correlative conjunction for 'Scarcely'.",
-          "wrong_C": "'After' creates redundancy with the past perfect auxiliary."
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
+          "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
+          "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
         },
-        "cz_learning_point": "Czech 'Sotva vozidlo zahájilo... když v tom...'. English requires 'Scarcely had [subject] [verb]... WHEN...', whereas 'No sooner' pairs with 'THAN'.",
-        "workplace_track": "Central Backbone Tube & Chassis R&D"
+        "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+        "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-001-Q8",
-        "prompt": "_____ there be any discrepancy between the CAD finite element analysis and the physical strain gauge readings, the suspension linkage must undergo destructive tensile testing.",
+        "id": "TTR-ENG-C1-001-Q5",
+        "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
             "key": "A",
-            "text": "Should"
-          },
-          {
-            "key": "B",
-            "text": "Were"
-          },
-          {
-            "key": "C",
             "text": "Had"
           },
           {
-            "key": "D",
-            "text": "If so"
-          }
-        ],
-        "correct_key": "A",
-        "explanations": {
-          "correct": "Inverted first conditional ('Should there be...') denotes formal potential contingency in technical test protocols, equivalent to 'If there should be'.",
-          "wrong_B": "'Were there to be' would be used for hypothetical counterfactuals, but 'there be' requires 'Should'.",
-          "wrong_C": "'Had there been' indicates past counterfactual, not future procedural contingency.",
-          "wrong_D": "'If so' cannot act as a subordinate conditional conjunction."
-        },
-        "cz_learning_point": "Czech 'Pokud by nastala jakákoliv odchylka...'. In formal technical protocols, use 'Should there be any discrepancy...', omitting 'if'.",
-        "workplace_track": "Central Backbone Tube & Chassis R&D"
-      },
-      {
-        "id": "TTR-ENG-C2-001-Q9",
-        "prompt": "The catastrophic shear failure of the transfer case pinion gear cannot _____ to torsional vibration resonance alone without factoring in low lubricant viscosity at extreme operating temperatures.",
-        "options": [
-          {
-            "key": "A",
-            "text": "definitely attribute"
-          },
-          {
             "key": "B",
-            "text": "be having attributed"
+            "text": "Should"
           },
           {
             "key": "C",
-            "text": "plausibly be attributed"
+            "text": "Were"
           },
           {
             "key": "D",
-            "text": "attribute itself"
+            "text": "If were"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive modal construction with epistemic adverb ('cannot plausibly be attributed') accurately qualifies the scientific limits of a root-cause hypothesis.",
-          "wrong_A": "Active voice 'attribute' cannot apply when the gear failure is the grammatical subject.",
-          "wrong_B": "Ungrammatical compound progressive passive participle.",
-          "wrong_D": "'Attribute itself' is a literal Czech reflexive translation error (*přisuzovat se*)."
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
+          "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
+          "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
         },
-        "cz_learning_point": "Czech 'nelze to věrohodně přičítat pouze...'. Do not translate reflexively (*attribute itself*). Use passive modal 'cannot plausibly be attributed to...'.",
-        "workplace_track": "Forensic Root Cause Analysis, NATO Trials & Joint-Venture Steering"
+        "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+        "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-001-Q10",
-        "prompt": "Not only _____ the swinging half-axle design attenuate severe shock loads over rocky terrain, but it also minimizes tire sidewall scrub compared to conventional rigid axle beams.",
+        "id": "TTR-ENG-C1-001-Q6",
+        "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "the supplier's cabin did"
           },
           {
             "key": "B",
-            "text": "does"
+            "text": "did the supplier's cabin"
           },
           {
             "key": "C",
-            "text": "has"
+            "text": "was the supplier's cabin"
           },
           {
             "key": "D",
-            "text": "will"
+            "text": "has the supplier's cabin"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Fronted correlative 'Not only' with base action verb 'attenuate' requires dummy auxiliary 'does' for inversion ('Not only does the design attenuate...').",
-          "wrong_A": "'Is' cannot invert with base action verb 'attenuate'.",
-          "wrong_C": "'Has' would require past participle 'attenuated'.",
-          "wrong_D": "'Will' implies future promise rather than verified inherent engineering capability."
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
+          "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
+          "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
         },
-        "cz_learning_point": "Czech 'Nejenže konstrukce tlumí..., ale také...'. English requires auxiliary inversion: 'Not only does the design attenuate..., but it also...'.",
-        "workplace_track": "Central Backbone Tube & Chassis R&D"
+        "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+        "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+      },
+      {
+        "id": "TTR-ENG-C1-001-Q7",
+        "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
+        "options": [
+          {
+            "key": "A",
+            "text": "could be"
+          },
+          {
+            "key": "B",
+            "text": "had been"
+          },
+          {
+            "key": "C",
+            "text": "would be able to be"
+          },
+          {
+            "key": "D",
+            "text": "could have been"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
+          "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
+          "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
+        },
+        "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+        "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+      },
+      {
+        "id": "TTR-ENG-C1-001-Q8",
+        "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
+        "options": [
+          {
+            "key": "A",
+            "text": "remain"
+          },
+          {
+            "key": "B",
+            "text": "remains"
+          },
+          {
+            "key": "C",
+            "text": "will remain"
+          },
+          {
+            "key": "D",
+            "text": "are remaining"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
+          "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
+          "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
+        },
+        "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+        "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+      },
+      {
+        "id": "TTR-ENG-C1-001-Q9",
+        "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
+        "options": [
+          {
+            "key": "A",
+            "text": "the tribunal is to permit"
+          },
+          {
+            "key": "B",
+            "text": "will the tribunal permits"
+          },
+          {
+            "key": "C",
+            "text": "is the tribunal to permit"
+          },
+          {
+            "key": "D",
+            "text": "the tribunal permits"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
+          "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
+          "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
+        },
+        "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+        "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+      },
+      {
+        "id": "TTR-ENG-C1-001-Q10",
+        "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
+        "options": [
+          {
+            "key": "A",
+            "text": "are dispatched"
+          },
+          {
+            "key": "B",
+            "text": "be dispatched"
+          },
+          {
+            "key": "C",
+            "text": "will be dispatched"
+          },
+          {
+            "key": "D",
+            "text": "must to be dispatched"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
+          "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
+          "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
+        },
+        "cz_learning_point": "High-level professional English prioritizes mandative subjunctive ('demand that it be done') and negative inversion ('Seldom have we seen') over colloquial indicative structures.",
+        "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       }
     ]
   },
-  "TTR-ENG-C2-002": {
-    "test_id": "TTR-ENG-C2-002",
+  "TTR-ENG-C1-002": {
+    "test_id": "TTR-ENG-C1-002",
     "title": "Intergovernmental Military Vehicle Procurement & Defense Treaty Compliance",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining intergovernmental military vehicle procurement & defense treaty compliance.",
+    "description": "Advanced-tier forensic and executive engineering module examining intergovernmental military vehicle procurement & defense treaty compliance.",
     "learning_objectives": [
       "Master professional Diplomatic Subjunctive & Treaty Nomenclature in automotive engineering",
       "Eliminate common Czech interference errors in intergovernmental military vehicle procurement & defense treaty compliance",
@@ -19901,7 +19901,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-002-Q1",
+        "id": "TTR-ENG-C1-002-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -19923,7 +19923,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -19932,7 +19932,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-002-Q2",
+        "id": "TTR-ENG-C1-002-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -19954,7 +19954,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -19963,7 +19963,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-002-Q3",
+        "id": "TTR-ENG-C1-002-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -19985,7 +19985,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -19994,7 +19994,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-002-Q4",
+        "id": "TTR-ENG-C1-002-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -20016,7 +20016,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -20025,7 +20025,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-002-Q5",
+        "id": "TTR-ENG-C1-002-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -20047,7 +20047,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -20056,7 +20056,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-002-Q6",
+        "id": "TTR-ENG-C1-002-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -20078,7 +20078,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -20087,7 +20087,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-002-Q7",
+        "id": "TTR-ENG-C1-002-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -20109,7 +20109,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -20118,7 +20118,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-002-Q8",
+        "id": "TTR-ENG-C1-002-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -20140,7 +20140,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -20149,7 +20149,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-002-Q9",
+        "id": "TTR-ENG-C1-002-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -20171,7 +20171,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -20180,7 +20180,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-002-Q10",
+        "id": "TTR-ENG-C1-002-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -20202,7 +20202,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -20212,14 +20212,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-003": {
-    "test_id": "TTR-ENG-C2-003",
+  "TTR-ENG-C1-003": {
+    "test_id": "TTR-ENG-C1-003",
     "title": "Catastrophic Drivetrain Shear Fracture: Multi-Physics Forensic Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining catastrophic drivetrain shear fracture: multi-physics forensic inquest.",
+    "description": "Advanced-tier forensic and executive engineering module examining catastrophic drivetrain shear fracture: multi-physics forensic inquest.",
     "learning_objectives": [
       "Master professional Epistemic Hedging in Legal Inquests in automotive engineering",
       "Eliminate common Czech interference errors in catastrophic drivetrain shear fracture: multi-physics forensic inquest",
@@ -20227,7 +20227,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-003-Q1",
+        "id": "TTR-ENG-C1-003-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -20249,7 +20249,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -20258,7 +20258,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-003-Q2",
+        "id": "TTR-ENG-C1-003-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -20280,7 +20280,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -20289,7 +20289,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-003-Q3",
+        "id": "TTR-ENG-C1-003-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -20311,7 +20311,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -20320,7 +20320,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-003-Q4",
+        "id": "TTR-ENG-C1-003-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -20342,7 +20342,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -20351,7 +20351,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-003-Q5",
+        "id": "TTR-ENG-C1-003-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -20373,7 +20373,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -20382,7 +20382,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-003-Q6",
+        "id": "TTR-ENG-C1-003-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -20404,7 +20404,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -20413,7 +20413,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-003-Q7",
+        "id": "TTR-ENG-C1-003-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -20435,7 +20435,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -20444,7 +20444,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-003-Q8",
+        "id": "TTR-ENG-C1-003-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -20466,7 +20466,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -20475,7 +20475,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-003-Q9",
+        "id": "TTR-ENG-C1-003-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -20497,7 +20497,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -20506,7 +20506,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-003-Q10",
+        "id": "TTR-ENG-C1-003-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -20528,7 +20528,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -20538,14 +20538,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-004": {
-    "test_id": "TTR-ENG-C2-004",
+  "TTR-ENG-C1-004": {
+    "test_id": "TTR-ENG-C1-004",
     "title": "Patent Infringement Arbitration: Central Backbone Tube Tubular Backbone Concept",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Central Backbone Tube & Chassis R&D",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining patent infringement arbitration: central backbone tube tubular backbone concept.",
+    "description": "Advanced-tier forensic and executive engineering module examining patent infringement arbitration: central backbone tube tubular backbone concept.",
     "learning_objectives": [
       "Master professional Litigation Syntax & Counter-Argumentation in automotive engineering",
       "Eliminate common Czech interference errors in patent infringement arbitration: central backbone tube tubular backbone concept",
@@ -20553,7 +20553,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-004-Q1",
+        "id": "TTR-ENG-C1-004-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -20575,7 +20575,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -20584,7 +20584,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-004-Q2",
+        "id": "TTR-ENG-C1-004-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -20606,7 +20606,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -20615,7 +20615,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-004-Q3",
+        "id": "TTR-ENG-C1-004-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -20637,7 +20637,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -20646,7 +20646,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-004-Q4",
+        "id": "TTR-ENG-C1-004-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -20668,7 +20668,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -20677,7 +20677,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-004-Q5",
+        "id": "TTR-ENG-C1-004-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -20699,7 +20699,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -20708,7 +20708,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-004-Q6",
+        "id": "TTR-ENG-C1-004-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -20730,7 +20730,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -20739,7 +20739,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-004-Q7",
+        "id": "TTR-ENG-C1-004-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -20761,7 +20761,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -20770,7 +20770,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-004-Q8",
+        "id": "TTR-ENG-C1-004-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -20792,7 +20792,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -20801,7 +20801,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-004-Q9",
+        "id": "TTR-ENG-C1-004-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -20823,7 +20823,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -20832,7 +20832,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-004-Q10",
+        "id": "TTR-ENG-C1-004-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -20854,7 +20854,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -20864,14 +20864,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-005": {
-    "test_id": "TTR-ENG-C2-005",
+  "TTR-ENG-C1-005": {
+    "test_id": "TTR-ENG-C1-005",
     "title": "Hydrogen Embrittlement in High-Tensile Axle Flange Fasteners",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining hydrogen embrittlement in high-tensile axle flange fasteners.",
+    "description": "Advanced-tier forensic and executive engineering module examining hydrogen embrittlement in high-tensile axle flange fasteners.",
     "learning_objectives": [
       "Master professional High-Register Scientific Discourse in automotive engineering",
       "Eliminate common Czech interference errors in hydrogen embrittlement in high-tensile axle flange fasteners",
@@ -20879,7 +20879,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-005-Q1",
+        "id": "TTR-ENG-C1-005-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -20901,7 +20901,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -20910,7 +20910,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-005-Q2",
+        "id": "TTR-ENG-C1-005-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -20932,7 +20932,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -20941,7 +20941,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-005-Q3",
+        "id": "TTR-ENG-C1-005-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -20963,7 +20963,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -20972,7 +20972,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-005-Q4",
+        "id": "TTR-ENG-C1-005-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -20994,7 +20994,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -21003,7 +21003,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-005-Q5",
+        "id": "TTR-ENG-C1-005-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -21025,7 +21025,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -21034,7 +21034,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-005-Q6",
+        "id": "TTR-ENG-C1-005-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -21056,7 +21056,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -21065,7 +21065,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-005-Q7",
+        "id": "TTR-ENG-C1-005-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -21087,7 +21087,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -21096,7 +21096,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-005-Q8",
+        "id": "TTR-ENG-C1-005-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -21118,7 +21118,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -21127,7 +21127,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-005-Q9",
+        "id": "TTR-ENG-C1-005-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -21149,7 +21149,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -21158,7 +21158,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-005-Q10",
+        "id": "TTR-ENG-C1-005-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -21180,7 +21180,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -21190,14 +21190,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-006": {
-    "test_id": "TTR-ENG-C2-006",
+  "TTR-ENG-C1-006": {
+    "test_id": "TTR-ENG-C1-006",
     "title": "Multi-National Joint Venture Technology Transfer & IP Protection Clauses",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining multi-national joint venture technology transfer & ip protection clauses.",
+    "description": "Advanced-tier forensic and executive engineering module examining multi-national joint venture technology transfer & ip protection clauses.",
     "learning_objectives": [
       "Master professional Contractual Subjunctive & Risk Mitigation in automotive engineering",
       "Eliminate common Czech interference errors in multi-national joint venture technology transfer & ip protection clauses",
@@ -21205,7 +21205,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-006-Q1",
+        "id": "TTR-ENG-C1-006-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -21227,7 +21227,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -21236,7 +21236,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-006-Q2",
+        "id": "TTR-ENG-C1-006-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -21258,7 +21258,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -21267,7 +21267,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-006-Q3",
+        "id": "TTR-ENG-C1-006-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -21289,7 +21289,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -21298,7 +21298,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-006-Q4",
+        "id": "TTR-ENG-C1-006-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -21320,7 +21320,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -21329,7 +21329,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-006-Q5",
+        "id": "TTR-ENG-C1-006-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -21351,7 +21351,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -21360,7 +21360,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-006-Q6",
+        "id": "TTR-ENG-C1-006-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -21382,7 +21382,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -21391,7 +21391,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-006-Q7",
+        "id": "TTR-ENG-C1-006-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -21413,7 +21413,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -21422,7 +21422,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-006-Q8",
+        "id": "TTR-ENG-C1-006-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -21444,7 +21444,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -21453,7 +21453,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-006-Q9",
+        "id": "TTR-ENG-C1-006-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -21475,7 +21475,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -21484,7 +21484,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-006-Q10",
+        "id": "TTR-ENG-C1-006-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -21506,7 +21506,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -21516,14 +21516,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-007": {
-    "test_id": "TTR-ENG-C2-007",
+  "TTR-ENG-C1-007": {
+    "test_id": "TTR-ENG-C1-007",
     "title": "Stochastic Dynamic Load Life Prediction Under Severe Off-Road Torture Rigs",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Central Backbone Tube & Chassis R&D",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining stochastic dynamic load life prediction under severe off-road torture rigs.",
+    "description": "Advanced-tier forensic and executive engineering module examining stochastic dynamic load life prediction under severe off-road torture rigs.",
     "learning_objectives": [
       "Master professional Advanced Participle Clauses & Density in automotive engineering",
       "Eliminate common Czech interference errors in stochastic dynamic load life prediction under severe off-road torture rigs",
@@ -21531,7 +21531,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-007-Q1",
+        "id": "TTR-ENG-C1-007-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -21553,7 +21553,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -21562,7 +21562,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-007-Q2",
+        "id": "TTR-ENG-C1-007-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -21584,7 +21584,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -21593,7 +21593,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-007-Q3",
+        "id": "TTR-ENG-C1-007-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -21615,7 +21615,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -21624,7 +21624,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-007-Q4",
+        "id": "TTR-ENG-C1-007-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -21646,7 +21646,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -21655,7 +21655,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-007-Q5",
+        "id": "TTR-ENG-C1-007-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -21677,7 +21677,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -21686,7 +21686,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-007-Q6",
+        "id": "TTR-ENG-C1-007-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -21708,7 +21708,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -21717,7 +21717,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-007-Q7",
+        "id": "TTR-ENG-C1-007-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -21739,7 +21739,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -21748,7 +21748,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-007-Q8",
+        "id": "TTR-ENG-C1-007-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -21770,7 +21770,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -21779,7 +21779,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-007-Q9",
+        "id": "TTR-ENG-C1-007-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -21801,7 +21801,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -21810,7 +21810,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-007-Q10",
+        "id": "TTR-ENG-C1-007-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -21832,7 +21832,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -21842,14 +21842,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-008": {
-    "test_id": "TTR-ENG-C2-008",
+  "TTR-ENG-C1-008": {
+    "test_id": "TTR-ENG-C1-008",
     "title": "Ballistic & Mine-Blast Shock Wave Propagation Through Modular Armor Cabins",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining ballistic & mine-blast shock wave propagation through modular armor cabins.",
+    "description": "Advanced-tier forensic and executive engineering module examining ballistic & mine-blast shock wave propagation through modular armor cabins.",
     "learning_objectives": [
       "Master professional Complex Cause-Effect Nominal Constructions in automotive engineering",
       "Eliminate common Czech interference errors in ballistic & mine-blast shock wave propagation through modular armor cabins",
@@ -21857,7 +21857,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-008-Q1",
+        "id": "TTR-ENG-C1-008-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -21879,7 +21879,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -21888,7 +21888,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-008-Q2",
+        "id": "TTR-ENG-C1-008-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -21910,7 +21910,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -21919,7 +21919,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-008-Q3",
+        "id": "TTR-ENG-C1-008-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -21941,7 +21941,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -21950,7 +21950,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-008-Q4",
+        "id": "TTR-ENG-C1-008-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -21972,7 +21972,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -21981,7 +21981,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-008-Q5",
+        "id": "TTR-ENG-C1-008-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -22003,7 +22003,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -22012,7 +22012,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-008-Q6",
+        "id": "TTR-ENG-C1-008-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -22034,7 +22034,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -22043,7 +22043,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-008-Q7",
+        "id": "TTR-ENG-C1-008-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -22065,7 +22065,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -22074,7 +22074,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-008-Q8",
+        "id": "TTR-ENG-C1-008-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -22096,7 +22096,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -22105,7 +22105,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-008-Q9",
+        "id": "TTR-ENG-C1-008-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -22127,7 +22127,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -22136,7 +22136,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-008-Q10",
+        "id": "TTR-ENG-C1-008-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -22158,7 +22158,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -22168,14 +22168,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-009": {
-    "test_id": "TTR-ENG-C2-009",
+  "TTR-ENG-C1-009": {
+    "test_id": "TTR-ENG-C1-009",
     "title": "Autonomous Military Convoy Platooning Protocol Functional Safety (ISO 26262)",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining autonomous military convoy platooning protocol functional safety (iso 26262).",
+    "description": "Advanced-tier forensic and executive engineering module examining autonomous military convoy platooning protocol functional safety (iso 26262).",
     "learning_objectives": [
       "Master professional Regulatory Imperatives & Deontic Modality in automotive engineering",
       "Eliminate common Czech interference errors in autonomous military convoy platooning protocol functional safety (iso 26262)",
@@ -22183,7 +22183,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-009-Q1",
+        "id": "TTR-ENG-C1-009-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -22205,7 +22205,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -22214,7 +22214,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-009-Q2",
+        "id": "TTR-ENG-C1-009-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -22236,7 +22236,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -22245,7 +22245,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-009-Q3",
+        "id": "TTR-ENG-C1-009-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -22267,7 +22267,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -22276,7 +22276,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-009-Q4",
+        "id": "TTR-ENG-C1-009-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -22298,7 +22298,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -22307,7 +22307,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-009-Q5",
+        "id": "TTR-ENG-C1-009-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -22329,7 +22329,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -22338,7 +22338,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-009-Q6",
+        "id": "TTR-ENG-C1-009-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -22360,7 +22360,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -22369,7 +22369,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-009-Q7",
+        "id": "TTR-ENG-C1-009-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -22391,7 +22391,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -22400,7 +22400,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-009-Q8",
+        "id": "TTR-ENG-C1-009-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -22422,7 +22422,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -22431,7 +22431,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-009-Q9",
+        "id": "TTR-ENG-C1-009-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -22453,7 +22453,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -22462,7 +22462,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-009-Q10",
+        "id": "TTR-ENG-C1-009-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -22484,7 +22484,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -22494,14 +22494,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-010": {
-    "test_id": "TTR-ENG-C2-010",
+  "TTR-ENG-C1-010": {
+    "test_id": "TTR-ENG-C1-010",
     "title": "Aero-Thermal Engine Bay Fluid Dynamics in 55°C Ambient Desert Operations",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining aero-thermal engine bay fluid dynamics in 55°c ambient desert operations.",
+    "description": "Advanced-tier forensic and executive engineering module examining aero-thermal engine bay fluid dynamics in 55°c ambient desert operations.",
     "learning_objectives": [
       "Master professional Stylistic Fronting & Structural Inversion in automotive engineering",
       "Eliminate common Czech interference errors in aero-thermal engine bay fluid dynamics in 55°c ambient desert operations",
@@ -22509,7 +22509,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-010-Q1",
+        "id": "TTR-ENG-C1-010-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -22531,7 +22531,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -22540,7 +22540,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-010-Q2",
+        "id": "TTR-ENG-C1-010-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -22562,7 +22562,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -22571,7 +22571,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-010-Q3",
+        "id": "TTR-ENG-C1-010-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -22593,7 +22593,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -22602,7 +22602,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-010-Q4",
+        "id": "TTR-ENG-C1-010-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -22624,7 +22624,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -22633,7 +22633,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-010-Q5",
+        "id": "TTR-ENG-C1-010-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -22655,7 +22655,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -22664,7 +22664,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-010-Q6",
+        "id": "TTR-ENG-C1-010-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -22686,7 +22686,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -22695,7 +22695,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-010-Q7",
+        "id": "TTR-ENG-C1-010-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -22717,7 +22717,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -22726,7 +22726,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-010-Q8",
+        "id": "TTR-ENG-C1-010-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -22748,7 +22748,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -22757,7 +22757,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-010-Q9",
+        "id": "TTR-ENG-C1-010-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -22779,7 +22779,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -22788,7 +22788,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-010-Q10",
+        "id": "TTR-ENG-C1-010-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -22810,7 +22810,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -22820,14 +22820,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-011": {
-    "test_id": "TTR-ENG-C2-011",
+  "TTR-ENG-C1-011": {
+    "test_id": "TTR-ENG-C1-011",
     "title": "Expert Witness Deposition: Multi-Axle Roll-Over Dynamic Stability Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining expert witness deposition: multi-axle roll-over dynamic stability inquest.",
+    "description": "Advanced-tier forensic and executive engineering module examining expert witness deposition: multi-axle roll-over dynamic stability inquest.",
     "learning_objectives": [
       "Master professional Forensic Deposition & Cross-Examination Syntax in automotive engineering",
       "Eliminate common Czech interference errors in expert witness deposition: multi-axle roll-over dynamic stability inquest",
@@ -22835,7 +22835,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-011-Q1",
+        "id": "TTR-ENG-C1-011-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -22857,7 +22857,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -22866,7 +22866,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-011-Q2",
+        "id": "TTR-ENG-C1-011-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -22888,7 +22888,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -22897,7 +22897,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-011-Q3",
+        "id": "TTR-ENG-C1-011-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -22919,7 +22919,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -22928,7 +22928,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-011-Q4",
+        "id": "TTR-ENG-C1-011-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -22950,7 +22950,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -22959,7 +22959,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-011-Q5",
+        "id": "TTR-ENG-C1-011-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -22981,7 +22981,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -22990,7 +22990,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-011-Q6",
+        "id": "TTR-ENG-C1-011-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -23012,7 +23012,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -23021,7 +23021,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-011-Q7",
+        "id": "TTR-ENG-C1-011-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -23043,7 +23043,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -23052,7 +23052,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-011-Q8",
+        "id": "TTR-ENG-C1-011-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -23074,7 +23074,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -23083,7 +23083,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-011-Q9",
+        "id": "TTR-ENG-C1-011-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -23105,7 +23105,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -23114,7 +23114,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-011-Q10",
+        "id": "TTR-ENG-C1-011-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -23136,7 +23136,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -23146,14 +23146,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-012": {
-    "test_id": "TTR-ENG-C2-012",
+  "TTR-ENG-C1-012": {
+    "test_id": "TTR-ENG-C1-012",
     "title": "Electro-Hydraulic Steer-by-Wire Redundancy Architecture Legal Certification",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining electro-hydraulic steer-by-wire redundancy architecture legal certification.",
+    "description": "Advanced-tier forensic and executive engineering module examining electro-hydraulic steer-by-wire redundancy architecture legal certification.",
     "learning_objectives": [
       "Master professional Normative Directives & Mandatory Shall in automotive engineering",
       "Eliminate common Czech interference errors in electro-hydraulic steer-by-wire redundancy architecture legal certification",
@@ -23161,7 +23161,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-012-Q1",
+        "id": "TTR-ENG-C1-012-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -23183,7 +23183,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -23192,7 +23192,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
-        "id": "TTR-ENG-C2-012-Q2",
+        "id": "TTR-ENG-C1-012-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -23214,7 +23214,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -23223,7 +23223,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
-        "id": "TTR-ENG-C2-012-Q3",
+        "id": "TTR-ENG-C1-012-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -23245,7 +23245,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -23254,7 +23254,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
-        "id": "TTR-ENG-C2-012-Q4",
+        "id": "TTR-ENG-C1-012-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -23276,7 +23276,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -23285,7 +23285,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
-        "id": "TTR-ENG-C2-012-Q5",
+        "id": "TTR-ENG-C1-012-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -23307,7 +23307,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -23316,7 +23316,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
-        "id": "TTR-ENG-C2-012-Q6",
+        "id": "TTR-ENG-C1-012-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -23338,7 +23338,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -23347,7 +23347,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
-        "id": "TTR-ENG-C2-012-Q7",
+        "id": "TTR-ENG-C1-012-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -23369,7 +23369,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -23378,7 +23378,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
-        "id": "TTR-ENG-C2-012-Q8",
+        "id": "TTR-ENG-C1-012-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -23400,7 +23400,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -23409,7 +23409,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
-        "id": "TTR-ENG-C2-012-Q9",
+        "id": "TTR-ENG-C1-012-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -23431,7 +23431,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -23440,7 +23440,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
-        "id": "TTR-ENG-C2-012-Q10",
+        "id": "TTR-ENG-C1-012-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -23462,7 +23462,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -23472,14 +23472,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-013": {
-    "test_id": "TTR-ENG-C2-013",
+  "TTR-ENG-C1-013": {
+    "test_id": "TTR-ENG-C1-013",
     "title": "Composite Material Delamination in Lightweight Heavy-Duty Drivelines",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining composite material delamination in lightweight heavy-duty drivelines.",
+    "description": "Advanced-tier forensic and executive engineering module examining composite material delamination in lightweight heavy-duty drivelines.",
     "learning_objectives": [
       "Master professional Nuanced Stance & Authorial Confidence Markers in automotive engineering",
       "Eliminate common Czech interference errors in composite material delamination in lightweight heavy-duty drivelines",
@@ -23487,7 +23487,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-013-Q1",
+        "id": "TTR-ENG-C1-013-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -23509,7 +23509,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -23518,7 +23518,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-013-Q2",
+        "id": "TTR-ENG-C1-013-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -23540,7 +23540,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -23549,7 +23549,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-013-Q3",
+        "id": "TTR-ENG-C1-013-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -23571,7 +23571,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -23580,7 +23580,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-013-Q4",
+        "id": "TTR-ENG-C1-013-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -23602,7 +23602,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -23611,7 +23611,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-013-Q5",
+        "id": "TTR-ENG-C1-013-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -23633,7 +23633,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -23642,7 +23642,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-013-Q6",
+        "id": "TTR-ENG-C1-013-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -23664,7 +23664,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -23673,7 +23673,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-013-Q7",
+        "id": "TTR-ENG-C1-013-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -23695,7 +23695,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -23704,7 +23704,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-013-Q8",
+        "id": "TTR-ENG-C1-013-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -23726,7 +23726,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -23735,7 +23735,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-013-Q9",
+        "id": "TTR-ENG-C1-013-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -23757,7 +23757,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -23766,7 +23766,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-013-Q10",
+        "id": "TTR-ENG-C1-013-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -23788,7 +23788,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -23798,14 +23798,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-014": {
-    "test_id": "TTR-ENG-C2-014",
+  "TTR-ENG-C1-014": {
+    "test_id": "TTR-ENG-C1-014",
     "title": "Lifecycle Environmental Sustainability & EU Heavy-Duty Fleet CO2 Mandates",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining lifecycle environmental sustainability & eu heavy-duty fleet co2 mandates.",
+    "description": "Advanced-tier forensic and executive engineering module examining lifecycle environmental sustainability & eu heavy-duty fleet co2 mandates.",
     "learning_objectives": [
       "Master professional Policy Argumentation & Counter-Claims in automotive engineering",
       "Eliminate common Czech interference errors in lifecycle environmental sustainability & eu heavy-duty fleet co2 mandates",
@@ -23813,7 +23813,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-014-Q1",
+        "id": "TTR-ENG-C1-014-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -23835,7 +23835,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -23844,7 +23844,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-014-Q2",
+        "id": "TTR-ENG-C1-014-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -23866,7 +23866,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -23875,7 +23875,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-014-Q3",
+        "id": "TTR-ENG-C1-014-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -23897,7 +23897,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -23906,7 +23906,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-014-Q4",
+        "id": "TTR-ENG-C1-014-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -23928,7 +23928,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -23937,7 +23937,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-014-Q5",
+        "id": "TTR-ENG-C1-014-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -23959,7 +23959,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -23968,7 +23968,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-014-Q6",
+        "id": "TTR-ENG-C1-014-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -23990,7 +23990,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -23999,7 +23999,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-014-Q7",
+        "id": "TTR-ENG-C1-014-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -24021,7 +24021,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -24030,7 +24030,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-014-Q8",
+        "id": "TTR-ENG-C1-014-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -24052,7 +24052,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -24061,7 +24061,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-014-Q9",
+        "id": "TTR-ENG-C1-014-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -24083,7 +24083,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -24092,7 +24092,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
-        "id": "TTR-ENG-C2-014-Q10",
+        "id": "TTR-ENG-C1-014-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -24114,7 +24114,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -24124,14 +24124,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-015": {
-    "test_id": "TTR-ENG-C2-015",
+  "TTR-ENG-C1-015": {
+    "test_id": "TTR-ENG-C1-015",
     "title": "Supply Chain Force Majeure Invocations & Geopolitical Embargo Compliance",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining supply chain force majeure invocations & geopolitical embargo compliance.",
+    "description": "Advanced-tier forensic and executive engineering module examining supply chain force majeure invocations & geopolitical embargo compliance.",
     "learning_objectives": [
       "Master professional Contractual Liability & Exemption Clauses in automotive engineering",
       "Eliminate common Czech interference errors in supply chain force majeure invocations & geopolitical embargo compliance",
@@ -24139,7 +24139,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-015-Q1",
+        "id": "TTR-ENG-C1-015-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -24161,7 +24161,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -24170,7 +24170,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-015-Q2",
+        "id": "TTR-ENG-C1-015-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -24192,7 +24192,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -24201,7 +24201,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-015-Q3",
+        "id": "TTR-ENG-C1-015-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -24223,7 +24223,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -24232,7 +24232,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-015-Q4",
+        "id": "TTR-ENG-C1-015-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -24254,7 +24254,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -24263,7 +24263,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-015-Q5",
+        "id": "TTR-ENG-C1-015-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -24285,7 +24285,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -24294,7 +24294,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-015-Q6",
+        "id": "TTR-ENG-C1-015-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -24316,7 +24316,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -24325,7 +24325,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-015-Q7",
+        "id": "TTR-ENG-C1-015-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -24347,7 +24347,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -24356,7 +24356,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-015-Q8",
+        "id": "TTR-ENG-C1-015-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -24378,7 +24378,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -24387,7 +24387,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-015-Q9",
+        "id": "TTR-ENG-C1-015-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -24409,7 +24409,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -24418,7 +24418,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-015-Q10",
+        "id": "TTR-ENG-C1-015-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -24440,7 +24440,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -24450,14 +24450,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-016": {
-    "test_id": "TTR-ENG-C2-016",
+  "TTR-ENG-C1-016": {
+    "test_id": "TTR-ENG-C1-016",
     "title": "Advanced Fatigue Crack Tip Plasticity Modeling in Forged Half-Axles",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining advanced fatigue crack tip plasticity modeling in forged half-axles.",
+    "description": "Advanced-tier forensic and executive engineering module examining advanced fatigue crack tip plasticity modeling in forged half-axles.",
     "learning_objectives": [
       "Master professional Academic Research Register & Passive Density in automotive engineering",
       "Eliminate common Czech interference errors in advanced fatigue crack tip plasticity modeling in forged half-axles",
@@ -24465,7 +24465,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-016-Q1",
+        "id": "TTR-ENG-C1-016-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -24487,7 +24487,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -24496,7 +24496,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-016-Q2",
+        "id": "TTR-ENG-C1-016-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -24518,7 +24518,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -24527,7 +24527,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-016-Q3",
+        "id": "TTR-ENG-C1-016-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -24549,7 +24549,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -24558,7 +24558,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-016-Q4",
+        "id": "TTR-ENG-C1-016-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -24580,7 +24580,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -24589,7 +24589,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-016-Q5",
+        "id": "TTR-ENG-C1-016-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -24611,7 +24611,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -24620,7 +24620,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-016-Q6",
+        "id": "TTR-ENG-C1-016-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -24642,7 +24642,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -24651,7 +24651,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-016-Q7",
+        "id": "TTR-ENG-C1-016-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -24673,7 +24673,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -24682,7 +24682,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-016-Q8",
+        "id": "TTR-ENG-C1-016-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -24704,7 +24704,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -24713,7 +24713,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-016-Q9",
+        "id": "TTR-ENG-C1-016-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -24735,7 +24735,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -24744,7 +24744,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
       },
       {
-        "id": "TTR-ENG-C2-016-Q10",
+        "id": "TTR-ENG-C1-016-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -24766,7 +24766,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -24776,14 +24776,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-017": {
-    "test_id": "TTR-ENG-C2-017",
+  "TTR-ENG-C1-017": {
+    "test_id": "TTR-ENG-C1-017",
     "title": "High-Register Executive Board Defense of Capital R&D Platform Investment",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Central Backbone Tube & Chassis R&D",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining high-register executive board defense of capital r&d platform investment.",
+    "description": "Advanced-tier forensic and executive engineering module examining high-register executive board defense of capital r&d platform investment.",
     "learning_objectives": [
       "Master professional Executive Persuasion & Strategic Hedging in automotive engineering",
       "Eliminate common Czech interference errors in high-register executive board defense of capital r&d platform investment",
@@ -24791,7 +24791,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-017-Q1",
+        "id": "TTR-ENG-C1-017-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -24813,7 +24813,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -24822,7 +24822,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-017-Q2",
+        "id": "TTR-ENG-C1-017-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -24844,7 +24844,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -24853,7 +24853,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-017-Q3",
+        "id": "TTR-ENG-C1-017-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -24875,7 +24875,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -24884,7 +24884,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-017-Q4",
+        "id": "TTR-ENG-C1-017-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -24906,7 +24906,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -24915,7 +24915,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-017-Q5",
+        "id": "TTR-ENG-C1-017-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -24937,7 +24937,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -24946,7 +24946,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-017-Q6",
+        "id": "TTR-ENG-C1-017-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -24968,7 +24968,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -24977,7 +24977,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-017-Q7",
+        "id": "TTR-ENG-C1-017-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -24999,7 +24999,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -25008,7 +25008,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-017-Q8",
+        "id": "TTR-ENG-C1-017-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -25030,7 +25030,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -25039,7 +25039,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-017-Q9",
+        "id": "TTR-ENG-C1-017-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -25061,7 +25061,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -25070,7 +25070,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
-        "id": "TTR-ENG-C2-017-Q10",
+        "id": "TTR-ENG-C1-017-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -25092,7 +25092,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -25102,14 +25102,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-018": {
-    "test_id": "TTR-ENG-C2-018",
+  "TTR-ENG-C1-018": {
+    "test_id": "TTR-ENG-C1-018",
     "title": "Cross-Border Warranty Dispute Arbitration Under UNCITRAL Model Law",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Quality Assurance, Inspection & Torque Verification",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining cross-border warranty dispute arbitration under uncitral model law.",
+    "description": "Advanced-tier forensic and executive engineering module examining cross-border warranty dispute arbitration under uncitral model law.",
     "learning_objectives": [
       "Master professional Legalistic Conditionals & Arbitration Formulas in automotive engineering",
       "Eliminate common Czech interference errors in cross-border warranty dispute arbitration under uncitral model law",
@@ -25117,7 +25117,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-018-Q1",
+        "id": "TTR-ENG-C1-018-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -25139,7 +25139,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -25148,7 +25148,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
-        "id": "TTR-ENG-C2-018-Q2",
+        "id": "TTR-ENG-C1-018-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -25170,7 +25170,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -25179,7 +25179,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
-        "id": "TTR-ENG-C2-018-Q3",
+        "id": "TTR-ENG-C1-018-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -25201,7 +25201,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -25210,7 +25210,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
-        "id": "TTR-ENG-C2-018-Q4",
+        "id": "TTR-ENG-C1-018-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -25232,7 +25232,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -25241,7 +25241,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
-        "id": "TTR-ENG-C2-018-Q5",
+        "id": "TTR-ENG-C1-018-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -25263,7 +25263,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -25272,7 +25272,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
-        "id": "TTR-ENG-C2-018-Q6",
+        "id": "TTR-ENG-C1-018-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -25294,7 +25294,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -25303,7 +25303,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
-        "id": "TTR-ENG-C2-018-Q7",
+        "id": "TTR-ENG-C1-018-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -25325,7 +25325,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -25334,7 +25334,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
-        "id": "TTR-ENG-C2-018-Q8",
+        "id": "TTR-ENG-C1-018-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -25356,7 +25356,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -25365,7 +25365,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
-        "id": "TTR-ENG-C2-018-Q9",
+        "id": "TTR-ENG-C1-018-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -25387,7 +25387,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -25396,7 +25396,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
-        "id": "TTR-ENG-C2-018-Q10",
+        "id": "TTR-ENG-C1-018-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -25418,7 +25418,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -25428,14 +25428,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-019": {
-    "test_id": "TTR-ENG-C2-019",
+  "TTR-ENG-C1-019": {
+    "test_id": "TTR-ENG-C1-019",
     "title": "Autonomous Off-Road Vehicle Lidar Sensor Degradation Under Heavy Mud Splash",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining autonomous off-road vehicle lidar sensor degradation under heavy mud splash.",
+    "description": "Advanced-tier forensic and executive engineering module examining autonomous off-road vehicle lidar sensor degradation under heavy mud splash.",
     "learning_objectives": [
       "Master professional Techno-Scientific Qualification of Limits in automotive engineering",
       "Eliminate common Czech interference errors in autonomous off-road vehicle lidar sensor degradation under heavy mud splash",
@@ -25443,7 +25443,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-019-Q1",
+        "id": "TTR-ENG-C1-019-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -25465,7 +25465,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -25474,7 +25474,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-019-Q2",
+        "id": "TTR-ENG-C1-019-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -25496,7 +25496,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -25505,7 +25505,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-019-Q3",
+        "id": "TTR-ENG-C1-019-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -25527,7 +25527,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -25536,7 +25536,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-019-Q4",
+        "id": "TTR-ENG-C1-019-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -25558,7 +25558,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -25567,7 +25567,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-019-Q5",
+        "id": "TTR-ENG-C1-019-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -25589,7 +25589,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -25598,7 +25598,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-019-Q6",
+        "id": "TTR-ENG-C1-019-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -25620,7 +25620,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -25629,7 +25629,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-019-Q7",
+        "id": "TTR-ENG-C1-019-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -25651,7 +25651,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -25660,7 +25660,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-019-Q8",
+        "id": "TTR-ENG-C1-019-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -25682,7 +25682,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -25691,7 +25691,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-019-Q9",
+        "id": "TTR-ENG-C1-019-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -25713,7 +25713,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -25722,7 +25722,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-019-Q10",
+        "id": "TTR-ENG-C1-019-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -25744,7 +25744,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
@@ -25754,14 +25754,14 @@ Object.assign(window.TEST_REGISTRY, {
       }
     ]
   },
-  "TTR-ENG-C2-020": {
-    "test_id": "TTR-ENG-C2-020",
+  "TTR-ENG-C1-020": {
+    "test_id": "TTR-ENG-C1-020",
     "title": "Sovereign Defense Ministry Counter-Trade & Offset Fulfillment Inquest",
-    "level": "C2",
+    "level": "C1",
     "category": "core",
     "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
     "estimated_time_minutes": 20,
-    "description": "Mastery-tier forensic and executive engineering module examining sovereign defense ministry counter-trade & offset fulfillment inquest.",
+    "description": "Advanced-tier forensic and executive engineering module examining sovereign defense ministry counter-trade & offset fulfillment inquest.",
     "learning_objectives": [
       "Master professional Bilateral Intergovernmental Treaty Syntax in automotive engineering",
       "Eliminate common Czech interference errors in sovereign defense ministry counter-trade & offset fulfillment inquest",
@@ -25769,7 +25769,7 @@ Object.assign(window.TEST_REGISTRY, {
     ],
     "questions": [
       {
-        "id": "TTR-ENG-C2-020-Q1",
+        "id": "TTR-ENG-C1-020-Q1",
         "prompt": "The defense procurement tribunal mandated that the OEM _____ full finite element stress tensors for the armored chassis cab.",
         "options": [
           {
@@ -25791,7 +25791,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive requires base form 'furnish' after 'mandated that'.",
           "wrong_A": "Option 'furnishes' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'shall furnish' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to furnish' is ungrammatical in high-register technical legal discourse."
@@ -25800,7 +25800,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-020-Q2",
+        "id": "TTR-ENG-C1-020-Q2",
         "prompt": "It is imperative that every structural titanium alloy component _____ non-destructive Eddy current testing prior to military field trials.",
         "options": [
           {
@@ -25822,7 +25822,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
+          "correct": "Advanced-tier syntax: Formulaic subjunctive after 'imperative that' requires base form 'undergo'.",
           "wrong_A": "Option 'undergoes' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will undergo' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must undergoes' is ungrammatical in high-register technical legal discourse."
@@ -25831,7 +25831,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-020-Q3",
+        "id": "TTR-ENG-C1-020-Q3",
         "prompt": "Seldom _____ witnessed such catastrophic torsional shear propagation without prior ultrasonic indication of fatigue cracking.",
         "options": [
           {
@@ -25853,7 +25853,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
+          "correct": "Advanced-tier syntax: Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our metallurgists'.",
           "wrong_B": "Option 'our metallurgists have' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'did our metallurgists had' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'had our metallurgists have' is ungrammatical in high-register technical legal discourse."
@@ -25862,7 +25862,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-020-Q4",
+        "id": "TTR-ENG-C1-020-Q4",
         "prompt": "The arbitration panel recommended that Tatra _____ damages for delays caused exclusively by force majeure blockades.",
         "options": [
           {
@@ -25884,7 +25884,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
+          "correct": "Advanced-tier syntax: Negative passive subjunctive: 'recommended that Tatra not be assessed'.",
           "wrong_A": "Option 'is not assessed' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will not be assessed' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'should not to be assessed' is ungrammatical in high-register technical legal discourse."
@@ -25893,7 +25893,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-020-Q5",
+        "id": "TTR-ENG-C1-020-Q5",
         "prompt": "_____ the defense ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
         "options": [
           {
@@ -25915,7 +25915,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
+          "correct": "Advanced-tier syntax: Second Conditional inversion with 'Were [subject] to [infinitive]' expresses hypothetical future repudiation.",
           "wrong_A": "Option 'Had' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'Should' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'If were' is ungrammatical in high-register technical legal discourse."
@@ -25924,7 +25924,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-020-Q6",
+        "id": "TTR-ENG-C1-020-Q6",
         "prompt": "Not only _____ fail to meet STANAG 4569 Level 4 ballistic criteria, but the composite armor also delaminated under environmental humidity cycling.",
         "options": [
           {
@@ -25946,7 +25946,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
+          "correct": "Advanced-tier syntax: Inversion after 'Not only': 'did the cabin fail'.",
           "wrong_A": "Option 'the supplier's cabin did' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'was the supplier's cabin' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'has the supplier's cabin' is ungrammatical in high-register technical legal discourse."
@@ -25955,7 +25955,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-020-Q7",
+        "id": "TTR-ENG-C1-020-Q7",
         "prompt": "The chief metallurgist testified that had hydrogen embrittlement been detected during acid pickling, catastrophic half-axle shear _____ averted.",
         "options": [
           {
@@ -25977,7 +25977,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mastery-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
+          "correct": "Advanced-tier syntax: Counterfactual conditional modal: 'could have been averted'.",
           "wrong_A": "Option 'could be' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'had been' violates formal mandative subjunctive or inversion rules.",
           "wrong_C": "Option 'would be able to be' is ungrammatical in high-register technical legal discourse."
@@ -25986,7 +25986,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-020-Q8",
+        "id": "TTR-ENG-C1-020-Q8",
         "prompt": "Bilateral treaty directives stipulate that intellectual property rights _____ vested solely in the sovereign defense ministry.",
         "options": [
           {
@@ -26008,7 +26008,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mastery-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+          "correct": "Advanced-tier syntax: Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
           "wrong_B": "Option 'remains' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will remain' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'are remaining' is ungrammatical in high-register technical legal discourse."
@@ -26017,7 +26017,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-020-Q9",
+        "id": "TTR-ENG-C1-020-Q9",
         "prompt": "Under no circumstances _____ the OEM to disclose proprietary swinging half-axle gear telemetry without prior written consent.",
         "options": [
           {
@@ -26039,7 +26039,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mastery-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
+          "correct": "Advanced-tier syntax: Negative inversion: 'Under no circumstances is the tribunal to permit'.",
           "wrong_A": "Option 'the tribunal is to permit' incorrectly applies indicative or non-inverted word order.",
           "wrong_B": "Option 'will the tribunal permits' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'the tribunal permits' is ungrammatical in high-register technical legal discourse."
@@ -26048,7 +26048,7 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
-        "id": "TTR-ENG-C2-020-Q10",
+        "id": "TTR-ENG-C1-020-Q10",
         "prompt": "The lead failure analyst insisted that forensic fracture toughness specimens _____ immediately to an independent accredited laboratory.",
         "options": [
           {
@@ -26070,7 +26070,7 @@ Object.assign(window.TEST_REGISTRY, {
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mastery-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
+          "correct": "Advanced-tier syntax: Passive mandative subjunctive: 'insisted that specimens be dispatched'.",
           "wrong_A": "Option 'are dispatched' incorrectly applies indicative or non-inverted word order.",
           "wrong_C": "Option 'will be dispatched' violates formal mandative subjunctive or inversion rules.",
           "wrong_D": "Option 'must to be dispatched' is ungrammatical in high-register technical legal discourse."
