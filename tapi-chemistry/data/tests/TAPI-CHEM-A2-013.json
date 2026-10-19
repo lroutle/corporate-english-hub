@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-A2-013",
+  "title": "pH Meter Buffer Solution Calibration: pH 4.0, 7.0 & 10.0",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+  "estimated_time_minutes": 10,
+  "description": "Foundational chemical laboratory module covering ph meter buffer solution calibration: ph 4.0, 7.0 & 10.0.",
+  "learning_objectives": [
+    "Master professional Prepositions of Measurement in organic API synthesis and QC analysis",
+    "Eliminate common Czech interference errors in ph meter buffer solution calibration: ph 4.0, 7.0 & 10.0",
+    "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-A2-013-Q1",
+      "prompt": "The analytical chemist usually _____ 5.0 grams of active pharmaceutical substance on the analytical balance.",
+      "options": [
+        {
+          "key": "A",
+          "text": "weigh"
+        },
+        {
+          "key": "B",
+          "text": "weighs"
+        },
+        {
+          "key": "C",
+          "text": "weighing"
+        },
+        {
+          "key": "D",
+          "text": "is weigh"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('weighs').",
+        "wrong_A": "Base form 'weigh' lacks singular '-s'.",
+        "wrong_C": "Participle 'weighing' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is weigh' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Czech 'chemik váží'. English 3rd person singular takes -s: 'weighs'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-013-Q2",
+      "prompt": "The laboratory technician usually _____ the volumetric flask with high-purity HPLC-grade water to the mark.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fill"
+        },
+        {
+          "key": "B",
+          "text": "filling"
+        },
+        {
+          "key": "C",
+          "text": "fills"
+        },
+        {
+          "key": "D",
+          "text": "is fill"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('fills').",
+        "wrong_A": "Base form 'fill' lacks singular '-s'.",
+        "wrong_B": "Participle 'filling' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is fill' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'fills' with -s.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-013-Q3",
+      "prompt": "The QC analyst usually _____ the pH electrode in the standard pH 7.0 buffer solution carefully.",
+      "options": [
+        {
+          "key": "A",
+          "text": "immerses"
+        },
+        {
+          "key": "B",
+          "text": "immerse"
+        },
+        {
+          "key": "C",
+          "text": "immersing"
+        },
+        {
+          "key": "D",
+          "text": "is immerse"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('immerses').",
+        "wrong_B": "Base form 'immerse' lacks singular '-s'.",
+        "wrong_C": "Participle 'immersing' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is immerse' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'immerses'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-013-Q4",
+      "prompt": "The process operator usually _____ the temperature of the jacketed synthesis reactor every fifteen minutes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "check"
+        },
+        {
+          "key": "B",
+          "text": "checking"
+        },
+        {
+          "key": "C",
+          "text": "is check"
+        },
+        {
+          "key": "D",
+          "text": "checks"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('checks').",
+        "wrong_A": "Base form 'check' lacks singular '-s'.",
+        "wrong_B": "Participle 'checking' cannot act as finite verb without auxiliary.",
+        "wrong_C": "'is check' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'checks'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-013-Q5",
+      "prompt": "The lab assistant usually _____ the rotary evaporator vacuum pump before heating the water bath.",
+      "options": [
+        {
+          "key": "A",
+          "text": "start"
+        },
+        {
+          "key": "B",
+          "text": "starting"
+        },
+        {
+          "key": "C",
+          "text": "starts"
+        },
+        {
+          "key": "D",
+          "text": "is start"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('starts').",
+        "wrong_A": "Base form 'start' lacks singular '-s'.",
+        "wrong_B": "Participle 'starting' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is start' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'starts'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-013-Q6",
+      "prompt": "The organic chemist usually _____ the crystalline precipitate using a Buchner funnel and filter paper.",
+      "options": [
+        {
+          "key": "A",
+          "text": "filter"
+        },
+        {
+          "key": "B",
+          "text": "filters"
+        },
+        {
+          "key": "C",
+          "text": "filtering"
+        },
+        {
+          "key": "D",
+          "text": "is filter"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('filters').",
+        "wrong_A": "Base form 'filter' lacks singular '-s'.",
+        "wrong_C": "Participle 'filtering' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is filter' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'filters'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-013-Q7",
+      "prompt": "The safety officer usually _____ all flammable solvent carboys in the explosion-proof yellow cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "store"
+        },
+        {
+          "key": "B",
+          "text": "storing"
+        },
+        {
+          "key": "C",
+          "text": "is store"
+        },
+        {
+          "key": "D",
+          "text": "stores"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('stores').",
+        "wrong_A": "Base form 'store' lacks singular '-s'.",
+        "wrong_B": "Participle 'storing' cannot act as finite verb without auxiliary.",
+        "wrong_C": "'is store' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'stores'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-013-Q8",
+      "prompt": "The titration specialist usually _____ the Karl Fischer reagent factor before running the moisture sample.",
+      "options": [
+        {
+          "key": "A",
+          "text": "calibrates"
+        },
+        {
+          "key": "B",
+          "text": "calibrate"
+        },
+        {
+          "key": "C",
+          "text": "calibrating"
+        },
+        {
+          "key": "D",
+          "text": "is calibrate"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('calibrates').",
+        "wrong_B": "Base form 'calibrate' lacks singular '-s'.",
+        "wrong_C": "Participle 'calibrating' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is calibrate' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'calibrates'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-013-Q9",
+      "prompt": "The shift technician usually _____ the analytical test results into the digital Laboratory Information Management System (LIMS).",
+      "options": [
+        {
+          "key": "A",
+          "text": "enter"
+        },
+        {
+          "key": "B",
+          "text": "entering"
+        },
+        {
+          "key": "C",
+          "text": "enters"
+        },
+        {
+          "key": "D",
+          "text": "is enter"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('enters').",
+        "wrong_A": "Base form 'enter' lacks singular '-s'.",
+        "wrong_B": "Participle 'entering' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is enter' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'enters'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-013-Q10",
+      "prompt": "The cleaning staff usually _____ the laminar flow fume hood stainless steel bench with isopropanol wipes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "clean"
+        },
+        {
+          "key": "B",
+          "text": "cleans"
+        },
+        {
+          "key": "C",
+          "text": "cleaning"
+        },
+        {
+          "key": "D",
+          "text": "is clean"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('cleans').",
+        "wrong_A": "Base form 'clean' lacks singular '-s'.",
+        "wrong_C": "Participle 'cleaning' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is clean' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'cleans'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    }
+  ]
+}

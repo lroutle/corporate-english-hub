@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-A2-002",
+  "title": "Daily QC Testing & Analytical Weighing: Present Simple",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+  "estimated_time_minutes": 10,
+  "description": "Describe daily analytical balance calibration, sample preparation, and reagent dilution using Present Simple.",
+  "learning_objectives": [
+    "Use Present Simple 3rd person -s for laboratory routines",
+    "State standard analytical procedures with frequency adverbs",
+    "Avoid Czenglish omission of auxiliary in laboratory questions"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-A2-002-Q1",
+      "prompt": "The QC chemist _____ the analytical balance using certified calibration weights every morning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "calibrate"
+        },
+        {
+          "key": "B",
+          "text": "calibrates"
+        },
+        {
+          "key": "C",
+          "text": "is calibrate"
+        },
+        {
+          "key": "D",
+          "text": "calibrating"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject 'chemist' takes 'calibrates' with 3rd person -s.",
+        "wrong_A": "Lacks singular -s.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Chemik kalibruje'. Singular subject takes '-s': 'calibrates'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-002-Q2",
+      "prompt": "We always _____ volumetric flasks with ultrapure Milli-Q water before preparing buffer solutions.",
+      "options": [
+        {
+          "key": "A",
+          "text": "rinses"
+        },
+        {
+          "key": "B",
+          "text": "is rinse"
+        },
+        {
+          "key": "C",
+          "text": "rinse"
+        },
+        {
+          "key": "D",
+          "text": "rinsing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Plural subject 'We' takes base verb 'rinse'.",
+        "wrong_A": "'rinses' is singular.",
+        "wrong_B": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Vždy vyplachujeme...'. Plural subject takes base verb: 'rinse'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-002-Q3",
+      "prompt": "The pH meter _____ a two-point buffer calibration before any titration testing.",
+      "options": [
+        {
+          "key": "A",
+          "text": "requires"
+        },
+        {
+          "key": "B",
+          "text": "require"
+        },
+        {
+          "key": "C",
+          "text": "is require"
+        },
+        {
+          "key": "D",
+          "text": "requiring"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject 'pH meter' takes 'requires'.",
+        "wrong_B": "Lacks singular -s.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'pH metr vyžaduje...'. Singular subject takes '-s': 'requires'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-002-Q4",
+      "prompt": "_____ the auto-sampler inject five microliters of solution for each chromatography vial?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is"
+        },
+        {
+          "key": "B",
+          "text": "Do"
+        },
+        {
+          "key": "C",
+          "text": "Are"
+        },
+        {
+          "key": "D",
+          "text": "Does"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject 'the auto-sampler' takes auxiliary 'Does' in Present Simple questions.",
+        "wrong_A": "'Is' requires continuous -ing.",
+        "wrong_B": "'Do' is plural.",
+        "wrong_C": "'Are' is plural."
+      },
+      "cz_learning_point": "Czech 'Dávkuje autosampler 5 mikrolitrů...?'. Question takes 'Does the auto-sampler inject...?'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-002-Q5",
+      "prompt": "Analytical chemists _____ magnetic stirrers to dissolve solid active ingredients completely.",
+      "options": [
+        {
+          "key": "A",
+          "text": "uses"
+        },
+        {
+          "key": "B",
+          "text": "use"
+        },
+        {
+          "key": "C",
+          "text": "are use"
+        },
+        {
+          "key": "D",
+          "text": "using"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Plural subject 'chemists' takes base verb 'use'.",
+        "wrong_A": "'uses' is singular.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Chemici používají...'. Plural subject takes base verb: 'use'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-002-Q6",
+      "prompt": "The laboratory technician _____ not leave volatile organic solvents uncovered on the bench.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "do"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular negative Present Simple takes 'does not leave'.",
+        "wrong_A": "'is not leave' is ungrammatical.",
+        "wrong_C": "'do' is plural.",
+        "wrong_D": "'has' cannot negate action verbs like this."
+      },
+      "cz_learning_point": "Czech 'Technik nenechává...'. Use 'does not leave'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-002-Q7",
+      "prompt": "How often _____ the QC supervisor verify the HPLC baseline stability?",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "do"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "does"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular supervisor subject takes auxiliary 'does': 'How often does the supervisor verify...?'.",
+        "wrong_A": "'is' cannot pair with bare base verb 'verify'.",
+        "wrong_B": "'do' is plural.",
+        "wrong_C": "'are' is plural."
+      },
+      "cz_learning_point": "Czech 'Jak často vedoucí ověřuje...?'. Use auxiliary 'does'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-002-Q8",
+      "prompt": "The ultrasonic degassing bath _____ dissolved air bubbles from the mobile phase in 15 minutes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "removes"
+        },
+        {
+          "key": "B",
+          "text": "remove"
+        },
+        {
+          "key": "C",
+          "text": "is remove"
+        },
+        {
+          "key": "D",
+          "text": "removing"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject 'bath' takes 'removes' with 3rd person -s.",
+        "wrong_B": "Lacks singular -s.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Ultrazvuková lázeň odstraňuje...'. Singular subject takes '-s': 'removes'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-002-Q9",
+      "prompt": "Lab technicians _____ all hazardous chemical reagents into certified waste drums.",
+      "options": [
+        {
+          "key": "A",
+          "text": "pours"
+        },
+        {
+          "key": "B",
+          "text": "is pour"
+        },
+        {
+          "key": "C",
+          "text": "pour"
+        },
+        {
+          "key": "D",
+          "text": "pouring"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Plural subject 'technicians' takes base verb 'pour'.",
+        "wrong_A": "'pours' is singular.",
+        "wrong_B": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Technici vylévají...'. Plural subject takes base verb: 'pour'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-002-Q10",
+      "prompt": "The spectrophotometer _____ light absorbance at 254 nanometers automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "measure"
+        },
+        {
+          "key": "B",
+          "text": "measures"
+        },
+        {
+          "key": "C",
+          "text": "is measure"
+        },
+        {
+          "key": "D",
+          "text": "measuring"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject 'spectrophotometer' takes 'measures' with 3rd person -s.",
+        "wrong_A": "Lacks singular -s.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Spektrofotometr měří...'. Singular subject takes '-s': 'measures'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    }
+  ]
+}

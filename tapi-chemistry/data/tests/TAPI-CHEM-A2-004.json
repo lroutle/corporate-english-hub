@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-A2-004",
+  "title": "Chemical Storage & Reagent Cabinets: Prepositions of Place",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
+  "estimated_time_minutes": 10,
+  "description": "Accurately locate chemical reagent bottles, spill kits, eyewash stations, and solvent waste containers using English prepositions of place.",
+  "learning_objectives": [
+    "Use prepositions of place (in, on, under, between, next to, inside, behind) accurately",
+    "Differentiate between 'in the cabinet' vs 'on the shelf' vs 'under the fume hood'",
+    "Avoid common Czenglish spatial confusion (e.g. *on the lab* vs in the lab)"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-A2-004-Q1",
+      "prompt": "All flammable solvent bottles must be stored _____ the yellow explosion-proof safety cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "on"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "along"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'inside' (or 'in') correctly denotes enclosed storage inside a safety cabinet.",
+        "wrong_A": "'on' would mean on top of the external roof of the cabinet.",
+        "wrong_C": "'between' requires two separate objects or reference points.",
+        "wrong_D": "'along' describes movement parallel to a line."
+      },
+      "cz_learning_point": "Czech 'uvnitř skříně'. Use 'inside' or 'in' for closed storage cabinets.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-004-Q2",
+      "prompt": "The laboratory emergency shower is located right _____ the main cleanroom exit door.",
+      "options": [
+        {
+          "key": "A",
+          "text": "among"
+        },
+        {
+          "key": "B",
+          "text": "into"
+        },
+        {
+          "key": "C",
+          "text": "next to"
+        },
+        {
+          "key": "D",
+          "text": "under"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'next to' (or 'beside') describes adjacent location.",
+        "wrong_A": "'among' is used with three or more objects.",
+        "wrong_B": "'into' indicates movement, not stationary location.",
+        "wrong_D": "'under' means beneath."
+      },
+      "cz_learning_point": "Czech 'vedle dveří'. Use 'next to' or 'beside', not *next the door*.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-004-Q3",
+      "prompt": "Place the volumetric flask _____ the analytical balance pan before pressing the tare button.",
+      "options": [
+        {
+          "key": "A",
+          "text": "on"
+        },
+        {
+          "key": "B",
+          "text": "in"
+        },
+        {
+          "key": "C",
+          "text": "over"
+        },
+        {
+          "key": "D",
+          "text": "into"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'on' designates contact with a horizontal flat surface (the balance pan).",
+        "wrong_B": "'in' is used for enclosed 3D spaces.",
+        "wrong_C": "'over' implies above without touching.",
+        "wrong_D": "'into' denotes movement into an enclosure."
+      },
+      "cz_learning_point": "Czech 'na misku vah'. In English, surface contact requires 'on'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-004-Q4",
+      "prompt": "The acid waste container is positioned _____ the workbench to prevent accidental spills from falling.",
+      "options": [
+        {
+          "key": "A",
+          "text": "above"
+        },
+        {
+          "key": "B",
+          "text": "across"
+        },
+        {
+          "key": "C",
+          "text": "through"
+        },
+        {
+          "key": "D",
+          "text": "under"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'under' (or 'underneath') denotes beneath the table surface.",
+        "wrong_A": "'above' would mean higher than the bench.",
+        "wrong_B": "'across' means on the opposite side.",
+        "wrong_C": "'through' indicates traversal."
+      },
+      "cz_learning_point": "Czech 'pod pracovním stolem'. In English: 'under the workbench'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-004-Q5",
+      "prompt": "The chemical spill kit is mounted on the wall _____ the solvent cabinet and the eyewash station.",
+      "options": [
+        {
+          "key": "A",
+          "text": "behind"
+        },
+        {
+          "key": "B",
+          "text": "under"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "inside"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'between' is used for an intermediate position connecting two distinct reference points.",
+        "wrong_A": "'behind' means at the back of.",
+        "wrong_B": "'under' means below.",
+        "wrong_D": "'inside' requires an enclosure."
+      },
+      "cz_learning_point": "Czech 'mezi skříní a stanicí'. Position between two items is 'between'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-004-Q6",
+      "prompt": "Keep all volatile reagents _____ the fume hood sash during extraction.",
+      "options": [
+        {
+          "key": "A",
+          "text": "out"
+        },
+        {
+          "key": "B",
+          "text": "behind"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "onto"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'behind the sash' indicates inside the ventilated fume hood area, shielded by the glass window.",
+        "wrong_A": "'out' means outside the protected area.",
+        "wrong_C": "'between' requires two reference points.",
+        "wrong_D": "'onto' denotes movement towards a surface."
+      },
+      "cz_learning_point": "Chemical safety requires reagents to be placed 'behind the fume hood sash' (za ochranným sklem digestoře).",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-004-Q7",
+      "prompt": "The concentrated nitric acid is stored on the lowest shelf, _____ the organic solvents.",
+      "options": [
+        {
+          "key": "A",
+          "text": "into"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "through"
+        },
+        {
+          "key": "D",
+          "text": "away from"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'away from' indicates physical separation to prevent hazardous chemical reactions.",
+        "wrong_A": "'into' indicates movement.",
+        "wrong_B": "'between' requires two boundaries.",
+        "wrong_C": "'through' indicates motion across."
+      },
+      "cz_learning_point": "In chemical segregation, acids must be stored 'away from' (odděleně / mimo) incompatible bases and organic solvents.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-004-Q8",
+      "prompt": "The glass desiccator is located _____ the top shelf of cabinet C-3.",
+      "options": [
+        {
+          "key": "A",
+          "text": "on"
+        },
+        {
+          "key": "B",
+          "text": "at"
+        },
+        {
+          "key": "C",
+          "text": "to"
+        },
+        {
+          "key": "D",
+          "text": "over"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Objects resting on horizontal shelving take 'on': 'on the top shelf'.",
+        "wrong_B": "'at the top shelf' is non-standard for resting items.",
+        "wrong_C": "'to' indicates direction of motion.",
+        "wrong_D": "'over' means above without surface contact."
+      },
+      "cz_learning_point": "Czech 'na horní polici'. English uses 'on the shelf', never *in the shelf*.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-004-Q9",
+      "prompt": "Do not leave used pipette tips _____ the laminar flow hood bench when you finish testing.",
+      "options": [
+        {
+          "key": "A",
+          "text": "between"
+        },
+        {
+          "key": "B",
+          "text": "among"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "into"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'on' designates resting on the surface of the bench.",
+        "wrong_A": "'between' requires two items.",
+        "wrong_B": "'among' requires three or more items.",
+        "wrong_D": "'into' denotes motion into a container."
+      },
+      "cz_learning_point": "Czech 'nenechávejte na stole'. Surface contact is 'on the bench'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-004-Q10",
+      "prompt": "The secondary containment tray is positioned _____ each 25-liter solvent carboy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "above"
+        },
+        {
+          "key": "B",
+          "text": "underneath"
+        },
+        {
+          "key": "C",
+          "text": "along"
+        },
+        {
+          "key": "D",
+          "text": "through"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'underneath' (or 'under') indicates directly beneath the container to catch drips.",
+        "wrong_A": "'above' means higher up.",
+        "wrong_C": "'along' means parallel to.",
+        "wrong_D": "'through' means passing inside."
+      },
+      "cz_learning_point": "Czech 'pod nádobou'. 'Underneath' indicates directly below to catch leaks.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    }
+  ]
+}

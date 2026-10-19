@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-A2-005",
+  "title": "Plant Warning Signs & Crane Safety: Can & Must",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Workshop Assembly & Line Tooling",
+  "estimated_time_minutes": 10,
+  "description": "Interpret shopfloor safety signs, overhead crane operating limits, and mandatory PPE rules using modal verbs.",
+  "learning_objectives": [
+    "Use modal 'must' for mandatory safety regulations",
+    "Use 'must not' for strict prohibitions vs 'don't have to'",
+    "Use 'can / can't' for crane and hoist weight capacities"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-A2-005-Q1",
+      "prompt": "All visitors _____ wear safety boots and a high-visibility vest in the assembly plant.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to"
+        },
+        {
+          "key": "B",
+          "text": "must"
+        },
+        {
+          "key": "C",
+          "text": "can to"
+        },
+        {
+          "key": "D",
+          "text": "are"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Modal 'must' is followed directly by bare infinitive: 'must wear'.",
+        "wrong_A": "'must to' is ungrammatical.",
+        "wrong_C": "'can to' is ungrammatical.",
+        "wrong_D": "'are' cannot pair with bare verb 'wear'."
+      },
+      "cz_learning_point": "Czech 'Všichni musí nosit'. Never say *must to wear*. Use 'must wear'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-005-Q2",
+      "prompt": "This overhead workshop crane _____ lift up to 15 metric tons safely.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to"
+        },
+        {
+          "key": "B",
+          "text": "is can"
+        },
+        {
+          "key": "C",
+          "text": "can"
+        },
+        {
+          "key": "D",
+          "text": "cans"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Capability modal 'can' takes no -s and takes bare infinitive: 'can lift'.",
+        "wrong_A": "'must to' is ungrammatical.",
+        "wrong_B": "Ungrammatical.",
+        "wrong_D": "Modal verbs do not take 3rd person -s."
+      },
+      "cz_learning_point": "Czech 'Jeřáb může zvednout'. Modal 'can' never takes -s: 'can lift'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-005-Q3",
+      "prompt": "You _____ stand under a suspended load while the chassis is being transported!",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not"
+        },
+        {
+          "key": "B",
+          "text": "don't have to"
+        },
+        {
+          "key": "C",
+          "text": "haven't to"
+        },
+        {
+          "key": "D",
+          "text": "needn't"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Must not' expresses life-critical safety prohibition ('nesmíte').",
+        "wrong_B": "'don't have to' means optional ('nemusíte'), which is a fatal error under a crane!",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "'needn't' means lack of obligation."
+      },
+      "cz_learning_point": "Czech 'Nesmíte stát pod břemenem' = 'must not stand'. Do not confuse with 'don't have to' (nemusíte).",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-005-Q4",
+      "prompt": "Contractors _____ sign in at the security gate before entering the manufacturing zone.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "can to"
+        },
+        {
+          "key": "D",
+          "text": "must"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Mandatory rule takes 'must + base verb': 'must sign in'.",
+        "wrong_A": "'must to' is invalid.",
+        "wrong_B": "'are' cannot pair with base verb 'sign in'.",
+        "wrong_C": "'can to' is invalid."
+      },
+      "cz_learning_point": "Czech 'Musí se zapsat'. Use 'must sign in'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-005-Q5",
+      "prompt": "_____ we operate the overhead gantry crane without a certified signalman?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Must"
+        },
+        {
+          "key": "B",
+          "text": "Do"
+        },
+        {
+          "key": "C",
+          "text": "Can"
+        },
+        {
+          "key": "D",
+          "text": "Are"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Permission/capability question takes 'Can we operate...'.",
+        "wrong_A": "'Must we operate' asks about compulsion, not permission.",
+        "wrong_B": "'Do we operate' asks about habitual routine.",
+        "wrong_D": "'Are' requires continuous -ing."
+      },
+      "cz_learning_point": "Czech 'Můžeme obsluhovat jeřáb bez...?'. Use 'Can we operate...'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-005-Q6",
+      "prompt": "You _____ wear ear defenders in the stamping hall; the noise exceeds 90 dB.",
+      "options": [
+        {
+          "key": "A",
+          "text": "can"
+        },
+        {
+          "key": "B",
+          "text": "must"
+        },
+        {
+          "key": "C",
+          "text": "must to"
+        },
+        {
+          "key": "D",
+          "text": "have"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Mandatory safety rule takes 'must wear'.",
+        "wrong_A": "'can' suggests optional choice.",
+        "wrong_C": "'must to' is ungrammatical.",
+        "wrong_D": "'have' requires 'to'."
+      },
+      "cz_learning_point": "Czech 'Musíte nosit ochranu sluchu'. Mandatory rule takes 'must wear'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-005-Q7",
+      "prompt": "The forklift truck _____ exceed 10 km/h inside the pedestrian crossway areas.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must"
+        },
+        {
+          "key": "B",
+          "text": "can"
+        },
+        {
+          "key": "C",
+          "text": "doesn't have to"
+        },
+        {
+          "key": "D",
+          "text": "must not"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Strict prohibition takes 'must not exceed'.",
+        "wrong_A": "'must' would mandate speeding.",
+        "wrong_B": "'can' would permit speeding.",
+        "wrong_C": "'doesn't have to' means optional."
+      },
+      "cz_learning_point": "Czech 'Vysokozdvižný vozík nesmí překročit...'. Prohibition takes 'must not exceed'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-005-Q8",
+      "prompt": "Employees _____ report all oil spills immediately to the environmental safety officer.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must"
+        },
+        {
+          "key": "B",
+          "text": "must to"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "have"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Obligation modal 'must' is followed directly by bare infinitive: 'must report'.",
+        "wrong_B": "'must to' is ungrammatical.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "'have' requires 'to'."
+      },
+      "cz_learning_point": "Czech 'Zaměstnanci musí hlásit...'. Use 'must report'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-005-Q9",
+      "prompt": "You _____ touch electrical control panels with wet hands under any circumstances.",
+      "options": [
+        {
+          "key": "A",
+          "text": "can"
+        },
+        {
+          "key": "B",
+          "text": "don't must"
+        },
+        {
+          "key": "C",
+          "text": "must not"
+        },
+        {
+          "key": "D",
+          "text": "needn't"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Prohibition takes 'must not'. Note that *don't must* does not exist in English.",
+        "wrong_A": "'can' implies permission.",
+        "wrong_B": "'don't must' is a frequent Czenglish grammatical error.",
+        "wrong_D": "'needn't' indicates lack of necessity."
+      },
+      "cz_learning_point": "Never say *don't must*. English prohibition is strictly 'must not'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-005-Q10",
+      "prompt": "Only certified crane technicians _____ perform routine wire rope maintenance.",
+      "options": [
+        {
+          "key": "A",
+          "text": "can to"
+        },
+        {
+          "key": "B",
+          "text": "can"
+        },
+        {
+          "key": "C",
+          "text": "is can"
+        },
+        {
+          "key": "D",
+          "text": "must to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Capability/authorization modal takes base form: 'can perform'.",
+        "wrong_A": "'can to' is ungrammatical.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "'must to' is ungrammatical."
+      },
+      "cz_learning_point": "Czech 'Pouze certifikovaní technici mohou provádět...'. Modal 'can' takes bare verb: 'can perform'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    }
+  ]
+}

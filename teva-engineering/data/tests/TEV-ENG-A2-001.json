@@ -1,0 +1,326 @@
+{
+  "test_id": "TEV-ENG-A2-001",
+  "title": "Cleanroom Gowning, Airlocks & PPE: Imperatives & Must",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE",
+  "estimated_time_minutes": 10,
+  "description": "Essential English for sterile gowning procedures, airlock entry steps, and mandatory cleanroom hygiene rules.",
+  "learning_objectives": [
+    "Give and follow clear cleanroom gowning instructions",
+    "Use modal 'must' and 'do not' for GxP hygiene protocols",
+    "Avoid Czech mother-tongue errors with basic modal verbs"
+  ],
+  "questions": [
+    {
+      "id": "TEV-ENG-A2-001-Q1",
+      "prompt": "Always _____ your hands with sterile disinfectant before entering Grade B airlock.",
+      "options": [
+        {
+          "key": "A",
+          "text": "washing"
+        },
+        {
+          "key": "B",
+          "text": "wash"
+        },
+        {
+          "key": "C",
+          "text": "washes"
+        },
+        {
+          "key": "D",
+          "text": "to wash"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Imperative instruction uses the base form 'wash'.",
+        "wrong_A": "'-ing' cannot be used for direct commands.",
+        "wrong_C": "Third person '-es' cannot form an imperative.",
+        "wrong_D": "'to' infinitive is ungrammatical."
+      },
+      "cz_learning_point": "Czech 'Vždy si umyjte ruce'. In English, direct instructions use base verb: 'Always wash'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-001-Q2",
+      "prompt": "All personnel _____ wear sterile nitrile gloves in the cleanroom suite.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to"
+        },
+        {
+          "key": "B",
+          "text": "have"
+        },
+        {
+          "key": "C",
+          "text": "must"
+        },
+        {
+          "key": "D",
+          "text": "are"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Modal 'must' is followed directly by the bare infinitive ('must wear').",
+        "wrong_A": "Never use 'to' after 'must' (*must to wear* is a frequent Czenglish error).",
+        "wrong_B": "'have wear' is ungrammatical; it would need 'have to wear'.",
+        "wrong_D": "'are wear' is invalid."
+      },
+      "cz_learning_point": "Never say *must to wear*. Modal 'must' takes the bare verb without 'to': 'must wear'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-001-Q3",
+      "prompt": "Do not _____ both airlock doors at the same time!",
+      "options": [
+        {
+          "key": "A",
+          "text": "opens"
+        },
+        {
+          "key": "B",
+          "text": "opening"
+        },
+        {
+          "key": "C",
+          "text": "to open"
+        },
+        {
+          "key": "D",
+          "text": "open"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Negative imperative 'Do not' requires the base verb 'open'.",
+        "wrong_A": "Third person '-s' is invalid after 'Do not'.",
+        "wrong_B": "'-ing' form cannot follow 'Do not'.",
+        "wrong_C": "'to open' is invalid after 'Do not'."
+      },
+      "cz_learning_point": "Czech 'Neotvírejte obě dveře současně'. Use 'Do not open'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-001-Q4",
+      "prompt": "The technician _____ the differential pressure gauge on the wall every two hours.",
+      "options": [
+        {
+          "key": "A",
+          "text": "checks"
+        },
+        {
+          "key": "B",
+          "text": "check"
+        },
+        {
+          "key": "C",
+          "text": "is check"
+        },
+        {
+          "key": "D",
+          "text": "checking"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject 'The technician' requires singular '-s' in Present Simple ('checks').",
+        "wrong_B": "'check' lacks third person '-s'.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be the main verb."
+      },
+      "cz_learning_point": "Czech 'Technik kontroluje'. Third person singular in English requires '-s': 'checks'.",
+      "workplace_track": "SCADA, PLC & Industrial Sensors"
+    },
+    {
+      "id": "TEV-ENG-A2-001-Q5",
+      "prompt": "Where _____ the sterile shoe cover dispenser located?",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "does"
+        },
+        {
+          "key": "D",
+          "text": "do"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject 'dispenser' takes 'is'.",
+        "wrong_A": "'are' is plural.",
+        "wrong_C": "'does' is not used with passive adjective 'located'.",
+        "wrong_D": "'do' is plural."
+      },
+      "cz_learning_point": "Czech 'Kde se nachází dávkovač návleků?'. Singular subject $\rightarrow$ 'Where is the dispenser...?'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-001-Q6",
+      "prompt": "You _____ touch sterile vial stoppers with bare hands under any circumstances!",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not"
+        },
+        {
+          "key": "B",
+          "text": "don't have to"
+        },
+        {
+          "key": "C",
+          "text": "haven't to"
+        },
+        {
+          "key": "D",
+          "text": "needn't"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Must not' expresses life-critical strict prohibition (Czech 'nesmíte').",
+        "wrong_B": "'Don't have to' means it is optional (nemusíte), which is a critical hygiene hazard!",
+        "wrong_C": "'Haven't to' is ungrammatical.",
+        "wrong_D": "'Needn't' means lack of necessity, not strict prohibition."
+      },
+      "cz_learning_point": "Czech 'Nesmíte' = 'must not'. Do not confuse with 'nemusíte' ('don't have to').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-A2-001-Q7",
+      "prompt": "The cleanroom autoclave _____ a digital data logger for temperature records.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have"
+        },
+        {
+          "key": "B",
+          "text": "is having"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "having"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject 'The autoclave' takes 'has' for possession.",
+        "wrong_A": "'have' is plural.",
+        "wrong_B": "Stative 'have' does not take continuous aspect.",
+        "wrong_D": "Incomplete verb."
+      },
+      "cz_learning_point": "Czech 'Autokláv má'. Singular subject takes 'has', not 'have'.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    },
+    {
+      "id": "TEV-ENG-A2-001-Q8",
+      "prompt": "Please _____ the yellow emergency stop button if the conveyor jams.",
+      "options": [
+        {
+          "key": "A",
+          "text": "press"
+        },
+        {
+          "key": "B",
+          "text": "pressing"
+        },
+        {
+          "key": "C",
+          "text": "presses"
+        },
+        {
+          "key": "D",
+          "text": "to press"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Polite imperative takes base form 'press' after 'Please'.",
+        "wrong_B": "'-ing' cannot follow 'Please'.",
+        "wrong_C": "Third person '-es' is incorrect.",
+        "wrong_D": "Infinitive with 'to' is invalid after 'Please'."
+      },
+      "cz_learning_point": "Czech 'Prosím stiskněte...'. In English: 'Please press the button'.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-A2-001-Q9",
+      "prompt": "Differential pressure between Grade B and Grade C _____ currently 15 Pascals.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "have"
+        },
+        {
+          "key": "C",
+          "text": "is"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Uncountable/singular subject 'Differential pressure' takes 'is'.",
+        "wrong_A": "'are' is plural.",
+        "wrong_B": "'have' cannot link to a measurement predicate.",
+        "wrong_D": "'has' is incorrect for state/value."
+      },
+      "cz_learning_point": "Czech 'Tlakový rozdíl je...'. 'Pressure' is singular $\rightarrow$ 'is 15 Pascals'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-001-Q10",
+      "prompt": "Operators _____ not enter the filling suite without complete sterile gowning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "do"
+        },
+        {
+          "key": "B",
+          "text": "may"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "can"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'May not' (or 'must not') expresses formal regulatory prohibition in GMP SOPs.",
+        "wrong_A": "'do not enter' would require bare imperative syntax.",
+        "wrong_C": "'are not enter' is ungrammatical.",
+        "wrong_D": "'can not' expresses lack of physical ability rather than formal regulatory prohibition."
+      },
+      "cz_learning_point": "In pharmaceutical GMP standards, 'nesmí vstoupit' is formally rendered as 'may not enter' or 'must not enter'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_id": "TEV-ENG-A2-004",
+  "title": "Cleanroom Airflow & Sensor Positions: Prepositions of Place",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure",
+  "estimated_time_minutes": 10,
+  "description": "Specify component positions inside laminar flow hoods, beneath HEPA filters, and between airlocks.",
+  "learning_objectives": [
+    "Use prepositions of place: under, inside, above, next to, between",
+    "Give clear spatial directions in cleanroom suites and airlock cascades",
+    "Avoid typical Czenglish preposition errors in sterile facility layouts"
+  ],
+  "questions": [
+    {
+      "id": "TEV-ENG-A2-004-Q1",
+      "prompt": "Vial filling takes place directly _____ the Grade A unidirectional laminar airflow hood.",
+      "options": [
+        {
+          "key": "A",
+          "text": "on"
+        },
+        {
+          "key": "B",
+          "text": "under"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "over"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Beneath the laminar airflow hood $\\rightarrow$ 'under the hood'.",
+        "wrong_A": "'on' means on top.",
+        "wrong_C": "'between' requires two entities.",
+        "wrong_D": "'over' means higher than."
+      },
+      "cz_learning_point": "Czech 'přímo pod laminárním boxem'. Position beneath an airflow hood takes 'under'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-004-Q2",
+      "prompt": "Place the microbiological settle plates _____ the sterile filling enclosure.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "inside"
+        },
+        {
+          "key": "D",
+          "text": "under"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Enclosed sterile workspace $\\rightarrow$ 'inside the enclosure'.",
+        "wrong_A": "'to' indicates movement.",
+        "wrong_B": "'on' means on the exterior roof.",
+        "wrong_D": "'under' means beneath the floor."
+      },
+      "cz_learning_point": "Czech 'umístěte dovnitř boxu'. Enclosed interior takes 'inside'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-004-Q3",
+      "prompt": "The personal airlock is situated _____ the Grade C gowning room and the Grade B preparation area.",
+      "options": [
+        {
+          "key": "A",
+          "text": "between"
+        },
+        {
+          "key": "B",
+          "text": "among"
+        },
+        {
+          "key": "C",
+          "text": "under"
+        },
+        {
+          "key": "D",
+          "text": "through"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Separating two distinct cleanroom zones $\\rightarrow$ 'between'.",
+        "wrong_B": "'among' is for three or more items.",
+        "wrong_C": "'under' means beneath.",
+        "wrong_D": "'through' indicates motion."
+      },
+      "cz_learning_point": "Czech 'mezi šatnou třídy C a přípravnou třídy B'. Two distinct boundaries take 'between'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-004-Q4",
+      "prompt": "The magnehelic pressure gauge is mounted on the wall _____ the airlock entrance door.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in"
+        },
+        {
+          "key": "B",
+          "text": "under"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Adjacent position on the wall $\\rightarrow$ 'next to the door'.",
+        "wrong_A": "'in' is internal.",
+        "wrong_B": "'under' is on the floor.",
+        "wrong_C": "'between' requires two doors."
+      },
+      "cz_learning_point": "Czech 'hned vedle dveří'. Adjacent position takes 'next to'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-004-Q5",
+      "prompt": "The HEPA terminal filter units are installed in the ceiling _____ the sterile conveyor line.",
+      "options": [
+        {
+          "key": "A",
+          "text": "under"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "above"
+        },
+        {
+          "key": "D",
+          "text": "through"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Higher vertical position without contact $\\rightarrow$ 'above the line'.",
+        "wrong_A": "'under' is beneath.",
+        "wrong_B": "'between' requires two objects.",
+        "wrong_D": "'through' indicates motion across."
+      },
+      "cz_learning_point": "Czech 've stropě nad linkou'. Vertical position above $\\rightarrow$ 'above the line'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-004-Q6",
+      "prompt": "The emergency eye wash station is located _____ the entrance to the chemical preparation suite.",
+      "options": [
+        {
+          "key": "A",
+          "text": "under"
+        },
+        {
+          "key": "B",
+          "text": "near"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "inside of"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Proximity preposition $\\rightarrow$ 'near the entrance'.",
+        "wrong_A": "'under' is beneath.",
+        "wrong_C": "'between' requires two points.",
+        "wrong_D": "'inside of' is redundant and clumsy."
+      },
+      "cz_learning_point": "Czech 'poblíž vstupu'. Close proximity takes 'near'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-004-Q7",
+      "prompt": "Keep all sterile packaging materials _____ the stainless steel pass-through box.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "under"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "through"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Enclosed container $\\rightarrow$ 'inside the pass-through box'.",
+        "wrong_B": "'under' is beneath.",
+        "wrong_C": "'on' means on the exterior roof.",
+        "wrong_D": "'through' indicates movement."
+      },
+      "cz_learning_point": "Czech 'uvnitř prokládacího boxu'. Enclosed interior takes 'inside'.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-A2-004-Q8",
+      "prompt": "The return air grilles are installed in the wall near the floor _____ the filling table.",
+      "options": [
+        {
+          "key": "A",
+          "text": "behind"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "above"
+        },
+        {
+          "key": "D",
+          "text": "through"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Position at the rear $\\rightarrow$ 'behind the filling table'.",
+        "wrong_B": "'between' requires two objects.",
+        "wrong_C": "'above' is higher.",
+        "wrong_D": "'through' indicates motion."
+      },
+      "cz_learning_point": "Czech 'za plnicím stolem'. Position at the rear takes 'behind'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-004-Q9",
+      "prompt": "Never store empty transport carts _____ the fire exit door in the corridor.",
+      "options": [
+        {
+          "key": "A",
+          "text": "under"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "in front of"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Blocking an exit $\\rightarrow$ 'in front of the fire exit door'.",
+        "wrong_A": "'under' is beneath.",
+        "wrong_B": "'inside' is internal.",
+        "wrong_D": "'between' requires two doors."
+      },
+      "cz_learning_point": "Czech 'před únikovými dveřmi'. Obstruction in front takes 'in front of'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-A2-004-Q10",
+      "prompt": "The temperature data logger sensor is mounted _____ the middle rack of the incubator.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "under"
+        },
+        {
+          "key": "D",
+          "text": "at"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Mounted on a horizontal shelf surface $\\rightarrow$ 'on the middle rack'.",
+        "wrong_A": "'to' indicates movement.",
+        "wrong_C": "'under' means beneath the rack.",
+        "wrong_D": "'at' is vague location."
+      },
+      "cz_learning_point": "Czech 'na prostřední polici'. Surface position takes 'on'.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    }
+  ]
+}

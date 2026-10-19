@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-B2-010",
+  "title": "Pilot Plant Scale-Up Mass Transfer & Impeller Shear Stress Modeling",
+  "level": "B2",
+  "category": "core",
+  "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+  "estimated_time_minutes": 15,
+  "description": "Upper-intermediate chemical API synthesis module analyzing pilot plant scale-up mass transfer & impeller shear stress modeling.",
+  "learning_objectives": [
+    "Master professional Complex Passive Constructions in organic API synthesis and QC analysis",
+    "Eliminate common Czech interference errors in pilot plant scale-up mass transfer & impeller shear stress modeling",
+    "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-B2-010-Q1",
+      "prompt": "The pharmacopeial monograph requires that the chromatographic peak resolution between API and impurity A _____ not less than 2.0.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "be"
+        },
+        {
+          "key": "C",
+          "text": "will be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "B2 analytical & organic chemistry syntax: Mandative subjunctive after 'requires that' takes base form 'be'.",
+        "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will be' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'must to be' is ungrammatical in formal scientific chemistry discourse."
+      },
+      "cz_learning_point": "Advanced analytical chemistry reporting demands strict mandative subjunctive ('mandates that it be concluded') and auxiliary inversion ('Rarely does a method pass').",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B2-010-Q2",
+      "prompt": "Under no circumstances _____ discard the original chromatographic raw data files without prior QA authorization.",
+      "options": [
+        {
+          "key": "A",
+          "text": "analysts may"
+        },
+        {
+          "key": "B",
+          "text": "analysts must to"
+        },
+        {
+          "key": "C",
+          "text": "may analysts"
+        },
+        {
+          "key": "D",
+          "text": "shall analysts to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "B2 analytical & organic chemistry syntax: Negative inversion: 'Under no circumstances may analysts discard'.",
+        "wrong_A": "Option 'analysts may' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'analysts must to' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'shall analysts to' is ungrammatical in formal scientific chemistry discourse."
+      },
+      "cz_learning_point": "Advanced analytical chemistry reporting demands strict mandative subjunctive ('mandates that it be concluded') and auxiliary inversion ('Rarely does a method pass').",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B2-010-Q3",
+      "prompt": "It is essential that each Karl Fischer reagent factor determination _____ performed in triplicate.",
+      "options": [
+        {
+          "key": "A",
+          "text": "be"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "was"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "B2 analytical & organic chemistry syntax: Formulaic subjunctive after 'essential that' requires base form 'be'.",
+        "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'was' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'must to be' is ungrammatical in formal scientific chemistry discourse."
+      },
+      "cz_learning_point": "Advanced analytical chemistry reporting demands strict mandative subjunctive ('mandates that it be concluded') and auxiliary inversion ('Rarely does a method pass').",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B2-010-Q4",
+      "prompt": "Had the QC chemist verified the column equilibration time, the baseline drift _____ prevented.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would be"
+        },
+        {
+          "key": "B",
+          "text": "had been"
+        },
+        {
+          "key": "C",
+          "text": "will be"
+        },
+        {
+          "key": "D",
+          "text": "would have been"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "B2 analytical & organic chemistry syntax: Inverted Third Conditional passive result: 'would have been prevented'.",
+        "wrong_A": "Option 'would be' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'had been' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_C": "Option 'will be' is ungrammatical in formal scientific chemistry discourse."
+      },
+      "cz_learning_point": "Advanced analytical chemistry reporting demands strict mandative subjunctive ('mandates that it be concluded') and auxiliary inversion ('Rarely does a method pass').",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B2-010-Q5",
+      "prompt": "The OOS SOP mandates that Phase I laboratory investigations _____ within three working days.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are concluded"
+        },
+        {
+          "key": "B",
+          "text": "were concluded"
+        },
+        {
+          "key": "C",
+          "text": "be concluded"
+        },
+        {
+          "key": "D",
+          "text": "will be concluded"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "B2 analytical & organic chemistry syntax: Passive mandative subjunctive: 'mandates that investigations be concluded'.",
+        "wrong_A": "Option 'are concluded' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'were concluded' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'will be concluded' is ungrammatical in formal scientific chemistry discourse."
+      },
+      "cz_learning_point": "Advanced analytical chemistry reporting demands strict mandative subjunctive ('mandates that it be concluded') and auxiliary inversion ('Rarely does a method pass').",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B2-010-Q6",
+      "prompt": "Rarely _____ an analytical method validation pass specificity challenge without baseline separation of synthetic degradation products.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "will"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "B2 analytical & organic chemistry syntax: Negative inversion: 'Rarely does an analytical method pass'.",
+        "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'has' is ungrammatical in formal scientific chemistry discourse."
+      },
+      "cz_learning_point": "Advanced analytical chemistry reporting demands strict mandative subjunctive ('mandates that it be concluded') and auxiliary inversion ('Rarely does a method pass').",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B2-010-Q7",
+      "prompt": "If the reaction mixture had been quenched at 0°C on schedule, toxic exotherm decomposition _____ today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not have threatened"
+        },
+        {
+          "key": "B",
+          "text": "will not threaten"
+        },
+        {
+          "key": "C",
+          "text": "does not threaten"
+        },
+        {
+          "key": "D",
+          "text": "would not threaten"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "B2 analytical & organic chemistry syntax: Mixed conditional: past condition ('had been quenched') with present outcome ('today') takes 'would not threaten'.",
+        "wrong_A": "Option 'would not have threatened' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'will not threaten' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_C": "Option 'does not threaten' is ungrammatical in formal scientific chemistry discourse."
+      },
+      "cz_learning_point": "Advanced analytical chemistry reporting demands strict mandative subjunctive ('mandates that it be concluded') and auxiliary inversion ('Rarely does a method pass').",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B2-010-Q8",
+      "prompt": "The ICH Q2(R2) guideline stipulates that method detection limit (LOD) calculations _____ substantiated by signal-to-noise ratios.",
+      "options": [
+        {
+          "key": "A",
+          "text": "be"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "will be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "B2 analytical & organic chemistry syntax: Mandative subjunctive: 'stipulates that calculations be substantiated'.",
+        "wrong_B": "Option 'are' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will be' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'must to be' is ungrammatical in formal scientific chemistry discourse."
+      },
+      "cz_learning_point": "Advanced analytical chemistry reporting demands strict mandative subjunctive ('mandates that it be concluded') and auxiliary inversion ('Rarely does a method pass').",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B2-010-Q9",
+      "prompt": "Only by conducting comprehensive forced degradation stress testing _____ establish the stability-indicating nature of the HPLC method.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the analytical scientist can"
+        },
+        {
+          "key": "B",
+          "text": "the analytical scientist could"
+        },
+        {
+          "key": "C",
+          "text": "can the analytical scientist"
+        },
+        {
+          "key": "D",
+          "text": "was the analytical scientist can"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "B2 analytical & organic chemistry syntax: Inversion after 'Only by...': 'can the scientist establish'.",
+        "wrong_A": "Option 'the analytical scientist can' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'the analytical scientist could' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'was the analytical scientist can' is ungrammatical in formal scientific chemistry discourse."
+      },
+      "cz_learning_point": "Advanced analytical chemistry reporting demands strict mandative subjunctive ('mandates that it be concluded') and auxiliary inversion ('Rarely does a method pass').",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B2-010-Q10",
+      "prompt": "Were the jacketed reactor _____ a sudden runaway exotherm, emergency cooling brine injection would trigger automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "undergoes"
+        },
+        {
+          "key": "B",
+          "text": "to undergo"
+        },
+        {
+          "key": "C",
+          "text": "will undergo"
+        },
+        {
+          "key": "D",
+          "text": "would undergo"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "B2 analytical & organic chemistry syntax: Inverted Second Conditional: 'Were the reactor to undergo...' expresses formal hypothetical condition.",
+        "wrong_A": "Option 'undergoes' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will undergo' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'would undergo' is ungrammatical in formal scientific chemistry discourse."
+      },
+      "cz_learning_point": "Advanced analytical chemistry reporting demands strict mandative subjunctive ('mandates that it be concluded') and auxiliary inversion ('Rarely does a method pass').",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    }
+  ]
+}

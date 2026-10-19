@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-A2-012",
+  "title": "Workshop Emergency Procedures & Fire Extinguishers",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Workshop Assembly & Line Tooling",
+  "estimated_time_minutes": 10,
+  "description": "Foundational workplace English module covering workshop emergency procedures & fire extinguishers.",
+  "learning_objectives": [
+    "Master professional Imperatives for Emergency Directives in automotive engineering",
+    "Eliminate common Czech interference errors in workshop emergency procedures & fire extinguishers",
+    "Demonstrate precision in technical and regulatory documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-A2-012-Q1",
+      "prompt": "Before starting the chassis assembly, mechanics _____ the differential gear casing with a calibrated pneumatic impact driver.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to tighten"
+        },
+        {
+          "key": "B",
+          "text": "must tighten"
+        },
+        {
+          "key": "C",
+          "text": "are must tighten"
+        },
+        {
+          "key": "D",
+          "text": "must tightening"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Modal 'must' is followed by base form 'tighten' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modal 'must' never takes 'to'.",
+        "wrong_C": "'are must' is completely ungrammatical in English.",
+        "wrong_D": "'must' cannot be followed by an '-ing' participle."
+      },
+      "cz_learning_point": "Czech 'musí zkontrolovat'. English modal 'must' takes the bare infinitive without 'to': 'must tighten'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-012-Q2",
+      "prompt": "Before starting the chassis assembly, mechanics _____ the chassis backbone tube weld seam for micro-cracks before painting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to inspect"
+        },
+        {
+          "key": "B",
+          "text": "are must inspect"
+        },
+        {
+          "key": "C",
+          "text": "must inspect"
+        },
+        {
+          "key": "D",
+          "text": "must inspecting"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Modal 'must' is followed by base form 'inspect' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modal 'must' never takes 'to'.",
+        "wrong_B": "'are must' is completely ungrammatical in English.",
+        "wrong_D": "'must' cannot be followed by an '-ing' participle."
+      },
+      "cz_learning_point": "Czech 'musí zkontrolovat'. English modal 'must' takes the bare infinitive without 'to': 'must inspect'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-012-Q3",
+      "prompt": "Before starting the chassis assembly, mechanics _____ the heavy Tatra V8 engine block directly onto the front chassis mounts.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must lower"
+        },
+        {
+          "key": "B",
+          "text": "must to lower"
+        },
+        {
+          "key": "C",
+          "text": "are must lower"
+        },
+        {
+          "key": "D",
+          "text": "must lowering"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Modal 'must' is followed by base form 'lower' without 'to'.",
+        "wrong_B": "'must to' is ungrammatical; modal 'must' never takes 'to'.",
+        "wrong_C": "'are must' is completely ungrammatical in English.",
+        "wrong_D": "'must' cannot be followed by an '-ing' participle."
+      },
+      "cz_learning_point": "Czech 'musí zkontrolovat'. English modal 'must' takes the bare infinitive without 'to': 'must lower'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-012-Q4",
+      "prompt": "Before starting the chassis assembly, mechanics _____ the hydraulic oil level in the cabin tilt mechanism every Monday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to check"
+        },
+        {
+          "key": "B",
+          "text": "are must check"
+        },
+        {
+          "key": "C",
+          "text": "must checking"
+        },
+        {
+          "key": "D",
+          "text": "must check"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Modal 'must' is followed by base form 'check' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modal 'must' never takes 'to'.",
+        "wrong_B": "'are must' is completely ungrammatical in English.",
+        "wrong_C": "'must' cannot be followed by an '-ing' participle."
+      },
+      "cz_learning_point": "Czech 'musí zkontrolovat'. English modal 'must' takes the bare infinitive without 'to': 'must check'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-012-Q5",
+      "prompt": "Before starting the chassis assembly, mechanics _____ the suspension bracket to the central load-bearing tube automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to weld"
+        },
+        {
+          "key": "B",
+          "text": "are must weld"
+        },
+        {
+          "key": "C",
+          "text": "must weld"
+        },
+        {
+          "key": "D",
+          "text": "must welding"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Modal 'must' is followed by base form 'weld' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modal 'must' never takes 'to'.",
+        "wrong_B": "'are must' is completely ungrammatical in English.",
+        "wrong_D": "'must' cannot be followed by an '-ing' participle."
+      },
+      "cz_learning_point": "Czech 'musí zkontrolovat'. English modal 'must' takes the bare infinitive without 'to': 'must weld'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-012-Q6",
+      "prompt": "Before starting the chassis assembly, mechanics _____ the daily assembly logbook before the afternoon shift departs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to sign"
+        },
+        {
+          "key": "B",
+          "text": "must sign"
+        },
+        {
+          "key": "C",
+          "text": "are must sign"
+        },
+        {
+          "key": "D",
+          "text": "must signing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Modal 'must' is followed by base form 'sign' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modal 'must' never takes 'to'.",
+        "wrong_C": "'are must' is completely ungrammatical in English.",
+        "wrong_D": "'must' cannot be followed by an '-ing' participle."
+      },
+      "cz_learning_point": "Czech 'musí zkontrolovat'. English modal 'must' takes the bare infinitive without 'to': 'must sign'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-012-Q7",
+      "prompt": "Before starting the chassis assembly, mechanics _____ the central tire inflation system (CTIS) pressure valves during road trials.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to test"
+        },
+        {
+          "key": "B",
+          "text": "are must test"
+        },
+        {
+          "key": "C",
+          "text": "must testing"
+        },
+        {
+          "key": "D",
+          "text": "must test"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Modal 'must' is followed by base form 'test' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modal 'must' never takes 'to'.",
+        "wrong_B": "'are must' is completely ungrammatical in English.",
+        "wrong_C": "'must' cannot be followed by an '-ing' participle."
+      },
+      "cz_learning_point": "Czech 'musí zkontrolovat'. English modal 'must' takes the bare infinitive without 'to': 'must test'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-012-Q8",
+      "prompt": "Before starting the chassis assembly, mechanics _____ the wheel rims with a protective anti-corrosion primer coating.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must spray"
+        },
+        {
+          "key": "B",
+          "text": "must to spray"
+        },
+        {
+          "key": "C",
+          "text": "are must spray"
+        },
+        {
+          "key": "D",
+          "text": "must spraying"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Modal 'must' is followed by base form 'spray' without 'to'.",
+        "wrong_B": "'must to' is ungrammatical; modal 'must' never takes 'to'.",
+        "wrong_C": "'are must' is completely ungrammatical in English.",
+        "wrong_D": "'must' cannot be followed by an '-ing' participle."
+      },
+      "cz_learning_point": "Czech 'musí zkontrolovat'. English modal 'must' takes the bare infinitive without 'to': 'must spray'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-012-Q9",
+      "prompt": "Before starting the chassis assembly, mechanics _____ the swinging half-axle rubber dust boot for oil weeping.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to replace"
+        },
+        {
+          "key": "B",
+          "text": "are must replace"
+        },
+        {
+          "key": "C",
+          "text": "must replace"
+        },
+        {
+          "key": "D",
+          "text": "must replacing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Modal 'must' is followed by base form 'replace' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modal 'must' never takes 'to'.",
+        "wrong_B": "'are must' is completely ungrammatical in English.",
+        "wrong_D": "'must' cannot be followed by an '-ing' participle."
+      },
+      "cz_learning_point": "Czech 'musí zkontrolovat'. English modal 'must' takes the bare infinitive without 'to': 'must replace'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-012-Q10",
+      "prompt": "Before starting the chassis assembly, mechanics _____ new hardened M16 flange bolts to workstation 4 in yellow bins.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to bring"
+        },
+        {
+          "key": "B",
+          "text": "must bring"
+        },
+        {
+          "key": "C",
+          "text": "are must bring"
+        },
+        {
+          "key": "D",
+          "text": "must bringing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Modal 'must' is followed by base form 'bring' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modal 'must' never takes 'to'.",
+        "wrong_C": "'are must' is completely ungrammatical in English.",
+        "wrong_D": "'must' cannot be followed by an '-ing' participle."
+      },
+      "cz_learning_point": "Czech 'musí zkontrolovat'. English modal 'must' takes the bare infinitive without 'to': 'must bring'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    }
+  ]
+}

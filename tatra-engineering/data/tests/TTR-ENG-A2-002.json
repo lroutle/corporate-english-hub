@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-A2-002",
+  "title": "Daily Shift Routines & Machine Operation: Present Simple",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Workshop Assembly & Line Tooling",
+  "estimated_time_minutes": 10,
+  "description": "Describe daily line routines, machine startups, and shift schedules with correct 3rd person singular agreement.",
+  "learning_objectives": [
+    "Apply Present Simple 3rd person singular -s/-es for machine actions",
+    "Use frequency adverbs (always, usually, never) in shift routines",
+    "Avoid Czenglish omission of auxiliary 'does' in questions"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-A2-002-Q1",
+      "prompt": "The morning shift _____ at 06:00 sharp at the Kopřivnice assembly hall.",
+      "options": [
+        {
+          "key": "A",
+          "text": "start"
+        },
+        {
+          "key": "B",
+          "text": "starts"
+        },
+        {
+          "key": "C",
+          "text": "starting"
+        },
+        {
+          "key": "D",
+          "text": "is start"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject 'The morning shift' takes 'starts' with 3rd person -s.",
+        "wrong_A": "'start' lacks singular -s.",
+        "wrong_C": "'-ing' cannot be the main verb.",
+        "wrong_D": "Invalid verb phrase."
+      },
+      "cz_learning_point": "Czech 'Ranní směna začíná'. In English, singular subjects take '-s': 'starts'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-002-Q2",
+      "prompt": "The hydraulic press operator always _____ the pressure gauge before starting a cycle.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is check"
+        },
+        {
+          "key": "B",
+          "text": "checking"
+        },
+        {
+          "key": "C",
+          "text": "checks"
+        },
+        {
+          "key": "D",
+          "text": "check"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject 'operator' takes 'checks' with 3rd person -s.",
+        "wrong_A": "Ungrammatical.",
+        "wrong_B": "Participle alone cannot be predicate.",
+        "wrong_D": "Lacks singular -s."
+      },
+      "cz_learning_point": "Czech 'Operátor vždy kontroluje'. Use 'checks' with 3rd person -s.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-002-Q3",
+      "prompt": "_____ the robot arm lubricate the chassis pins automatically?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Does"
+        },
+        {
+          "key": "B",
+          "text": "Do"
+        },
+        {
+          "key": "C",
+          "text": "Is"
+        },
+        {
+          "key": "D",
+          "text": "Are"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject 'the robot arm' takes auxiliary 'Does' in Present Simple questions.",
+        "wrong_B": "'Do' is for plural subjects.",
+        "wrong_C": "'Is' requires continuous '-ing'.",
+        "wrong_D": "'Are' is plural."
+      },
+      "cz_learning_point": "Czech 'Maže rameno čepy automaticky?'. Singular question takes 'Does the arm lubricate...'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-002-Q4",
+      "prompt": "Mechanics _____ the torque wrench setting at the beginning of each shift.",
+      "options": [
+        {
+          "key": "A",
+          "text": "calibrates"
+        },
+        {
+          "key": "B",
+          "text": "is calibrating"
+        },
+        {
+          "key": "C",
+          "text": "calibrating"
+        },
+        {
+          "key": "D",
+          "text": "calibrate"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Plural subject 'Mechanics' takes base verb 'calibrate'.",
+        "wrong_A": "'calibrates' is singular.",
+        "wrong_B": "'is' is singular.",
+        "wrong_C": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Mechanici kalibrují'. Plural subject takes base form without -s: 'calibrate'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-002-Q5",
+      "prompt": "The air compressor usually _____ off when pressure reaches 10 bar.",
+      "options": [
+        {
+          "key": "A",
+          "text": "shut"
+        },
+        {
+          "key": "B",
+          "text": "is shut"
+        },
+        {
+          "key": "C",
+          "text": "shuts"
+        },
+        {
+          "key": "D",
+          "text": "shutting"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject 'compressor' takes 'shuts'.",
+        "wrong_A": "'shut' lacks 3rd person -s.",
+        "wrong_B": "'is shut' expresses passive state.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Kompresor se vypíná'. Singular subject $\\rightarrow$ 'shuts off'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-002-Q6",
+      "prompt": "The line manager _____ not approve overtime without prior written notification.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "do"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular negative Present Simple requires 'does not approve'.",
+        "wrong_A": "'is not approve' is ungrammatical.",
+        "wrong_C": "'do' is plural.",
+        "wrong_D": "'has' cannot negate action verbs like this."
+      },
+      "cz_learning_point": "Czech 'Vedoucí neschvaluje'. Use 'does not approve', not *is not approve*.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-002-Q7",
+      "prompt": "How often _____ maintenance inspect the overhead crane cables?",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "do"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "does"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular collective/department subject 'maintenance' takes auxiliary 'does'.",
+        "wrong_A": "'is' cannot pair with bare base verb 'inspect'.",
+        "wrong_B": "'do' is plural.",
+        "wrong_C": "'are' is plural."
+      },
+      "cz_learning_point": "Czech 'Jak často údržba kontroluje...?'. Question requires 'does maintenance inspect...?'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-002-Q8",
+      "prompt": "We _____ use worn sockets on pneumatic impact wrenches.",
+      "options": [
+        {
+          "key": "A",
+          "text": "never"
+        },
+        {
+          "key": "B",
+          "text": "are never"
+        },
+        {
+          "key": "C",
+          "text": "do never"
+        },
+        {
+          "key": "D",
+          "text": "not"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Frequency adverb 'never' is placed directly before lexical verb 'use'.",
+        "wrong_B": "'are never' cannot pair with bare verb 'use'.",
+        "wrong_C": "'do never' is ungrammatical.",
+        "wrong_D": "'not' requires auxiliary 'do'."
+      },
+      "cz_learning_point": "Czech 'Nikdy nepoužíváme...'. English word order: 'We never use...'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-002-Q9",
+      "prompt": "The final inspection team _____ every chassis number against the SAP production order.",
+      "options": [
+        {
+          "key": "A",
+          "text": "verify"
+        },
+        {
+          "key": "B",
+          "text": "is verify"
+        },
+        {
+          "key": "C",
+          "text": "verifies"
+        },
+        {
+          "key": "D",
+          "text": "verifying"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular team subject takes 'verifies' with -es.",
+        "wrong_A": "'verify' lacks 3rd person -es.",
+        "wrong_B": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be main verb."
+      },
+      "cz_learning_point": "Czech 'Tým ověřuje'. Singular subject takes '-es': 'verifies'.",
+      "workplace_track": "Quality Assurance & Testing"
+    },
+    {
+      "id": "TTR-ENG-A2-002-Q10",
+      "prompt": "Assembly line 2 _____ heavy 8x8 defense trucks, while line 1 builds commercial tippers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "produce"
+        },
+        {
+          "key": "B",
+          "text": "produces"
+        },
+        {
+          "key": "C",
+          "text": "is produce"
+        },
+        {
+          "key": "D",
+          "text": "producing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject 'Line 2' takes 'produces'.",
+        "wrong_A": "Lacks 3rd person -s.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Linka 2 vyrábí'. Use 'produces' with 3rd person -s.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diagnostic Grammar Assessment (B1–B2) | International Business & Sales</title>
+  <style>
+    :root {
+      --primary: #1e3a8a;
+      --primary-light: #3b82f6;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+      --success: #16a34a;
+      --danger: #dc2626;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      padding: 30px 15px;
+    }
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      background: var(--card-bg);
+      border-radius: 12px;
+      box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -2px rgba(0,0,0,0.1);
+      padding: 40px;
+      border: 1px solid var(--border);
+    }
+    .header {
+      border-bottom: 2px solid var(--primary);
+      padding-bottom: 20px;
+      margin-bottom: 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+    .title-area h1 {
+      font-size: 24px;
+      color: var(--primary);
+      font-weight: 700;
+      margin-bottom: 5px;
+    }
+    .title-area p {
+      color: var(--text-muted);
+      font-size: 14px;
+    }
+    .student-info {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      background: #f1f5f9;
+      padding: 15px 20px;
+      border-radius: 8px;
+      margin-bottom: 30px;
+      font-size: 14px;
+    }
+    .student-info div {
+      display: flex;
+      flex-direction: column;
+    }
+    .student-info label {
+      font-weight: 600;
+      color: var(--text-muted);
+      font-size: 12px;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    .student-info input {
+      border: 1px solid var(--border);
+      padding: 6px 10px;
+      border-radius: 4px;
+      background: white;
+      font-size: 14px;
+    }
+    .section-title {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--primary);
+      margin: 30px 0 15px 0;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .section-desc {
+      font-size: 14px;
+      color: var(--text-muted);
+      margin-bottom: 20px;
+      font-style: italic;
+    }
+    .question-card {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 18px 20px;
+      margin-bottom: 16px;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .question-card:hover {
+      border-color: #cbd5e1;
+    }
+    .q-number {
+      font-weight: 700;
+      color: var(--primary-light);
+      margin-right: 6px;
+    }
+    .q-prompt {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+    .q-sub {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-top: -8px;
+      margin-bottom: 12px;
+      font-weight: normal;
+    }
+    .options-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 8px;
+    }
+    @media (min-width: 600px) {
+      .options-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+    .option-label {
+      display: flex;
+      align-items: center;
+      padding: 8px 12px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: background 0.15s, border-color 0.15s;
+    }
+    .option-label:hover {
+      background: #f8fafc;
+      border-color: #94a3b8;
+    }
+    .option-label input[type="radio"] {
+      margin-right: 10px;
+      accent-color: var(--primary);
+    }
+    .feedback-box {
+      margin-top: 10px;
+      padding: 10px 14px;
+      border-radius: 6px;
+      font-size: 13px;
+      display: none;
+    }
+    .feedback-box.correct {
+      background: #dcfce7;
+      color: #166534;
+      border: 1px solid #bbf7d0;
+    }
+    .feedback-box.incorrect {
+      background: #fee2e2;
+      color: #991b1b;
+      border: 1px solid #fecaca;
+    }
+    .part2-input {
+      width: 100%;
+      padding: 8px 12px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 14px;
+      margin-top: 8px;
+    }
+    .controls {
+      display: flex;
+      gap: 12px;
+      justify-content: flex-end;
+      margin-top: 30px;
+      flex-wrap: wrap;
+    }
+    .btn {
+      padding: 10px 22px;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      transition: all 0.2s;
+    }
+    .btn-primary { background: var(--primary); color: white; }
+    .btn-primary:hover { background: #1e40af; }
+    .btn-outline { background: white; color: var(--text); border: 1px solid var(--border); }
+    .btn-outline:hover { background: #f1f5f9; }
+    .btn-success { background: var(--success); color: white; }
+    .btn-success:hover { background: #15803d; }
+    
+    #score-summary {
+      display: none;
+      background: #eff6ff;
+      border: 1px solid #bfdbfe;
+      border-radius: 8px;
+      padding: 20px;
+      margin-top: 25px;
+      text-align: center;
+    }
+    #score-summary h2 {
+      color: var(--primary);
+      margin-bottom: 8px;
+    }
+    .cefr-badge {
+      display: inline-block;
+      padding: 4px 12px;
+      border-radius: 20px;
+      background: var(--primary);
+      color: white;
+      font-weight: 700;
+      font-size: 14px;
+      margin-top: 6px;
+    }
+
+    @media print {
+      body { background: white; padding: 0; font-size: 12pt; }
+      .container { box-shadow: none; border: none; padding: 0; width: 100%; max-width: 100%; }
+      .controls, #score-summary, .feedback-box { display: none !important; }
+      .question-card { page-break-inside: avoid; border: 1px solid #ccc; margin-bottom: 12px; padding: 12px; }
+      .option-label { border: none; padding: 2px 0; }
+      .option-label input[type="radio"] { appearance: auto; -webkit-appearance: checkbox; }
+      .section-title { page-break-after: avoid; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="header">
+    <div class="title-area">
+      <h1>Diagnostic Grammar Check (B1–B2)</h1>
+      <p>Specialization: International Business Development, Logistics & Overseas Sales</p>
+    </div>
+    <div style="text-align: right;">
+      <span style="font-size: 12px; font-weight: bold; color: var(--primary-light);">PRIMA LINGUA Corporate Training</span><br>
+      <span style="font-size: 11px; color: var(--text-muted);">Evaluation Benchmark: CEFR B1/B2</span>
+    </div>
+  </div>
+
+  <div class="student-info">
+    <div>
+      <label>Student Name</label>
+      <input type="text" id="stud-name">
+    </div>
+    <div>
+      <label>Company / Division</label>
+      <input type="text" id="stud-dept">
+    </div>
+    <div>
+      <label>Date of Assessment</label>
+      <input type="text" id="stud-date">
+    </div>
+  </div>
+
+  <form id="quizForm">
+    <div class="section-title">
+      <span>Part 1: Multiple Choice & Syntax (15 Questions)</span>
+      <span style="font-size: 13px; font-weight: normal; color: var(--text-muted);">15 Points</span>
+    </div>
+    <p class="section-desc">Select the best option (A, B, C, or D) to complete each commercial sentence accurately.</p>
+
+    <!-- Q1 -->
+    <div class="question-card" data-correct="B">
+      <div class="q-prompt"><span class="q-number">1.</span> Right now our sales department _______ a key contract with an overseas distributor, but normally we _______ regional retail accounts.</div>
+      <div class="q-sub">Grammar focus: Routine vs. Current Ongoing Deal</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q1" value="A"> A) negotiates / are handling</label>
+        <label class="option-label"><input type="radio" name="q1" value="B"> B) is negotiating / handle</label>
+        <label class="option-label"><input type="radio" name="q1" value="C"> C) negotiates / handle</label>
+        <label class="option-label"><input type="radio" name="q1" value="D"> D) is negotiating / are handling</label>
+      </div>
+      <div class="feedback-box"><b>Answer: B.</b> Temporary action happening "right now" takes Present Continuous; permanent routine ("normally") takes Present Simple.</div>
+    </div>
+
+    <!-- Q2 -->
+    <div class="question-card" data-correct="C">
+      <div class="q-prompt"><span class="q-number">2.</span> While the export team _______ the logistics documents, the foreign buyer suddenly _______ to amend the payment terms.</div>
+      <div class="q-sub">Grammar focus: Past Continuous (Background) vs Past Simple (Interruption)</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q2" value="A"> A) prepared / asked</label>
+        <label class="option-label"><input type="radio" name="q2" value="B"> B) were preparing / was asking</label>
+        <label class="option-label"><input type="radio" name="q2" value="C"> C) were preparing / asked</label>
+        <label class="option-label"><input type="radio" name="q2" value="D"> D) have prepared / asked</label>
+      </div>
+      <div class="feedback-box"><b>Answer: C.</b> The continuous ongoing process ("were preparing") was interrupted by a single completed action ("asked").</div>
+    </div>
+
+    <!-- Q3 -->
+    <div class="question-card" data-correct="B">
+      <div class="q-prompt"><span class="q-number">3.</span> I _______ with overseas distributors for five years now, but before joining this department I _______ domestic clients.</div>
+      <div class="q-sub">Grammar focus: Unfinished Period (Present Perfect) vs Finished Period (Past Simple)</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q3" value="A"> A) worked / have managed</label>
+        <label class="option-label"><input type="radio" name="q3" value="B"> B) have worked / managed</label>
+        <label class="option-label"><input type="radio" name="q3" value="C"> C) am working / managed</label>
+        <label class="option-label"><input type="radio" name="q3" value="D"> D) have been working / have managed</label>
+      </div>
+      <div class="feedback-box"><b>Answer: B.</b> "For five years now" indicates a duration connecting past to present (Present Perfect). "Before joining" is a completed past era (Past Simple).</div>
+    </div>
+
+    <!-- Q4 -->
+    <div class="question-card" data-correct="A">
+      <div class="q-prompt"><span class="q-number">4.</span> "_______ to a major international trade fair in Germany or the Middle East?" — "Yes, I _______ our company stand at an expo in Frankfurt two months ago."</div>
+      <div class="q-sub">Grammar focus: General Life Experience vs Specific Past Time ("two months ago")</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q4" value="A"> A) Have you ever been / attended</label>
+        <label class="option-label"><input type="radio" name="q4" value="B"> B) Did you ever go / have attended</label>
+        <label class="option-label"><input type="radio" name="q4" value="C"> C) Have you ever gone / attended</label>
+        <label class="option-label"><input type="radio" name="q4" value="D"> D) Did you ever go / attended</label>
+      </div>
+      <div class="feedback-box"><b>Answer: A.</b> General life inquiry uses "Have you ever been"; specific finished past time marker ("two months ago") requires Past Simple ("attended").</div>
+    </div>
+
+    <!-- Q5 -->
+    <div class="question-card" data-correct="C">
+      <div class="q-prompt"><span class="q-number">5.</span> Our export manager looks exhausted because she _______ with our partners in Singapore nonstop since 6:00 AM.</div>
+      <div class="q-sub">Grammar focus: Present Perfect Continuous (Duration & Visible Result)</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q5" value="A"> A) is negotiating</label>
+        <label class="option-label"><input type="radio" name="q5" value="B"> B) negotiates</label>
+        <label class="option-label"><input type="radio" name="q5" value="C"> C) has been negotiating</label>
+        <label class="option-label"><input type="radio" name="q5" value="D"> D) had negotiated</label>
+      </div>
+      <div class="feedback-box"><b>Answer: C.</b> Highlights continuous duration ("since 6:00 AM") with a visible present effect ("looks exhausted").</div>
+    </div>
+
+    <!-- Q6 -->
+    <div class="question-card" data-correct="A">
+      <div class="q-prompt"><span class="q-number">6.</span> "Our client just sent an email refusing our shipping terms." — "Don't worry, I _______ their representative right away to clarify the situation."</div>
+      <div class="q-sub">Grammar focus: Spontaneous Sales Decision (Will vs Going to)</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q6" value="A"> A) will call</label>
+        <label class="option-label"><input type="radio" name="q6" value="B"> B) am calling</label>
+        <label class="option-label"><input type="radio" name="q6" value="C"> C) am going to call</label>
+        <label class="option-label"><input type="radio" name="q6" value="D"> D) call</label>
+      </div>
+      <div class="feedback-box"><b>Answer: A.</b> Instant spontaneous decision made at the moment of speaking takes "will".</div>
+    </div>
+
+    <!-- Q7 -->
+    <div class="question-card" data-correct="B">
+      <div class="q-prompt"><span class="q-number">7.</span> Under international export law, our department _______ provide an official certificate of origin before the shipment can clear customs.</div>
+      <div class="q-sub">Grammar focus: Strict Legal/Trade Requirement vs Polite Advice</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q7" value="A"> A) should</label>
+        <label class="option-label"><input type="radio" name="q7" value="B"> B) must / has to</label>
+        <label class="option-label"><input type="radio" name="q7" value="C"> C) can</label>
+        <label class="option-label"><input type="radio" name="q7" value="D"> D) might</label>
+      </div>
+      <div class="feedback-box"><b>Answer: B.</b> Legal obligations and mandatory trade rules require "must" or "has to", not soft recommendation ("should").</div>
+    </div>
+
+    <!-- Q8 -->
+    <div class="question-card" data-correct="B">
+      <div class="q-prompt"><span class="q-number">8.</span> If the overseas distributor _______ the full container load today, we _______ a 7% volume discount.</div>
+      <div class="q-sub">Grammar focus: First Conditional (Commercial Offer)</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q8" value="A"> A) will order / provide</label>
+        <label class="option-label"><input type="radio" name="q8" value="B"> B) orders / will provide</label>
+        <label class="option-label"><input type="radio" name="q8" value="C"> C) orders / provide</label>
+        <label class="option-label"><input type="radio" name="q8" value="D"> D) will order / will provide</label>
+      </div>
+      <div class="feedback-box"><b>Answer: B.</b> First conditional: If + Present Simple ("orders"), will + base verb ("will provide"). "Will" is never used in the if-clause.</div>
+    </div>
+
+    <!-- Q9 -->
+    <div class="question-card" data-correct="B">
+      <div class="q-prompt"><span class="q-number">9.</span> If our company _______ more flexible credit terms to foreign buyers, we _______ much faster market share abroad.</div>
+      <div class="q-sub">Grammar focus: Second Conditional (Hypothetical Commercial Bargaining)</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q9" value="A"> A) offers / will gain</label>
+        <label class="option-label"><input type="radio" name="q9" value="B"> B) offered / would gain</label>
+        <label class="option-label"><input type="radio" name="q9" value="C"> C) offered / will gain</label>
+        <label class="option-label"><input type="radio" name="q9" value="D"> D) would offer / gained</label>
+      </div>
+      <div class="feedback-box"><b>Answer: B.</b> Hypothetical scenario in the present/future: If + Past Simple ("offered"), would + base verb ("would gain").</div>
+    </div>
+
+    <!-- Q10 -->
+    <div class="question-card" data-correct="B">
+      <div class="q-prompt"><span class="q-number">10.</span> If we _______ our sales pitch to their local business culture, we _______ the distribution tender last year.</div>
+      <div class="q-sub">Grammar focus: Third Conditional (Past Missed Opportunity / Tender Review)</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q10" value="A"> A) adapted / wouldn't lose</label>
+        <label class="option-label"><input type="radio" name="q10" value="B"> B) had adapted / wouldn't have lost</label>
+        <label class="option-label"><input type="radio" name="q10" value="C"> C) would adapt / didn't lose</label>
+        <label class="option-label"><input type="radio" name="q10" value="D"> D) had adapted / wouldn't lose</label>
+      </div>
+      <div class="feedback-box"><b>Answer: B.</b> Unreal past situation: If + Past Perfect ("had adapted"), would have + past participle ("wouldn't have lost").</div>
+    </div>
+
+    <!-- Q11 -->
+    <div class="question-card" data-correct="B">
+      <div class="q-prompt"><span class="q-number">11.</span> All export shipments _______ strictly according to Incoterms before they _______ to the port of entry.</div>
+      <div class="q-sub">Grammar focus: Passive Voice in Shipping Contracts & Procedures</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q11" value="A"> A) insure / dispatch</label>
+        <label class="option-label"><input type="radio" name="q11" value="B"> B) are insured / are dispatched</label>
+        <label class="option-label"><input type="radio" name="q11" value="C"> C) are insuring / are dispatched</label>
+        <label class="option-label"><input type="radio" name="q11" value="D"> D) were insured / dispatched</label>
+      </div>
+      <div class="feedback-box"><b>Answer: B.</b> Shipments receive the action: Present Passive ("are insured", "are dispatched").</div>
+    </div>
+
+    <!-- Q12 -->
+    <div class="question-card" data-correct="C">
+      <div class="q-prompt"><span class="q-number">12.</span> This is the foreign distributor _______ warehouse network covers the entire Latin American market.</div>
+      <div class="q-sub">Grammar focus: Possessive Relative Pronouns</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q12" value="A"> A) who</label>
+        <label class="option-label"><input type="radio" name="q12" value="B"> B) which</label>
+        <label class="option-label"><input type="radio" name="q12" value="C"> C) whose</label>
+        <label class="option-label"><input type="radio" name="q12" value="D"> D) whom</label>
+      </div>
+      <div class="feedback-box"><b>Answer: C.</b> Indicates possession (the distributor's warehouse network = "whose warehouse network").</div>
+    </div>
+
+    <!-- Q13 -->
+    <div class="question-card" data-correct="B">
+      <div class="q-prompt"><span class="q-number">13.</span> The client considered _______ the contract for another two years, but they refused _______ the revised price index.</div>
+      <div class="q-sub">Grammar focus: Gerund vs Infinitive Complementation</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q13" value="A"> A) to renew / accepting</label>
+        <label class="option-label"><input type="radio" name="q13" value="B"> B) renewing / to accept</label>
+        <label class="option-label"><input type="radio" name="q13" value="C"> C) to renew / to accept</label>
+        <label class="option-label"><input type="radio" name="q13" value="D"> D) renewing / accepting</label>
+      </div>
+      <div class="feedback-box"><b>Answer: B.</b> "Consider" takes a gerund (-ing: "renewing"); "refuse" takes an infinitive ("to accept").</div>
+    </div>
+
+    <!-- Q14 -->
+    <div class="question-card" data-correct="B">
+      <div class="q-prompt"><span class="q-number">14.</span> "Could you clarify _______?"</div>
+      <div class="q-sub">Grammar focus: Diplomatic Indirect Questions (Word Order)</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q14" value="A"> A) when will the overseas shipment arrive</label>
+        <label class="option-label"><input type="radio" name="q14" value="B"> B) when the overseas shipment will arrive</label>
+        <label class="option-label"><input type="radio" name="q14" value="C"> C) when arrives the overseas shipment</label>
+        <label class="option-label"><input type="radio" name="q14" value="D"> D) when does the overseas shipment arrive</label>
+      </div>
+      <div class="feedback-box"><b>Answer: B.</b> Embedded/indirect questions follow affirmative word order (Subject + Verb: "the shipment will arrive"), without subject-auxiliary inversion.</div>
+    </div>
+
+    <!-- Q15 -->
+    <div class="question-card" data-correct="C">
+      <div class="q-prompt"><span class="q-number">15.</span> Our team is responsible _______ developing overseas partnerships, and our quarterly targets depend heavily _______ market stability.</div>
+      <div class="q-sub">Grammar focus: Dependent Prepositions in Corporate Roles</div>
+      <div class="options-grid">
+        <label class="option-label"><input type="radio" name="q15" value="A"> A) of / on</label>
+        <label class="option-label"><input type="radio" name="q15" value="B"> B) for / in</label>
+        <label class="option-label"><input type="radio" name="q15" value="C"> C) for / on</label>
+        <label class="option-label"><input type="radio" name="q15" value="D"> D) to / at</label>
+      </div>
+      <div class="feedback-box"><b>Answer: C.</b> Standard fixed prepositions: "responsible for" and "depend on".</div>
+    </div>
+
+    <div class="section-title">
+      <span>Part 2: Executive Error-Spotting Challenge (5 Questions)</span>
+      <span style="font-size: 13px; font-weight: normal; color: var(--text-muted);">5 Points</span>
+    </div>
+    <p class="section-desc">Each sentence contains ONE common corporate English mistake. Write your correction in the box.</p>
+
+    <!-- P2 Q1 -->
+    <div class="question-card">
+      <div class="q-prompt"><span class="q-number">16.</span> "I am working in the overseas division since January 2021."</div>
+      <input type="text" class="part2-input" placeholder="Type correct sentence or correction...">
+      <div class="feedback-box" style="display:block; margin-top:8px; background:#f8fafc; color:#475569; border:1px dashed #cbd5e1;">
+        <b>Target Correction:</b> <i>"I have worked (or have been working) in the overseas division since January 2021."</i> (Present Perfect for action from the past continuing until now).
+      </div>
+    </div>
+
+    <!-- P2 Q2 -->
+    <div class="question-card">
+      <div class="q-prompt"><span class="q-number">17.</span> "We need to discuss about the pricing policy before the meeting with our foreign client."</div>
+      <input type="text" class="part2-input" placeholder="Type correct sentence or correction...">
+      <div class="feedback-box" style="display:block; margin-top:8px; background:#f8fafc; color:#475569; border:1px dashed #cbd5e1;">
+        <b>Target Correction:</b> <i>"We need to discuss the pricing policy..."</i> (Remove 'about' — discuss is transitive).
+      </div>
+    </div>
+
+    <!-- P2 Q3 -->
+    <div class="question-card">
+      <div class="q-prompt"><span class="q-number">18.</span> "If the distributor will sign the contract by Friday, we will dispatch the first batch."</div>
+      <input type="text" class="part2-input" placeholder="Type correct sentence or correction...">
+      <div class="feedback-box" style="display:block; margin-top:8px; background:#f8fafc; color:#475569; border:1px dashed #cbd5e1;">
+        <b>Target Correction:</b> <i>"If the distributor signs the contract by Friday..."</i> (No 'will' in conditional if-clause).
+      </div>
+    </div>
+
+    <!-- P2 Q4 -->
+    <div class="question-card">
+      <div class="q-prompt"><span class="q-number">19.</span> "I look forward to meet you at the international trade exhibition next month."</div>
+      <input type="text" class="part2-input" placeholder="Type correct sentence or correction...">
+      <div class="feedback-box" style="display:block; margin-top:8px; background:#f8fafc; color:#475569; border:1px dashed #cbd5e1;">
+        <b>Target Correction:</b> <i>"I look forward to meeting you..."</i> ('to' is a preposition here, followed by gerund -ing).
+      </div>
+    </div>
+
+    <!-- P2 Q5 -->
+    <div class="question-card">
+      <div class="q-prompt"><span class="q-number">20.</span> "The sales director explained me the new commission structure."</div>
+      <input type="text" class="part2-input" placeholder="Type correct sentence or correction...">
+      <div class="feedback-box" style="display:block; margin-top:8px; background:#f8fafc; color:#475569; border:1px dashed #cbd5e1;">
+        <b>Target Correction:</b> <i>"The sales director explained to me the new commission structure."</i> (Explain takes preposition 'to' before the person).
+      </div>
+    </div>
+
+    <div class="controls">
+      <button type="button" class="btn btn-outline" onclick="window.print()">🖨️ Print Exam / Save as PDF</button>
+      <button type="button" class="btn btn-primary" onclick="gradeQuiz()">⚡ Grade Interactive Quiz</button>
+    </div>
+  </form>
+
+  <div id="score-summary">
+    <h2>Assessment Results</h2>
+    <p style="font-size: 22px; font-weight: bold; color: var(--primary);" id="score-text">0 / 15</p>
+    <div id="cefr-badge" class="cefr-badge">Level: Evaluating...</div>
+    <p id="cefr-desc" style="margin-top: 12px; font-size: 14px; color: var(--text-muted);"></p>
+  </div>
+</div>
+
+<script>
+  function gradeQuiz() {
+    let score = 0;
+    const cards = document.querySelectorAll('.question-card[data-correct]');
+    cards.forEach((card, idx) => {
+      const correct = card.getAttribute('data-correct');
+      const selected = card.querySelector('input[type="radio"]:checked');
+      const feedback = card.querySelector('.feedback-box');
+      
+      feedback.style.display = 'block';
+      if (selected && selected.value === correct) {
+        score++;
+        feedback.className = 'feedback-box correct';
+      } else {
+        feedback.className = 'feedback-box incorrect';
+      }
+    });
+
+    const summary = document.getElementById('score-summary');
+    const scoreText = document.getElementById('score-text');
+    const badge = document.getElementById('cefr-badge');
+    const desc = document.getElementById('cefr-desc');
+
+    summary.style.display = 'block';
+    scoreText.innerText = `${score} / 15 (${Math.round((score/15)*100)}%)`;
+
+    if (score >= 14) {
+      badge.innerText = 'CEFR Level: Solid B2 / C1 Entry';
+      badge.style.background = '#16a34a';
+      desc.innerText = 'Excellent command of international sales syntax, passive contracts, third conditionals, and diplomatic diplomacy.';
+    } else if (score >= 11) {
+      badge.innerText = 'CEFR Level: B1+ / Strong Intermediate';
+      badge.style.background = '#0284c7';
+      desc.innerText = 'Good operational fluency. Ready for commercial negotiation practice, contract modals, and complex conditionals.';
+    } else if (score >= 7) {
+      badge.innerText = 'CEFR Level: Solid B1';
+      badge.style.background = '#eab308';
+      desc.innerText = 'Capable of day-to-day communication, but requires consolidation of tenses (Present Perfect vs Simple) and prepositions.';
+    } else {
+      badge.innerText = 'CEFR Level: A2+ / Elementary B1';
+      badge.style.background = '#ea580c';
+      desc.innerText = 'Foundation level. Focus on basic tenses, question formulations, and high-frequency business vocabulary.';
+    }
+
+    summary.scrollIntoView({ behavior: 'smooth' });
+  }
+</script>
+
+</body>
+</html>

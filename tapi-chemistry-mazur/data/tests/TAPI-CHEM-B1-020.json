@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-B1-020",
+  "title": "Analytical Balance Annual Recertification Deviation Logging",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate chemical synthesis and analytical module analyzing analytical balance annual recertification deviation logging.",
+  "learning_objectives": [
+    "Master professional Past Unreal Scenarios (could have occurred) in organic API synthesis and QC analysis",
+    "Eliminate common Czech interference errors in analytical balance annual recertification deviation logging",
+    "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-B1-020-Q1",
+      "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rinsed"
+        },
+        {
+          "key": "B",
+          "text": "must be rinsed"
+        },
+        {
+          "key": "C",
+          "text": "must rinse"
+        },
+        {
+          "key": "D",
+          "text": "are must be rinsed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rinsed'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B1-020-Q2",
+      "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rinsed"
+        },
+        {
+          "key": "B",
+          "text": "must rinse"
+        },
+        {
+          "key": "C",
+          "text": "must be rinsed"
+        },
+        {
+          "key": "D",
+          "text": "are must be rinsed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rinsed'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B1-020-Q3",
+      "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must be rinsed"
+        },
+        {
+          "key": "B",
+          "text": "must to be rinsed"
+        },
+        {
+          "key": "C",
+          "text": "must rinse"
+        },
+        {
+          "key": "D",
+          "text": "are must be rinsed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rinsed'.",
+        "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B1-020-Q4",
+      "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rinsed"
+        },
+        {
+          "key": "B",
+          "text": "must rinse"
+        },
+        {
+          "key": "C",
+          "text": "are must be rinsed"
+        },
+        {
+          "key": "D",
+          "text": "must be rinsed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rinsed'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+        "wrong_C": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B1-020-Q5",
+      "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rinsed"
+        },
+        {
+          "key": "B",
+          "text": "must rinse"
+        },
+        {
+          "key": "C",
+          "text": "must be rinsed"
+        },
+        {
+          "key": "D",
+          "text": "are must be rinsed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rinsed'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B1-020-Q6",
+      "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rinsed"
+        },
+        {
+          "key": "B",
+          "text": "must be rinsed"
+        },
+        {
+          "key": "C",
+          "text": "must rinse"
+        },
+        {
+          "key": "D",
+          "text": "are must be rinsed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rinsed'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B1-020-Q7",
+      "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rinsed"
+        },
+        {
+          "key": "B",
+          "text": "must rinse"
+        },
+        {
+          "key": "C",
+          "text": "are must be rinsed"
+        },
+        {
+          "key": "D",
+          "text": "must be rinsed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rinsed'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+        "wrong_C": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B1-020-Q8",
+      "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must be rinsed"
+        },
+        {
+          "key": "B",
+          "text": "must to be rinsed"
+        },
+        {
+          "key": "C",
+          "text": "must rinse"
+        },
+        {
+          "key": "D",
+          "text": "are must be rinsed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rinsed'.",
+        "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B1-020-Q9",
+      "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rinsed"
+        },
+        {
+          "key": "B",
+          "text": "must rinse"
+        },
+        {
+          "key": "C",
+          "text": "must be rinsed"
+        },
+        {
+          "key": "D",
+          "text": "are must be rinsed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rinsed'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B1-020-Q10",
+      "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rinsed"
+        },
+        {
+          "key": "B",
+          "text": "must be rinsed"
+        },
+        {
+          "key": "C",
+          "text": "must rinse"
+        },
+        {
+          "key": "D",
+          "text": "are must be rinsed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rinsed'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    }
+  ]
+}

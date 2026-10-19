@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-A2-001",
+  "title": "Workshop Tools, Fasteners & PPE: Present Simple & Imperatives",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Workshop Assembly & Line Tooling",
+  "estimated_time_minutes": 10,
+  "description": "Essential English for identifying assembly tools, fasteners, safety gear, and giving simple workshop instructions.",
+  "learning_objectives": [
+    "Use simple imperatives for safe workshop instructions (wear, check, tighten)",
+    "Apply basic present simple verbs for tool usage",
+    "Avoid basic Czech word order and pronoun omission errors"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-A2-001-Q1",
+      "prompt": "Always _____ safety goggles before you start grinding the chassis weld.",
+      "options": [
+        {
+          "key": "A",
+          "text": "wearing"
+        },
+        {
+          "key": "B",
+          "text": "wear"
+        },
+        {
+          "key": "C",
+          "text": "wears"
+        },
+        {
+          "key": "D",
+          "text": "to wear"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Imperative sentences use the base form of the verb ('wear') without '-ing' or 'to'.",
+        "wrong_A": "'-ing' form cannot be used as a command or instruction.",
+        "wrong_C": "'wears' is third person singular, not an imperative command.",
+        "wrong_D": "Infinitive with 'to' cannot be used for direct instructions."
+      },
+      "cz_learning_point": "Czech uses the imperative 'Noste / Mějte nasazené'. In English, simply use the base verb 'Wear'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-001-Q2",
+      "prompt": "Where _____ the pneumatic torque wrench for the wheel hub bolts?",
+      "options": [
+        {
+          "key": "A",
+          "text": "is located"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "is"
+        },
+        {
+          "key": "D",
+          "text": "does"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "For singular noun 'wrench', the simple question is 'Where is the wrench?'.",
+        "wrong_A": "'Where is located the wrench' has incorrect inverted word order for basic English.",
+        "wrong_B": "'are' is plural, but 'wrench' is singular.",
+        "wrong_D": "'does' requires another main action verb like 'Where does the wrench go?'."
+      },
+      "cz_learning_point": "Czech word order is 'Kde je utahovák?'. In English, keep it simple: 'Where is the [item]?'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-001-Q3",
+      "prompt": "The assembly technician _____ all M16 bolts to 250 Nm every morning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "tightens"
+        },
+        {
+          "key": "B",
+          "text": "tighten"
+        },
+        {
+          "key": "C",
+          "text": "is tighten"
+        },
+        {
+          "key": "D",
+          "text": "tightening"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Third person singular subject ('The technician') requires '-s' on the verb in Present Simple ('tightens').",
+        "wrong_B": "'tighten' lacks the mandatory singular '-s' ending.",
+        "wrong_C": "Ungrammatical verb phrase.",
+        "wrong_D": "Participle '-ing' alone cannot be the main verb."
+      },
+      "cz_learning_point": "Czechs frequently forget the third person singular '-s' (*He tighten* instead of *He tightens*).",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-001-Q4",
+      "prompt": "Do not _____ the hydraulic lifting table while the warning light is red!",
+      "options": [
+        {
+          "key": "A",
+          "text": "moving"
+        },
+        {
+          "key": "B",
+          "text": "to move"
+        },
+        {
+          "key": "C",
+          "text": "moves"
+        },
+        {
+          "key": "D",
+          "text": "move"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Negative imperative 'Do not' is followed by the bare base form ('move').",
+        "wrong_A": "'-ing' cannot follow 'Do not' in commands.",
+        "wrong_B": "'to' cannot follow auxiliary 'do'.",
+        "wrong_C": "'-s' form cannot follow 'do not'."
+      },
+      "cz_learning_point": "Czech 'Nehýbejte s...'. In English, always use 'Do not + base form'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-001-Q5",
+      "prompt": "Our workshop _____ three overhead cranes for heavy chassis frames.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is having"
+        },
+        {
+          "key": "B",
+          "text": "have"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "having"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject 'Our workshop' takes 'has' for possession in Present Simple.",
+        "wrong_A": "Stative verb 'have' (possession) is not used in continuous aspect.",
+        "wrong_B": "'have' is plural, but 'workshop' is singular.",
+        "wrong_D": "Incomplete verb form."
+      },
+      "cz_learning_point": "Czech 'Naše dílna má'. Remember singular subject takes 'has', not 'have'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-001-Q6",
+      "prompt": "_____ these oil containers into the hazardous waste area immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Take"
+        },
+        {
+          "key": "B",
+          "text": "Taking"
+        },
+        {
+          "key": "C",
+          "text": "Takes"
+        },
+        {
+          "key": "D",
+          "text": "You take"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Direct imperative begins with base verb 'Take'.",
+        "wrong_B": "Participle '-ing' cannot initiate an imperative command.",
+        "wrong_C": "Third-person form cannot initiate a command.",
+        "wrong_D": "Adding 'You' makes it an unusual declarative sentence rather than a standard SOP instruction."
+      },
+      "cz_learning_point": "In English instructions and SOPs, start directly with the verb: 'Take / Put / Check'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-001-Q7",
+      "prompt": "The apprentice _____ how to operate the pneumatic riveting tool yet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "doesn't knows"
+        },
+        {
+          "key": "B",
+          "text": "not know"
+        },
+        {
+          "key": "C",
+          "text": "is not know"
+        },
+        {
+          "key": "D",
+          "text": "doesn't know"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Negative Present Simple for singular subject is 'doesn't + base form' ('doesn't know').",
+        "wrong_A": "'doesn't' already carries the third person marker, so verb remains base 'know', not 'knows'.",
+        "wrong_B": "Missing auxiliary 'doesn't'.",
+        "wrong_C": "Ungrammatical construction."
+      },
+      "cz_learning_point": "Czech 'neví'. In English, never say *he doesn't knows* or *he not know*. Use 'doesn't know'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-001-Q8",
+      "prompt": "_____ safety shoes required in this assembly hall?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Are"
+        },
+        {
+          "key": "B",
+          "text": "Is"
+        },
+        {
+          "key": "C",
+          "text": "Do"
+        },
+        {
+          "key": "D",
+          "text": "Does"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Safety shoes' is plural, so the question begins with 'Are'.",
+        "wrong_B": "'Is' is singular, but 'shoes' is plural.",
+        "wrong_C": "'Do' cannot be used with passive participle/adjective 'required' without another verb.",
+        "wrong_D": "'Does' is singular."
+      },
+      "cz_learning_point": "Czech 'Jsou bezpečnostní boty povinné?'. 'Shoes' is plural in English $\rightarrow$ 'Are safety shoes...?'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-001-Q9",
+      "prompt": "Please _____ the oil level before starting the diesel test bench.",
+      "options": [
+        {
+          "key": "A",
+          "text": "checking"
+        },
+        {
+          "key": "B",
+          "text": "check"
+        },
+        {
+          "key": "C",
+          "text": "checks"
+        },
+        {
+          "key": "D",
+          "text": "to check"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Please' is followed by the base imperative verb form ('check').",
+        "wrong_A": "'-ing' cannot follow 'Please' in an instruction.",
+        "wrong_C": "'-s' form is incorrect.",
+        "wrong_D": "Infinitive with 'to' is ungrammatical after 'Please'."
+      },
+      "cz_learning_point": "Czech 'Prosím zkontrolujte...'. In English, 'Please + base verb' ('Please check').",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-001-Q10",
+      "prompt": "This torque wrench _____ accurate to within 2 Newton-meters.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "have"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject 'wrench' takes 'is' with the adjective 'accurate'.",
+        "wrong_A": "'are' is plural.",
+        "wrong_C": "'have' cannot connect subject to an adjective.",
+        "wrong_D": "'has' cannot connect subject to an adjective."
+      },
+      "cz_learning_point": "Czech 'Tento klíč je přesný'. Subject 'wrench' is singular $\rightarrow$ 'is accurate'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-B1-018",
+  "title": "Incoterms & Export Contracts: Zero & First Conditionals",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "International Sales & Tenders",
+  "estimated_time_minutes": 14,
+  "description": "Determine insurance liability, FOB vs CIF terms, and risk transitions when quoting vehicle prices to overseas buyers using conditional structures.",
+  "learning_objectives": [
+    "Use Zero Conditional for established trade rules and legal consequences",
+    "Use First Conditional for commercial negotiations, volume discounts, and payment terms",
+    "Avoid using 'will' in conditional time and if-clauses"
+  ],
+  "questions": [
+    {
+      "id": "TTR-B1-018-Q1",
+      "prompt": "If an overseas buyer _____ vehicles under EXW (Ex Works) terms, the buyer _____ all transport costs and risks from our Kopřivnice factory gates.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will purchase / assumes"
+        },
+        {
+          "key": "B",
+          "text": "purchases / assumes"
+        },
+        {
+          "key": "C",
+          "text": "purchases / will assume"
+        },
+        {
+          "key": "D",
+          "text": "purchased / assumes"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Zero Conditional (If + Present Simple, Present Simple) expresses universal trade definitions and contractual rules.",
+        "wrong_A": "'Will' is forbidden inside conditional clauses.",
+        "wrong_C": "First conditional can express a single transaction, but general trade rules are best defined by Zero Conditional.",
+        "wrong_D": "Past simple in condition clashes with present rule."
+      },
+      "cz_learning_point": "For permanent commercial definitions (Incoterms), use Zero Conditional: If + Present Simple, Present Simple.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B1-018-Q2",
+      "prompt": "If the mining conglomerate _____ twenty Tatra Phoenix tippers by Friday, we _____ a 5% fleet concession.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will order / will provide"
+        },
+        {
+          "key": "B",
+          "text": "orders / provide"
+        },
+        {
+          "key": "C",
+          "text": "orders / will provide"
+        },
+        {
+          "key": "D",
+          "text": "ordered / will provide"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First Conditional (If + Present Simple, will + base form) is standard for real commercial offers and negotiations.",
+        "wrong_A": "Never use 'will' in the if-clause (*If the client will order* is a classic Czenglish error).",
+        "wrong_B": "Zero conditional is too weak for a contingent commercial promise.",
+        "wrong_D": "Mixed past and future indicative without hypothetical modal."
+      },
+      "cz_learning_point": "Czech says 'Když objednají (budoucí čas)... poskytneme'. In English, never use 'will' after 'if' in First Conditional.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B1-018-Q3",
+      "prompt": "We cannot dispatch the vehicles unless the client's bank _____ an irrevocable letter of credit.",
+      "options": [
+        {
+          "key": "A",
+          "text": "issues"
+        },
+        {
+          "key": "B",
+          "text": "will issue"
+        },
+        {
+          "key": "C",
+          "text": "doesn't issue"
+        },
+        {
+          "key": "D",
+          "text": "is issue"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Unless' means 'if not' and takes Present Simple in positive form ('unless the bank issues').",
+        "wrong_B": "No 'will' after 'unless'.",
+        "wrong_C": "'Unless' already contains negative meaning; adding 'doesn't' creates an erroneous double negative.",
+        "wrong_D": "Malformed verb form."
+      },
+      "cz_learning_point": "'Unless' = 'pokud ne'. Never add a negative verb after 'unless' (*unless the bank doesn't issue* is incorrect).",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B1-018-Q4",
+      "prompt": "As soon as the export vessel _____ at the port of destination, the marine insurance policy under CIF terms _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will dock / expires"
+        },
+        {
+          "key": "B",
+          "text": "docks / will expire"
+        },
+        {
+          "key": "C",
+          "text": "docked / expires"
+        },
+        {
+          "key": "D",
+          "text": "docks / expires"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Zero conditional rule with 'as soon as': when the event occurs, the legal coverage terminates.",
+        "wrong_A": "'Will' is not permitted in time clauses with 'as soon as'.",
+        "wrong_B": "Refers to a specific future boat rather than the universal CIF legal rule.",
+        "wrong_C": "Tense mismatch."
+      },
+      "cz_learning_point": "Time clauses (as soon as, when, before, after) follow the same rule as if-clauses: use Present Simple, not 'will'.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B1-018-Q5",
+      "prompt": "If our sales department _____ prices on DAP (Delivered at Place) terms, who _____ import customs clearance?",
+      "options": [
+        {
+          "key": "A",
+          "text": "will quote / handles"
+        },
+        {
+          "key": "B",
+          "text": "quotes / will handle to"
+        },
+        {
+          "key": "C",
+          "text": "quotes / handles"
+        },
+        {
+          "key": "D",
+          "text": "is quote / handles"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Zero conditional inquiry about standard trade definitions under Incoterms 2020.",
+        "wrong_A": "Incorrect future auxiliary inside if-clause.",
+        "wrong_B": "'Will handle to' is ungrammatical.",
+        "wrong_D": "Syntactically invalid verb form."
+      },
+      "cz_learning_point": "Under DAP terms, the buyer is always responsible for import clearance and duties.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B1-018-Q6",
+      "prompt": "If raw steel prices _____ rising at the current rate, our unit manufacturing costs _____ by at least 4% next quarter.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will continue / increase"
+        },
+        {
+          "key": "B",
+          "text": "continue / will increase"
+        },
+        {
+          "key": "C",
+          "text": "continues / will increase"
+        },
+        {
+          "key": "D",
+          "text": "continued / will increase"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First Conditional: plural subject 'prices' takes plural present 'continue', and main clause takes 'will increase'.",
+        "wrong_A": "'Will' cannot appear in the conditional clause.",
+        "wrong_C": "Subject-verb agreement error ('prices' is plural).",
+        "wrong_D": "Past simple cannot pair with 'will' in real future conditionals."
+      },
+      "cz_learning_point": "Avoid Czech transfer of future tense into conditional clauses.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B1-018-Q7",
+      "prompt": "The distributor will forfeit their exclusivity rights in the Baltic region provided that they _____ their annual quota of 15 vehicles.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail to meet"
+        },
+        {
+          "key": "B",
+          "text": "don't fail to meet"
+        },
+        {
+          "key": "C",
+          "text": "failed to meet"
+        },
+        {
+          "key": "D",
+          "text": "fail to meet"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Provided that' acts as a conditional conjunction followed by Present Simple ('fail to meet').",
+        "wrong_A": "Future 'will' is forbidden after 'provided that'.",
+        "wrong_B": "Double negative reverses the contractual meaning.",
+        "wrong_C": "Past tense does not match future consequence 'will forfeit'."
+      },
+      "cz_learning_point": "'Provided that' (za předpokladu, že) introduces a conditional clause taking Present Simple.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B1-018-Q8",
+      "prompt": "What steps _____ if the maritime shipping line notifies us of general average damages during transit?",
+      "options": [
+        {
+          "key": "A",
+          "text": "will we take"
+        },
+        {
+          "key": "B",
+          "text": "do we take will"
+        },
+        {
+          "key": "C",
+          "text": "we will take"
+        },
+        {
+          "key": "D",
+          "text": "are we take"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "First Conditional question requires inverted main clause: 'will we take'.",
+        "wrong_B": "Nonsensical word order.",
+        "wrong_C": "Direct question requires inversion of auxiliary 'will' and subject 'we'.",
+        "wrong_D": "Malformed verb phrase."
+      },
+      "cz_learning_point": "In interrogative conditionals, invert the subject and auxiliary in the main clause ('What will we do if...?').",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B1-018-Q9",
+      "prompt": "If payment _____ within 30 days of commercial invoice receipt, a 1.5% monthly late interest penalty will apply.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will not be received"
+        },
+        {
+          "key": "B",
+          "text": "is not received"
+        },
+        {
+          "key": "C",
+          "text": "does not receive"
+        },
+        {
+          "key": "D",
+          "text": "is not receiving"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Present Simple Passive ('is not received') inside the if-clause for an incoming payment.",
+        "wrong_A": "Future passive 'will not be received' cannot be placed in the conditional clause.",
+        "wrong_C": "Active voice implies payment is an agent that receives something.",
+        "wrong_D": "Continuous aspect is inappropriate for transactional cutoff date."
+      },
+      "cz_learning_point": "Czech commercial contracts often use passive ('nebude-li platba přijata'). In English, use Present Simple Passive in the if-clause.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B1-018-Q10",
+      "prompt": "Incoterms rules state that if goods _____ damaged while on board under FOB terms, the loss _____ to the buyer.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will be / falls"
+        },
+        {
+          "key": "B",
+          "text": "are / will be fallen"
+        },
+        {
+          "key": "C",
+          "text": "were / falls"
+        },
+        {
+          "key": "D",
+          "text": "are / falls"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Zero Conditional for universal trade definition: 'are damaged' (condition) + 'falls to the buyer' (result).",
+        "wrong_A": "'Will' is not used in conditional clauses.",
+        "wrong_B": "'Will be fallen' is passive of an intransitive verb (fall), which is grammatically invalid.",
+        "wrong_C": "Tense clash."
+      },
+      "cz_learning_point": "Under FOB (Free on Board), risk passes to the buyer the moment goods cross the ship's rail.",
+      "workplace_track": "International Sales & Tenders"
+    }
+  ]
+}

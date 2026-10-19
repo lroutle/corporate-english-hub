@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-B2-001",
+  "title": "HPLC Chromatography Out-of-Specification (OOS): Third Conditional",
+  "level": "B2",
+  "category": "core",
+  "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+  "estimated_time_minutes": 15,
+  "description": "Formulate retrospective Out-of-Specification (OOS) root-cause analyses, hypothetical past investigations, and HPLC chromatography investigations using the Third Conditional.",
+  "learning_objectives": [
+    "Construct Third Conditional sentences (If + Past Perfect, would have + past participle) for past lab investigations",
+    "Apply inverted conditional structures (Had the analyst checked...) in formal QC reports",
+    "Avoid Czenglish modal transfer (*would have happened if we would have...*)"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-B2-001-Q1",
+      "prompt": "If the analyst _____ the C18 column for forty minutes prior to injection, the baseline drift would not have occurred.",
+      "options": [
+        {
+          "key": "A",
+          "text": "equilibrated"
+        },
+        {
+          "key": "B",
+          "text": "had equilibrated"
+        },
+        {
+          "key": "C",
+          "text": "would equilibrate"
+        },
+        {
+          "key": "D",
+          "text": "has equilibrated"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Third conditional if-clause requires Past Perfect ('had equilibrated').",
+        "wrong_A": "Past Simple produces a Second Conditional, which refers to present/future unreal situations.",
+        "wrong_C": "'would' cannot appear in the conditional if-clause.",
+        "wrong_D": "Present perfect cannot be used in a past unreal hypothetical."
+      },
+      "cz_learning_point": "Czech uses the past conditional for both halves ('kdyby byl zkolonizoval/ustálil...'). In English: 'If + had + past participle, would have + past participle'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B2-001-Q2",
+      "prompt": "The HPLC peak split _____ prevented if the technician had degassed the mobile phase properly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would be"
+        },
+        {
+          "key": "B",
+          "text": "had been"
+        },
+        {
+          "key": "C",
+          "text": "would have been"
+        },
+        {
+          "key": "D",
+          "text": "must have"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive Third Conditional result clause: 'would have been' + past participle.",
+        "wrong_A": "'would be' is Second Conditional (present consequence).",
+        "wrong_B": "'had been' is Past Perfect, which belongs in the if-clause, not the result clause.",
+        "wrong_D": "'must have' expresses deduction, not hypothetical consequence."
+      },
+      "cz_learning_point": "Third conditional result clause requires 'would have been [prevented]': 'The split would have been prevented if...'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B2-001-Q3",
+      "prompt": "_____ the QC supervisor verified the internal standard calibration curve, the OOS batch rejection could have been avoided.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Had"
+        },
+        {
+          "key": "B",
+          "text": "If had"
+        },
+        {
+          "key": "C",
+          "text": "Should"
+        },
+        {
+          "key": "D",
+          "text": "Were"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Inverted Third Conditional replaces 'If the supervisor had verified' with 'Had the supervisor verified'.",
+        "wrong_B": "'If had' is ungrammatical; inversion omits 'if'.",
+        "wrong_C": "'Should' inverts First Conditional present/future possibilities.",
+        "wrong_D": "'Were' inverts Second Conditional present unreal structures."
+      },
+      "cz_learning_point": "Formal inverted conditional: 'Had the supervisor verified...' = 'If the supervisor had verified...'. Never use *If had* together.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B2-001-Q4",
+      "prompt": "If we had identified the unknown degradation peak earlier, we _____ the regulatory release deadline.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not miss"
+        },
+        {
+          "key": "B",
+          "text": "will not have missed"
+        },
+        {
+          "key": "C",
+          "text": "had not missed"
+        },
+        {
+          "key": "D",
+          "text": "would not have missed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Negative Third Conditional result clause requires 'would not have missed'.",
+        "wrong_A": "'would not miss' is Second Conditional.",
+        "wrong_B": "'will not have missed' is future perfect.",
+        "wrong_C": "'had not missed' is past perfect, which is ungrammatical in the result clause."
+      },
+      "cz_learning_point": "Third Conditional result: 'would not have missed' (nebyli bychom zmeškali).",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B2-001-Q5",
+      "prompt": "The batch would have complied with USP specifications if the crystallization temperature _____ at 15°C.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was remaining"
+        },
+        {
+          "key": "B",
+          "text": "would have remained"
+        },
+        {
+          "key": "C",
+          "text": "had remained"
+        },
+        {
+          "key": "D",
+          "text": "remained"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "If-clause in Third Conditional requires Past Perfect ('had remained').",
+        "wrong_A": "Past continuous does not establish the required completed hypothetical condition.",
+        "wrong_B": "Czenglish mistake: putting 'would have' into the if-clause.",
+        "wrong_D": "Past simple forms a Second Conditional."
+      },
+      "cz_learning_point": "Czenglish trap: Never put 'would' in the if-clause (*if the temperature would have remained*). Use 'if it had remained'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B2-001-Q6",
+      "prompt": "If the autosampler needle _____ bent during sequence execution, the injection volume would have remained accurate.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not be"
+        },
+        {
+          "key": "B",
+          "text": "had not been"
+        },
+        {
+          "key": "C",
+          "text": "was not"
+        },
+        {
+          "key": "D",
+          "text": "has not been"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Negative passive Past Perfect in if-clause: 'had not been bent'.",
+        "wrong_A": "Cannot use 'would' in the if-clause.",
+        "wrong_C": "Past simple refers to hypothetical present, not a past sequence failure.",
+        "wrong_D": "Present perfect is invalid in past counterfactuals."
+      },
+      "cz_learning_point": "Past unreal condition: 'If the needle had not been bent...'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B2-001-Q7",
+      "prompt": "Had the raw material supplier notified us of the solvent change, the synthetic yield _____ plummeted.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had not"
+        },
+        {
+          "key": "B",
+          "text": "would not"
+        },
+        {
+          "key": "C",
+          "text": "will not have"
+        },
+        {
+          "key": "D",
+          "text": "would not have"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Result clause after inverted condition 'Had they notified us' requires 'would not have plummeted'.",
+        "wrong_A": "'had not' cannot serve as result auxiliary.",
+        "wrong_B": "'would not' lacks 'have' for past unreal result.",
+        "wrong_C": "'will' cannot express past counterfactuals."
+      },
+      "cz_learning_point": "Result of past inverted condition: 'Had they notified us... the yield would not have plummeted'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B2-001-Q8",
+      "prompt": "If the laboratory _____ the new mass spectrometer in January, we could have completed the impurity profile in-house.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had validated"
+        },
+        {
+          "key": "B",
+          "text": "validated"
+        },
+        {
+          "key": "C",
+          "text": "would validate"
+        },
+        {
+          "key": "D",
+          "text": "validates"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Past Perfect 'had validated' is required for the completed past condition.",
+        "wrong_B": "Past simple indicates hypothetical present.",
+        "wrong_C": "'would' cannot be used in the if-clause.",
+        "wrong_D": "Present simple is used for real present conditions."
+      },
+      "cz_learning_point": "Third Conditional: 'If the laboratory had validated... we could have completed...' (kdyby byla laboratoř validovala...).",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B2-001-Q9",
+      "prompt": "The solvent peak tailing factor would not have exceeded 2.0 if the guard column _____ replaced on schedule.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "were"
+        },
+        {
+          "key": "C",
+          "text": "had been"
+        },
+        {
+          "key": "D",
+          "text": "would be"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive Past Perfect 'had been replaced' in the conditional clause.",
+        "wrong_A": "Past simple passive.",
+        "wrong_B": "Subjunctive past simple passive (Second Conditional).",
+        "wrong_D": "Cannot use 'would' in the if-clause."
+      },
+      "cz_learning_point": "In the if-clause, use Past Perfect passive: 'if the guard column had been replaced'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B2-001-Q10",
+      "prompt": "_____ the chemist followed the revised SOP, the sample degradation would not have occurred.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If"
+        },
+        {
+          "key": "B",
+          "text": "Had"
+        },
+        {
+          "key": "C",
+          "text": "Did"
+        },
+        {
+          "key": "D",
+          "text": "Should"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Inverted condition without 'if' requires auxiliary 'Had' + subject + past participle.",
+        "wrong_A": "'If' requires subject before verb: 'If the chemist had followed'.",
+        "wrong_C": "'Did' does not form counterfactual conditionals.",
+        "wrong_D": "'Should' is for present/future conditional inversion."
+      },
+      "cz_learning_point": "Inversion replaces 'If the chemist had followed' with 'Had the chemist followed'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    }
+  ]
+}

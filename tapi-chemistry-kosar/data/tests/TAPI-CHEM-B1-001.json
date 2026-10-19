@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-B1-001",
+  "title": "API Reactor Yield & Solvent Recovery: Present Perfect vs Past Simple",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+  "estimated_time_minutes": 15,
+  "description": "Report chemical batch synthesis yields, solvent recovery percentages, and finished batch releases.",
+  "learning_objectives": [
+    "Distinguish Present Perfect (recent batch results) from Past Simple (stated times)",
+    "Report chemical reaction yields using correct aspectual verbs",
+    "Avoid Czech aspectual confusion in chemical production briefings"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-B1-001-Q1",
+      "prompt": "We _____ three synthesis batches of active paracetamol this week.",
+      "options": [
+        {
+          "key": "A",
+          "text": "synthesized"
+        },
+        {
+          "key": "B",
+          "text": "have synthesized"
+        },
+        {
+          "key": "C",
+          "text": "are synthesize"
+        },
+        {
+          "key": "D",
+          "text": "synthesize"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Unfinished time frame ('this week') requires Present Perfect: 'have synthesized'.",
+        "wrong_A": "'synthesized' requires finished time frame.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "'synthesize' is habitual present."
+      },
+      "cz_learning_point": "Czech 'Tento týden jsme syntetizovali'. Unfinished time takes Present Perfect: 'have synthesized'.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-001-Q2",
+      "prompt": "Yesterday at 14:00, the process chemist _____ the temperature in reactor 2.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has adjusted"
+        },
+        {
+          "key": "B",
+          "text": "adjusting"
+        },
+        {
+          "key": "C",
+          "text": "adjusted"
+        },
+        {
+          "key": "D",
+          "text": "adjusts"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific completed past time ('Yesterday at 14:00') takes Past Simple: 'adjusted'.",
+        "wrong_A": "Present Perfect cannot pair with specific past time 'yesterday'.",
+        "wrong_B": "Participle cannot be verb.",
+        "wrong_D": "'adjusts' is present."
+      },
+      "cz_learning_point": "Czech 'Včera ve 14:00 chemik upravil...'. Specific past time takes Past Simple: 'adjusted'.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-001-Q3",
+      "prompt": "The solvent recovery plant _____ 94% of the recycled acetone so far this month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has recovered"
+        },
+        {
+          "key": "B",
+          "text": "recovered"
+        },
+        {
+          "key": "C",
+          "text": "was recover"
+        },
+        {
+          "key": "D",
+          "text": "recovers"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'So far this month' denotes ongoing time up to the present, requiring Present Perfect: 'has recovered'.",
+        "wrong_B": "'recovered' implies a closed past time frame.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "'recovers' is habitual present."
+      },
+      "cz_learning_point": "Czech 'Zatím v tomto měsíci recyklovala...'. 'So far' requires Present Perfect: 'has recovered'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-B1-001-Q4",
+      "prompt": "_____ you already verified the purity profile of batch TAPI-2026-08?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Did"
+        },
+        {
+          "key": "B",
+          "text": "Were"
+        },
+        {
+          "key": "C",
+          "text": "Do"
+        },
+        {
+          "key": "D",
+          "text": "Have"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Already' with past participle 'verified' requires Present Perfect auxiliary 'Have you already verified'.",
+        "wrong_A": "'Did you already verified' is ungrammatical (would need base 'verify').",
+        "wrong_B": "'Were' is invalid.",
+        "wrong_C": "'Do' is present."
+      },
+      "cz_learning_point": "Czech 'Ověřil jste již čistotu...?'. With 'already' and past participle, use 'Have you already verified...'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B1-001-Q5",
+      "prompt": "The crystallizer temperature _____ suddenly during last night's night shift.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has dropped"
+        },
+        {
+          "key": "B",
+          "text": "drops"
+        },
+        {
+          "key": "C",
+          "text": "dropped"
+        },
+        {
+          "key": "D",
+          "text": "is dropped"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific completed past period ('last night') requires Past Simple: 'dropped'.",
+        "wrong_A": "Present Perfect cannot be used with 'last night'.",
+        "wrong_B": "'drops' is present.",
+        "wrong_D": "'is dropped' is passive."
+      },
+      "cz_learning_point": "Czech 'Teplota včera v noci klesla'. 'Last night' takes Past Simple: 'dropped'.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-001-Q6",
+      "prompt": "The analytical development lab _____ a new HPLC method for chiral separation last quarter.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has validated"
+        },
+        {
+          "key": "B",
+          "text": "validated"
+        },
+        {
+          "key": "C",
+          "text": "is validate"
+        },
+        {
+          "key": "D",
+          "text": "validates"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Finished past time marker ('last quarter') takes Past Simple: 'validated'.",
+        "wrong_A": "Present Perfect cannot pair with 'last quarter'.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "'validates' is present."
+      },
+      "cz_learning_point": "Czech 'Laboratoř validovala metodu minulé čtvrtletí'. Past marker 'last quarter' requires Past Simple: 'validated'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-B1-001-Q7",
+      "prompt": "We _____ the final release documentation to the QP yet; the assay test is still running.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did not submit"
+        },
+        {
+          "key": "B",
+          "text": "are not submit"
+        },
+        {
+          "key": "C",
+          "text": "do not submit"
+        },
+        {
+          "key": "D",
+          "text": "have not submitted"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Negative clause with 'yet' referring to expectation up to now requires Present Perfect: 'have not submitted'.",
+        "wrong_A": "'did not submit... yet' is colloquial American, but Present Perfect is strictly preferred in technical English.",
+        "wrong_B": "Ungrammatical.",
+        "wrong_C": "'do not submit' is present."
+      },
+      "cz_learning_point": "Czech 'Zatím jsme nepředložili...'. 'Yet' takes Present Perfect: 'have not submitted'.",
+      "workplace_track": "Pharmacopeial Compliance, Impurity Profiling & Regulatory Submissions"
+    },
+    {
+      "id": "TAPI-CHEM-B1-001-Q8",
+      "prompt": "The synthesis reaction _____ for three hours before the cooling jacket was activated.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had proceeded"
+        },
+        {
+          "key": "B",
+          "text": "proceeded"
+        },
+        {
+          "key": "C",
+          "text": "has proceeded"
+        },
+        {
+          "key": "D",
+          "text": "is proceeding"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Past event that occurred prior to another past action ('was activated') takes Past Perfect: 'had proceeded'.",
+        "wrong_B": "'proceeded' is past simple.",
+        "wrong_C": "'has proceeded' cannot pair with completed past reference.",
+        "wrong_D": "Continuous present."
+      },
+      "cz_learning_point": "Czech 'Reakce probíhala již tři hodiny předtím, než...'. Earlier past action takes Past Perfect: 'had proceeded'.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-001-Q9",
+      "prompt": "The chemical synthesis team _____ just completed the trial synthesis of the active ingredient.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did"
+        },
+        {
+          "key": "B",
+          "text": "was"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "is"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Adverb 'just' indicating recent completion takes Present Perfect: 'has just completed'.",
+        "wrong_A": "'did' cannot pair with past participle 'completed'.",
+        "wrong_B": "'was' would create passive.",
+        "wrong_D": "'is' is present."
+      },
+      "cz_learning_point": "Czech 'Tým právě dokončil...'. 'Just' with past participle takes Present Perfect: 'has just completed'.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-001-Q10",
+      "prompt": "In 2025, TAPI Opava _____ over 150 metric tons of pharmaceutical intermediates.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has produced"
+        },
+        {
+          "key": "B",
+          "text": "produced"
+        },
+        {
+          "key": "C",
+          "text": "was produce"
+        },
+        {
+          "key": "D",
+          "text": "produces"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Specific historical past year ('In 2025') requires Past Simple: 'produced'.",
+        "wrong_A": "Present Perfect cannot be used with a specific past year like 'In 2025'.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "'produces' is present."
+      },
+      "cz_learning_point": "Czech 'V roce 2025 vyrobila...'. Historical years take Past Simple: 'produced'.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    }
+  ]
+}

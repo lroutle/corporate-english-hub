@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Google Forms - Diagnostic Grammar Assessment (B1-B2)</title>
+  <style>
+    :root {
+      --gf-purple: #673ab7;
+      --gf-bg: #ede7f6;
+      --gf-card: #ffffff;
+      --gf-text: #202124;
+      --gf-muted: #5f6368;
+      --gf-border: #dadce0;
+      --gf-focus: #1a73e8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--gf-bg);
+      font-family: Roboto, Arial, sans-serif;
+      color: var(--gf-text);
+      padding: 30px 15px;
+      line-height: 1.5;
+    }
+    .form-container {
+      max-width: 770px;
+      margin: 0 auto;
+    }
+    .form-card {
+      background: var(--gf-card);
+      border-radius: 8px;
+      padding: 24px;
+      margin-bottom: 12px;
+      border: 1px solid var(--gf-border);
+      position: relative;
+    }
+    .header-card {
+      border-top: 10px solid var(--gf-purple);
+      padding-top: 20px;
+    }
+    .header-card h1 {
+      font-size: 32px;
+      font-weight: 400;
+      margin-bottom: 10px;
+    }
+    .header-card p {
+      font-size: 14px;
+      color: var(--gf-muted);
+      line-height: 1.6;
+    }
+    .header-card .meta {
+      margin-top: 15px;
+      padding-top: 12px;
+      border-top: 1px solid var(--gf-border);
+      font-size: 12px;
+      color: #d93025;
+    }
+    .question-title {
+      font-size: 16px;
+      font-weight: 500;
+      margin-bottom: 12px;
+    }
+    .required-star {
+      color: #d93025;
+      margin-left: 4px;
+    }
+    .radio-option {
+      display: flex;
+      align-items: center;
+      padding: 8px 0;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    .radio-option input[type="radio"] {
+      margin-right: 12px;
+      width: 18px;
+      height: 18px;
+      accent-color: var(--gf-purple);
+      cursor: pointer;
+    }
+    .text-input {
+      width: 100%;
+      border: none;
+      border-bottom: 1px solid var(--gf-border);
+      padding: 8px 0;
+      font-size: 14px;
+      font-family: inherit;
+      outline: none;
+      transition: border-bottom 0.2s;
+    }
+    .text-input:focus {
+      border-bottom: 2px solid var(--gf-purple);
+    }
+    .btn-submit {
+      background: var(--gf-purple);
+      color: white;
+      border: none;
+      padding: 10px 24px;
+      border-radius: 4px;
+      font-weight: 500;
+      font-size: 14px;
+      cursor: pointer;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    }
+    .btn-submit:hover {
+      background: #5e35b1;
+    }
+    .footer-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 20px;
+    }
+    .score-card {
+      display: none;
+      background: white;
+      border-radius: 8px;
+      padding: 30px;
+      text-align: center;
+      border: 1px solid var(--gf-border);
+      border-top: 10px solid #16a34a;
+    }
+    .feedback-chip {
+      margin-top: 12px;
+      padding: 8px 12px;
+      border-radius: 4px;
+      font-size: 13px;
+      display: none;
+    }
+    .feedback-chip.correct {
+      background: #e6f4ea;
+      color: #137333;
+    }
+    .feedback-chip.wrong {
+      background: #fce8e6;
+      color: #c5221f;
+    }
+  </style>
+</head>
+<body>
+
+<div class="form-container">
+  <div class="form-card header-card">
+    <h1>Diagnostic Grammar Assessment (B1–B2)</h1>
+    <p><b>PRIMA LINGUA Corporate Training</b><br>
+    International Business, Logistics & Overseas Sales Diagnostic Check.<br>
+    All responses are evaluated against CEFR B1/B2 benchmarks.</p>
+    <div class="meta">* Indicates required question</div>
+  </div>
+
+  <form id="googleForm" onsubmit="submitForm(event)">
+    <div class="form-card">
+      <div class="question-title">Student Full Name <span class="required-star">*</span></div>
+      <input type="text" class="text-input" placeholder="Your answer" required>
+    </div>
+
+    <div class="form-card">
+      <div class="question-title">Company & Department <span class="required-star">*</span></div>
+      <input type="text" class="text-input" placeholder="Your answer" required>
+    </div>
+
+    <!-- Questions 1 - 15 -->
+    <div class="form-card" data-correct="B">
+      <div class="question-title">1. Right now our sales department _______ a key contract with an overseas distributor, but normally we _______ regional retail accounts. <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq1" value="A" required> negotiates / are handling</label>
+      <label class="radio-option"><input type="radio" name="gq1" value="B"> is negotiating / handle</label>
+      <label class="radio-option"><input type="radio" name="gq1" value="C"> negotiates / handle</label>
+      <label class="radio-option"><input type="radio" name="gq1" value="D"> is negotiating / are handling</label>
+      <div class="feedback-chip">Correct: B (is negotiating / handle)</div>
+    </div>
+
+    <div class="form-card" data-correct="C">
+      <div class="question-title">2. While the export team _______ the logistics documents, the foreign buyer suddenly _______ to amend the payment terms. <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq2" value="A" required> prepared / asked</label>
+      <label class="radio-option"><input type="radio" name="gq2" value="B"> were preparing / was asking</label>
+      <label class="radio-option"><input type="radio" name="gq2" value="C"> were preparing / asked</label>
+      <label class="radio-option"><input type="radio" name="gq2" value="D"> have prepared / asked</label>
+      <div class="feedback-chip">Correct: C (were preparing / asked)</div>
+    </div>
+
+    <div class="form-card" data-correct="B">
+      <div class="question-title">3. I _______ with overseas distributors for five years now, but before joining this department I _______ domestic clients. <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq3" value="A" required> worked / have managed</label>
+      <label class="radio-option"><input type="radio" name="gq3" value="B"> have worked / managed</label>
+      <label class="radio-option"><input type="radio" name="gq3" value="C"> am working / managed</label>
+      <label class="radio-option"><input type="radio" name="gq3" value="D"> have been working / have managed</label>
+      <div class="feedback-chip">Correct: B (have worked / managed)</div>
+    </div>
+
+    <div class="form-card" data-correct="A">
+      <div class="question-title">4. "_______ to a major international trade fair in Germany or the Middle East?" — "Yes, I _______ our company stand at an expo in Frankfurt two months ago." <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq4" value="A" required> Have you ever been / attended</label>
+      <label class="radio-option"><input type="radio" name="gq4" value="B"> Did you ever go / have attended</label>
+      <label class="radio-option"><input type="radio" name="gq4" value="C"> Have you ever gone / attended</label>
+      <label class="radio-option"><input type="radio" name="gq4" value="D"> Did you ever go / attended</label>
+      <div class="feedback-chip">Correct: A (Have you ever been / attended)</div>
+    </div>
+
+    <div class="form-card" data-correct="C">
+      <div class="question-title">5. Our export manager looks exhausted because she _______ with our partners in Singapore nonstop since 6:00 AM. <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq5" value="A" required> is negotiating</label>
+      <label class="radio-option"><input type="radio" name="gq5" value="B"> negotiates</label>
+      <label class="radio-option"><input type="radio" name="gq5" value="C"> has been negotiating</label>
+      <label class="radio-option"><input type="radio" name="gq5" value="D"> had negotiated</label>
+      <div class="feedback-chip">Correct: C (has been negotiating)</div>
+    </div>
+
+    <div class="form-card" data-correct="A">
+      <div class="question-title">6. "Our client just sent an email refusing our shipping terms." — "Don't worry, I _______ their representative right away to clarify the situation." <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq6" value="A" required> will call</label>
+      <label class="radio-option"><input type="radio" name="gq6" value="B"> am calling</label>
+      <label class="radio-option"><input type="radio" name="gq6" value="C"> am going to call</label>
+      <label class="radio-option"><input type="radio" name="gq6" value="D"> call</label>
+      <div class="feedback-chip">Correct: A (will call)</div>
+    </div>
+
+    <div class="form-card" data-correct="B">
+      <div class="question-title">7. Under international export law, our department _______ provide an official certificate of origin before the shipment can clear customs. <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq7" value="A" required> should</label>
+      <label class="radio-option"><input type="radio" name="gq7" value="B"> must / has to</label>
+      <label class="radio-option"><input type="radio" name="gq7" value="C"> can</label>
+      <label class="radio-option"><input type="radio" name="gq7" value="D"> might</label>
+      <div class="feedback-chip">Correct: B (must / has to)</div>
+    </div>
+
+    <div class="form-card" data-correct="B">
+      <div class="question-title">8. If the overseas distributor _______ the full container load today, we _______ a 7% volume discount. <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq8" value="A" required> will order / provide</label>
+      <label class="radio-option"><input type="radio" name="gq8" value="B"> orders / will provide</label>
+      <label class="radio-option"><input type="radio" name="gq8" value="C"> orders / provide</label>
+      <label class="radio-option"><input type="radio" name="gq8" value="D"> will order / will provide</label>
+      <div class="feedback-chip">Correct: B (orders / will provide)</div>
+    </div>
+
+    <div class="form-card" data-correct="B">
+      <div class="question-title">9. If our company _______ more flexible credit terms to foreign buyers, we _______ much faster market share abroad. <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq9" value="A" required> offers / will gain</label>
+      <label class="radio-option"><input type="radio" name="gq9" value="B"> offered / would gain</label>
+      <label class="radio-option"><input type="radio" name="gq9" value="C"> offered / will gain</label>
+      <label class="radio-option"><input type="radio" name="gq9" value="D"> would offer / gained</label>
+      <div class="feedback-chip">Correct: B (offered / would gain)</div>
+    </div>
+
+    <div class="form-card" data-correct="B">
+      <div class="question-title">10. If we _______ our sales pitch to their local business culture, we _______ the distribution tender last year. <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq10" value="A" required> adapted / wouldn't lose</label>
+      <label class="radio-option"><input type="radio" name="gq10" value="B"> had adapted / wouldn't have lost</label>
+      <label class="radio-option"><input type="radio" name="gq10" value="C"> would adapt / didn't lose</label>
+      <label class="radio-option"><input type="radio" name="gq10" value="D"> had adapted / wouldn't lose</label>
+      <div class="feedback-chip">Correct: B (had adapted / wouldn't have lost)</div>
+    </div>
+
+    <div class="form-card" data-correct="B">
+      <div class="question-title">11. All export shipments _______ strictly according to Incoterms before they _______ to the port of entry. <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq11" value="A" required> insure / dispatch</label>
+      <label class="radio-option"><input type="radio" name="gq11" value="B"> are insured / are dispatched</label>
+      <label class="radio-option"><input type="radio" name="gq11" value="C"> are insuring / are dispatched</label>
+      <label class="radio-option"><input type="radio" name="gq11" value="D"> were insured / dispatched</label>
+      <div class="feedback-chip">Correct: B (are insured / are dispatched)</div>
+    </div>
+
+    <div class="form-card" data-correct="C">
+      <div class="question-title">12. This is the foreign distributor _______ warehouse network covers the entire Latin American market. <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq12" value="A" required> who</label>
+      <label class="radio-option"><input type="radio" name="gq12" value="B"> which</label>
+      <label class="radio-option"><input type="radio" name="gq12" value="C"> whose</label>
+      <label class="radio-option"><input type="radio" name="gq12" value="D"> whom</label>
+      <div class="feedback-chip">Correct: C (whose)</div>
+    </div>
+
+    <div class="form-card" data-correct="B">
+      <div class="question-title">13. The client considered _______ the contract for another two years, but they refused _______ the revised price index. <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq13" value="A" required> to renew / accepting</label>
+      <label class="radio-option"><input type="radio" name="gq13" value="B"> renewing / to accept</label>
+      <label class="radio-option"><input type="radio" name="gq13" value="C"> to renew / to accept</label>
+      <label class="radio-option"><input type="radio" name="gq13" value="D"> renewing / accepting</label>
+      <div class="feedback-chip">Correct: B (renewing / to accept)</div>
+    </div>
+
+    <div class="form-card" data-correct="B">
+      <div class="question-title">14. "Could you clarify _______?" <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq14" value="A" required> when will the overseas shipment arrive</label>
+      <label class="radio-option"><input type="radio" name="gq14" value="B"> when the overseas shipment will arrive</label>
+      <label class="radio-option"><input type="radio" name="gq14" value="C"> when arrives the overseas shipment</label>
+      <label class="radio-option"><input type="radio" name="gq14" value="D"> when does the overseas shipment arrive</label>
+      <div class="feedback-chip">Correct: B (when the overseas shipment will arrive)</div>
+    </div>
+
+    <div class="form-card" data-correct="C">
+      <div class="question-title">15. Our team is responsible _______ developing overseas partnerships, and our quarterly targets depend heavily _______ market stability. <span class="required-star">*</span></div>
+      <label class="radio-option"><input type="radio" name="gq15" value="A" required> of / on</label>
+      <label class="radio-option"><input type="radio" name="gq15" value="B"> for / in</label>
+      <label class="radio-option"><input type="radio" name="gq15" value="C"> for / on</label>
+      <label class="radio-option"><input type="radio" name="gq15" value="D"> to / at</label>
+      <div class="feedback-chip">Correct: C (for / on)</div>
+    </div>
+
+    <div class="footer-bar">
+      <button type="submit" class="btn-submit">Submit</button>
+      <span style="font-size: 12px; color: var(--gf-muted);">Never submit passwords through Google Forms.</span>
+    </div>
+  </form>
+
+  <div id="scoreCard" class="score-card">
+    <h2 style="color: #137333; margin-bottom: 8px;">Your response has been recorded.</h2>
+    <p style="font-size: 18px; margin-bottom: 12px;" id="scoreDisplay"></p>
+    <p style="color: var(--gf-muted); font-size: 14px;">Diagnostic feedback for each question is now displayed above.</p>
+  </div>
+</div>
+
+<script>
+  function submitForm(e) {
+    e.preventDefault();
+    let score = 0;
+    const cards = document.querySelectorAll('.form-card[data-correct]');
+    cards.forEach(card => {
+      const correct = card.getAttribute('data-correct');
+      const selected = card.querySelector('input[type="radio"]:checked');
+      const chip = card.querySelector('.feedback-chip');
+      chip.style.display = 'block';
+      if (selected && selected.value === correct) {
+        score++;
+        chip.className = 'feedback-chip correct';
+        chip.innerText = '✓ Correct (1/1 pt)';
+      } else {
+        chip.className = 'feedback-chip wrong';
+        chip.innerText = '✗ Incorrect (0/1 pt) — ' + chip.innerText;
+      }
+    });
+
+    document.getElementById('googleForm').style.display = 'none';
+    const card = document.getElementById('scoreCard');
+    card.style.display = 'block';
+    document.getElementById('scoreDisplay').innerHTML = `<b>Score: ${score} / 15 points</b>`;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+</script>
+
+</body>
+</html>

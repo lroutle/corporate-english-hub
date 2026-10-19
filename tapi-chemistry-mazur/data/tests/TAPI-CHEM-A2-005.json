@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-A2-005",
+  "title": "Temperatures, Milligrams & Liquid Volumes: Units & Numbers",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
+  "estimated_time_minutes": 10,
+  "description": "Read, pronounce, and document analytical measurements, decimal points, tolerances, and metric units without Czech decimal-comma errors.",
+  "learning_objectives": [
+    "Use decimal points (0.75 mg) instead of Czech decimal commas (0,75 mg)",
+    "Pronounce decimal numbers, fractions, and ranges (e.g. 'zero point five', 'between 20 and 25')",
+    "Specify analytical laboratory tolerances (±0.05 mL, 98.0% to 102.0%) clearly"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-A2-005-Q1",
+      "prompt": "In international GMP certificates of analysis, the number 0.05 is pronounced 'zero _____ zero five'.",
+      "options": [
+        {
+          "key": "A",
+          "text": "comma"
+        },
+        {
+          "key": "B",
+          "text": "point"
+        },
+        {
+          "key": "C",
+          "text": "dot"
+        },
+        {
+          "key": "D",
+          "text": "period"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Spoken decimals in English use the word 'point' ('zero point zero five').",
+        "wrong_A": "Czechs often say *comma* because Czech uses čárka (0,05), but English uses 'point'.",
+        "wrong_C": "'dot' is used in internet URLs and IP addresses, not decimal numbers.",
+        "wrong_D": "'period' is punctuation at the end of a sentence in American English."
+      },
+      "cz_learning_point": "Czech uses decimal comma ('nula celá pět' / 0,5). English strictly uses a decimal point: 'zero point five' (0.5). Never say *comma*.",
+      "workplace_track": "In-Process Control (IPC) & Out-of-Specification"
+    },
+    {
+      "id": "TAPI-CHEM-A2-005-Q2",
+      "prompt": "The reactor jacket temperature must remain between 180°C _____ 185°C throughout crystallization.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to"
+        },
+        {
+          "key": "B",
+          "text": "or"
+        },
+        {
+          "key": "C",
+          "text": "and"
+        },
+        {
+          "key": "D",
+          "text": "until"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "The correlative structure is 'between [X] and [Y]'.",
+        "wrong_A": "'between... to' is a common Czenglish error; use 'from... to' OR 'between... and'.",
+        "wrong_B": "'or' indicates an alternative, not an inclusive continuous range.",
+        "wrong_D": "'until' indicates time up to a moment."
+      },
+      "cz_learning_point": "Czenglish error: *between 180 to 185*. Correct English is: 'between 180 AND 185' or 'from 180 TO 185'.",
+      "workplace_track": "In-Process Control (IPC) & Out-of-Specification"
+    },
+    {
+      "id": "TAPI-CHEM-A2-005-Q3",
+      "prompt": "Transfer exactly _____ microliters (μL) of the internal standard into each HPLC autosampler vial.",
+      "options": [
+        {
+          "key": "A",
+          "text": "two hundred fifty"
+        },
+        {
+          "key": "B",
+          "text": "two hundreds fifty"
+        },
+        {
+          "key": "C",
+          "text": "two hundreds and fifty"
+        },
+        {
+          "key": "D",
+          "text": "two hundreds and fifties"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'two hundred fifty' correctly keeps 'hundred' singular after numbers.",
+        "wrong_B": "'hundred' never takes plural '-s' when preceded by a specific numeral.",
+        "wrong_C": "'hundreds' is incorrectly pluralized after a specific numeral.",
+        "wrong_D": "Both 'hundreds' and 'fifties' are ungrammatically pluralized."
+      },
+      "cz_learning_point": "When preceded by a number, hundred, thousand, and million never take plural -s: 'two hundred', never *two hundreds*.",
+      "workplace_track": "In-Process Control (IPC) & Out-of-Specification"
+    },
+    {
+      "id": "TAPI-CHEM-A2-005-Q4",
+      "prompt": "The moisture content of the lyophilized cake must not exceed 1.5% (one _____ five percent).",
+      "options": [
+        {
+          "key": "A",
+          "text": "comma"
+        },
+        {
+          "key": "B",
+          "text": "full stop"
+        },
+        {
+          "key": "C",
+          "text": "slash"
+        },
+        {
+          "key": "D",
+          "text": "point"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Decimals are vocalized using 'point': 'one point five percent'.",
+        "wrong_A": "Czech 'čárka' does not translate to spoken *comma* in English mathematics.",
+        "wrong_B": "'full stop' is British punctuation for end-of-sentence.",
+        "wrong_C": "'slash' is the division symbol /."
+      },
+      "cz_learning_point": "In English, 1.5% is read as 'one point five percent'.",
+      "workplace_track": "In-Process Control (IPC) & Out-of-Specification"
+    },
+    {
+      "id": "TAPI-CHEM-A2-005-Q5",
+      "prompt": "We dissolved five hundred _____ of the crystalline sample in high-purity water.",
+      "options": [
+        {
+          "key": "A",
+          "text": "milligram"
+        },
+        {
+          "key": "B",
+          "text": "milligramms"
+        },
+        {
+          "key": "C",
+          "text": "milligrams"
+        },
+        {
+          "key": "D",
+          "text": "milligrammes"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Plural noun in standard English spelling is 'milligrams'.",
+        "wrong_A": "Singular form after numeral 500 is incorrect.",
+        "wrong_B": "'milligramms' is misspelled with double m.",
+        "wrong_D": "'milligrammes' is archaic British spelling; standard pharma spelling is 'milligrams'."
+      },
+      "cz_learning_point": "Plural units take -s: 'five hundred milligrams' (500 mg).",
+      "workplace_track": "In-Process Control (IPC) & Out-of-Specification"
+    },
+    {
+      "id": "TAPI-CHEM-A2-005-Q6",
+      "prompt": "The batch assay result was 99.85%, which is written with a decimal _____ in US and European pharmacopeias.",
+      "options": [
+        {
+          "key": "A",
+          "text": "comma"
+        },
+        {
+          "key": "B",
+          "text": "point"
+        },
+        {
+          "key": "C",
+          "text": "colon"
+        },
+        {
+          "key": "D",
+          "text": "apostrophe"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "English and international pharmacopeias use decimal points: 99.85%.",
+        "wrong_A": "Czech uses decimal comma (99,85%), but English scientific papers require a point.",
+        "wrong_C": "Colon (:) represents ratios.",
+        "wrong_D": "Apostrophe (') is for possessives/contractions."
+      },
+      "cz_learning_point": "In international scientific English, always write '99.85%', never *99,85%*.",
+      "workplace_track": "In-Process Control (IPC) & Out-of-Specification"
+    },
+    {
+      "id": "TAPI-CHEM-A2-005-Q7",
+      "prompt": "The analytical balance has an accuracy tolerance of plus or _____ 0.0001 grams.",
+      "options": [
+        {
+          "key": "A",
+          "text": "less"
+        },
+        {
+          "key": "B",
+          "text": "under"
+        },
+        {
+          "key": "C",
+          "text": "below"
+        },
+        {
+          "key": "D",
+          "text": "minus"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "The standard mathematical expression for ± is 'plus or minus'.",
+        "wrong_A": "'plus or less' is non-standard phrasing.",
+        "wrong_B": "'plus or under' is ungrammatical.",
+        "wrong_C": "'plus or below' is ungrammatical."
+      },
+      "cz_learning_point": "The symbol ± is pronounced 'plus or minus' (plus minus).",
+      "workplace_track": "In-Process Control (IPC) & Out-of-Specification"
+    },
+    {
+      "id": "TAPI-CHEM-A2-005-Q8",
+      "prompt": "The solution was heated to twenty-five _____ Celsius.",
+      "options": [
+        {
+          "key": "A",
+          "text": "degrees"
+        },
+        {
+          "key": "B",
+          "text": "degree"
+        },
+        {
+          "key": "C",
+          "text": "grads"
+        },
+        {
+          "key": "D",
+          "text": "steps"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Plural temperature units take 'degrees': 'twenty-five degrees Celsius'.",
+        "wrong_B": "'degree' is singular (1 degree).",
+        "wrong_C": "'grads' is a unit of angle measurement.",
+        "wrong_D": "Czech 'stupně' often leads to literal translation *steps*, which is incorrect."
+      },
+      "cz_learning_point": "Czech 'stupně Celsia' translates to 'degrees Celsius', never *steps* or *grads*.",
+      "workplace_track": "In-Process Control (IPC) & Out-of-Specification"
+    },
+    {
+      "id": "TAPI-CHEM-A2-005-Q9",
+      "prompt": "Add approximately three-_____ of a liter of anhydrous ethanol to the reaction flask.",
+      "options": [
+        {
+          "key": "A",
+          "text": "four"
+        },
+        {
+          "key": "B",
+          "text": "quarters"
+        },
+        {
+          "key": "C",
+          "text": "fours"
+        },
+        {
+          "key": "D",
+          "text": "quarter"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Fraction 3/4 is commonly phrased 'three-quarters'.",
+        "wrong_A": "'three-four' is ungrammatical for fractions.",
+        "wrong_C": "'fours' is not used for fractions; fractions take ordinal numbers or 'quarters'.",
+        "wrong_D": "'quarter' must be plural when numerator is greater than 1 (3 quarters)."
+      },
+      "cz_learning_point": "Fractions: 1/4 = 'one quarter', 3/4 = 'three quarters' (tři čtvrtiny).",
+      "workplace_track": "In-Process Control (IPC) & Out-of-Specification"
+    },
+    {
+      "id": "TAPI-CHEM-A2-005-Q10",
+      "prompt": "The pressure inside the vacuum oven dropped to _____ than 5 millibars.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fewer"
+        },
+        {
+          "key": "B",
+          "text": "less"
+        },
+        {
+          "key": "C",
+          "text": "lower"
+        },
+        {
+          "key": "D",
+          "text": "underneath"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'less than' is used with continuous quantities, measurements, and numerical amounts.",
+        "wrong_A": "'fewer' is strictly for countable plural nouns (e.g., fewer vials).",
+        "wrong_C": "'lower than' is possible for temperature, but 'less than' is standard for numerical cutoffs.",
+        "wrong_D": "'underneath' indicates physical spatial placement."
+      },
+      "cz_learning_point": "Use 'less than' for continuous measurements and unit values: 'less than 5 mbar'.",
+      "workplace_track": "In-Process Control (IPC) & Out-of-Specification"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-B2-007",
+  "title": "Drivetrain Gear Tooth Pitting & Metallurgical Fatigue Inquests",
+  "level": "B2",
+  "category": "core",
+  "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
+  "estimated_time_minutes": 15,
+  "description": "Upper-intermediate engineering module investigating drivetrain gear tooth pitting & metallurgical fatigue inquests.",
+  "learning_objectives": [
+    "Master professional Inverted Conditionals (Had the gear been...) in automotive engineering",
+    "Eliminate common Czech interference errors in drivetrain gear tooth pitting & metallurgical fatigue inquests",
+    "Demonstrate precision in technical and regulatory documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-B2-007-Q1",
+      "prompt": "_____ earlier during simulation, the catastrophic torsional stress on the central backbone tube would not have occurred on the test track.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if engineers increased"
+        },
+        {
+          "key": "B",
+          "text": "had the engineers increased"
+        },
+        {
+          "key": "C",
+          "text": "would engineers have increased"
+        },
+        {
+          "key": "D",
+          "text": "should engineers increase"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'had the engineers increased' correctly replaces 'If [subject] had...' in formal engineering inquests.",
+        "wrong_A": "'if engineers increased' lacks auxiliary 'had' and creates an incomplete clause.",
+        "wrong_C": "'would engineers have increased' incorrectly places 'would have' inside the conditional premise.",
+        "wrong_D": "'should engineers increase' expresses present/future tentative condition, not a past counterfactual."
+      },
+      "cz_learning_point": "Formal engineering reports invert past conditionals without 'if': 'Had the engineers increased...' = 'If the engineers had increased...'. Never put 'would' into the condition.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-B2-007-Q2",
+      "prompt": "_____ earlier during simulation, the catastrophic chassis frame deflection under severe off-road twist would not have occurred on the test track.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if dampers tuned"
+        },
+        {
+          "key": "B",
+          "text": "would dampers have tuned"
+        },
+        {
+          "key": "C",
+          "text": "had the suspension dampers been tuned"
+        },
+        {
+          "key": "D",
+          "text": "were dampers tuning"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'had the suspension dampers been tuned' correctly replaces 'If [subject] had...' in formal engineering inquests.",
+        "wrong_A": "'if dampers tuned' lacks auxiliary 'had' and creates an incomplete clause.",
+        "wrong_B": "'would dampers have tuned' incorrectly places 'would have' inside the conditional premise.",
+        "wrong_D": "'were dampers tuning' expresses present/future tentative condition, not a past counterfactual."
+      },
+      "cz_learning_point": "Formal engineering reports invert past conditionals without 'if': 'Had the engineers increased...' = 'If the engineers had increased...'. Never put 'would' into the condition.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-B2-007-Q3",
+      "prompt": "_____ earlier during simulation, the catastrophic gear tooth flank micropitting in the transfer gearbox would not have occurred on the test track.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had the oil temperature not exceeded"
+        },
+        {
+          "key": "B",
+          "text": "if oil temperature not exceeded"
+        },
+        {
+          "key": "C",
+          "text": "would oil temperature not exceed"
+        },
+        {
+          "key": "D",
+          "text": "did oil temperature not exceed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'had the oil temperature not exceeded' correctly replaces 'If [subject] had...' in formal engineering inquests.",
+        "wrong_B": "'if oil temperature not exceeded' lacks auxiliary 'had' and creates an incomplete clause.",
+        "wrong_C": "'would oil temperature not exceed' incorrectly places 'would have' inside the conditional premise.",
+        "wrong_D": "'did oil temperature not exceed' expresses present/future tentative condition, not a past counterfactual."
+      },
+      "cz_learning_point": "Formal engineering reports invert past conditionals without 'if': 'Had the engineers increased...' = 'If the engineers had increased...'. Never put 'would' into the condition.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-B2-007-Q4",
+      "prompt": "_____ earlier during simulation, the catastrophic pneumatic brake chamber air leak during NATO mobility trials would not have occurred on the test track.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if cold-weather protocol followed"
+        },
+        {
+          "key": "B",
+          "text": "would protocol have followed"
+        },
+        {
+          "key": "C",
+          "text": "should protocol follow"
+        },
+        {
+          "key": "D",
+          "text": "had the cold-weather test protocol been followed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'had the cold-weather test protocol been followed' correctly replaces 'If [subject] had...' in formal engineering inquests.",
+        "wrong_A": "'if cold-weather protocol followed' lacks auxiliary 'had' and creates an incomplete clause.",
+        "wrong_B": "'would protocol have followed' incorrectly places 'would have' inside the conditional premise.",
+        "wrong_C": "'should protocol follow' expresses present/future tentative condition, not a past counterfactual."
+      },
+      "cz_learning_point": "Formal engineering reports invert past conditionals without 'if': 'Had the engineers increased...' = 'If the engineers had increased...'. Never put 'would' into the condition.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-B2-007-Q5",
+      "prompt": "_____ earlier during simulation, the catastrophic swinging half-axle kingpin bearing seizure would not have occurred on the test track.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if schedules observed"
+        },
+        {
+          "key": "B",
+          "text": "would schedules have observed"
+        },
+        {
+          "key": "C",
+          "text": "had maintenance schedules been observed"
+        },
+        {
+          "key": "D",
+          "text": "were schedules observing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'had maintenance schedules been observed' correctly replaces 'If [subject] had...' in formal engineering inquests.",
+        "wrong_A": "'if schedules observed' lacks auxiliary 'had' and creates an incomplete clause.",
+        "wrong_B": "'would schedules have observed' incorrectly places 'would have' inside the conditional premise.",
+        "wrong_D": "'were schedules observing' expresses present/future tentative condition, not a past counterfactual."
+      },
+      "cz_learning_point": "Formal engineering reports invert past conditionals without 'if': 'Had the engineers increased...' = 'If the engineers had increased...'. Never put 'would' into the condition.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-B2-007-Q6",
+      "prompt": "_____ earlier during simulation, the catastrophic hydrostatic cooling fan pump cavitation at maximum engine RPM would not have occurred on the test track.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if diameter enlarged"
+        },
+        {
+          "key": "B",
+          "text": "had the suction line diameter been enlarged"
+        },
+        {
+          "key": "C",
+          "text": "would diameter have enlarged"
+        },
+        {
+          "key": "D",
+          "text": "did diameter enlarge"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'had the suction line diameter been enlarged' correctly replaces 'If [subject] had...' in formal engineering inquests.",
+        "wrong_A": "'if diameter enlarged' lacks auxiliary 'had' and creates an incomplete clause.",
+        "wrong_C": "'would diameter have enlarged' incorrectly places 'would have' inside the conditional premise.",
+        "wrong_D": "'did diameter enlarge' expresses present/future tentative condition, not a past counterfactual."
+      },
+      "cz_learning_point": "Formal engineering reports invert past conditionals without 'if': 'Had the engineers increased...' = 'If the engineers had increased...'. Never put 'would' into the condition.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-B2-007-Q7",
+      "prompt": "_____ earlier during simulation, the catastrophic exhaust gas recirculation (EGR) valve soot clogging would not have occurred on the test track.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if ECU map triggered"
+        },
+        {
+          "key": "B",
+          "text": "would ECU map have triggered"
+        },
+        {
+          "key": "C",
+          "text": "should ECU map trigger"
+        },
+        {
+          "key": "D",
+          "text": "had the ECU map triggered regenerations"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'had the ECU map triggered regenerations' correctly replaces 'If [subject] had...' in formal engineering inquests.",
+        "wrong_A": "'if ECU map triggered' lacks auxiliary 'had' and creates an incomplete clause.",
+        "wrong_B": "'would ECU map have triggered' incorrectly places 'would have' inside the conditional premise.",
+        "wrong_C": "'should ECU map trigger' expresses present/future tentative condition, not a past counterfactual."
+      },
+      "cz_learning_point": "Formal engineering reports invert past conditionals without 'if': 'Had the engineers increased...' = 'If the engineers had increased...'. Never put 'would' into the condition.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-B2-007-Q8",
+      "prompt": "_____ earlier during simulation, the catastrophic ballistic cabin floor weld shear failure under mine blast simulation would not have occurred on the test track.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had the weld joint penetration been verified"
+        },
+        {
+          "key": "B",
+          "text": "if penetration verified"
+        },
+        {
+          "key": "C",
+          "text": "would penetration have verified"
+        },
+        {
+          "key": "D",
+          "text": "was penetration verifying"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'had the weld joint penetration been verified' correctly replaces 'If [subject] had...' in formal engineering inquests.",
+        "wrong_B": "'if penetration verified' lacks auxiliary 'had' and creates an incomplete clause.",
+        "wrong_C": "'would penetration have verified' incorrectly places 'would have' inside the conditional premise.",
+        "wrong_D": "'was penetration verifying' expresses present/future tentative condition, not a past counterfactual."
+      },
+      "cz_learning_point": "Formal engineering reports invert past conditionals without 'if': 'Had the engineers increased...' = 'If the engineers had increased...'. Never put 'would' into the condition.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-B2-007-Q9",
+      "prompt": "_____ earlier during simulation, the catastrophic driveshaft torsional resonance frequency peaks would not have occurred on the test track.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if analysis performed"
+        },
+        {
+          "key": "B",
+          "text": "would analysis have performed"
+        },
+        {
+          "key": "C",
+          "text": "had dynamic vibration analysis been performed"
+        },
+        {
+          "key": "D",
+          "text": "were analysis performing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'had dynamic vibration analysis been performed' correctly replaces 'If [subject] had...' in formal engineering inquests.",
+        "wrong_A": "'if analysis performed' lacks auxiliary 'had' and creates an incomplete clause.",
+        "wrong_B": "'would analysis have performed' incorrectly places 'would have' inside the conditional premise.",
+        "wrong_D": "'were analysis performing' expresses present/future tentative condition, not a past counterfactual."
+      },
+      "cz_learning_point": "Formal engineering reports invert past conditionals without 'if': 'Had the engineers increased...' = 'If the engineers had increased...'. Never put 'would' into the condition.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    },
+    {
+      "id": "TTR-ENG-B2-007-Q10",
+      "prompt": "_____ earlier during simulation, the catastrophic all-wheel drive differential lock clutch wear would not have occurred on the test track.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if sensor signaled"
+        },
+        {
+          "key": "B",
+          "text": "had the pressure sensor signaled engagement"
+        },
+        {
+          "key": "C",
+          "text": "would sensor have signaled"
+        },
+        {
+          "key": "D",
+          "text": "did sensor signal"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'had the pressure sensor signaled engagement' correctly replaces 'If [subject] had...' in formal engineering inquests.",
+        "wrong_A": "'if sensor signaled' lacks auxiliary 'had' and creates an incomplete clause.",
+        "wrong_C": "'would sensor have signaled' incorrectly places 'would have' inside the conditional premise.",
+        "wrong_D": "'did sensor signal' expresses present/future tentative condition, not a past counterfactual."
+      },
+      "cz_learning_point": "Formal engineering reports invert past conditionals without 'if': 'Had the engineers increased...' = 'If the engineers had increased...'. Never put 'would' into the condition.",
+      "workplace_track": "Forensic Failure Analysis & Structural Metallurgy"
+    }
+  ]
+}

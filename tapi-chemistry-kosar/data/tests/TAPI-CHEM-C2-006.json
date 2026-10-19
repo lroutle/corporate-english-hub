@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-C2-006",
+  "title": "European Directorate (EDQM) Certificate of Suitability (CEP) Suspension Appeals",
+  "level": "C2",
+  "category": "core",
+  "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
+  "estimated_time_minutes": 20,
+  "description": "Mastery-tier chemical research and regulatory governance module examining european directorate (edqm) certificate of suitability (cep) suspension appeals.",
+  "learning_objectives": [
+    "Master professional Administrative Law Appeals Syntax in organic API synthesis and QC analysis",
+    "Eliminate common Czech interference errors in european directorate (edqm) certificate of suitability (cep) suspension appeals",
+    "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-C2-006-Q1",
+      "prompt": "The international pharmacopeial harmonization commission mandated that all nitrosamine testing thresholds _____ harmonized across Ph. Eur. and USP monographs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "be"
+        },
+        {
+          "key": "C",
+          "text": "shall be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive requires base form 'be' after 'mandated that'.",
+        "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'shall be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+        "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
+      },
+      "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
+    },
+    {
+      "id": "TAPI-CHEM-C2-006-Q2",
+      "prompt": "Seldom _____ regulatory agencies accepted retrospective toxicological justifications for genotoxic impurities without comprehensive Ames test data.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "were"
+        },
+        {
+          "key": "C",
+          "text": "have"
+        },
+        {
+          "key": "D",
+          "text": "did"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Seldom have regulatory agencies accepted'.",
+        "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'were' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+        "wrong_D": "Option 'did' is completely non-standard in international pharmacopeial jurisprudence."
+      },
+      "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
+    },
+    {
+      "id": "TAPI-CHEM-C2-006-Q3",
+      "prompt": "It is of paramount scientific necessity that every chiral chromatographic method _____ validated against enantiomeric inversion.",
+      "options": [
+        {
+          "key": "A",
+          "text": "be"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "will be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "C2 chemical patent litigation & toxicological discourse: Formulaic subjunctive: 'paramount scientific necessity that every method be validated'.",
+        "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+        "wrong_D": "Option 'must to be' is completely non-standard in international pharmacopeial jurisprudence."
+      },
+      "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
+    },
+    {
+      "id": "TAPI-CHEM-C2-006-Q4",
+      "prompt": "_____ the patent holder to establish crystal lattice polymorphism priority, competing generic API manufacturers would face an immediate market injunction.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Had"
+        },
+        {
+          "key": "B",
+          "text": "Should"
+        },
+        {
+          "key": "C",
+          "text": "If were"
+        },
+        {
+          "key": "D",
+          "text": "Were"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "C2 chemical patent litigation & toxicological discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical patent claim.",
+        "wrong_A": "Option 'Had' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'Should' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+        "wrong_C": "Option 'If were' is completely non-standard in international pharmacopeial jurisprudence."
+      },
+      "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
+    },
+    {
+      "id": "TAPI-CHEM-C2-006-Q5",
+      "prompt": "Not only _____ fail to detect the trace nitrosamine contaminant, but the analytical method also exhibited severe chromatographic peak fronting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the supplier's laboratory did"
+        },
+        {
+          "key": "B",
+          "text": "was the supplier's laboratory"
+        },
+        {
+          "key": "C",
+          "text": "did the supplier's laboratory"
+        },
+        {
+          "key": "D",
+          "text": "has the supplier's laboratory"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "C2 chemical patent litigation & toxicological discourse: Inversion after 'Not only': 'did the laboratory fail'.",
+        "wrong_A": "Option 'the supplier's laboratory did' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'was the supplier's laboratory' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+        "wrong_D": "Option 'has the supplier's laboratory' is completely non-standard in international pharmacopeial jurisprudence."
+      },
+      "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
+    },
+    {
+      "id": "TAPI-CHEM-C2-006-Q6",
+      "prompt": "Under no circumstances _____ the Qualified Person (QP) to release an API batch pending investigation of unassigned out-of-trend impurity peaks.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "will"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "C2 chemical patent litigation & toxicological discourse: Negative inversion: 'Under no circumstances is the QP to release'.",
+        "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+        "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
+      },
+      "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
+    },
+    {
+      "id": "TAPI-CHEM-C2-006-Q7",
+      "prompt": "The lead toxicologist insisted that the mutagenic risk calculation _____ strictly according to ICH M7 linear extrapolation guidelines.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is performed"
+        },
+        {
+          "key": "B",
+          "text": "will be performed"
+        },
+        {
+          "key": "C",
+          "text": "must to be performed"
+        },
+        {
+          "key": "D",
+          "text": "be performed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "C2 chemical patent litigation & toxicological discourse: Passive mandative subjunctive: 'insisted that calculation be performed'.",
+        "wrong_A": "Option 'is performed' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'will be performed' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+        "wrong_C": "Option 'must to be performed' is completely non-standard in international pharmacopeial jurisprudence."
+      },
+      "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
+    },
+    {
+      "id": "TAPI-CHEM-C2-006-Q8",
+      "prompt": "Had the chemical development team not modified the catalytic hydrogenation pathway, genotoxic hydrazine formation _____ avoided.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not have been"
+        },
+        {
+          "key": "B",
+          "text": "would not be"
+        },
+        {
+          "key": "C",
+          "text": "had not been"
+        },
+        {
+          "key": "D",
+          "text": "will not be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "C2 chemical patent litigation & toxicological discourse: Third Conditional counterfactual: 'would not have been avoided'.",
+        "wrong_B": "Option 'would not be' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'had not been' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+        "wrong_D": "Option 'will not be' is completely non-standard in international pharmacopeial jurisprudence."
+      },
+      "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
+    },
+    {
+      "id": "TAPI-CHEM-C2-006-Q9",
+      "prompt": "Barely _____ the European Directorate (EDQM) granted the Certificate of Suitability (CEP) when unannounced impurity audits were initiated.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "had"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "C2 chemical patent litigation & toxicological discourse: Inversion: 'Barely had the EDQM granted... when...'.",
+        "wrong_A": "Option 'was' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'did' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+        "wrong_D": "Option 'has' is completely non-standard in international pharmacopeial jurisprudence."
+      },
+      "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
+    },
+    {
+      "id": "TAPI-CHEM-C2-006-Q10",
+      "prompt": "The international API supply contract stipulates that any chemical impurity exceeding 0.05% _____ quantified and toxicologically characterized.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "be"
+        },
+        {
+          "key": "C",
+          "text": "will be"
+        },
+        {
+          "key": "D",
+          "text": "shall to be"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "C2 chemical patent litigation & toxicological discourse: Mandative subjunctive in supply quality agreements: 'stipulates that any impurity be quantified'.",
+        "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will be' applies indicative or non-inverted phrasing unsuited to regulatory litigation.",
+        "wrong_D": "Option 'shall to be' is completely non-standard in international pharmacopeial jurisprudence."
+      },
+      "cz_learning_point": "High-level scientific and regulatory chemistry discourse requires absolute command of mandative subjunctive ('insisted that it be performed') and inversion ('Seldom have agencies accepted').",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
+    }
+  ]
+}

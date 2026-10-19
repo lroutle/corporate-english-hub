@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-B1-014",
+  "title": "Exothermic Grignard Reaction Temperature Spike Troubleshooting",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate chemical synthesis and analytical module analyzing exothermic grignard reaction temperature spike troubleshooting.",
+  "learning_objectives": [
+    "Master professional Past Continuous in Event Timelines in organic API synthesis and QC analysis",
+    "Eliminate common Czech interference errors in exothermic grignard reaction temperature spike troubleshooting",
+    "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-B1-014-Q1",
+      "prompt": "Before starting the automated HPLC injection sequence, the analyst noted that the crude synthetic API batch _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was dissolved"
+        },
+        {
+          "key": "B",
+          "text": "had been dissolved"
+        },
+        {
+          "key": "C",
+          "text": "has been dissolved"
+        },
+        {
+          "key": "D",
+          "text": "didn't dissolve"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been dissolved') correctly expresses priority before the past action 'noted'.",
+        "wrong_A": "Past Simple ('was dissolved') fails to indicate completion prior to 'noted'.",
+        "wrong_C": "Present Perfect ('has been dissolved') cannot connect to a past reference frame.",
+        "wrong_D": "'didn't dissolve' is active voice; analytical reagents and samples are acted upon passively."
+      },
+      "cz_learning_point": "In analytical QC logs, use Past Perfect Passive to document steps completed before an observation was made.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-014-Q2",
+      "prompt": "Before starting the automated HPLC injection sequence, the analyst noted that the HPLC C18 reverse-phase column _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was equilibrated"
+        },
+        {
+          "key": "B",
+          "text": "has been equilibrated"
+        },
+        {
+          "key": "C",
+          "text": "had been equilibrated"
+        },
+        {
+          "key": "D",
+          "text": "didn't equilibrate"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been equilibrated') correctly expresses priority before the past action 'noted'.",
+        "wrong_A": "Past Simple ('was equilibrated') fails to indicate completion prior to 'noted'.",
+        "wrong_B": "Present Perfect ('has been equilibrated') cannot connect to a past reference frame.",
+        "wrong_D": "'didn't equilibrate' is active voice; analytical reagents and samples are acted upon passively."
+      },
+      "cz_learning_point": "In analytical QC logs, use Past Perfect Passive to document steps completed before an observation was made.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-014-Q3",
+      "prompt": "Before starting the automated HPLC injection sequence, the analyst noted that the Karl Fischer titration solvent vessel _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had been titrated"
+        },
+        {
+          "key": "B",
+          "text": "was titrated"
+        },
+        {
+          "key": "C",
+          "text": "has been titrated"
+        },
+        {
+          "key": "D",
+          "text": "didn't titrate"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been titrated') correctly expresses priority before the past action 'noted'.",
+        "wrong_B": "Past Simple ('was titrated') fails to indicate completion prior to 'noted'.",
+        "wrong_C": "Present Perfect ('has been titrated') cannot connect to a past reference frame.",
+        "wrong_D": "'didn't titrate' is active voice; analytical reagents and samples are acted upon passively."
+      },
+      "cz_learning_point": "In analytical QC logs, use Past Perfect Passive to document steps completed before an observation was made.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-014-Q4",
+      "prompt": "Before starting the automated HPLC injection sequence, the analyst noted that the rotary evaporator solvent trap _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was emptied"
+        },
+        {
+          "key": "B",
+          "text": "has been emptied"
+        },
+        {
+          "key": "C",
+          "text": "didn't empty"
+        },
+        {
+          "key": "D",
+          "text": "had been emptied"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been emptied') correctly expresses priority before the past action 'noted'.",
+        "wrong_A": "Past Simple ('was emptied') fails to indicate completion prior to 'noted'.",
+        "wrong_B": "Present Perfect ('has been emptied') cannot connect to a past reference frame.",
+        "wrong_C": "'didn't empty' is active voice; analytical reagents and samples are acted upon passively."
+      },
+      "cz_learning_point": "In analytical QC logs, use Past Perfect Passive to document steps completed before an observation was made.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-014-Q5",
+      "prompt": "Before starting the automated HPLC injection sequence, the analyst noted that the recrystallization cooling brine jacket _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was chilled"
+        },
+        {
+          "key": "B",
+          "text": "has been chilled"
+        },
+        {
+          "key": "C",
+          "text": "had been chilled"
+        },
+        {
+          "key": "D",
+          "text": "didn't chill"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been chilled') correctly expresses priority before the past action 'noted'.",
+        "wrong_A": "Past Simple ('was chilled') fails to indicate completion prior to 'noted'.",
+        "wrong_B": "Present Perfect ('has been chilled') cannot connect to a past reference frame.",
+        "wrong_D": "'didn't chill' is active voice; analytical reagents and samples are acted upon passively."
+      },
+      "cz_learning_point": "In analytical QC logs, use Past Perfect Passive to document steps completed before an observation was made.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-014-Q6",
+      "prompt": "Before starting the automated HPLC injection sequence, the analyst noted that the Buchner funnel vacuum filtration cake _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was washed"
+        },
+        {
+          "key": "B",
+          "text": "had been washed"
+        },
+        {
+          "key": "C",
+          "text": "has been washed"
+        },
+        {
+          "key": "D",
+          "text": "didn't wash"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been washed') correctly expresses priority before the past action 'noted'.",
+        "wrong_A": "Past Simple ('was washed') fails to indicate completion prior to 'noted'.",
+        "wrong_C": "Present Perfect ('has been washed') cannot connect to a past reference frame.",
+        "wrong_D": "'didn't wash' is active voice; analytical reagents and samples are acted upon passively."
+      },
+      "cz_learning_point": "In analytical QC logs, use Past Perfect Passive to document steps completed before an observation was made.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-014-Q7",
+      "prompt": "Before starting the automated HPLC injection sequence, the analyst noted that the analytical balance draft shield _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was cleaned"
+        },
+        {
+          "key": "B",
+          "text": "has been cleaned"
+        },
+        {
+          "key": "C",
+          "text": "didn't clean"
+        },
+        {
+          "key": "D",
+          "text": "had been cleaned"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been cleaned') correctly expresses priority before the past action 'noted'.",
+        "wrong_A": "Past Simple ('was cleaned') fails to indicate completion prior to 'noted'.",
+        "wrong_B": "Present Perfect ('has been cleaned') cannot connect to a past reference frame.",
+        "wrong_C": "'didn't clean' is active voice; analytical reagents and samples are acted upon passively."
+      },
+      "cz_learning_point": "In analytical QC logs, use Past Perfect Passive to document steps completed before an observation was made.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-014-Q8",
+      "prompt": "Before starting the automated HPLC injection sequence, the analyst noted that the In-Process Control (IPC) reaction sample _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had been neutralized"
+        },
+        {
+          "key": "B",
+          "text": "was neutralized"
+        },
+        {
+          "key": "C",
+          "text": "has been neutralized"
+        },
+        {
+          "key": "D",
+          "text": "didn't neutralize"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been neutralized') correctly expresses priority before the past action 'noted'.",
+        "wrong_B": "Past Simple ('was neutralized') fails to indicate completion prior to 'noted'.",
+        "wrong_C": "Present Perfect ('has been neutralized') cannot connect to a past reference frame.",
+        "wrong_D": "'didn't neutralize' is active voice; analytical reagents and samples are acted upon passively."
+      },
+      "cz_learning_point": "In analytical QC logs, use Past Perfect Passive to document steps completed before an observation was made.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-014-Q9",
+      "prompt": "Before starting the automated HPLC injection sequence, the analyst noted that the gas chromatography inlet septum _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was replaced"
+        },
+        {
+          "key": "B",
+          "text": "has been replaced"
+        },
+        {
+          "key": "C",
+          "text": "had been replaced"
+        },
+        {
+          "key": "D",
+          "text": "didn't replace"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been replaced') correctly expresses priority before the past action 'noted'.",
+        "wrong_A": "Past Simple ('was replaced') fails to indicate completion prior to 'noted'.",
+        "wrong_B": "Present Perfect ('has been replaced') cannot connect to a past reference frame.",
+        "wrong_D": "'didn't replace' is active voice; analytical reagents and samples are acted upon passively."
+      },
+      "cz_learning_point": "In analytical QC logs, use Past Perfect Passive to document steps completed before an observation was made.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-B1-014-Q10",
+      "prompt": "Before starting the automated HPLC injection sequence, the analyst noted that the UV-Vis spectrophotometer lamp alignment _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was calibrated"
+        },
+        {
+          "key": "B",
+          "text": "had been calibrated"
+        },
+        {
+          "key": "C",
+          "text": "has been calibrated"
+        },
+        {
+          "key": "D",
+          "text": "didn't calibrate"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been calibrated') correctly expresses priority before the past action 'noted'.",
+        "wrong_A": "Past Simple ('was calibrated') fails to indicate completion prior to 'noted'.",
+        "wrong_C": "Present Perfect ('has been calibrated') cannot connect to a past reference frame.",
+        "wrong_D": "'didn't calibrate' is active voice; analytical reagents and samples are acted upon passively."
+      },
+      "cz_learning_point": "In analytical QC logs, use Past Perfect Passive to document steps completed before an observation was made.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    }
+  ]
+}

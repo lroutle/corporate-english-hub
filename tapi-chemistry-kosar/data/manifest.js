@@ -1,0 +1,802 @@
+window.CURRICULUM_MANIFEST = [
+  {
+    "test_id": "TAPI-CHEM-A2-001",
+    "title": "Laboratory Glassware, Reagents & Fume Hoods: Imperatives & Must",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods",
+    "grammar_focus": "Imperatives & Must",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering laboratory glassware, reagents & fume hoods: imperatives & must."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-002",
+    "title": "Daily QC Testing & Analytical Weighing: Present Simple",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Present Simple 3rd person -s",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering daily qc testing & analytical weighing: present simple."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-003",
+    "title": "Yesterday's Chemical Synthesis & Titration: Past Simple",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Past Simple regular & irregular",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering yesterday's chemical synthesis & titration: past simple."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-004",
+    "title": "Chemical Storage & Reagent Cabinets: Prepositions of Place",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
+    "grammar_focus": "Prepositions of Place",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering chemical storage & reagent cabinets: prepositions of place."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-005",
+    "title": "Temperatures, Milligrams & Liquid Volumes: Units & Numbers",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
+    "grammar_focus": "Units, numbers & decimals",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering temperatures, milligrams & liquid volumes: units & numbers."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-006",
+    "title": "Analytical Balance Calibration: Certified Weights & Tare Buttons",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Imperatives in SOP Instructions",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering analytical balance calibration: certified weights & tare buttons."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-007",
+    "title": "Solvent Bottle Labeling: Chemical Names, Lot Numbers & Dates",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
+    "grammar_focus": "Countable vs Uncountable Nouns",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering solvent bottle labeling: chemical names, lot numbers & dates."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-008",
+    "title": "Heating Mantles & Magnetic Stirrers: Speed & Heat Controls",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Comparatives & Adjustments",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering heating mantles & magnetic stirrers: speed & heat controls."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-009",
+    "title": "Vacuum Desiccator Maintenance & Silica Gel Color Checks",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods",
+    "grammar_focus": "Adjectives of Condition",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering vacuum desiccator maintenance & silica gel color checks."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-010",
+    "title": "Reporting Broken Volumetric Flasks & Pipette Tips",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods",
+    "grammar_focus": "Past Simple Negatives & Questions",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering reporting broken volumetric flasks & pipette tips."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-011",
+    "title": "Rotary Evaporator Water Bath Temperature Monitoring",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Present Continuous for Active Runs",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering rotary evaporator water bath temperature monitoring."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-012",
+    "title": "Chemical Waste Carboy Disposal: Halogenated vs Non-Halogenated",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
+    "grammar_focus": "Modal Verbs (must, must not, can)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering chemical waste carboy disposal: halogenated vs non-halogenated."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-013",
+    "title": "pH Meter Buffer Solution Calibration: pH 4.0, 7.0 & 10.0",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Prepositions of Measurement",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering ph meter buffer solution calibration: ph 4.0, 7.0 & 10.0."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-014",
+    "title": "Emergency Eyewash & Body Shower Station Weekly Checks",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
+    "grammar_focus": "Adverbs of Frequency",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering emergency eyewash & body shower station weekly checks."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-015",
+    "title": "Melting Point Capillary Tube Filling & Visual Inspection",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Step-by-Step Sequence Markers",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering melting point capillary tube filling & visual inspection."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-016",
+    "title": "Karl Fischer Titration Reagent Replacement & Drift Checks",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Present Perfect with just/already",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering karl fischer titration reagent replacement & drift checks."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-017",
+    "title": "Fume Hood Airflow Velocity Alarms: Red Light Warning Actions",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
+    "grammar_focus": "Conditionals with If and When",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering fume hood airflow velocity alarms: red light warning actions."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-018",
+    "title": "TLC Chromatography Chamber Solvent Level & Cover Glass",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Spatial Prepositions (above, below, on)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering tlc chromatography chamber solvent level & cover glass."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-019",
+    "title": "Synthesis Glassware Washing & Drying Oven Temperature Rules",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods",
+    "grammar_focus": "Rules & Obligations (have to, must)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering synthesis glassware washing & drying oven temperature rules."
+  },
+  {
+    "test_id": "TAPI-CHEM-A2-020",
+    "title": "End-of-Shift Lab Bench Cleanup & Gas Tap Shutoff Rules",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
+    "grammar_focus": "Checklists & Final Imperatives",
+    "estimated_time_minutes": 10,
+    "description": "Foundational chemical laboratory module covering end-of-shift lab bench cleanup & gas tap shutoff rules."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-001",
+    "title": "API Reactor Yield & Solvent Recovery: Present Perfect vs Past Simple",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Present Perfect vs Past Simple",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing api reactor yield & solvent recovery: present perfect vs past simple."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-002",
+    "title": "Karl Fischer Water Determination: Drift Rates & Titrant Factorization",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Passive Voice in Analytical SOPs",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing karl fischer water determination: drift rates & titrant factorization."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-003",
+    "title": "HPLC Chromatography Mobile Phase Degassing & Baseline Drift",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "First & Second Conditionals",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing hplc chromatography mobile phase degassing & baseline drift."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-004",
+    "title": "Rotary Evaporator Vacuum Distillation & Solvent Condenser Drops",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Present Perfect Continuous (duration)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing rotary evaporator vacuum distillation & solvent condenser drops."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-005",
+    "title": "Batch Reactor Crystallization Temperature Ramps & Seed Crystal Dosing",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Relative Clauses in Reaction Parameters",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing batch reactor crystallization temperature ramps & seed crystal dosing."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-006",
+    "title": "Recrystallization Purification: Activated Charcoal Decoloration Steps",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Passive Voice with Modals",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing recrystallization purification: activated charcoal decoloration steps."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-007",
+    "title": "Buchner Funnel Vacuum Filtration Cake Washing & Solvent Pull-Through",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Prepositions of Motion & Direction",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing buchner funnel vacuum filtration cake washing & solvent pull-through."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-008",
+    "title": "In-Process Control (IPC) Reaction Completion Testing via TLC Plates",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
+    "grammar_focus": "Temporal Conjunctions (until, as soon as)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing in-process control (ipc) reaction completion testing via tlc plates."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-009",
+    "title": "Gas Chromatography Carrier Gas Helium Cylinder Pressure Switches",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Modals of Deduction & Probability",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing gas chromatography carrier gas helium cylinder pressure switches."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-010",
+    "title": "pH Electrode Slope Drift & Calibration Buffer Solution Deviations",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Reported Speech in QC Logs",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing ph electrode slope drift & calibration buffer solution deviations."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-011",
+    "title": "API Vacuum Tray Dryer Drying Loss Curve Verification",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Cause & Effect Connectors",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing api vacuum tray dryer drying loss curve verification."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-012",
+    "title": "Hazardous Organic Solvent Segregation: Chlorinated vs Ethers",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
+    "grammar_focus": "Categorization Structures & Quantifiers",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing hazardous organic solvent segregation: chlorinated vs ethers."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-013",
+    "title": "Mass Spectrometry Electrospray Ionization (ESI) Source Cleaning",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Phrasal Verbs in Lab Maintenance",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing mass spectrometry electrospray ionization (esi) source cleaning."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-014",
+    "title": "Exothermic Grignard Reaction Temperature Spike Troubleshooting",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Past Continuous in Event Timelines",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing exothermic grignard reaction temperature spike troubleshooting."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-015",
+    "title": "HPLC Guard Column Backpressure Increase & Replacement Trigger",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Tolerances & Comparative Adjectives",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing hplc guard column backpressure increase & replacement trigger."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-016",
+    "title": "Centrifuge Solid-Liquid Separation Cake Cracking Inquests",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Passive Voice Reporting Forms",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing centrifuge solid-liquid separation cake cracking inquests."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-017",
+    "title": "UV-Vis Spectrophotometer Quartz Cuvette Scratch Inspection",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Adverbial Clauses of Contrast",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing uv-vis spectrophotometer quartz cuvette scratch inspection."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-018",
+    "title": "Synthesis Reagent Certificate of Analysis (CoA) Verification",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
+    "grammar_focus": "Obligation Verbs (shall, must, verify)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing synthesis reagent certificate of analysis (coa) verification."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-019",
+    "title": "Fractional Distillation Column Reflux Ratio Adjustment",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Purpose Clauses (so that, in order to)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing fractional distillation column reflux ratio adjustment."
+  },
+  {
+    "test_id": "TAPI-CHEM-B1-020",
+    "title": "Analytical Balance Annual Recertification Deviation Logging",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Past Unreal Scenarios (could have occurred)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate chemical synthesis and analytical module analyzing analytical balance annual recertification deviation logging."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-001",
+    "title": "HPLC Chromatography Out-of-Specification (OOS): Third Conditional",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Third Conditional in OOS Investigations",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing hplc chromatography out-of-specification (oos): third conditional."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-002",
+    "title": "Chiral Chromatography Enantiomeric Purity (% ee) Determination",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Subjunctive in Pharmacopeial Limits",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing chiral chromatography enantiomeric purity (% ee) determination."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-003",
+    "title": "Exothermic Runaway Reaction Kinetics in Jacketed Pilot Reactors",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Mixed Conditionals in Chemical Safety",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing exothermic runaway reaction kinetics in jacketed pilot reactors."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-004",
+    "title": "Nitrosamine Genotoxic Trace Contaminant GC-MS/MS Quantification",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines",
+    "grammar_focus": "Negative Inversion for Analytical Rigor",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing nitrosamine genotoxic trace contaminant gc-ms/ms quantification."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-005",
+    "title": "API Polymorph Screening via X-Ray Powder Diffraction (XRPD)",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Participial Clauses in Research Papers",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing api polymorph screening via x-ray powder diffraction (xrpd)."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-006",
+    "title": "Forced Degradation Studies: Acid, Base, Peroxide & Thermal Pathways",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
+    "grammar_focus": "Hedging & Stance in Stability Reports",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing forced degradation studies: acid, base, peroxide & thermal pathways."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-007",
+    "title": "HPLC Column Peak Tailing & Asymmetry Factor Exceedance Inquests",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Inverted Conditionals (Had the column...)",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing hplc column peak tailing & asymmetry factor exceedance inquests."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-008",
+    "title": "Homogeneous Catalyst Ligand Poisoning & Recovery Metallurgy",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Nominalization in Process Chemistry",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing homogeneous catalyst ligand poisoning & recovery metallurgy."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-009",
+    "title": "Headspace GC Residual Solvent Testing According to ICH Q3C",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
+    "grammar_focus": "Mandative Subjunctive & Directives",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing headspace gc residual solvent testing according to ich q3c."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-010",
+    "title": "Pilot Plant Scale-Up Mass Transfer & Impeller Shear Stress Modeling",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Complex Passive Constructions",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing pilot plant scale-up mass transfer & impeller shear stress modeling."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-011",
+    "title": "Differential Scanning Calorimetry (DSC) Thermal Stability Audits",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
+    "grammar_focus": "Complex Relative Clauses & Modals",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing differential scanning calorimetry (dsc) thermal stability audits."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-012",
+    "title": "LC-MS High-Resolution Accurate Mass Unknown Impurity Identification",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Passive Causative & Analytical Verbs",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing lc-ms high-resolution accurate mass unknown impurity identification."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-013",
+    "title": "Process Analytical Technology (PAT) Real-Time Reaction Near-IR Monitoring",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
+    "grammar_focus": "Adverbial Clauses of Condition & Concession",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing process analytical technology (pat) real-time reaction near-ir monitoring."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-014",
+    "title": "Continuous Flow Micro-Reactor Synthesis Route Optimization",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Participial Modifiers & Technical Jargon",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing continuous flow micro-reactor synthesis route optimization."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-015",
+    "title": "OOS Phase II Laboratory Investigation: Re-Testing vs Root Cause",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
+    "grammar_focus": "Subjunctive Mood in SOP Governance",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing oos phase ii laboratory investigation: re-testing vs root cause."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-016",
+    "title": "Solid-State Nuclear Magnetic Resonance (ssNMR) Tautomer Elucidation",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Academic Scientific Discourse Register",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing solid-state nuclear magnetic resonance (ssnmr) tautomer elucidation."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-017",
+    "title": "Heavy Metal Scavenger Resin Depletion Kinetics in Crude API Slurry",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Causative Verbs & Risk Mitigation",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing heavy metal scavenger resin depletion kinetics in crude api slurry."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-018",
+    "title": "Validation of Analytical Methods According to ICH Q2(R2) Guidelines",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
+    "grammar_focus": "Normative Directives & Compliance Forms",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing validation of analytical methods according to ich q2(r2) guidelines."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-019",
+    "title": "Solvent Extraction Partition Coefficient Non-Linearity Inquests",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Hypothetical Inversion in Chemical Modeling",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing solvent extraction partition coefficient non-linearity inquests."
+  },
+  {
+    "test_id": "TAPI-CHEM-B2-020",
+    "title": "Unannounced Health Authority Audit of Laboratory Data Integrity (ALCOA+)",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
+    "grammar_focus": "Professional Diplomatic Assertiveness",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate chemical API synthesis module analyzing unannounced health authority audit of laboratory data integrity (alcoa+)."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-001",
+    "title": "Pharmacopeial Monograph Harmonization, Nitrosamines & ICH Q2(R2)",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
+    "grammar_focus": "Diplomatic Counter-Argumentation & Hedging",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining pharmacopeial monograph harmonization, nitrosamines & ich q2(r2)."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-002",
+    "title": "Patent Invalidation Litigation: Novel Polymorphic Salt Crystal Forms",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
+    "grammar_focus": "High-Register Patent Jurisprudence",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining patent invalidation litigation: novel polymorphic salt crystal forms."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-003",
+    "title": "Nitrosamine Mutagenic Risk Toxicological Assessment (ICH M7) Defense",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines",
+    "grammar_focus": "Forensic Toxicological Deposition",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining nitrosamine mutagenic risk toxicological assessment (ich m7) defense."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-004",
+    "title": "Cross-Border API Supply Contract Quality Agreement Breach Litigation",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
+    "grammar_focus": "Contractual Breach & Indemnification",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining cross-border api supply contract quality agreement breach litigation."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-005",
+    "title": "Genotoxic Impurity Threshold of Toxicological Concern (TTC) Inquests",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Nitrosamine Impurity Profiling & ICH Guidelines",
+    "grammar_focus": "Epistemic Hedging in Regulatory Filings",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining genotoxic impurity threshold of toxicological concern (ttc) inquests."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-006",
+    "title": "European Directorate (EDQM) Certificate of Suitability (CEP) Suspension Appeals",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
+    "grammar_focus": "Administrative Law Appeals Syntax",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining european directorate (edqm) certificate of suitability (cep) suspension appeals."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-007",
+    "title": "Catastrophic Chemical Plant Toxic Runaway Effluent Discharge Inquest",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
+    "grammar_focus": "Environmental Tort Liability Inquest",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining catastrophic chemical plant toxic runaway effluent discharge inquest."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-008",
+    "title": "Supercritical Fluid Chromatography Commercial Technology Transfer Disputes",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+    "grammar_focus": "Complex Multi-Clause Scientific Argumentation",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining supercritical fluid chromatography commercial technology transfer disputes."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-009",
+    "title": "Chiral Inversion in Vivo Pharmacokinetic Patent Defense Inquests",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
+    "grammar_focus": "Biochemical Patent Defense Syntax",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining chiral inversion in vivo pharmacokinetic patent defense inquests."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-010",
+    "title": "Continuous Synthesis Micro-Reactor Reactor Blockage Explosive Inquest",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Forensic Incident Inquest Discourse",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining continuous synthesis micro-reactor reactor blockage explosive inquest."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-011",
+    "title": "Expert Witness Deposition: Analytical Method Cross-Validation Failures",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
+    "grammar_focus": "Forensic Cross-Examination Deposition",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining expert witness deposition: analytical method cross-validation failures."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-012",
+    "title": "Harmonization of Pharmacopeial Dissolution Testing Protocols (Ph. Eur. vs USP)",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
+    "grammar_focus": "Treaty & Monograph Harmonization Syntax",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining harmonization of pharmacopeial dissolution testing protocols (ph. eur. vs usp)."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-013",
+    "title": "Industrial Solvent Recovery Distillation Column Dioxin Formation Inquest",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
+    "grammar_focus": "Toxicological Environmental Discourse",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining industrial solvent recovery distillation column dioxin formation inquest."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-014",
+    "title": "Catalytic Asymmetric Hydrogenation Intellectual Property Counter-Claims",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Patent Claim Construction Terminology",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining catalytic asymmetric hydrogenation intellectual property counter-claims."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-015",
+    "title": "OOS False Negative Release Fraud Inquest: Regulatory Whistleblower Defense",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
+    "grammar_focus": "Regulatory Fraud Investigation Register",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining oos false negative release fraud inquest: regulatory whistleblower defense."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-016",
+    "title": "Solid-State Degradation Kinetics in High-Temperature Tropical Storage",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)",
+    "grammar_focus": "High-Register Physical Chemistry Discourse",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining solid-state degradation kinetics in high-temperature tropical storage."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-017",
+    "title": "International Arbitration of Raw Material Contamination Damage Claims",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
+    "grammar_focus": "Commercial Arbitration Formulas",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining international arbitration of raw material contamination damage claims."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-018",
+    "title": "Executive Board Defense of Green Chemistry API Capital Re-Tooling",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+    "grammar_focus": "Corporate Strategic Persuasion Syntax",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining executive board defense of green chemistry api capital re-tooling."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-019",
+    "title": "Regulatory Warning Letter Response: Impurity Analytical Method Deficiencies",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)",
+    "grammar_focus": "High-Stakes Regulatory Response Phrasing",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining regulatory warning letter response: impurity analytical method deficiencies."
+  },
+  {
+    "test_id": "TAPI-CHEM-C2-020",
+    "title": "Scientific Advisory Board Dispute: Synthetic Route Freedom to Operate",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Forensic Patent Litigation & Monograph Harmonization",
+    "grammar_focus": "High-Register Scientific Counsel Dialogue",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier chemical research and regulatory governance module examining scientific advisory board dispute: synthetic route freedom to operate."
+  }
+];

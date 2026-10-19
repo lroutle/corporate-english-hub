@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-B1-005",
+  "title": "Factory Safety Directives & ISO Standards: Modals of Obligation",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Quality Assurance & Assembly",
+  "estimated_time_minutes": 12,
+  "description": "Apply must, have to, must not, and don't have to accurately in workshop PPE regulations, hazardous material protocols, and ISO 9001/45001 compliance.",
+  "learning_objectives": [
+    "Differentiate external obligation ('have to') from speaker authority ('must')",
+    "Distinguish absolute prohibition ('must not') from absence of obligation ('don't have to')",
+    "Avoid critical Czenglish safety rule misinterpretations"
+  ],
+  "questions": [
+    {
+      "id": "TTR-B1-005-Q1",
+      "prompt": "Under Tatra plant safety regulations, all shop floor visitors _____ steel-toe safety boots at all times.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to wear"
+        },
+        {
+          "key": "B",
+          "text": "have to wear"
+        },
+        {
+          "key": "C",
+          "text": "don't have to wear"
+        },
+        {
+          "key": "D",
+          "text": "are wearing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Have to wear' (or 'must wear') expresses mandatory institutional obligation imposed by external regulations.",
+        "wrong_A": "Modal verb 'must' is followed directly by base form, never by 'to' infinitive ('must to wear' is ungrammatical).",
+        "wrong_C": "'Don't have to' means it is optional, which violates safety rules.",
+        "wrong_D": "Present continuous does not express a regulatory obligation."
+      },
+      "cz_learning_point": "Never add 'to' after 'must' (*must to wear* is an extremely common Czenglish slip). Use 'must wear' or 'have to wear'.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-005-Q2",
+      "prompt": "You _____ touch the high-voltage battery disconnect switch on the hybrid prototype without certified insulated gloves!",
+      "options": [
+        {
+          "key": "A",
+          "text": "don't have to"
+        },
+        {
+          "key": "B",
+          "text": "haven't to"
+        },
+        {
+          "key": "C",
+          "text": "must not"
+        },
+        {
+          "key": "D",
+          "text": "needn't"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Must not' expresses strict, life-critical prohibition (Czech 'nesmíš').",
+        "wrong_A": "'Don't have to' means lack of necessity (nemusíš), meaning you can if you want—a fatal misunderstanding in high-voltage safety!",
+        "wrong_B": "'Haven't to' is an invalid English modal auxiliary.",
+        "wrong_D": "'Needn't' means lack of necessity, not strict prohibition."
+      },
+      "cz_learning_point": "Czech 'nemusíš' = 'don't have to / needn't', while 'nesmíš' = 'must not'. Confusing these two in safety contexts can cause severe accidents.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-005-Q3",
+      "prompt": "Line technicians _____ manually log torque values on paper anymore, because the smart wrenches upload data via Wi-Fi automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "don't have to"
+        },
+        {
+          "key": "B",
+          "text": "must not"
+        },
+        {
+          "key": "C",
+          "text": "can't"
+        },
+        {
+          "key": "D",
+          "text": "should not"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Don't have to' expresses that the task is no longer necessary (absence of obligation).",
+        "wrong_B": "'Must not' means it is forbidden, whereas it is simply automated and unnecessary.",
+        "wrong_C": "'Can't' implies lack of physical ability.",
+        "wrong_D": "'Should not' expresses negative moral or advisory recommendation."
+      },
+      "cz_learning_point": "Czech 'nemusí' is correctly rendered as 'don't have to' or 'don't need to'.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-005-Q4",
+      "prompt": "Before dispatching the vehicle for rail shipment, the export team _____ obtain a certified phytosanitary clearance for wooden shipping cradles.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to"
+        },
+        {
+          "key": "B",
+          "text": "should to"
+        },
+        {
+          "key": "C",
+          "text": "is having"
+        },
+        {
+          "key": "D",
+          "text": "has to"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Has to' reflects 3rd person singular agreement with 'team' expressing mandatory export law requirement.",
+        "wrong_A": "'Must to' is ungrammatical; modals take bare infinitive.",
+        "wrong_B": "'Should' cannot be followed by 'to'.",
+        "wrong_C": "'Is having' does not express modal obligation."
+      },
+      "cz_learning_point": "Modals like 'must' and 'should' never take 'to' (*must to*, *should to* are incorrect).",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-005-Q5",
+      "prompt": "Because the assembly line suffered a breakdown yesterday, the chassis department _____ work an extra weekend shift.",
+      "options": [
+        {
+          "key": "A",
+          "text": "musted"
+        },
+        {
+          "key": "B",
+          "text": "has had to"
+        },
+        {
+          "key": "C",
+          "text": "had to"
+        },
+        {
+          "key": "D",
+          "text": "must"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "The past tense of modal obligation ('must / have to') is always 'had to'.",
+        "wrong_A": "'Musted' does not exist; 'must' has no past tense form.",
+        "wrong_B": "Present perfect does not match the past temporal marker 'yesterday'.",
+        "wrong_D": "'Must' cannot be used for past completed obligations."
+      },
+      "cz_learning_point": "Czech uses past tense of 'muset' ('museli jsme'). In English, the past tense of 'must' is always 'had to'.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-005-Q6",
+      "prompt": "Operators _____ operate the 50-ton overhead gantry crane unless they hold an active certification badge.",
+      "options": [
+        {
+          "key": "A",
+          "text": "don't have to"
+        },
+        {
+          "key": "B",
+          "text": "are not permitted to"
+        },
+        {
+          "key": "C",
+          "text": "need not"
+        },
+        {
+          "key": "D",
+          "text": "should not to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Are not permitted to' (or 'must not') expresses formal safety prohibition without authorization.",
+        "wrong_A": "'Don't have to' would make certification optional, which is unsafe and illegal.",
+        "wrong_C": "'Need not' means it is unnecessary.",
+        "wrong_D": "'Should not to' is grammatically incorrect."
+      },
+      "cz_learning_point": "In safety directives, 'není povoleno' is formally rendered as 'are not permitted to' or 'are strictly prohibited from'.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-005-Q7",
+      "prompt": "Does the welding team _____ submit an 8D non-conformity report for minor cosmetic spatter?",
+      "options": [
+        {
+          "key": "A",
+          "text": "must"
+        },
+        {
+          "key": "B",
+          "text": "ought"
+        },
+        {
+          "key": "C",
+          "text": "needs"
+        },
+        {
+          "key": "D",
+          "text": "have to"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Questions with auxiliary 'Do / Does' require 'have to' for obligation ('Does the team have to submit...?').",
+        "wrong_A": "'Must' does not form questions with 'Does' (*Does the team must...?* is ungrammatical).",
+        "wrong_B": "'Ought' requires 'to', but is not used with 'Does'.",
+        "wrong_C": "Auxiliary 'Does' already carries 3rd person '-s', so base form 'need to' or 'have to' is required."
+      },
+      "cz_learning_point": "You cannot ask '*Must the team...*' in standard workplace English; always ask 'Does the team have to...?'",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-005-Q8",
+      "prompt": "During emergency fire drills, all workshop personnel _____ evacuate immediately via marked exit corridors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must"
+        },
+        {
+          "key": "B",
+          "text": "ought"
+        },
+        {
+          "key": "C",
+          "text": "might"
+        },
+        {
+          "key": "D",
+          "text": "can"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Must' conveys urgent, non-negotiable imperative directly from emergency safety protocols.",
+        "wrong_B": "'Ought' requires 'to'.",
+        "wrong_C": "'Might' denotes weak possibility.",
+        "wrong_D": "'Can' expresses optional capability, not an emergency evacuation mandate."
+      },
+      "cz_learning_point": "Emergency notices use 'must' + bare infinitive to signal non-negotiable compliance.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-005-Q9",
+      "prompt": "You _____ clean the test cell floors today; the industrial sanitation contractor handles that on Friday evenings.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not"
+        },
+        {
+          "key": "B",
+          "text": "needn't"
+        },
+        {
+          "key": "C",
+          "text": "can't"
+        },
+        {
+          "key": "D",
+          "text": "aren't"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Needn't' (or 'don't need to') indicates that the task is unnecessary.",
+        "wrong_A": "'Must not' implies that cleaning the floor is strictly forbidden.",
+        "wrong_C": "'Can't' denotes inability.",
+        "wrong_D": "'Aren't' cannot stand alone before a base verb."
+      },
+      "cz_learning_point": "Czech 'nemusíš' = 'needn't' or 'don't have to'. Avoid using 'must not' when you simply mean 'it is not necessary'.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-005-Q10",
+      "prompt": "According to IATF 16949 standards, all measuring equipment _____ recalibrated at least once every twelve months.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has to"
+        },
+        {
+          "key": "B",
+          "text": "must to be"
+        },
+        {
+          "key": "C",
+          "text": "should be to"
+        },
+        {
+          "key": "D",
+          "text": "must be"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Must be recalibrated' combines modal obligation with passive voice for equipment.",
+        "wrong_A": "'Has to' lacks the passive auxiliary 'be'.",
+        "wrong_B": "'Must to be' is grammatically incorrect.",
+        "wrong_C": "'Should be to' is ungrammatical."
+      },
+      "cz_learning_point": "In quality certifications, components require passive modal constructions ('must be inspected / must be recalibrated').",
+      "workplace_track": "Quality Assurance & Assembly"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-B1-003",
+  "title": "Shift Handover & Daily Line Routines: Present Simple vs Continuous",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Quality Assurance & Assembly",
+  "estimated_time_minutes": 12,
+  "description": "Distinguish permanent shop floor standard operating procedures from temporary deviations and ongoing maintenance tasks during shift handovers.",
+  "learning_objectives": [
+    "Use Present Simple for habitual assembly routines and factory procedures",
+    "Use Present Continuous for current line stoppages, temporary repairs, and active tasks",
+    "Avoid Czech aspectual confusion during oral and written shift briefings"
+  ],
+  "questions": [
+    {
+      "id": "TTR-B1-003-Q1",
+      "prompt": "Normally, our shift _____ the central backbone tube flanges at station 3, but today we _____ station 4 while the torque sensor is being calibrated.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is assembling / use"
+        },
+        {
+          "key": "B",
+          "text": "assembles / are using"
+        },
+        {
+          "key": "C",
+          "text": "assemble / are used"
+        },
+        {
+          "key": "D",
+          "text": "assembles / use"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Present Simple ('assembles') describes the permanent daily routine; Present Continuous ('are using') expresses the temporary arrangement 'today'.",
+        "wrong_A": "Inverts the tenses: continuous cannot express general routine signaled by 'normally'.",
+        "wrong_C": "Subject 'our shift' is singular ('assembles'), and 'are used' is passive.",
+        "wrong_D": "Both in simple present fails to capture the temporary nature of 'today'."
+      },
+      "cz_learning_point": "Czech uses present tense for both ('normálně montuje... ale dnes používáme'). In English, temporary activities require Present Continuous.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-003-Q2",
+      "prompt": "Listen! The pneumatic pump on line 2 _____ an unusual rattling noise right now.",
+      "options": [
+        {
+          "key": "A",
+          "text": "makes"
+        },
+        {
+          "key": "B",
+          "text": "is make"
+        },
+        {
+          "key": "C",
+          "text": "is making"
+        },
+        {
+          "key": "D",
+          "text": "make"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Listen!' and 'right now' indicate an action occurring at the exact moment of speaking, requiring Present Continuous ('is making').",
+        "wrong_A": "Present Simple would suggest the pump routinely rattles, rather than an immediate diagnostic concern.",
+        "wrong_B": "Missing '-ing' suffix in present continuous.",
+        "wrong_D": "Plural verb form with singular subject 'pump'."
+      },
+      "cz_learning_point": "Sensory imperatives like 'Listen!' or 'Look!' always signal Present Continuous in English.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-003-Q3",
+      "prompt": "Every morning at 06:15, the shift supervisor _____ the digital production board to confirm delivery targets.",
+      "options": [
+        {
+          "key": "A",
+          "text": "reviews"
+        },
+        {
+          "key": "B",
+          "text": "is reviewing"
+        },
+        {
+          "key": "C",
+          "text": "review"
+        },
+        {
+          "key": "D",
+          "text": "has review"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Every morning at 06:15' specifies a habitual routine, demanding Present Simple 3rd person ('reviews').",
+        "wrong_B": "Present continuous is incorrect for recurring scheduled habits.",
+        "wrong_C": "Missing 3rd person singular '-s' ending.",
+        "wrong_D": "Ungrammatical verbal form."
+      },
+      "cz_learning_point": "Recurring time adverbs like 'every morning' or 'regularly' require Present Simple.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-003-Q4",
+      "prompt": "The lead technician cannot take your call because he _____ the final brake bleeder check on cab 14.",
+      "options": [
+        {
+          "key": "A",
+          "text": "performs currently"
+        },
+        {
+          "key": "B",
+          "text": "is perform"
+        },
+        {
+          "key": "C",
+          "text": "currently perform"
+        },
+        {
+          "key": "D",
+          "text": "is currently performing"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Action in progress preventing another action requires Present Continuous ('is currently performing').",
+        "wrong_A": "Present simple cannot explain what is actively blocking the phone call.",
+        "wrong_B": "Missing participle ending '-ing'.",
+        "wrong_C": "Subject-verb agreement error with singular 'he'."
+      },
+      "cz_learning_point": "Czech uses 'právě provádí' in present tense. English requires 'is + verb-ing'.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-003-Q5",
+      "prompt": "Why _____ safety goggles while handling pressurized hydraulic fluids at this bench?",
+      "options": [
+        {
+          "key": "A",
+          "text": "don't you wearing"
+        },
+        {
+          "key": "B",
+          "text": "aren't you wear"
+        },
+        {
+          "key": "C",
+          "text": "aren't you wearing"
+        },
+        {
+          "key": "D",
+          "text": "you aren't wearing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Present Continuous question for immediate safety non-compliance happening now: 'aren't you wearing'.",
+        "wrong_A": "Auxiliary 'don't' cannot pair with '-ing' participle.",
+        "wrong_B": "'aren't you' requires '-ing' participle, not base form.",
+        "wrong_D": "Direct question requires inversion of auxiliary and subject."
+      },
+      "cz_learning_point": "In Czech, 'Proč nemáš brýle?' is simple present. In English, active wearing of clothes at this moment takes continuous form.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-003-Q6",
+      "prompt": "Tatra Trucks _____ its heavy-duty tactical vehicles under extreme temperature conditions from -40°C to +55°C.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is operating and testing"
+        },
+        {
+          "key": "B",
+          "text": "operates and tests"
+        },
+        {
+          "key": "C",
+          "text": "operate and test"
+        },
+        {
+          "key": "D",
+          "text": "are operating and testing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "A permanent technical capability and company fact takes Present Simple ('operates and tests').",
+        "wrong_A": "Continuous would suggest a temporary test rather than an enduring engineering standard.",
+        "wrong_C": "Missing 3rd person singular agreement for corporate entity.",
+        "wrong_D": "Plural auxiliary with singular corporate subject."
+      },
+      "cz_learning_point": "General scientific and technical capabilities are expressed in Present Simple.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-003-Q7",
+      "prompt": "At present, the paint shop _____ a high-solids polyurethane primer to improve salt-spray corrosion resistance.",
+      "options": [
+        {
+          "key": "A",
+          "text": "trials"
+        },
+        {
+          "key": "B",
+          "text": "trial"
+        },
+        {
+          "key": "C",
+          "text": "has trial"
+        },
+        {
+          "key": "D",
+          "text": "is trialing"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'At present' indicates a current, temporary trial in progress, requiring Present Continuous ('is trialing').",
+        "wrong_A": "Present simple would indicate permanent routine, not a temporary trial.",
+        "wrong_B": "Agreement error.",
+        "wrong_C": "Malformed verb form."
+      },
+      "cz_learning_point": "Phrases like 'at present' or 'currently' strongly indicate temporary processes in Present Continuous.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-003-Q8",
+      "prompt": "The automated laser cutting machine _____ an oil change every 500 operating hours according to the service manual.",
+      "options": [
+        {
+          "key": "A",
+          "text": "requires"
+        },
+        {
+          "key": "B",
+          "text": "is requiring"
+        },
+        {
+          "key": "C",
+          "text": "require"
+        },
+        {
+          "key": "D",
+          "text": "requiring"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Stative verb 'require' expressing a technical manual requirement cannot be used in the continuous form; use Present Simple ('requires').",
+        "wrong_B": "'Require' is a stative verb and is not used in continuous aspect.",
+        "wrong_C": "Subject-verb agreement error with singular subject 'machine'.",
+        "wrong_D": "Participle alone cannot act as the main verb."
+      },
+      "cz_learning_point": "Stative verbs (require, contain, consist of, belong, know) never take continuous aspect in English technical writing.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-003-Q9",
+      "prompt": "During the afternoon shift, team members _____ safety checklists before shutting down their power tools.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are always completing"
+        },
+        {
+          "key": "B",
+          "text": "always complete"
+        },
+        {
+          "key": "C",
+          "text": "always completes"
+        },
+        {
+          "key": "D",
+          "text": "complete always"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Adverb of frequency 'always' precedes the main verb in Present Simple ('always complete') for routine standard procedure.",
+        "wrong_A": "'Are always completing' would express irritation or an annoying habit rather than standard procedure.",
+        "wrong_C": "Plural subject 'team members' takes plural verb 'complete', not 'completes'.",
+        "wrong_D": "Word order error: frequency adverb goes before the main verb."
+      },
+      "cz_learning_point": "In English, standard adverbs of frequency (always, often, usually) are placed immediately before the main verb.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-003-Q10",
+      "prompt": "What _____ on the dynamometer test bench over there? Is that the new Euro 7 engine prototype?",
+      "options": [
+        {
+          "key": "A",
+          "text": "do they test"
+        },
+        {
+          "key": "B",
+          "text": "are they test"
+        },
+        {
+          "key": "C",
+          "text": "they are testing"
+        },
+        {
+          "key": "D",
+          "text": "are they testing"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Observing an action occurring at this instant over there requires Present Continuous question form ('are they testing').",
+        "wrong_A": "Present simple asks about routine testing policy, not what is mounted on the dyno right now.",
+        "wrong_B": "Missing '-ing' in continuous verb phrase.",
+        "wrong_C": "Question requires inverted word order."
+      },
+      "cz_learning_point": "Czech 'Co tam testují?' is identical in aspect. In English, active observation requires Present Continuous.",
+      "workplace_track": "Quality Assurance & Assembly"
+    }
+  ]
+}

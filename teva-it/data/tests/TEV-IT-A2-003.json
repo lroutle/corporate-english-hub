@@ -1,0 +1,326 @@
+{
+  "test_id": "TEV-IT-A2-003",
+  "title": "Yesterday's Network Outage & Server Restarts: Past Simple",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)",
+  "estimated_time_minutes": 10,
+  "description": "Log IT incident tickets, system reboots, and network outage resolutions using regular and irregular Past Simple verbs.",
+  "learning_objectives": [
+    "Use regular Past Simple forms (-ed) for IT actions (rebooted, crashed, restored, pinged)",
+    "Master irregular past forms (lost, went, came, broke, ran) in incident logs",
+    "Formulate past questions and negations with 'did' and 'didn't'"
+  ],
+  "questions": [
+    {
+      "id": "TEV-IT-A2-003-Q1",
+      "prompt": "Yesterday at 22:15, the core datacenter switch _____ responding to network ping requests.",
+      "options": [
+        {
+          "key": "A",
+          "text": "stop"
+        },
+        {
+          "key": "B",
+          "text": "stopped"
+        },
+        {
+          "key": "C",
+          "text": "is stopping"
+        },
+        {
+          "key": "D",
+          "text": "has stopped"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Regular past tense with doubled consonant: 'stopped'.",
+        "wrong_A": "Base present form.",
+        "wrong_C": "Present continuous.",
+        "wrong_D": "Present perfect cannot be used with a specific completed past time ('yesterday at 22:15')."
+      },
+      "cz_learning_point": "In English, specific past time points ('yesterday at 22:15') strictly require Past Simple: 'stopped'.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TEV-IT-A2-003-Q2",
+      "prompt": "The systems engineer _____ the virtual database host after installing the kernel patch.",
+      "options": [
+        {
+          "key": "A",
+          "text": "reboot"
+        },
+        {
+          "key": "B",
+          "text": "is rebooting"
+        },
+        {
+          "key": "C",
+          "text": "rebooted"
+        },
+        {
+          "key": "D",
+          "text": "reboots"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Simple regular verb adds -ed: 'rebooted'.",
+        "wrong_A": "Base present form.",
+        "wrong_B": "Present continuous.",
+        "wrong_D": "Present 3rd person singular."
+      },
+      "cz_learning_point": "Czech 'restartoval server'. Use Past Simple 'rebooted'.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TEV-IT-A2-003-Q3",
+      "prompt": "We _____ connection to the Microsoft Azure tenant during the fiber maintenance window.",
+      "options": [
+        {
+          "key": "A",
+          "text": "lost"
+        },
+        {
+          "key": "B",
+          "text": "lose"
+        },
+        {
+          "key": "C",
+          "text": "loosed"
+        },
+        {
+          "key": "D",
+          "text": "losing"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Irregular past tense of 'lose' is 'lost'.",
+        "wrong_B": "Base present form.",
+        "wrong_C": "'loosed' is an incorrect form; 'loose' is an adjective meaning not tight.",
+        "wrong_D": "Participle alone cannot act as predicate."
+      },
+      "cz_learning_point": "The irregular past of 'lose' is 'lost' (ztratili jsme spojení). Do not confuse with 'loose' (volný).",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TEV-IT-A2-003-Q4",
+      "prompt": "Why _____ the automated backup script fail to trigger at midnight?",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "did"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Simple questions with action verbs ('fail') require auxiliary 'did'.",
+        "wrong_A": "'was' cannot auxiliary base verb 'fail'.",
+        "wrong_B": "'does' is present tense.",
+        "wrong_C": "'has' requires past participle 'failed'."
+      },
+      "cz_learning_point": "Past questions take 'did': 'Why did the backup fail...?', not *Why failed the backup?*.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TEV-IT-A2-003-Q5",
+      "prompt": "The security firewall _____ not block the VPN traffic after the rule update.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "did"
+        },
+        {
+          "key": "D",
+          "text": "does"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Simple negation uses 'did not' + base form: 'did not block'.",
+        "wrong_A": "'was not block' is ungrammatical.",
+        "wrong_B": "'is not' is present tense.",
+        "wrong_D": "'does not' is present tense."
+      },
+      "cz_learning_point": "Czech 'firewall nezablokoval'. Past negative auxiliary is 'did not block', never *was not block*.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TEV-IT-A2-003-Q6",
+      "prompt": "The primary power supply unit _____ offline following an unexpected electrical surge.",
+      "options": [
+        {
+          "key": "A",
+          "text": "go"
+        },
+        {
+          "key": "B",
+          "text": "went"
+        },
+        {
+          "key": "C",
+          "text": "gone"
+        },
+        {
+          "key": "D",
+          "text": "is going"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Irregular past tense of 'go' is 'went'.",
+        "wrong_A": "Base present form.",
+        "wrong_C": "'gone' is the past participle, requiring auxiliary 'has/had'.",
+        "wrong_D": "Present continuous."
+      },
+      "cz_learning_point": "The irregular past of 'go' is 'went': 'The unit went offline' (přešla do offline režimu).",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TEV-IT-A2-003-Q7",
+      "prompt": "The IT support team _____ the corrupted Active Directory user profile in twenty minutes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "restore"
+        },
+        {
+          "key": "B",
+          "text": "restores"
+        },
+        {
+          "key": "C",
+          "text": "restoring"
+        },
+        {
+          "key": "D",
+          "text": "restored"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Regular past verb adds -d: 'restored'.",
+        "wrong_A": "Base present form.",
+        "wrong_B": "3rd person singular present.",
+        "wrong_C": "Participle alone cannot be the main verb."
+      },
+      "cz_learning_point": "Past tense regular verb: 'restored' (obnovil).",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TEV-IT-A2-003-Q8",
+      "prompt": "Network latency _____ significantly once the redundant fiber link was activated.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fell"
+        },
+        {
+          "key": "B",
+          "text": "fall"
+        },
+        {
+          "key": "C",
+          "text": "felled"
+        },
+        {
+          "key": "D",
+          "text": "falls"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Irregular past tense of 'fall' is 'fell'.",
+        "wrong_B": "Base present form.",
+        "wrong_C": "'felled' means cut down (e.g. felled a tree).",
+        "wrong_D": "Present 3rd person singular."
+      },
+      "cz_learning_point": "The irregular past tense of 'fall' is 'fell' (odezva klesla).",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TEV-IT-A2-003-Q9",
+      "prompt": "_____ you receive the automated PagerDuty alert on your mobile device last night?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Were"
+        },
+        {
+          "key": "B",
+          "text": "Do"
+        },
+        {
+          "key": "C",
+          "text": "Did"
+        },
+        {
+          "key": "D",
+          "text": "Have"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Simple questions with a specific past time frame ('last night') use 'Did'.",
+        "wrong_A": "'Were' cannot accompany base verb 'receive'.",
+        "wrong_B": "'Do' is present tense.",
+        "wrong_D": "'Have' requires past participle 'received' and cannot pair with 'last night'."
+      },
+      "cz_learning_point": "Czech 'Dostal jste upozornění včera v noci?'. Use 'Did you receive...?', not *Have you received last night?*.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TEV-IT-A2-003-Q10",
+      "prompt": "The cooling fans in rack B-04 _____ at maximum RPM throughout the overheating incident.",
+      "options": [
+        {
+          "key": "A",
+          "text": "run"
+        },
+        {
+          "key": "B",
+          "text": "ran"
+        },
+        {
+          "key": "C",
+          "text": "running"
+        },
+        {
+          "key": "D",
+          "text": "runned"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Irregular past tense of 'run' is 'ran'.",
+        "wrong_A": "Base present form.",
+        "wrong_C": "Participle alone cannot act as predicate.",
+        "wrong_D": "'runned' is an incorrect regularized form."
+      },
+      "cz_learning_point": "The irregular past of 'run' is 'ran': 'The fans ran at maximum RPM' (ventilátory běžely na maximum).",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    }
+  ]
+}

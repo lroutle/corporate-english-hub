@@ -1,0 +1,802 @@
+[
+  {
+    "test_id": "TTR-ENG-A2-001",
+    "title": "Workshop Tools, Fasteners & PPE: Present Simple & Imperatives",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Imperatives & Present Simple",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering workshop tools, fasteners & ppe: present simple & imperatives."
+  },
+  {
+    "test_id": "TTR-ENG-A2-002",
+    "title": "Daily Shift Routines & Machine Operation: Present Simple",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Present Simple 3rd person -s",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering daily shift routines & machine operation: present simple."
+  },
+  {
+    "test_id": "TTR-ENG-A2-003",
+    "title": "Yesterday's Workshop Faults & Defective Parts: Past Simple",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Quality Assurance, Inspection & Torque Verification",
+    "grammar_focus": "Past Simple regular & irregular",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering yesterday's workshop faults & defective parts: past simple."
+  },
+  {
+    "test_id": "TTR-ENG-A2-004",
+    "title": "Chassis Geometry & Tool Locations: Prepositions of Place",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Central Backbone Tube & Chassis R&D",
+    "grammar_focus": "Prepositions of Place (under, between, on)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering chassis geometry & tool locations: prepositions of place."
+  },
+  {
+    "test_id": "TTR-ENG-A2-005",
+    "title": "Plant Warning Signs & Crane Safety: Can & Must",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Modal verbs (must, can, must not)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering plant warning signs & crane safety: can & must."
+  },
+  {
+    "test_id": "TTR-ENG-A2-006",
+    "title": "Hand Tool Selection: Wrenches, Sockets & Screwdrivers",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Demonstratives & Countable Nouns",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering hand tool selection: wrenches, sockets & screwdrivers."
+  },
+  {
+    "test_id": "TTR-ENG-A2-007",
+    "title": "Workplace Measurements: Millimeters, Bar & Kilograms",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Quality Assurance, Inspection & Torque Verification",
+    "grammar_focus": "Numbers, units & decimals",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering workplace measurements: millimeters, bar & kilograms."
+  },
+  {
+    "test_id": "TTR-ENG-A2-008",
+    "title": "Shift Handover Notes: Reporting Daily Output",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Past Simple vs Present Simple",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering shift handover notes: reporting daily output."
+  },
+  {
+    "test_id": "TTR-ENG-A2-009",
+    "title": "Vehicle Tyre Pressures & Wheel Nut Torques",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Adjectives & Comparatives (higher, tighter)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering vehicle tyre pressures & wheel nut torques."
+  },
+  {
+    "test_id": "TTR-ENG-A2-010",
+    "title": "Assembly Line Parts Staging & Storage Bins",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Prepositions of Direction (into, onto, across)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering assembly line parts staging & storage bins."
+  },
+  {
+    "test_id": "TTR-ENG-A2-011",
+    "title": "Engine Fluid Checks: Coolant, Oil & Brake Fluid",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Quantifiers (some, any, enough, too much)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering engine fluid checks: coolant, oil & brake fluid."
+  },
+  {
+    "test_id": "TTR-ENG-A2-012",
+    "title": "Workshop Emergency Procedures & Fire Extinguishers",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Imperatives for Emergency Directives",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering workshop emergency procedures & fire extinguishers."
+  },
+  {
+    "test_id": "TTR-ENG-A2-013",
+    "title": "Battery Handling, Charging & High-Voltage Warnings",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Modal verbs (should, must not, have to)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering battery handling, charging & high-voltage warnings."
+  },
+  {
+    "test_id": "TTR-ENG-A2-014",
+    "title": "Pneumatic Hose Routing & Air Leak Inspections",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Present Continuous for Active Faults",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering pneumatic hose routing & air leak inspections."
+  },
+  {
+    "test_id": "TTR-ENG-A2-015",
+    "title": "Welding Shop Safety & Protective Gear",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Adverbs of Frequency (always, never, rarely)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering welding shop safety & protective gear."
+  },
+  {
+    "test_id": "TTR-ENG-A2-016",
+    "title": "Cleaning Solvent Storage & Ventilation Guidelines",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Rules & Obligations (have to, don't have to)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering cleaning solvent storage & ventilation guidelines."
+  },
+  {
+    "test_id": "TTR-ENG-A2-017",
+    "title": "Chassis Painting & Surface Degreasing Steps",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Sequence Markers (first, then, next, finally)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering chassis painting & surface degreasing steps."
+  },
+  {
+    "test_id": "TTR-ENG-A2-018",
+    "title": "Reporting Broken Drills & Damaged Cutting Inserts",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Quality Assurance, Inspection & Torque Verification",
+    "grammar_focus": "Past Simple Negatives & Questions",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering reporting broken drills & damaged cutting inserts."
+  },
+  {
+    "test_id": "TTR-ENG-A2-019",
+    "title": "Spare Bolt Ordering: Part Numbers & Quantities",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "There is / There are & Quantifiers",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering spare bolt ordering: part numbers & quantities."
+  },
+  {
+    "test_id": "TTR-ENG-A2-020",
+    "title": "End-of-Shift Cleaning & Lockout Procedures",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Compound Imperatives & Checklist Phrasing",
+    "estimated_time_minutes": 10,
+    "description": "Foundational workplace English module covering end-of-shift cleaning & lockout procedures."
+  },
+  {
+    "test_id": "TTR-ENG-B1-001",
+    "title": "Chassis Assembly & Torque Verification: Past Simple vs Past Perfect",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Central Backbone Tube & Chassis R&D",
+    "grammar_focus": "Past Simple vs Past Perfect",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing chassis assembly & torque verification: past simple vs past perfect."
+  },
+  {
+    "test_id": "TTR-ENG-B1-002",
+    "title": "Swinging Half-Axles Alignment & Differential Gear Setup",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Passive Voice in Assembly SOPs",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing swinging half-axles alignment & differential gear setup."
+  },
+  {
+    "test_id": "TTR-ENG-B1-003",
+    "title": "Shift Handover & Daily Line Routines: Present Simple vs Continuous",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Present Simple vs Present Continuous",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing shift handover & daily line routines: present simple vs continuous."
+  },
+  {
+    "test_id": "TTR-ENG-B1-004",
+    "title": "Central Tire Inflation System (CTIS) Leak Diagnostics",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "First & Second Conditionals (If/When)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing central tire inflation system (ctis) leak diagnostics."
+  },
+  {
+    "test_id": "TTR-ENG-B1-005",
+    "title": "Air Suspension Bellows Replacement: Sequence & Safety",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Prepositions of Cause & Manner",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing air suspension bellows replacement: sequence & safety."
+  },
+  {
+    "test_id": "TTR-ENG-B1-006",
+    "title": "Powertrain Mounting & Vibration Damper Calibration",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Relative Clauses (which, that, whose)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing powertrain mounting & vibration damper calibration."
+  },
+  {
+    "test_id": "TTR-ENG-B1-007",
+    "title": "Hydraulic Steering Circuit Pressure Testing & Troubleshooting",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Modal Verbs of Probability (must be, can't be)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing hydraulic steering circuit pressure testing & troubleshooting."
+  },
+  {
+    "test_id": "TTR-ENG-B1-008",
+    "title": "Air-Cooled V8 Engine Overhaul & Cylinder Head Torquing",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Past Continuous vs Past Simple",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing air-cooled v8 engine overhaul & cylinder head torquing."
+  },
+  {
+    "test_id": "TTR-ENG-B1-009",
+    "title": "Transmission Gearbox Flange Sealing & O-Ring Selection",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Present Perfect with yet, already, just",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing transmission gearbox flange sealing & o-ring selection."
+  },
+  {
+    "test_id": "TTR-ENG-B1-010",
+    "title": "Driveline Propeller Shaft Balancing & Runout Tolerances",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Central Backbone Tube & Chassis R&D",
+    "grammar_focus": "Degrees of Comparison & Tolerances",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing driveline propeller shaft balancing & runout tolerances."
+  },
+  {
+    "test_id": "TTR-ENG-B1-011",
+    "title": "Pneumatic Dual-Circuit Brake Actuator Adjustment",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Purpose Clauses (in order to, so that)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing pneumatic dual-circuit brake actuator adjustment."
+  },
+  {
+    "test_id": "TTR-ENG-B1-012",
+    "title": "Chassis Weld Inspection: Ultrasonic Testing & NDT Reporting",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Quality Assurance, Inspection & Torque Verification",
+    "grammar_focus": "Passive Voice Reporting Forms",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing chassis weld inspection: ultrasonic testing & ndt reporting."
+  },
+  {
+    "test_id": "TTR-ENG-B1-013",
+    "title": "Cold Weather Pre-Heating Systems (Webasto) Diagnostics",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Conditionals in Diagnostic Troubleshooting",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing cold weather pre-heating systems (webasto) diagnostics."
+  },
+  {
+    "test_id": "TTR-ENG-B1-014",
+    "title": "Differential Lock Pneumatic Actuator Synchronization",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Temporal Conjunctions (until, as soon as, while)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing differential lock pneumatic actuator synchronization."
+  },
+  {
+    "test_id": "TTR-ENG-B1-015",
+    "title": "Cooling Fan Hydrostatic Drive Leak Troubleshooting",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Phrasal Verbs in Mechanical Repair",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing cooling fan hydrostatic drive leak troubleshooting."
+  },
+  {
+    "test_id": "TTR-ENG-B1-016",
+    "title": "Prototype Test Track Rig Setup & Accelerometer Sensor Calibration",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Passive Voice with Modals",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing prototype test track rig setup & accelerometer sensor calibration."
+  },
+  {
+    "test_id": "TTR-ENG-B1-017",
+    "title": "Leaf Spring Shackle Bushing Wear & Replacement Guidelines",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Present Perfect Continuous (duration)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing leaf spring shackle bushing wear & replacement guidelines."
+  },
+  {
+    "test_id": "TTR-ENG-B1-018",
+    "title": "Supplier Quality Audits: Fastener Tensile Strength Non-Conformance",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Quality Assurance, Inspection & Torque Verification",
+    "grammar_focus": "Reported Speech in Quality Audits",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing supplier quality audits: fastener tensile strength non-conformance."
+  },
+  {
+    "test_id": "TTR-ENG-B1-019",
+    "title": "Electrical Wiring Harness Routing Across the Backbone Tube",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Central Backbone Tube & Chassis R&D",
+    "grammar_focus": "Prepositions of Motion & Spatial Arrangement",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing electrical wiring harness routing across the backbone tube."
+  },
+  {
+    "test_id": "TTR-ENG-B1-020",
+    "title": "Pre-Delivery Road Test Inspection: Defect Punch-List Reporting",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Quality Assurance, Inspection & Torque Verification",
+    "grammar_focus": "Cause & Effect Connectors (due to, owing to)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate technical English module analyzing pre-delivery road test inspection: defect punch-list reporting."
+  },
+  {
+    "test_id": "TTR-ENG-B2-001",
+    "title": "Torsional Stiffness & Finite Element Analysis: Mixed Conditionals",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Central Backbone Tube & Chassis R&D",
+    "grammar_focus": "Mixed Conditionals in Structural Analysis",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating torsional stiffness & finite element analysis: mixed conditionals."
+  },
+  {
+    "test_id": "TTR-ENG-B2-002",
+    "title": "NATO STANAG 4380 Mobility Trials & Trench Crossing Validation",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Negative Inversion for Professional Rigor",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating nato stanag 4380 mobility trials & trench crossing validation."
+  },
+  {
+    "test_id": "TTR-ENG-B2-003",
+    "title": "CAN-Bus Heavy Vehicle Telemetry & J1939 Protocol Diagnostics",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Complex Passive Structures & Participles",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating can-bus heavy vehicle telemetry & j1939 protocol diagnostics."
+  },
+  {
+    "test_id": "TTR-ENG-B2-004",
+    "title": "Hydrostatic Fan Drive Efficiency vs Parasitic Engine Load Modeling",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Hedging & Modality in Technical Papers",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating hydrostatic fan drive efficiency vs parasitic engine load modeling."
+  },
+  {
+    "test_id": "TTR-ENG-B2-005",
+    "title": "Independent Swinging Half-Axle Camber Angles Under Dynamic Load",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Third Conditional in Failure Analyses",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating independent swinging half-axle camber angles under dynamic load."
+  },
+  {
+    "test_id": "TTR-ENG-B2-006",
+    "title": "Extreme Desert & Arctic Thermal Performance Validation Testing",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Subjunctive in Environmental Test Standards",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating extreme desert & arctic thermal performance validation testing."
+  },
+  {
+    "test_id": "TTR-ENG-B2-007",
+    "title": "Drivetrain Gear Tooth Pitting & Metallurgical Fatigue Inquests",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
+    "grammar_focus": "Inverted Conditionals (Had the gear been...)",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating drivetrain gear tooth pitting & metallurgical fatigue inquests."
+  },
+  {
+    "test_id": "TTR-ENG-B2-008",
+    "title": "Chassis Frame Anti-Corrosion Cataphoretic Coating Specifications",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Workshop Assembly & Line Tooling",
+    "grammar_focus": "Nominalization in Engineering Specs",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating chassis frame anti-corrosion cataphoretic coating specifications."
+  },
+  {
+    "test_id": "TTR-ENG-B2-009",
+    "title": "Multi-Axle Steering Geometry (8x8 and 10x10) Dynamic Simulation",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Participial Clauses for Concise Descriptions",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating multi-axle steering geometry (8x8 and 10x10) dynamic simulation."
+  },
+  {
+    "test_id": "TTR-ENG-B2-010",
+    "title": "Modular Armor Cabin Ballistic Protection (STANAG 4569 Level 3)",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Deontic vs Epistemic Modals in Defense",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating modular armor cabin ballistic protection (stanag 4569 level 3)."
+  },
+  {
+    "test_id": "TTR-ENG-B2-011",
+    "title": "Exhaust After-Treatment System (SCR / AdBlue) Emission Compliance",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Complex Relative Clauses & Concessives",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating exhaust after-treatment system (scr / adblue) emission compliance."
+  },
+  {
+    "test_id": "TTR-ENG-B2-012",
+    "title": "Propshaft Universal Joint Angularity & Driveline Torsional Vibration",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Central Backbone Tube & Chassis R&D",
+    "grammar_focus": "Gerund vs Infinitive Nuances",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating propshaft universal joint angularity & driveline torsional vibration."
+  },
+  {
+    "test_id": "TTR-ENG-B2-013",
+    "title": "Hydraulic Retarder Braking Curves Under Full GVM Descent",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Adverbial Clauses of Contrast & Condition",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating hydraulic retarder braking curves under full gvm descent."
+  },
+  {
+    "test_id": "TTR-ENG-B2-014",
+    "title": "Winch Recovery Cable Tensile Failure: Forensic Metallurgical Inquest",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
+    "grammar_focus": "Causative Verbs & Passive Reporting",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating winch recovery cable tensile failure: forensic metallurgical inquest."
+  },
+  {
+    "test_id": "TTR-ENG-B2-015",
+    "title": "All-Wheel Drive Inter-Axle Differential Lock Automated Logic",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Subjunctive Mood in Software System Specs",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating all-wheel drive inter-axle differential lock automated logic."
+  },
+  {
+    "test_id": "TTR-ENG-B2-016",
+    "title": "Air-Cooled Engine Thermal Gradient Finite Element Verification",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Complex Linking Words in R&D Papers",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating air-cooled engine thermal gradient finite element verification."
+  },
+  {
+    "test_id": "TTR-ENG-B2-017",
+    "title": "Titanium-Alloy Suspension Spring Prototype Weight Reduction Audit",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Central Backbone Tube & Chassis R&D",
+    "grammar_focus": "Hypothetical Conditional Structures",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating titanium-alloy suspension spring prototype weight reduction audit."
+  },
+  {
+    "test_id": "TTR-ENG-B2-018",
+    "title": "Tire Footprint Deformation Analysis Under CTIS Low-Pressure Sand Mode",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Nuanced Comparative Phrasing in Research",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating tire footprint deformation analysis under ctis low-pressure sand mode."
+  },
+  {
+    "test_id": "TTR-ENG-B2-019",
+    "title": "Chassis Resonance Frequency & Cab Shake Isolator Damper Tuning",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Participial Modifiers & Complex Nominal Groups",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating chassis resonance frequency & cab shake isolator damper tuning."
+  },
+  {
+    "test_id": "TTR-ENG-B2-020",
+    "title": "ECE R29 Cabin Crash-Worthiness & Impact Energy Absorption Inquest",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Inversion After Negative & Restrictive Phrases",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate engineering module investigating ece r29 cabin crash-worthiness & impact energy absorption inquest."
+  },
+  {
+    "test_id": "TTR-ENG-C2-001",
+    "title": "Forensic Failure Analysis, Structural Metallurgy & NATO Offsets",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
+    "grammar_focus": "Negative Inversion & Nuanced Hedging",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining forensic failure analysis, structural metallurgy & nato offsets."
+  },
+  {
+    "test_id": "TTR-ENG-C2-002",
+    "title": "Intergovernmental Military Vehicle Procurement & Defense Treaty Compliance",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Diplomatic Subjunctive & Treaty Nomenclature",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining intergovernmental military vehicle procurement & defense treaty compliance."
+  },
+  {
+    "test_id": "TTR-ENG-C2-003",
+    "title": "Catastrophic Drivetrain Shear Fracture: Multi-Physics Forensic Inquest",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
+    "grammar_focus": "Epistemic Hedging in Legal Inquests",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining catastrophic drivetrain shear fracture: multi-physics forensic inquest."
+  },
+  {
+    "test_id": "TTR-ENG-C2-004",
+    "title": "Patent Infringement Arbitration: Central Backbone Tube Tubular Backbone Concept",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Central Backbone Tube & Chassis R&D",
+    "grammar_focus": "Litigation Syntax & Counter-Argumentation",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining patent infringement arbitration: central backbone tube tubular backbone concept."
+  },
+  {
+    "test_id": "TTR-ENG-C2-005",
+    "title": "Hydrogen Embrittlement in High-Tensile Axle Flange Fasteners",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
+    "grammar_focus": "High-Register Scientific Discourse",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining hydrogen embrittlement in high-tensile axle flange fasteners."
+  },
+  {
+    "test_id": "TTR-ENG-C2-006",
+    "title": "Multi-National Joint Venture Technology Transfer & IP Protection Clauses",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Contractual Subjunctive & Risk Mitigation",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining multi-national joint venture technology transfer & ip protection clauses."
+  },
+  {
+    "test_id": "TTR-ENG-C2-007",
+    "title": "Stochastic Dynamic Load Life Prediction Under Severe Off-Road Torture Rigs",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Central Backbone Tube & Chassis R&D",
+    "grammar_focus": "Advanced Participle Clauses & Density",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining stochastic dynamic load life prediction under severe off-road torture rigs."
+  },
+  {
+    "test_id": "TTR-ENG-C2-008",
+    "title": "Ballistic & Mine-Blast Shock Wave Propagation Through Modular Armor Cabins",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Complex Cause-Effect Nominal Constructions",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining ballistic & mine-blast shock wave propagation through modular armor cabins."
+  },
+  {
+    "test_id": "TTR-ENG-C2-009",
+    "title": "Autonomous Military Convoy Platooning Protocol Functional Safety (ISO 26262)",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Regulatory Imperatives & Deontic Modality",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining autonomous military convoy platooning protocol functional safety (iso 26262)."
+  },
+  {
+    "test_id": "TTR-ENG-C2-010",
+    "title": "Aero-Thermal Engine Bay Fluid Dynamics in 55°C Ambient Desert Operations",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Stylistic Fronting & Structural Inversion",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining aero-thermal engine bay fluid dynamics in 55°c ambient desert operations."
+  },
+  {
+    "test_id": "TTR-ENG-C2-011",
+    "title": "Expert Witness Deposition: Multi-Axle Roll-Over Dynamic Stability Inquest",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Forensic Deposition & Cross-Examination Syntax",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining expert witness deposition: multi-axle roll-over dynamic stability inquest."
+  },
+  {
+    "test_id": "TTR-ENG-C2-012",
+    "title": "Electro-Hydraulic Steer-by-Wire Redundancy Architecture Legal Certification",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+    "grammar_focus": "Normative Directives & Mandatory Shall",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining electro-hydraulic steer-by-wire redundancy architecture legal certification."
+  },
+  {
+    "test_id": "TTR-ENG-C2-013",
+    "title": "Composite Material Delamination in Lightweight Heavy-Duty Drivelines",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
+    "grammar_focus": "Nuanced Stance & Authorial Confidence Markers",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining composite material delamination in lightweight heavy-duty drivelines."
+  },
+  {
+    "test_id": "TTR-ENG-C2-014",
+    "title": "Lifecycle Environmental Sustainability & EU Heavy-Duty Fleet CO2 Mandates",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+    "grammar_focus": "Policy Argumentation & Counter-Claims",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining lifecycle environmental sustainability & eu heavy-duty fleet co2 mandates."
+  },
+  {
+    "test_id": "TTR-ENG-C2-015",
+    "title": "Supply Chain Force Majeure Invocations & Geopolitical Embargo Compliance",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Contractual Liability & Exemption Clauses",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining supply chain force majeure invocations & geopolitical embargo compliance."
+  },
+  {
+    "test_id": "TTR-ENG-C2-016",
+    "title": "Advanced Fatigue Crack Tip Plasticity Modeling in Forged Half-Axles",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
+    "grammar_focus": "Academic Research Register & Passive Density",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining advanced fatigue crack tip plasticity modeling in forged half-axles."
+  },
+  {
+    "test_id": "TTR-ENG-C2-017",
+    "title": "High-Register Executive Board Defense of Capital R&D Platform Investment",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Central Backbone Tube & Chassis R&D",
+    "grammar_focus": "Executive Persuasion & Strategic Hedging",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining high-register executive board defense of capital r&d platform investment."
+  },
+  {
+    "test_id": "TTR-ENG-C2-018",
+    "title": "Cross-Border Warranty Dispute Arbitration Under UNCITRAL Model Law",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Quality Assurance, Inspection & Torque Verification",
+    "grammar_focus": "Legalistic Conditionals & Arbitration Formulas",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining cross-border warranty dispute arbitration under uncitral model law."
+  },
+  {
+    "test_id": "TTR-ENG-C2-019",
+    "title": "Autonomous Off-Road Vehicle Lidar Sensor Degradation Under Heavy Mud Splash",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Techno-Scientific Qualification of Limits",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining autonomous off-road vehicle lidar sensor degradation under heavy mud splash."
+  },
+  {
+    "test_id": "TTR-ENG-C2-020",
+    "title": "Sovereign Defense Ministry Counter-Trade & Offset Fulfillment Inquest",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+    "grammar_focus": "Bilateral Intergovernmental Treaty Syntax",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier forensic and executive engineering module examining sovereign defense ministry counter-trade & offset fulfillment inquest."
+  }
+]

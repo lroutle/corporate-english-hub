@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-B2-001",
+  "title": "Chassis Stress Analysis & Simulation: Mixed Conditionals",
+  "level": "B2",
+  "category": "core",
+  "workplace_track": "Powertrain & R&D Engineering",
+  "estimated_time_minutes": 18,
+  "description": "Evaluate past structural engineering decisions and their continuing impact on vehicle torsional rigidity, axle articulation, and durability today.",
+  "learning_objectives": [
+    "Master Mixed Conditionals (Past hypothesis connecting to present mechanical state)",
+    "Differentiate Type 3 conditionals from Mixed Conditionals in R&D post-mortems",
+    "Overcome Czech aspectual transfer in complex counterfactual reasoning"
+  ],
+  "questions": [
+    {
+      "id": "TTR-B2-001-Q1",
+      "prompt": "If our R&D team _____ the central backbone tube concept decades ago, Tatra trucks _____ such unparalleled torsional stiffness in harsh off-road terrains today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "didn't patent / wouldn't have possessed"
+        },
+        {
+          "key": "B",
+          "text": "hadn't patented / wouldn't possess"
+        },
+        {
+          "key": "C",
+          "text": "hadn't patented / won't possess"
+        },
+        {
+          "key": "D",
+          "text": "wouldn't patent / didn't possess"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Mixed conditional (Past action $\\rightarrow$ Present result): 'hadn't patented' (past counterfactual) + 'wouldn't possess' (present continuous result).",
+        "wrong_A": "Combines Type 2 'didn't patent' with Type 3 'wouldn't have possessed', reversing chronological logic.",
+        "wrong_C": "'won't possess' incorrectly mixes real future with an unreal past conditional.",
+        "wrong_D": "'would' is never placed inside the 'if' clause in standard technical English."
+      },
+      "cz_learning_point": "Czech uses the conditional 'kdyby nepatentoval... neměl by' for both past and present. English requires past perfect in the condition and present conditional in the result.",
+      "workplace_track": "Powertrain & R&D Engineering"
+    },
+    {
+      "id": "TTR-B2-001-Q2",
+      "prompt": "If the design engineers _____ more ductile steel for the swinging half-axle flanges last quarter, we _____ warranty claims regarding micro-fissures right now.",
+      "options": [
+        {
+          "key": "A",
+          "text": "specified / won't face"
+        },
+        {
+          "key": "B",
+          "text": "had specified / hadn't faced"
+        },
+        {
+          "key": "C",
+          "text": "had specified / wouldn't be facing"
+        },
+        {
+          "key": "D",
+          "text": "were specifying / shouldn't face"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Mixed conditional: Past unreal condition ('had specified') with present ongoing result ('wouldn't be facing right now').",
+        "wrong_A": "'specified' does not express past unreal condition, and 'won't face' is real future.",
+        "wrong_B": "'hadn't faced' is a past perfect form which cannot represent a present result marked by 'right now'.",
+        "wrong_D": "Does not convey counterfactual cause-and-effect relationship."
+      },
+      "cz_learning_point": "Czech says 'kdyby bývali zvolili... nečelili bychom teď'. In English, use 'had + V3' followed by 'would be + -ing' for present ongoing results.",
+      "workplace_track": "Powertrain & R&D Engineering"
+    },
+    {
+      "id": "TTR-B2-001-Q3",
+      "prompt": "If Tatra _____ a dedicated military vehicle division, our export catalog _____ so prominent in NATO tenders at present.",
+      "options": [
+        {
+          "key": "A",
+          "text": "didn't have / wouldn't be"
+        },
+        {
+          "key": "B",
+          "text": "hadn't had / wouldn't have been"
+        },
+        {
+          "key": "C",
+          "text": "wouldn't have / wasn't"
+        },
+        {
+          "key": "D",
+          "text": "doesn't have / won't be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Present unreal state ('didn't have') resulting in a present unreal consequence ('wouldn't be').",
+        "wrong_B": "Type 3 ('hadn't had / wouldn't have been') refers strictly to a completed past situation, ignoring 'at present'.",
+        "wrong_C": "'would' is forbidden in the conditional clause.",
+        "wrong_D": "Type 1 denotes a real open possibility, not a hypothetical counter-fact."
+      },
+      "cz_learning_point": "When discussing permanent corporate characteristics ('didn't have'), use Type 2 ('If we didn't have... we wouldn't be...').",
+      "workplace_track": "Powertrain & R&D Engineering"
+    },
+    {
+      "id": "TTR-B2-001-Q4",
+      "prompt": "If the metallurgical lab _____ the fatigue limit under cyclic shear stress earlier, the prototype _____ on the test circuit today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "verified / had still operated"
+        },
+        {
+          "key": "B",
+          "text": "would verify / was operating"
+        },
+        {
+          "key": "C",
+          "text": "has verified / will still operate"
+        },
+        {
+          "key": "D",
+          "text": "had verified / would still be operating"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Mixed conditional: Past unreal event ('had verified earlier') with ongoing present state ('would still be operating today').",
+        "wrong_A": "Tenses are reversed; 'had operated' cannot refer to 'today'.",
+        "wrong_B": "Conditional clause cannot use 'would verify'.",
+        "wrong_C": "Present perfect and future simple cannot express an unreal counterfactual."
+      },
+      "cz_learning_point": "Notice the time marker 'today' in the main clause, which forces a present conditional ('would be operating') rather than 'would have operated'.",
+      "workplace_track": "Powertrain & R&D Engineering"
+    },
+    {
+      "id": "TTR-B2-001-Q5",
+      "prompt": "The test truck _____ the 45-degree dune incline yesterday if it _____ equipped with our central tire inflation system (CTIS).",
+      "options": [
+        {
+          "key": "A",
+          "text": "would conquer / hadn't been"
+        },
+        {
+          "key": "B",
+          "text": "conquered / wouldn't be"
+        },
+        {
+          "key": "C",
+          "text": "would have conquered / weren't"
+        },
+        {
+          "key": "D",
+          "text": "could conquer / wasn't"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Mixed conditional (Present ongoing feature $\\rightarrow$ Past result): The truck is permanently equipped with CTIS; if it weren't (general state), it wouldn't have conquered the dune yesterday (past event).",
+        "wrong_A": "'would conquer' fails to reflect the past event 'yesterday'.",
+        "wrong_B": "Cannot use indicative past 'conquered' in an unreal counterfactual statement.",
+        "wrong_D": "Fails to show past completion."
+      },
+      "cz_learning_point": "When an enduring mechanical feature ('if it weren't equipped') affects a specific past trial ('yesterday'), use Mixed Type 2 (condition) + Type 3 (result).",
+      "workplace_track": "Powertrain & R&D Engineering"
+    },
+    {
+      "id": "TTR-B2-001-Q6",
+      "prompt": "If our chassis engineers _____ finite element modeling before casting the differential housing, the wall thickness _____ excessive today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "utilized / won't be"
+        },
+        {
+          "key": "B",
+          "text": "had utilized / wouldn't be"
+        },
+        {
+          "key": "C",
+          "text": "would utilize / isn't"
+        },
+        {
+          "key": "D",
+          "text": "had utilized / wouldn't have been"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past action ('had utilized before casting') leading to present state ('wouldn't be excessive today').",
+        "wrong_A": "Type 1 / mixed indicative cannot express counterfactual.",
+        "wrong_C": "Unacceptable syntax in condition.",
+        "wrong_D": "'wouldn't have been' refers only to a past state, ignoring 'today'."
+      },
+      "cz_learning_point": "Czech engineers often default to Type 3 throughout ('kdyby použili... nebyla by bývala'), overlooking the present duration.",
+      "workplace_track": "Powertrain & R&D Engineering"
+    },
+    {
+      "id": "TTR-B2-001-Q7",
+      "prompt": "_____ the calibration parameters during yesterday's dyno run, the cooling fan wouldn't be overheating right now.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If the technician adjusted"
+        },
+        {
+          "key": "B",
+          "text": "Did the technician adjust"
+        },
+        {
+          "key": "C",
+          "text": "Should the technician adjust"
+        },
+        {
+          "key": "D",
+          "text": "Had the technician adjusted"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Inverted conditional without 'if' for past unreal condition: 'Had the technician adjusted' = 'If the technician had adjusted'.",
+        "wrong_A": "'adjusted' (Past Simple) does not match past time 'yesterday's dyno run' in an unreal condition.",
+        "wrong_B": "'Did' cannot introduce a counterfactual conditional clause.",
+        "wrong_C": "'Should' introduces future open possibilities (First conditional inversion), not past events."
+      },
+      "cz_learning_point": "Inversion with 'Had + subject + past participle' is an elegant, formal engineering register that replaces 'If... had'.",
+      "workplace_track": "Powertrain & R&D Engineering"
+    },
+    {
+      "id": "TTR-B2-001-Q8",
+      "prompt": "If our powertrain _____ so dependent on third-party transmission electronics, we _____ the current retrofit timeline by three weeks.",
+      "options": [
+        {
+          "key": "A",
+          "text": "weren't / could accelerate"
+        },
+        {
+          "key": "B",
+          "text": "hadn't been / will accelerate"
+        },
+        {
+          "key": "C",
+          "text": "isn't / accelerated"
+        },
+        {
+          "key": "D",
+          "text": "wouldn't be / could have accelerated"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Second conditional for current hypothetical state ('weren't so dependent') resulting in present hypothetical ability ('could accelerate').",
+        "wrong_B": "Mismatched tenses.",
+        "wrong_C": "Indicative present with past simple is illogical.",
+        "wrong_D": "'wouldn't be' in conditional clause is non-standard."
+      },
+      "cz_learning_point": "In formal English, use subjunctive 'weren't' for all persons ('If our powertrain weren't...').",
+      "workplace_track": "Powertrain & R&D Engineering"
+    },
+    {
+      "id": "TTR-B2-001-Q9",
+      "prompt": "If the Dakar rally team _____ the heavy-duty bypass dampers during the rest day, the truck _____ the rocky stage this morning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "didn't rebuild / wouldn't survive"
+        },
+        {
+          "key": "B",
+          "text": "hadn't rebuilt / wouldn't have survived"
+        },
+        {
+          "key": "C",
+          "text": "wouldn't rebuild / hadn't survived"
+        },
+        {
+          "key": "D",
+          "text": "hadn't rebuilt / didn't survive"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Pure Third Conditional (Past condition $\\rightarrow$ Past result): Both events ('rest day' and 'this morning's stage') are completed past events.",
+        "wrong_A": "Type 2 conditional refers to present or future hypotheticals.",
+        "wrong_C": "'wouldn't rebuild' is incorrect inside the if-clause.",
+        "wrong_D": "Main clause requires modal perfect 'wouldn't have survived', not simple past 'didn't survive'."
+      },
+      "cz_learning_point": "When both condition and result took place in the past, use full Third Conditional ('hadn't rebuilt... wouldn't have survived').",
+      "workplace_track": "Powertrain & R&D Engineering"
+    },
+    {
+      "id": "TTR-B2-001-Q10",
+      "prompt": "If we _____ a complete digital twin simulation running on our servers, we _____ to halt bench testing every time a hydraulic seal leaks.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have had / didn't have"
+        },
+        {
+          "key": "B",
+          "text": "would have / wouldn't have"
+        },
+        {
+          "key": "C",
+          "text": "had had / won't have"
+        },
+        {
+          "key": "D",
+          "text": "had / wouldn't have"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Type 2 conditional for a current unreal state ('If we had') with present consequence ('wouldn't have to halt').",
+        "wrong_A": "Present perfect is invalid in an unreal condition.",
+        "wrong_B": "Repetition of 'would have' is ungrammatical.",
+        "wrong_C": "Mixed past perfect with real future 'won't' is syntactically invalid."
+      },
+      "cz_learning_point": "Czech uses 'kdybychom měli... nemuseli bychom'. In English, express this hypothetical present condition with Past Simple + would.",
+      "workplace_track": "Powertrain & R&D Engineering"
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Executive Assessor Portal | Corporate English Testing Hub</title>
+  <style>
+    :root {
+      --navy-dark: #0b1528;
+      --navy-slate: #1e293b;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --border: #e2e8f0;
+      --shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -2px rgba(0,0,0,0.1);
+      --font: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: var(--font); background: var(--bg); color: var(--text-main); line-height: 1.6; min-height: 100vh; display: flex; flex-direction: column; }
+    
+    /* Instructor Header */
+    .master-header {
+      background: linear-gradient(135deg, #0b1528 0%, #1e293b 100%);
+      color: #fff;
+      padding: 28px 24px;
+      border-bottom: 4px solid #38bdf8;
+      box-shadow: var(--shadow);
+    }
+    .header-inner { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px; }
+    .master-header h1 { font-size: 1.85rem; font-weight: 800; letter-spacing: -0.02em; margin-bottom: 4px; }
+    .master-header p { color: #94a3b8; font-size: 0.95rem; }
+    .instructor-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(56, 189, 248, 0.15);
+      border: 1px solid rgba(56, 189, 248, 0.4);
+      color: #38bdf8;
+      padding: 6px 14px;
+      border-radius: 9999px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .main-wrap { max-width: 1200px; margin: 32px auto; padding: 0 20px; flex: 1; width: 100%; }
+
+    .summary-card {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px 24px;
+      margin-bottom: 28px;
+      box-shadow: var(--shadow);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    .summary-card strong { color: var(--navy-dark); font-size: 1.05rem; }
+    .summary-card p { color: var(--text-muted); font-size: 0.9rem; margin-top: 2px; }
+
+    /* Suite Cards Grid */
+    .suites-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr));
+      gap: 24px;
+      margin-bottom: 48px;
+    }
+    .suite-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 26px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow: hidden;
+      transition: all 0.25s ease;
+    }
+    .suite-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 24px -4px rgba(0,0,0,0.12);
+    }
+    .suite-top-bar { height: 6px; position: absolute; top: 0; left: 0; right: 0; }
+    
+    .suite-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.78rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      align-self: flex-start;
+    }
+    .suite-title { font-size: 1.35rem; font-weight: 800; color: var(--navy-dark); margin-bottom: 6px; }
+    .suite-company { font-size: 0.85rem; font-weight: 700; color: var(--text-muted); margin-bottom: 12px; }
+    .suite-desc { font-size: 0.9rem; color: #475569; margin-bottom: 18px; line-height: 1.5; }
+
+    .tier-pills { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 20px; }
+    .tier-pill { font-size: 0.72rem; font-weight: 700; padding: 3px 8px; border-radius: 4px; }
+    .pill-a2 { background: #fef08a; color: #854d0e; }
+    .pill-b1 { background: #dbeafe; color: #1e40af; }
+    .pill-b2 { background: #e0e7ff; color: #3730a3; }
+    .pill-c2 { background: #fae8ff; color: #86198f; }
+    .pill-sp { background: #fef3c7; color: #92400e; }
+
+    .card-actions {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    .suite-launch-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 11px 18px;
+      border-radius: 8px;
+      color: #fff;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.92rem;
+      min-height: 44px;
+      transition: opacity 0.2s;
+    }
+    .suite-launch-btn:hover { opacity: 0.92; }
+
+    .btn-copy-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      padding: 11px 14px;
+      border-radius: 8px;
+      background: #f1f5f9;
+      border: 1px solid var(--border);
+      color: var(--navy-slate);
+      font-weight: 600;
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .btn-copy-link:hover {
+      background: #e2e8f0;
+      border-color: #cbd5e1;
+    }
+
+    /* Passcode Gate Modal */
+    #gate-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(11, 21, 40, 0.95);
+      backdrop-filter: blur(10px);
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .gate-box {
+      background: #ffffff;
+      border-radius: 16px;
+      padding: 36px 32px;
+      max-width: 420px;
+      width: 100%;
+      text-align: center;
+      box-shadow: 0 20px 25px -5px rgba(0,0,0,0.3);
+    }
+    .gate-icon { font-size: 2.4rem; margin-bottom: 12px; }
+    .gate-box h2 { font-size: 1.4rem; font-weight: 800; color: var(--navy-dark); margin-bottom: 6px; }
+    .gate-box p { font-size: 0.9rem; color: var(--text-muted); margin-bottom: 22px; }
+    .gate-input {
+      width: 100%;
+      padding: 12px 16px;
+      font-size: 1.1rem;
+      letter-spacing: 4px;
+      text-align: center;
+      border: 2px solid var(--border);
+      border-radius: 8px;
+      margin-bottom: 16px;
+      font-family: inherit;
+      outline: none;
+    }
+    .gate-input:focus { border-color: #0284c7; }
+    .gate-btn {
+      width: 100%;
+      padding: 12px;
+      background: var(--navy-dark);
+      color: #fff;
+      font-weight: 700;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 1rem;
+      transition: opacity 0.2s;
+    }
+    .gate-btn:hover { opacity: 0.92; }
+    .gate-error { color: #dc2626; font-size: 0.82rem; font-weight: 600; margin-top: 10px; display: none; }
+
+    /* Toast */
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: #0f172a;
+      color: #fff;
+      padding: 12px 20px;
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      font-size: 0.88rem;
+      font-weight: 600;
+      z-index: 10000;
+      display: none;
+    }
+
+    .footer {
+      background: #fff;
+      border-top: 1px solid var(--border);
+      padding: 24px 20px;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    @media (max-width: 768px) {
+      .master-header { padding: 20px 16px; }
+      .master-header h1 { font-size: 1.45rem; }
+      .header-inner { flex-direction: column; align-items: flex-start; }
+      .main-wrap { padding: 0 14px; margin: 18px auto; }
+      .suites-grid { grid-template-columns: 1fr; gap: 16px; }
+      .card-actions { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Passcode Access Gate (Default PIN: 2026) -->
+  <div id="gate-overlay">
+    <div class="gate-box">
+      <div class="gate-icon">🔒</div>
+      <h2>Executive Assessor Access</h2>
+      <p>This master directory is confidential. Enter assessor PIN to unlock all corporate testing suites.</p>
+      <form id="gate-form" onsubmit="event.preventDefault(); verifyPin();">
+        <input type="password" id="gate-pin" class="gate-input" placeholder="••••" autofocus maxlength="10">
+        <button type="submit" class="gate-btn">Unlock Instructor Hub →</button>
+        <div id="gate-error" class="gate-error">Incorrect PIN. Please re-enter.</div>
+      </form>
+    </div>
+  </div>
+
+  <header class="master-header">
+    <div class="header-inner">
+      <div>
+        <h1>Executive Assessor & Teacher Hub</h1>
+        <p>Private master portal for managing, launching, and distributing isolated corporate English suites.</p>
+      </div>
+      <span class="instructor-badge">🔑 Teacher / Assessor Mode</span>
+    </div>
+  </header>
+
+  <div class="main-wrap">
+    <section class="summary-card">
+      <div>
+        <strong>6 Isolated Assessment Portals Active</strong>
+        <p>Students can only see their own assigned suite and cannot navigate back to other companies or this master hub.</p>
+      </div>
+      <div style="font-size: 0.85rem; color: #475569;">
+        Total: <strong>485 Modules</strong> | <strong>4,850 Diagnostic Items</strong>
+      </div>
+    </section>
+
+    <div class="suites-grid">
+      <!-- 1: Tatra Engineering -->
+      <article class="suite-card">
+        <div class="suite-top-bar" style="background: #c51230;"></div>
+        <div>
+          <span class="suite-badge" style="background: #fee2e2; color: #991b1b;">🚛 Heavy Automotive R&D</span>
+          <h2 class="suite-title">Tatra Engineering</h2>
+          <div class="suite-company">TATRA TRUCKS a.s. | Kopřivnice</div>
+          <p class="suite-desc">
+            Central backbone tube chassis, swinging half-axles, V8/Paccar engines, air suspension, CAD/FEA simulation, and factory assembly.
+          </p>
+          <div class="tier-pills">
+            <span class="tier-pill pill-a2">A2 Foundation (20)</span>
+            <span class="tier-pill pill-b1">B1 Core (20)</span>
+            <span class="tier-pill pill-b2">B2 Advanced (20)</span>
+            <span class="tier-pill pill-c2">C2 Mastery (20)</span>
+          </div>
+        </div>
+        <div class="card-actions">
+          <a href="tatra-engineering/index.html" class="suite-launch-btn" style="background: #c51230;">Launch Portal →</a>
+          <button class="btn-copy-link" onclick="copySuiteLink('tatra-engineering/index.html', 'Tatra Engineering')">📋 Copy Link</button>
+        </div>
+      </article>
+
+      <!-- 2: Tatra Sales and Engineering -->
+      <article class="suite-card">
+        <div class="suite-top-bar" style="background: #990011;"></div>
+        <div>
+          <span class="suite-badge" style="background: #ffedd5; color: #9a3412;">🤝 Defense Tenders & Export</span>
+          <h2 class="suite-title">Tatra Sales & Engineering</h2>
+          <div class="suite-company">TATRA TRUCKS a.s. | International Sales</div>
+          <p class="suite-desc">
+            NATO STANAG defense bids, Incoterms 2020 export logistics, technical vehicle handovers, commercial disputes, and dealer management.
+          </p>
+          <div class="tier-pills">
+            <span class="tier-pill pill-a2">A2 Foundation (20)</span>
+            <span class="tier-pill pill-b1">B1 Core (20)</span>
+            <span class="tier-pill pill-b2">B2 Advanced (20)</span>
+            <span class="tier-pill pill-c2">C2 Mastery (20)</span>
+          </div>
+        </div>
+        <div class="card-actions">
+          <a href="tatra-sales-engineering/index.html" class="suite-launch-btn" style="background: #990011;">Launch Portal →</a>
+          <button class="btn-copy-link" onclick="copySuiteLink('tatra-sales-engineering/index.html', 'Tatra Sales & Eng')">📋 Copy Link</button>
+        </div>
+      </article>
+
+      <!-- 3: Teva Engineering -->
+      <article class="suite-card">
+        <div class="suite-top-bar" style="background: #0050aa;"></div>
+        <div>
+          <span class="suite-badge" style="background: #e0f2fe; color: #0369a1;">💊 Pharma Facilities & Automation</span>
+          <h2 class="suite-title">Teva Engineering</h2>
+          <div class="suite-company">TEVA PHARMACEUTICALS | Plant Facilities & Validation</div>
+          <p class="suite-desc">
+            Cleanroom HVAC pressure cascades, sterile filling lines, SCADA/PLC automation, tablet compression presses, and GAMP 5 CSV validation.
+          </p>
+          <div class="tier-pills">
+            <span class="tier-pill pill-a2">A2 Foundation (20)</span>
+            <span class="tier-pill pill-b1">B1 Core (20)</span>
+            <span class="tier-pill pill-b2">B2 Advanced (20)</span>
+            <span class="tier-pill pill-c2">C2 Mastery (20)</span>
+          </div>
+        </div>
+        <div class="card-actions">
+          <a href="teva-engineering/index.html" class="suite-launch-btn" style="background: #0050aa;">Launch Portal →</a>
+          <button class="btn-copy-link" onclick="copySuiteLink('teva-engineering/index.html', 'Teva Engineering')">📋 Copy Link</button>
+        </div>
+      </article>
+
+      <!-- 4: Tapi Chemistry - Košař -->
+      <article class="suite-card">
+        <div class="suite-top-bar" style="background: #059669;"></div>
+        <div>
+          <span class="suite-badge" style="background: #d1fae5; color: #065f46;">🧪 API Chemistry | Ing. Košař</span>
+          <h2 class="suite-title">Tapi Chemistry — Košař</h2>
+          <div class="suite-company">TAPI (Teva Active Pharmaceutical Ingredients) | Opava</div>
+          <p class="suite-desc">
+            Dedicated environment for <strong>Ing. Košař</strong>. Organic batch synthesis, HPLC/GC chromatography, fume hood safety, and Ph. Eur./USP quality standards.
+          </p>
+          <div class="tier-pills">
+            <span class="tier-pill pill-a2">A2 Foundation (20)</span>
+            <span class="tier-pill pill-b1">B1 Core (20)</span>
+            <span class="tier-pill pill-b2">B2 Advanced (20)</span>
+            <span class="tier-pill pill-c2">C2 Mastery (20)</span>
+          </div>
+        </div>
+        <div class="card-actions">
+          <a href="tapi-chemistry-kosar/index.html" class="suite-launch-btn" style="background: #059669;">Launch Košař Portal →</a>
+          <button class="btn-copy-link" onclick="copySuiteLink('tapi-chemistry-kosar/index.html', 'Košař')">📋 Copy Link</button>
+        </div>
+      </article>
+
+      <!-- 5: Tapi Chemistry - Mazur -->
+      <article class="suite-card">
+        <div class="suite-top-bar" style="background: #047857;"></div>
+        <div>
+          <span class="suite-badge" style="background: #d1fae5; color: #065f46;">🧪 API Chemistry | Ing. Mazur</span>
+          <h2 class="suite-title">Tapi Chemistry — Mazur</h2>
+          <div class="suite-company">TAPI (Teva Active Pharmaceutical Ingredients) | Opava</div>
+          <p class="suite-desc">
+            Dedicated environment for <strong>Ing. Mazur</strong>. Organic batch synthesis, HPLC/GC chromatography, fume hood safety, and Ph. Eur./USP quality standards.
+          </p>
+          <div class="tier-pills">
+            <span class="tier-pill pill-a2">A2 Foundation (20)</span>
+            <span class="tier-pill pill-b1">B1 Core (20)</span>
+            <span class="tier-pill pill-b2">B2 Advanced (20)</span>
+            <span class="tier-pill pill-c2">C2 Mastery (20)</span>
+          </div>
+        </div>
+        <div class="card-actions">
+          <a href="tapi-chemistry-mazur/index.html" class="suite-launch-btn" style="background: #047857;">Launch Mazur Portal →</a>
+          <button class="btn-copy-link" onclick="copySuiteLink('tapi-chemistry-mazur/index.html', 'Mazur')">📋 Copy Link</button>
+        </div>
+      </article>
+
+      <!-- 6: Teva IT -->
+      <article class="suite-card">
+        <div class="suite-top-bar" style="background: #4338ca;"></div>
+        <div>
+          <span class="suite-badge" style="background: #ede9fe; color: #5b21b6;">💻 Cloud, DevOps & Security</span>
+          <h2 class="suite-title">Teva IT</h2>
+          <div class="suite-company">TEVA PHARMACEUTICALS | Global Digital & IT</div>
+          <p class="suite-desc">
+            AWS/Azure cloud infrastructure, Docker/Kubernetes, Zero Trust cybersecurity, IAM, ITIL P1 incident response, and SAP S/4HANA integration.
+          </p>
+          <div class="tier-pills">
+            <span class="tier-pill pill-a2">A2 Foundation (20)</span>
+            <span class="tier-pill pill-b1">B1 Core (20)</span>
+            <span class="tier-pill pill-b2">B2 Advanced (20)</span>
+            <span class="tier-pill pill-c2">C2 Mastery (20)</span>
+          </div>
+        </div>
+        <div class="card-actions">
+          <a href="teva-it/index.html" class="suite-launch-btn" style="background: #4338ca;">Launch Teva IT Portal →</a>
+          <button class="btn-copy-link" onclick="copySuiteLink('teva-it/index.html', 'Teva IT')">📋 Copy Link</button>
+        </div>
+      </article>
+    </div>
+  </div>
+
+  <div id="toast" class="toast"></div>
+
+  <footer class="footer">
+    <p><strong>Corporate English Assessment Ecosystem</strong> | Teacher / Assessor Executive Management Portal</p>
+    <p style="margin-top: 4px; font-size: 0.8rem;">Independent Student Sandboxes | Automated Czech-English Contrastive Diagnostics</p>
+  </footer>
+
+  <script>
+    // Master PIN gate (Default PIN: 2026)
+    const CORRECT_PIN = '2026';
+
+    function checkAuth() {
+      if (sessionStorage.getItem('assessor_auth') === 'granted') {
+        document.getElementById('gate-overlay').style.display = 'none';
+      } else {
+        document.getElementById('gate-overlay').style.display = 'flex';
+      }
+    }
+
+    function verifyPin() {
+      const pin = document.getElementById('gate-pin').value.trim();
+      if (pin === CORRECT_PIN) {
+        sessionStorage.setItem('assessor_auth', 'granted');
+        document.getElementById('gate-overlay').style.display = 'none';
+      } else {
+        document.getElementById('gate-error').style.display = 'block';
+        document.getElementById('gate-pin').value = '';
+        document.getElementById('gate-pin').focus();
+      }
+    }
+
+    // 1-Click Copy Direct Student Link
+    function copySuiteLink(relativeSubpath, label) {
+      const fullUrl = new URL(relativeSubpath, window.location.href).href;
+      navigator.clipboard.writeText(fullUrl).then(() => {
+        showToast(`📋 Copied ${label} direct link to clipboard!`);
+      }).catch(() => {
+        prompt('Copy student link:', fullUrl);
+      });
+    }
+
+    function showToast(msg) {
+      const t = document.getElementById('toast');
+      t.textContent = msg;
+      t.style.display = 'block';
+      setTimeout(() => { t.style.display = 'none'; }, 3000);
+    }
+
+    checkAuth();
+  </script>
+</body>
+</html>

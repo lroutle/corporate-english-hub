@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-A2-020",
+  "title": "End-of-Shift Lab Bench Cleanup & Gas Tap Shutoff Rules",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety",
+  "estimated_time_minutes": 10,
+  "description": "Foundational chemical laboratory module covering end-of-shift lab bench cleanup & gas tap shutoff rules.",
+  "learning_objectives": [
+    "Master professional Checklists & Final Imperatives in organic API synthesis and QC analysis",
+    "Eliminate common Czech interference errors in end-of-shift lab bench cleanup & gas tap shutoff rules",
+    "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-A2-020-Q1",
+      "prompt": "Always make sure to _____ 5.0 grams of active pharmaceutical substance on the analytical balance following approved laboratory SOPs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to weigh"
+        },
+        {
+          "key": "B",
+          "text": "weigh"
+        },
+        {
+          "key": "C",
+          "text": "weighs"
+        },
+        {
+          "key": "D",
+          "text": "weighing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'make sure to' takes base form 'weigh' without double-to or grammatical endings.",
+        "wrong_A": "'to weigh' creates ungrammatical double 'to'.",
+        "wrong_C": "3rd person 'weighs' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'weighing' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že zkontrolujete'. After 'make sure to', use base verb 'weigh'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-020-Q2",
+      "prompt": "Always make sure to _____ the volumetric flask with high-purity HPLC-grade water to the mark following approved laboratory SOPs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to fill"
+        },
+        {
+          "key": "B",
+          "text": "fills"
+        },
+        {
+          "key": "C",
+          "text": "fill"
+        },
+        {
+          "key": "D",
+          "text": "filling"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'make sure to' takes base form 'fill' without double-to or grammatical endings.",
+        "wrong_A": "'to fill' creates ungrammatical double 'to'.",
+        "wrong_B": "3rd person 'fills' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'filling' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že zkontrolujete'. After 'make sure to', use base verb 'fill'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-020-Q3",
+      "prompt": "Always make sure to _____ the pH electrode in the standard pH 7.0 buffer solution carefully following approved laboratory SOPs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "immerse"
+        },
+        {
+          "key": "B",
+          "text": "to immerse"
+        },
+        {
+          "key": "C",
+          "text": "immerses"
+        },
+        {
+          "key": "D",
+          "text": "immersing"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'make sure to' takes base form 'immerse' without double-to or grammatical endings.",
+        "wrong_B": "'to immerse' creates ungrammatical double 'to'.",
+        "wrong_C": "3rd person 'immerses' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'immersing' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že zkontrolujete'. After 'make sure to', use base verb 'immerse'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-020-Q4",
+      "prompt": "Always make sure to _____ the temperature of the jacketed synthesis reactor every fifteen minutes following approved laboratory SOPs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to check"
+        },
+        {
+          "key": "B",
+          "text": "checks"
+        },
+        {
+          "key": "C",
+          "text": "checking"
+        },
+        {
+          "key": "D",
+          "text": "check"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'make sure to' takes base form 'check' without double-to or grammatical endings.",
+        "wrong_A": "'to check' creates ungrammatical double 'to'.",
+        "wrong_B": "3rd person 'checks' cannot follow infinitive marker 'to'.",
+        "wrong_C": "Participle 'checking' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že zkontrolujete'. After 'make sure to', use base verb 'check'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-020-Q5",
+      "prompt": "Always make sure to _____ the rotary evaporator vacuum pump before heating the water bath following approved laboratory SOPs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to start"
+        },
+        {
+          "key": "B",
+          "text": "starts"
+        },
+        {
+          "key": "C",
+          "text": "start"
+        },
+        {
+          "key": "D",
+          "text": "starting"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'make sure to' takes base form 'start' without double-to or grammatical endings.",
+        "wrong_A": "'to start' creates ungrammatical double 'to'.",
+        "wrong_B": "3rd person 'starts' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'starting' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že zkontrolujete'. After 'make sure to', use base verb 'start'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-020-Q6",
+      "prompt": "Always make sure to _____ the crystalline precipitate using a Buchner funnel and filter paper following approved laboratory SOPs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to filter"
+        },
+        {
+          "key": "B",
+          "text": "filter"
+        },
+        {
+          "key": "C",
+          "text": "filters"
+        },
+        {
+          "key": "D",
+          "text": "filtering"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'make sure to' takes base form 'filter' without double-to or grammatical endings.",
+        "wrong_A": "'to filter' creates ungrammatical double 'to'.",
+        "wrong_C": "3rd person 'filters' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'filtering' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že zkontrolujete'. After 'make sure to', use base verb 'filter'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-020-Q7",
+      "prompt": "Always make sure to _____ all flammable solvent carboys in the explosion-proof yellow cabinet following approved laboratory SOPs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to store"
+        },
+        {
+          "key": "B",
+          "text": "stores"
+        },
+        {
+          "key": "C",
+          "text": "storing"
+        },
+        {
+          "key": "D",
+          "text": "store"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'make sure to' takes base form 'store' without double-to or grammatical endings.",
+        "wrong_A": "'to store' creates ungrammatical double 'to'.",
+        "wrong_B": "3rd person 'stores' cannot follow infinitive marker 'to'.",
+        "wrong_C": "Participle 'storing' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že zkontrolujete'. After 'make sure to', use base verb 'store'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-020-Q8",
+      "prompt": "Always make sure to _____ the Karl Fischer reagent factor before running the moisture sample following approved laboratory SOPs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "calibrate"
+        },
+        {
+          "key": "B",
+          "text": "to calibrate"
+        },
+        {
+          "key": "C",
+          "text": "calibrates"
+        },
+        {
+          "key": "D",
+          "text": "calibrating"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'make sure to' takes base form 'calibrate' without double-to or grammatical endings.",
+        "wrong_B": "'to calibrate' creates ungrammatical double 'to'.",
+        "wrong_C": "3rd person 'calibrates' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'calibrating' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že zkontrolujete'. After 'make sure to', use base verb 'calibrate'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-020-Q9",
+      "prompt": "Always make sure to _____ the analytical test results into the digital Laboratory Information Management System (LIMS) following approved laboratory SOPs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to enter"
+        },
+        {
+          "key": "B",
+          "text": "enters"
+        },
+        {
+          "key": "C",
+          "text": "enter"
+        },
+        {
+          "key": "D",
+          "text": "entering"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'make sure to' takes base form 'enter' without double-to or grammatical endings.",
+        "wrong_A": "'to enter' creates ungrammatical double 'to'.",
+        "wrong_B": "3rd person 'enters' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'entering' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že zkontrolujete'. After 'make sure to', use base verb 'enter'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-020-Q10",
+      "prompt": "Always make sure to _____ the laminar flow fume hood stainless steel bench with isopropanol wipes following approved laboratory SOPs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to clean"
+        },
+        {
+          "key": "B",
+          "text": "clean"
+        },
+        {
+          "key": "C",
+          "text": "cleans"
+        },
+        {
+          "key": "D",
+          "text": "cleaning"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'make sure to' takes base form 'clean' without double-to or grammatical endings.",
+        "wrong_A": "'to clean' creates ungrammatical double 'to'.",
+        "wrong_C": "3rd person 'cleans' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'cleaning' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že zkontrolujete'. After 'make sure to', use base verb 'clean'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    }
+  ]
+}

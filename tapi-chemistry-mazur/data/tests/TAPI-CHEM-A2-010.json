@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-A2-010",
+  "title": "Reporting Broken Volumetric Flasks & Pipette Tips",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods",
+  "estimated_time_minutes": 10,
+  "description": "Foundational chemical laboratory module covering reporting broken volumetric flasks & pipette tips.",
+  "learning_objectives": [
+    "Master professional Past Simple Negatives & Questions in organic API synthesis and QC analysis",
+    "Eliminate common Czech interference errors in reporting broken volumetric flasks & pipette tips",
+    "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-A2-010-Q1",
+      "prompt": "Yesterday afternoon in the synthesis lab, the analytical chemist _____ 5.0 grams of active pharmaceutical substance on the analytical balance.",
+      "options": [
+        {
+          "key": "A",
+          "text": "weigh"
+        },
+        {
+          "key": "B",
+          "text": "weighed"
+        },
+        {
+          "key": "C",
+          "text": "has weighed"
+        },
+        {
+          "key": "D",
+          "text": "is weighing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Specific completed past time 'Yesterday afternoon' strictly requires Past Simple 'weighed'.",
+        "wrong_A": "Base form 'weigh' lacks past tense marking.",
+        "wrong_C": "Present Perfect 'has weighed' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('weighed').",
+      "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods"
+    },
+    {
+      "id": "TAPI-CHEM-A2-010-Q2",
+      "prompt": "Yesterday afternoon in the synthesis lab, the laboratory technician _____ the volumetric flask with high-purity HPLC-grade water to the mark.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fill"
+        },
+        {
+          "key": "B",
+          "text": "has filled"
+        },
+        {
+          "key": "C",
+          "text": "filled"
+        },
+        {
+          "key": "D",
+          "text": "is filling"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific completed past time 'Yesterday afternoon' strictly requires Past Simple 'filled'.",
+        "wrong_A": "Base form 'fill' lacks past tense marking.",
+        "wrong_B": "Present Perfect 'has filled' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('filled').",
+      "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods"
+    },
+    {
+      "id": "TAPI-CHEM-A2-010-Q3",
+      "prompt": "Yesterday afternoon in the synthesis lab, the qc analyst _____ the pH electrode in the standard pH 7.0 buffer solution carefully.",
+      "options": [
+        {
+          "key": "A",
+          "text": "immersed"
+        },
+        {
+          "key": "B",
+          "text": "immerse"
+        },
+        {
+          "key": "C",
+          "text": "has immersed"
+        },
+        {
+          "key": "D",
+          "text": "is immersing"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Specific completed past time 'Yesterday afternoon' strictly requires Past Simple 'immersed'.",
+        "wrong_B": "Base form 'immerse' lacks past tense marking.",
+        "wrong_C": "Present Perfect 'has immersed' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('immersed').",
+      "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods"
+    },
+    {
+      "id": "TAPI-CHEM-A2-010-Q4",
+      "prompt": "Yesterday afternoon in the synthesis lab, the process operator _____ the temperature of the jacketed synthesis reactor every fifteen minutes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "check"
+        },
+        {
+          "key": "B",
+          "text": "has checked"
+        },
+        {
+          "key": "C",
+          "text": "is checking"
+        },
+        {
+          "key": "D",
+          "text": "checked"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Specific completed past time 'Yesterday afternoon' strictly requires Past Simple 'checked'.",
+        "wrong_A": "Base form 'check' lacks past tense marking.",
+        "wrong_B": "Present Perfect 'has checked' cannot accompany 'yesterday'.",
+        "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('checked').",
+      "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods"
+    },
+    {
+      "id": "TAPI-CHEM-A2-010-Q5",
+      "prompt": "Yesterday afternoon in the synthesis lab, the lab assistant _____ the rotary evaporator vacuum pump before heating the water bath.",
+      "options": [
+        {
+          "key": "A",
+          "text": "start"
+        },
+        {
+          "key": "B",
+          "text": "has started"
+        },
+        {
+          "key": "C",
+          "text": "started"
+        },
+        {
+          "key": "D",
+          "text": "is starting"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific completed past time 'Yesterday afternoon' strictly requires Past Simple 'started'.",
+        "wrong_A": "Base form 'start' lacks past tense marking.",
+        "wrong_B": "Present Perfect 'has started' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('started').",
+      "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods"
+    },
+    {
+      "id": "TAPI-CHEM-A2-010-Q6",
+      "prompt": "Yesterday afternoon in the synthesis lab, the organic chemist _____ the crystalline precipitate using a Buchner funnel and filter paper.",
+      "options": [
+        {
+          "key": "A",
+          "text": "filter"
+        },
+        {
+          "key": "B",
+          "text": "filtered"
+        },
+        {
+          "key": "C",
+          "text": "has filtered"
+        },
+        {
+          "key": "D",
+          "text": "is filtering"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Specific completed past time 'Yesterday afternoon' strictly requires Past Simple 'filtered'.",
+        "wrong_A": "Base form 'filter' lacks past tense marking.",
+        "wrong_C": "Present Perfect 'has filtered' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('filtered').",
+      "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods"
+    },
+    {
+      "id": "TAPI-CHEM-A2-010-Q7",
+      "prompt": "Yesterday afternoon in the synthesis lab, the safety officer _____ all flammable solvent carboys in the explosion-proof yellow cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "store"
+        },
+        {
+          "key": "B",
+          "text": "has stored"
+        },
+        {
+          "key": "C",
+          "text": "is storing"
+        },
+        {
+          "key": "D",
+          "text": "stored"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Specific completed past time 'Yesterday afternoon' strictly requires Past Simple 'stored'.",
+        "wrong_A": "Base form 'store' lacks past tense marking.",
+        "wrong_B": "Present Perfect 'has stored' cannot accompany 'yesterday'.",
+        "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('stored').",
+      "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods"
+    },
+    {
+      "id": "TAPI-CHEM-A2-010-Q8",
+      "prompt": "Yesterday afternoon in the synthesis lab, the titration specialist _____ the Karl Fischer reagent factor before running the moisture sample.",
+      "options": [
+        {
+          "key": "A",
+          "text": "calibrated"
+        },
+        {
+          "key": "B",
+          "text": "calibrate"
+        },
+        {
+          "key": "C",
+          "text": "has calibrated"
+        },
+        {
+          "key": "D",
+          "text": "is calibrating"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Specific completed past time 'Yesterday afternoon' strictly requires Past Simple 'calibrated'.",
+        "wrong_B": "Base form 'calibrate' lacks past tense marking.",
+        "wrong_C": "Present Perfect 'has calibrated' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('calibrated').",
+      "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods"
+    },
+    {
+      "id": "TAPI-CHEM-A2-010-Q9",
+      "prompt": "Yesterday afternoon in the synthesis lab, the shift technician _____ the analytical test results into the digital Laboratory Information Management System (LIMS).",
+      "options": [
+        {
+          "key": "A",
+          "text": "enter"
+        },
+        {
+          "key": "B",
+          "text": "has entered"
+        },
+        {
+          "key": "C",
+          "text": "entered"
+        },
+        {
+          "key": "D",
+          "text": "is entering"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific completed past time 'Yesterday afternoon' strictly requires Past Simple 'entered'.",
+        "wrong_A": "Base form 'enter' lacks past tense marking.",
+        "wrong_B": "Present Perfect 'has entered' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('entered').",
+      "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods"
+    },
+    {
+      "id": "TAPI-CHEM-A2-010-Q10",
+      "prompt": "Yesterday afternoon in the synthesis lab, the cleaning staff _____ the laminar flow fume hood stainless steel bench with isopropanol wipes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "clean"
+        },
+        {
+          "key": "B",
+          "text": "cleaned"
+        },
+        {
+          "key": "C",
+          "text": "has cleaned"
+        },
+        {
+          "key": "D",
+          "text": "is cleaning"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Specific completed past time 'Yesterday afternoon' strictly requires Past Simple 'cleaned'.",
+        "wrong_A": "Base form 'clean' lacks past tense marking.",
+        "wrong_C": "Present Perfect 'has cleaned' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('cleaned').",
+      "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods"
+    }
+  ]
+}

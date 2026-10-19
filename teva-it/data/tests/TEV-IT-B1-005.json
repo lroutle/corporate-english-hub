@@ -1,0 +1,326 @@
+{
+  "test_id": "TEV-IT-B1-005",
+  "title": "DNS Resolution Timeouts & DHCP Lease Exhaustion Incidents",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate IT infrastructure and operations module analyzing dns resolution timeouts & dhcp lease exhaustion incidents.",
+  "learning_objectives": [
+    "Master professional Relative Clauses in Network Topology in enterprise IT infrastructure and cloud operations",
+    "Eliminate common Czech interference errors in dns resolution timeouts & dhcp lease exhaustion incidents",
+    "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+  ],
+  "questions": [
+    {
+      "id": "TEV-IT-B1-005-Q1",
+      "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rotated"
+        },
+        {
+          "key": "B",
+          "text": "must be rotated"
+        },
+        {
+          "key": "C",
+          "text": "must rotate"
+        },
+        {
+          "key": "D",
+          "text": "are must be rotated"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rotated'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-005-Q2",
+      "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rotated"
+        },
+        {
+          "key": "B",
+          "text": "must rotate"
+        },
+        {
+          "key": "C",
+          "text": "must be rotated"
+        },
+        {
+          "key": "D",
+          "text": "are must be rotated"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rotated'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-005-Q3",
+      "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must be rotated"
+        },
+        {
+          "key": "B",
+          "text": "must to be rotated"
+        },
+        {
+          "key": "C",
+          "text": "must rotate"
+        },
+        {
+          "key": "D",
+          "text": "are must be rotated"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rotated'.",
+        "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-005-Q4",
+      "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rotated"
+        },
+        {
+          "key": "B",
+          "text": "must rotate"
+        },
+        {
+          "key": "C",
+          "text": "are must be rotated"
+        },
+        {
+          "key": "D",
+          "text": "must be rotated"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rotated'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+        "wrong_C": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-005-Q5",
+      "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rotated"
+        },
+        {
+          "key": "B",
+          "text": "must rotate"
+        },
+        {
+          "key": "C",
+          "text": "must be rotated"
+        },
+        {
+          "key": "D",
+          "text": "are must be rotated"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rotated'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-005-Q6",
+      "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rotated"
+        },
+        {
+          "key": "B",
+          "text": "must be rotated"
+        },
+        {
+          "key": "C",
+          "text": "must rotate"
+        },
+        {
+          "key": "D",
+          "text": "are must be rotated"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rotated'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-005-Q7",
+      "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rotated"
+        },
+        {
+          "key": "B",
+          "text": "must rotate"
+        },
+        {
+          "key": "C",
+          "text": "are must be rotated"
+        },
+        {
+          "key": "D",
+          "text": "must be rotated"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rotated'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+        "wrong_C": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-005-Q8",
+      "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must be rotated"
+        },
+        {
+          "key": "B",
+          "text": "must to be rotated"
+        },
+        {
+          "key": "C",
+          "text": "must rotate"
+        },
+        {
+          "key": "D",
+          "text": "are must be rotated"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rotated'.",
+        "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-005-Q9",
+      "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rotated"
+        },
+        {
+          "key": "B",
+          "text": "must rotate"
+        },
+        {
+          "key": "C",
+          "text": "must be rotated"
+        },
+        {
+          "key": "D",
+          "text": "are must be rotated"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rotated'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-005-Q10",
+      "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be rotated"
+        },
+        {
+          "key": "B",
+          "text": "must be rotated"
+        },
+        {
+          "key": "C",
+          "text": "must rotate"
+        },
+        {
+          "key": "D",
+          "text": "are must be rotated"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be rotated'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    }
+  ]
+}

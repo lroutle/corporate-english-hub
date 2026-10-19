@@ -1,0 +1,141 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Tatra Trucks Test Module Schema",
+  "description": "Schema definition for interactive English assessment modules for Tatra Trucks professionals.",
+  "type": "object",
+  "required": [
+    "test_id",
+    "title",
+    "level",
+    "category",
+    "workplace_track",
+    "estimated_time_minutes",
+    "description",
+    "questions"
+  ],
+  "properties": {
+    "test_id": {
+      "type": "string",
+      "pattern": "^TTR-(B1|B2|SP)-\\d{3}$",
+      "description": "Unique module identifier, e.g. TTR-B1-001 or TTR-SP-005"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 5,
+      "description": "Descriptive title of the testing module"
+    },
+    "level": {
+      "type": "string",
+      "enum": ["B1", "B2", "B1/B2"],
+      "description": "Target CEFR proficiency level"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["core", "specialized"],
+      "description": "Core grammar/workplace test vs specialized unit"
+    },
+    "workplace_track": {
+      "type": "string",
+      "enum": [
+        "Quality Assurance & Assembly",
+        "Powertrain & R&D Engineering",
+        "International Sales & Tenders",
+        "Procurement & Supply Chain",
+        "Homologation, Testing & Field Operations",
+        "After-Sales, Service & Training",
+        "General Automotive Manufacturing"
+      ],
+      "description": "Primary professional workplace specialization at Tatra Trucks"
+    },
+    "estimated_time_minutes": {
+      "type": "integer",
+      "minimum": 8,
+      "maximum": 30,
+      "description": "Estimated time to complete module in minutes"
+    },
+    "description": {
+      "type": "string",
+      "description": "Summary of module scope and learning objectives"
+    },
+    "learning_objectives": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of pedagogical goals addressed by this test"
+    },
+    "questions": {
+      "type": "array",
+      "minItems": 8,
+      "maxItems": 12,
+      "description": "Array of 8 to 12 multiple choice / diagnostic questions",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "prompt",
+          "options",
+          "correct_key",
+          "explanations",
+          "cz_learning_point",
+          "workplace_track"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^TTR-(B1|B2|SP)-\\d{3}-Q\\d+$",
+            "description": "Unique question identifier, e.g. TTR-B1-001-Q1"
+          },
+          "prompt": {
+            "type": "string",
+            "minLength": 10,
+            "description": "The contextual sentence or challenge prompt with blank or target phrasing"
+          },
+          "options": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 5,
+            "items": {
+              "type": "object",
+              "required": ["key", "text"],
+              "properties": {
+                "key": {
+                  "type": "string",
+                  "enum": ["A", "B", "C", "D", "E"]
+                },
+                "text": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          },
+          "correct_key": {
+            "type": "string",
+            "enum": ["A", "B", "C", "D", "E"]
+          },
+          "explanations": {
+            "type": "object",
+            "required": ["correct"],
+            "properties": {
+              "correct": { "type": "string" },
+              "wrong_A": { "type": "string" },
+              "wrong_B": { "type": "string" },
+              "wrong_C": { "type": "string" },
+              "wrong_D": { "type": "string" },
+              "wrong_E": { "type": "string" }
+            },
+            "additionalProperties": { "type": "string" }
+          },
+          "cz_learning_point": {
+            "type": "string",
+            "minLength": 10,
+            "description": "Contrastive grammar note explaining why Czech speakers commit this specific error"
+          },
+          "workplace_track": {
+            "type": "string",
+            "description": "Tatra automotive workplace domain for this question"
+          }
+        }
+      }
+    }
+  }
+}

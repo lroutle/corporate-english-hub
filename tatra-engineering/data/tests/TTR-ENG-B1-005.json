@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-B1-005",
+  "title": "Air Suspension Bellows Replacement: Sequence & Safety",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate technical English module analyzing air suspension bellows replacement: sequence & safety.",
+  "learning_objectives": [
+    "Master professional Prepositions of Cause & Manner in automotive engineering",
+    "Eliminate common Czech interference errors in air suspension bellows replacement: sequence & safety",
+    "Demonstrate precision in technical and regulatory documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-B1-005-Q1",
+      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be torqued"
+        },
+        {
+          "key": "B",
+          "text": "must be torqued"
+        },
+        {
+          "key": "C",
+          "text": "must torque"
+        },
+        {
+          "key": "D",
+          "text": "are must be torqued"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be torqued'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-005-Q2",
+      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be torqued"
+        },
+        {
+          "key": "B",
+          "text": "must torque"
+        },
+        {
+          "key": "C",
+          "text": "must be torqued"
+        },
+        {
+          "key": "D",
+          "text": "are must be torqued"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be torqued'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-005-Q3",
+      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must be torqued"
+        },
+        {
+          "key": "B",
+          "text": "must to be torqued"
+        },
+        {
+          "key": "C",
+          "text": "must torque"
+        },
+        {
+          "key": "D",
+          "text": "are must be torqued"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be torqued'.",
+        "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-005-Q4",
+      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be torqued"
+        },
+        {
+          "key": "B",
+          "text": "must torque"
+        },
+        {
+          "key": "C",
+          "text": "are must be torqued"
+        },
+        {
+          "key": "D",
+          "text": "must be torqued"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be torqued'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+        "wrong_C": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-005-Q5",
+      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be torqued"
+        },
+        {
+          "key": "B",
+          "text": "must torque"
+        },
+        {
+          "key": "C",
+          "text": "must be torqued"
+        },
+        {
+          "key": "D",
+          "text": "are must be torqued"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be torqued'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-005-Q6",
+      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be torqued"
+        },
+        {
+          "key": "B",
+          "text": "must be torqued"
+        },
+        {
+          "key": "C",
+          "text": "must torque"
+        },
+        {
+          "key": "D",
+          "text": "are must be torqued"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be torqued'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-005-Q7",
+      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be torqued"
+        },
+        {
+          "key": "B",
+          "text": "must torque"
+        },
+        {
+          "key": "C",
+          "text": "are must be torqued"
+        },
+        {
+          "key": "D",
+          "text": "must be torqued"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be torqued'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+        "wrong_C": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-005-Q8",
+      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must be torqued"
+        },
+        {
+          "key": "B",
+          "text": "must to be torqued"
+        },
+        {
+          "key": "C",
+          "text": "must torque"
+        },
+        {
+          "key": "D",
+          "text": "are must be torqued"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be torqued'.",
+        "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-005-Q9",
+      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be torqued"
+        },
+        {
+          "key": "B",
+          "text": "must torque"
+        },
+        {
+          "key": "C",
+          "text": "must be torqued"
+        },
+        {
+          "key": "D",
+          "text": "are must be torqued"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be torqued'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-005-Q10",
+      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be torqued"
+        },
+        {
+          "key": "B",
+          "text": "must be torqued"
+        },
+        {
+          "key": "C",
+          "text": "must torque"
+        },
+        {
+          "key": "D",
+          "text": "are must be torqued"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be torqued'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    }
+  ]
+}

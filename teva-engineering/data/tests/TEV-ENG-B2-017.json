@@ -1,0 +1,326 @@
+{
+  "test_id": "TEV-ENG-B2-017",
+  "title": "Sterile Filter Membrane Bacterial Retention Validation Challenge",
+  "level": "B2",
+  "category": "core",
+  "workplace_track": "Sterile Compounding & Filling Line Automation",
+  "estimated_time_minutes": 15,
+  "description": "Upper-intermediate pharmaceutical engineering module analyzing sterile filter membrane bacterial retention validation challenge.",
+  "learning_objectives": [
+    "Master professional Scientific Passive & Argumentation in pharmaceutical engineering and cleanroom automation",
+    "Eliminate common Czech interference errors in sterile filter membrane bacterial retention validation challenge",
+    "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+  ],
+  "questions": [
+    {
+      "id": "TEV-ENG-B2-017-Q1",
+      "prompt": "The GAMP 5 validation protocol requires that the computerized SCADA system _____ all audit trail events in an unalterable database.",
+      "options": [
+        {
+          "key": "A",
+          "text": "archives"
+        },
+        {
+          "key": "B",
+          "text": "archive"
+        },
+        {
+          "key": "C",
+          "text": "shall archive"
+        },
+        {
+          "key": "D",
+          "text": "must to archive"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "B2 GxP validation syntax: Mandative subjunctive after 'requires that' takes base form 'archive'.",
+        "wrong_A": "Option 'archives' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'shall archive' applies inappropriate indicative or non-inverted syntax.",
+        "wrong_D": "Option 'must to archive' is ungrammatical in standard pharmaceutical engineering documentation."
+      },
+      "cz_learning_point": "Pharmaceutical validation English strictly prioritizes mandative subjunctive ('mandate that it be tested') and auxiliary inversion ('Under no circumstances should technicians bypass').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B2-017-Q2",
+      "prompt": "Under no circumstances _____ allow unauthorized maintenance personnel to bypass the cleanroom interlock logic.",
+      "options": [
+        {
+          "key": "A",
+          "text": "technicians should"
+        },
+        {
+          "key": "B",
+          "text": "technicians must to"
+        },
+        {
+          "key": "C",
+          "text": "should technicians"
+        },
+        {
+          "key": "D",
+          "text": "shall technicians to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "B2 GxP validation syntax: Negative inversion: 'Under no circumstances should technicians allow'.",
+        "wrong_A": "Option 'technicians should' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'technicians must to' applies inappropriate indicative or non-inverted syntax.",
+        "wrong_D": "Option 'shall technicians to' is ungrammatical in standard pharmaceutical engineering documentation."
+      },
+      "cz_learning_point": "Pharmaceutical validation English strictly prioritizes mandative subjunctive ('mandate that it be tested') and auxiliary inversion ('Under no circumstances should technicians bypass').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B2-017-Q3",
+      "prompt": "It is imperative that each electronic batch record signature _____ authenticated with biometric or multi-factor credentials.",
+      "options": [
+        {
+          "key": "A",
+          "text": "be"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "will be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "B2 GxP validation syntax: Formulaic subjunctive after 'imperative that' requires base form 'be'.",
+        "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will be' applies inappropriate indicative or non-inverted syntax.",
+        "wrong_D": "Option 'must to be' is ungrammatical in standard pharmaceutical engineering documentation."
+      },
+      "cz_learning_point": "Pharmaceutical validation English strictly prioritizes mandative subjunctive ('mandate that it be tested') and auxiliary inversion ('Under no circumstances should technicians bypass').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B2-017-Q4",
+      "prompt": "Had the HVAC engineering team tuned the PID loop parameters earlier, the differential pressure excursion _____ averted.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would be"
+        },
+        {
+          "key": "B",
+          "text": "had been"
+        },
+        {
+          "key": "C",
+          "text": "will be"
+        },
+        {
+          "key": "D",
+          "text": "would have been"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "B2 GxP validation syntax: Inverted Third Conditional passive result: 'would have been averted'.",
+        "wrong_A": "Option 'would be' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'had been' applies inappropriate indicative or non-inverted syntax.",
+        "wrong_C": "Option 'will be' is ungrammatical in standard pharmaceutical engineering documentation."
+      },
+      "cz_learning_point": "Pharmaceutical validation English strictly prioritizes mandative subjunctive ('mandate that it be tested') and auxiliary inversion ('Under no circumstances should technicians bypass').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B2-017-Q5",
+      "prompt": "The Lead CSV Engineer insisted that GAMP Category 4 configured software _____ rigorously re-qualified post-patching.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "was"
+        },
+        {
+          "key": "C",
+          "text": "be"
+        },
+        {
+          "key": "D",
+          "text": "will be"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "B2 GxP validation syntax: Passive mandative subjunctive: 'insisted that software be re-qualified'.",
+        "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'was' applies inappropriate indicative or non-inverted syntax.",
+        "wrong_D": "Option 'will be' is ungrammatical in standard pharmaceutical engineering documentation."
+      },
+      "cz_learning_point": "Pharmaceutical validation English strictly prioritizes mandative subjunctive ('mandate that it be tested') and auxiliary inversion ('Under no circumstances should technicians bypass').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B2-017-Q6",
+      "prompt": "Rarely _____ an unannounced regulatory audit occur without immediate inspection of computerized system audit trail logs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "will"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "B2 GxP validation syntax: Negative inversion: 'Rarely does an audit occur'.",
+        "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted syntax.",
+        "wrong_D": "Option 'has' is ungrammatical in standard pharmaceutical engineering documentation."
+      },
+      "cz_learning_point": "Pharmaceutical validation English strictly prioritizes mandative subjunctive ('mandate that it be tested') and auxiliary inversion ('Under no circumstances should technicians bypass').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B2-017-Q7",
+      "prompt": "If the cleanroom HEPA filters had been integrity tested on schedule, particle count contamination _____ an issue today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not have been"
+        },
+        {
+          "key": "B",
+          "text": "will not be"
+        },
+        {
+          "key": "C",
+          "text": "is not"
+        },
+        {
+          "key": "D",
+          "text": "would not be"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "B2 GxP validation syntax: Mixed conditional: past action ('had been tested') with present state ('today') takes 'would not be'.",
+        "wrong_A": "Option 'would not have been' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'will not be' applies inappropriate indicative or non-inverted syntax.",
+        "wrong_C": "Option 'is not' is ungrammatical in standard pharmaceutical engineering documentation."
+      },
+      "cz_learning_point": "Pharmaceutical validation English strictly prioritizes mandative subjunctive ('mandate that it be tested') and auxiliary inversion ('Under no circumstances should technicians bypass').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B2-017-Q8",
+      "prompt": "The FDA guidance stipulates that automated batch release algorithms _____ subjected to challenging worst-case boundary tests.",
+      "options": [
+        {
+          "key": "A",
+          "text": "be"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "will be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "B2 GxP validation syntax: Mandative subjunctive in FDA guidelines: 'stipulates that algorithms be subjected'.",
+        "wrong_B": "Option 'are' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will be' applies inappropriate indicative or non-inverted syntax.",
+        "wrong_D": "Option 'must to be' is ungrammatical in standard pharmaceutical engineering documentation."
+      },
+      "cz_learning_point": "Pharmaceutical validation English strictly prioritizes mandative subjunctive ('mandate that it be tested') and auxiliary inversion ('Under no circumstances should technicians bypass').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B2-017-Q9",
+      "prompt": "Only by executing comprehensive User Requirements Specifications (URS) _____ achieve seamless Operational Qualification (OQ).",
+      "options": [
+        {
+          "key": "A",
+          "text": "the validation team can"
+        },
+        {
+          "key": "B",
+          "text": "the validation team could"
+        },
+        {
+          "key": "C",
+          "text": "can the validation team"
+        },
+        {
+          "key": "D",
+          "text": "was the validation team can"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "B2 GxP validation syntax: Inversion after 'Only by...': 'can the validation team achieve'.",
+        "wrong_A": "Option 'the validation team can' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'the validation team could' applies inappropriate indicative or non-inverted syntax.",
+        "wrong_D": "Option 'was the validation team can' is ungrammatical in standard pharmaceutical engineering documentation."
+      },
+      "cz_learning_point": "Pharmaceutical validation English strictly prioritizes mandative subjunctive ('mandate that it be tested') and auxiliary inversion ('Under no circumstances should technicians bypass').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B2-017-Q10",
+      "prompt": "Were the computerized filling line _____ an unexplained sensor drift, automated emergency stop routines would halt production immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "experiences"
+        },
+        {
+          "key": "B",
+          "text": "to experience"
+        },
+        {
+          "key": "C",
+          "text": "will experience"
+        },
+        {
+          "key": "D",
+          "text": "would experience"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "B2 GxP validation syntax: Inverted Second Conditional: 'Were the filling line to experience...' expresses formal hypothetical condition.",
+        "wrong_A": "Option 'experiences' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will experience' applies inappropriate indicative or non-inverted syntax.",
+        "wrong_D": "Option 'would experience' is ungrammatical in standard pharmaceutical engineering documentation."
+      },
+      "cz_learning_point": "Pharmaceutical validation English strictly prioritizes mandative subjunctive ('mandate that it be tested') and auxiliary inversion ('Under no circumstances should technicians bypass').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    }
+  ]
+}

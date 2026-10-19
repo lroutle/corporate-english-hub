@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-A2-001",
+  "title": "Laboratory Glassware, Reagents & Fume Hoods: Imperatives & Must",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Laboratory Glassware, Reagents & Fume Hoods",
+  "estimated_time_minutes": 10,
+  "description": "Essential English for handling beakers, pipettes, chemical reagents, and lab safety rules under the fume hood.",
+  "learning_objectives": [
+    "Use simple laboratory imperatives (pour, label, store, heat)",
+    "Apply modal 'must' and 'do not' for chemical safety",
+    "Avoid basic Czech transfer in lab SOPs"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-A2-001-Q1",
+      "prompt": "Always _____ the chemical reagent bottle immediately after taking a sample.",
+      "options": [
+        {
+          "key": "A",
+          "text": "closing"
+        },
+        {
+          "key": "B",
+          "text": "close"
+        },
+        {
+          "key": "C",
+          "text": "closed"
+        },
+        {
+          "key": "D",
+          "text": "to close"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Imperative instruction uses base form 'close'.",
+        "wrong_A": "'-ing' cannot form direct instruction.",
+        "wrong_C": "Past tense cannot form instruction.",
+        "wrong_D": "'to' infinitive is ungrammatical."
+      },
+      "cz_learning_point": "Czech 'Vždy uzavřete lahev'. In English, direct instructions take the base verb 'Always close'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-001-Q2",
+      "prompt": "You _____ pour concentrated sulfuric acid into water, never water into acid!",
+      "options": [
+        {
+          "key": "A",
+          "text": "can"
+        },
+        {
+          "key": "B",
+          "text": "must to"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "must"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Safety rule uses 'must' followed by bare infinitive ('must pour').",
+        "wrong_A": "'can' implies optional choice, which is dangerous.",
+        "wrong_B": "'must to' is ungrammatical (*must to* is a common Czenglish error).",
+        "wrong_C": "'are' cannot pair with base verb 'pour'."
+      },
+      "cz_learning_point": "Never say *must to*. Use 'must + base verb': 'You must pour acid into water'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-001-Q3",
+      "prompt": "Do not _____ volatile organic solvents outside the certified fume hood!",
+      "options": [
+        {
+          "key": "A",
+          "text": "heating"
+        },
+        {
+          "key": "B",
+          "text": "to heat"
+        },
+        {
+          "key": "C",
+          "text": "heat"
+        },
+        {
+          "key": "D",
+          "text": "heats"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Negative imperative 'Do not' requires base verb 'heat'.",
+        "wrong_A": "'-ing' cannot follow 'Do not'.",
+        "wrong_B": "'to' cannot follow 'Do not'.",
+        "wrong_D": "'-s' form cannot follow 'Do not'."
+      },
+      "cz_learning_point": "Czech 'Nezahřívejte těkavá rozpouštědla'. Use 'Do not heat'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-001-Q4",
+      "prompt": "The analytical chemist _____ the pH buffer solution before each titration test.",
+      "options": [
+        {
+          "key": "A",
+          "text": "calibrates"
+        },
+        {
+          "key": "B",
+          "text": "calibrate"
+        },
+        {
+          "key": "C",
+          "text": "is calibrate"
+        },
+        {
+          "key": "D",
+          "text": "calibrating"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject 'The chemist' takes 'calibrates' with third person '-s'.",
+        "wrong_B": "'calibrate' lacks singular '-s'.",
+        "wrong_C": "Invalid verb phrase.",
+        "wrong_D": "Participle alone cannot be predicate."
+      },
+      "cz_learning_point": "Czech 'Chemik kalibruje'. Third person singular in English requires '-s': 'calibrates'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-001-Q5",
+      "prompt": "Where _____ the safety data sheet (SDS) for this solvent stored?",
+      "options": [
+        {
+          "key": "A",
+          "text": "does"
+        },
+        {
+          "key": "B",
+          "text": "do"
+        },
+        {
+          "key": "C",
+          "text": "is"
+        },
+        {
+          "key": "D",
+          "text": "are"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject 'sheet' takes 'is' with passive participle 'stored'.",
+        "wrong_A": "'does' is auxiliary for action verbs, not passive state.",
+        "wrong_B": "'do' is plural.",
+        "wrong_D": "'are' is plural."
+      },
+      "cz_learning_point": "Czech 'Kde je uložen bezpečnostní list?'. Singular subject takes 'Where is the sheet stored?'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-001-Q6",
+      "prompt": "Lab technicians _____ wear chemical-resistant nitrile gloves when handling acetone.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must"
+        },
+        {
+          "key": "B",
+          "text": "must to"
+        },
+        {
+          "key": "C",
+          "text": "have"
+        },
+        {
+          "key": "D",
+          "text": "are"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Modal 'must' is followed directly by bare infinitive ('must wear').",
+        "wrong_B": "'must to' is ungrammatical.",
+        "wrong_C": "'have' requires 'to'.",
+        "wrong_D": "'are wear' is invalid."
+      },
+      "cz_learning_point": "Never say *must to wear*. Always use 'must wear'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-001-Q7",
+      "prompt": "Please _____ every glass flask with the batch number and expiration date.",
+      "options": [
+        {
+          "key": "A",
+          "text": "labeling"
+        },
+        {
+          "key": "B",
+          "text": "labels"
+        },
+        {
+          "key": "C",
+          "text": "to label"
+        },
+        {
+          "key": "D",
+          "text": "label"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Please' is followed by base imperative verb 'label'.",
+        "wrong_A": "'-ing' cannot follow 'Please'.",
+        "wrong_B": "'-s' form is incorrect.",
+        "wrong_C": "'to' is invalid after 'Please'."
+      },
+      "cz_learning_point": "Czech 'Prosím označte...'. In English, use 'Please label every flask'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    },
+    {
+      "id": "TAPI-CHEM-A2-001-Q8",
+      "prompt": "The analytical balance in lab 3 _____ accurate to four decimal places.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "have"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject 'balance' takes 'is' with adjective 'accurate'.",
+        "wrong_A": "'are' is plural.",
+        "wrong_C": "'have' cannot link to an adjective.",
+        "wrong_D": "'has' cannot link to an adjective."
+      },
+      "cz_learning_point": "Czech 'Váha je přesná'. Singular subject $\\rightarrow$ 'is accurate'.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-001-Q9",
+      "prompt": "The sample solution _____ not dissolve at room temperature; it requires heating.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "do"
+        },
+        {
+          "key": "C",
+          "text": "does"
+        },
+        {
+          "key": "D",
+          "text": "are"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject 'The solution' takes 'does not dissolve'.",
+        "wrong_A": "'is not dissolve' is ungrammatical.",
+        "wrong_B": "'do' is plural.",
+        "wrong_D": "'are' is plural."
+      },
+      "cz_learning_point": "Czech 'Roztok se nerozpouští'. Say 'does not dissolve', not *is not dissolve*.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-A2-001-Q10",
+      "prompt": "All flammable waste solvents must be poured _____ the dedicated red container.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to"
+        },
+        {
+          "key": "B",
+          "text": "into"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "under"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Pour into' indicates movement into an enclosed vessel or container.",
+        "wrong_A": "'to' denotes direction toward, but liquid goes inside $\\rightarrow$ 'into'.",
+        "wrong_C": "'on' means onto the outer surface.",
+        "wrong_D": "'under' means beneath."
+      },
+      "cz_learning_point": "Czech 'nalít do nádoby'. English uses 'pour into the container'.",
+      "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-A2-004",
+  "title": "Chassis Geometry & Tool Locations: Prepositions of Place",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Central Backbone Tube & Chassis R&D",
+  "estimated_time_minutes": 10,
+  "description": "Specify exact spatial positions of driveshafts, brake lines, calipers, and safety switches using prepositions of place.",
+  "learning_objectives": [
+    "Use prepositions of place: under, inside, between, behind, above",
+    "Give clear spatial directions on the truck assembly line",
+    "Avoid typical Czech preposition interference"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-A2-004-Q1",
+      "prompt": "The driveshaft runs directly _____ the central protective backbone tube.",
+      "options": [
+        {
+          "key": "A",
+          "text": "on"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "onto"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "The driveshaft is enclosed within the tube $\\rightarrow$ 'inside'.",
+        "wrong_A": "'on' means on the exterior surface.",
+        "wrong_C": "'between' requires two entities.",
+        "wrong_D": "'onto' indicates motion toward surface."
+      },
+      "cz_learning_point": "Czech 'Hnací hřídel běží uvnitř nosné roury'. Enclosed space uses 'inside'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-A2-004-Q2",
+      "prompt": "The mechanic is working _____ the truck chassis on the service pit.",
+      "options": [
+        {
+          "key": "A",
+          "text": "above"
+        },
+        {
+          "key": "B",
+          "text": "over"
+        },
+        {
+          "key": "C",
+          "text": "under"
+        },
+        {
+          "key": "D",
+          "text": "in"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Working beneath the vehicle $\\rightarrow$ 'under the chassis'.",
+        "wrong_A": "'above' means on top/higher.",
+        "wrong_B": "'over' means higher than.",
+        "wrong_D": "'in' is incorrect for open chassis."
+      },
+      "cz_learning_point": "Czech 'Mechanik pracuje pod podvozkem'. Spatial position beneath $\\rightarrow$ 'under'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-004-Q3",
+      "prompt": "The auxiliary gearbox is mounted _____ the front axle and the rear bogie.",
+      "options": [
+        {
+          "key": "A",
+          "text": "between"
+        },
+        {
+          "key": "B",
+          "text": "among"
+        },
+        {
+          "key": "C",
+          "text": "under"
+        },
+        {
+          "key": "D",
+          "text": "through"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Positioned separating two distinct objects $\\rightarrow$ 'between'.",
+        "wrong_B": "'among' is for three or more indistinct items.",
+        "wrong_C": "'under' is beneath.",
+        "wrong_D": "'through' indicates motion."
+      },
+      "cz_learning_point": "Czech 'mezi přední nápravou a zadním podvozkem'. Two distinct reference points take 'between'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-A2-004-Q4",
+      "prompt": "Store all pneumatic torque wrenches _____ the red steel tool cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "at"
+        },
+        {
+          "key": "D",
+          "text": "in"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Enclosed storage container $\\rightarrow$ 'in the cabinet'.",
+        "wrong_A": "'to' indicates movement.",
+        "wrong_B": "'on' means on top of the cabinet roof.",
+        "wrong_C": "'at' indicates general vicinity."
+      },
+      "cz_learning_point": "Czech 'Uložte do skříně'. Enclosed storage uses 'in'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-004-Q5",
+      "prompt": "The emergency stop button is situated on the wall directly _____ the operator station.",
+      "options": [
+        {
+          "key": "A",
+          "text": "between"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "behind"
+        },
+        {
+          "key": "D",
+          "text": "under"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Positioned at the rear of the operator $\\rightarrow$ 'behind'.",
+        "wrong_A": "'between' requires two points.",
+        "wrong_B": "'inside' is enclosed.",
+        "wrong_D": "'under' is beneath."
+      },
+      "cz_learning_point": "Czech 'přímo za stanovištěm operátora'. Positioned at the rear $\\rightarrow$ 'behind'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-004-Q6",
+      "prompt": "The fuel tank is secured _____ the right side of the central backbone tube.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "under"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Mounted on an exterior surface or side $\\rightarrow$ 'on the right side'.",
+        "wrong_A": "'in' implies inside the tube.",
+        "wrong_C": "'under' implies underneath the tube.",
+        "wrong_D": "'between' requires two items."
+      },
+      "cz_learning_point": "Czech 'na pravé straně'. English surface / side uses 'on the right side'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-A2-004-Q7",
+      "prompt": "The exhaust silencer is installed _____ the front cab and the cargo body.",
+      "options": [
+        {
+          "key": "A",
+          "text": "behind"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "under"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Spatial position between two modules $\\rightarrow$ 'between the cab and the body'.",
+        "wrong_A": "'behind' would omit the second reference point.",
+        "wrong_B": "'inside' implies internal.",
+        "wrong_C": "'under' implies underneath."
+      },
+      "cz_learning_point": "Czech 'mezi kabinou a korbou'. Use 'between'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-A2-004-Q8",
+      "prompt": "Please place the calibrated torque certificate _____ the vehicle documentation folder.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "over"
+        },
+        {
+          "key": "D",
+          "text": "under"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Placing documents into an enclosure $\\rightarrow$ 'inside the folder'.",
+        "wrong_B": "'on' means on top of the cover.",
+        "wrong_C": "'over' means hovering above.",
+        "wrong_D": "'under' means beneath the folder."
+      },
+      "cz_learning_point": "Czech 'Vložte dovnitř desek'. Use 'inside'.",
+      "workplace_track": "Quality Assurance & Testing"
+    },
+    {
+      "id": "TTR-ENG-A2-004-Q9",
+      "prompt": "The overhead crane hovers 5 meters _____ the chassis assembly line.",
+      "options": [
+        {
+          "key": "A",
+          "text": "under"
+        },
+        {
+          "key": "B",
+          "text": "through"
+        },
+        {
+          "key": "C",
+          "text": "above"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Higher vertical position without contact $\\rightarrow$ 'above the line'.",
+        "wrong_A": "'under' means below.",
+        "wrong_B": "'through' means passing across.",
+        "wrong_D": "'between' requires two reference points."
+      },
+      "cz_learning_point": "Czech '5 metrů nad linkou'. Vertical height without direct contact $\\rightarrow$ 'above'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-004-Q10",
+      "prompt": "The brake fluid reservoir is located right _____ the master cylinder.",
+      "options": [
+        {
+          "key": "A",
+          "text": "between"
+        },
+        {
+          "key": "B",
+          "text": "next to"
+        },
+        {
+          "key": "C",
+          "text": "under"
+        },
+        {
+          "key": "D",
+          "text": "inside"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Adjacent position $\\rightarrow$ 'next to the master cylinder'.",
+        "wrong_A": "'between' requires two objects.",
+        "wrong_C": "'under' means beneath.",
+        "wrong_D": "'inside' means internal."
+      },
+      "cz_learning_point": "Czech 'hned vedle hlavního válce'. Adjacent position $\\rightarrow$ 'next to'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    }
+  ]
+}

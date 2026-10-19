@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SP-001",
+  "title": "False Friends in Automotive Manufacturing & Assembly",
+  "level": "B1/B2",
+  "category": "specialized",
+  "workplace_track": "Quality Assurance & Assembly",
+  "estimated_time_minutes": 15,
+  "description": "Master deceptive cognates (false friends) frequently misused by Czech manufacturing engineers, line operators, and quality inspectors in automotive production.",
+  "learning_objectives": [
+    "Differentiate 'control' (řídit/ovládat) from 'check / inspect / verify' (kontrolovat)",
+    "Differentiate 'fabricate' (vymyslet si) from 'manufacture / produce' (vyrábět)",
+    "Eliminate Czenglish interference with 'evidence', 'actual', and 'concurrent'"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SP-001-Q1",
+      "prompt": "Before clearing the Tatra Force chassis for the test track, the technician must thoroughly _____ the torque on all hub nuts.",
+      "options": [
+        {
+          "key": "A",
+          "text": "control"
+        },
+        {
+          "key": "B",
+          "text": "check"
+        },
+        {
+          "key": "C",
+          "text": "command"
+        },
+        {
+          "key": "D",
+          "text": "steer"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Check' (or 'inspect / verify') means to examine something to ensure it is accurate, safe, or working properly.",
+        "wrong_A": "'Control' means to direct, dominate, or regulate (e.g., 'the ECU controls the fuel injection'), NOT to visually examine or measure.",
+        "wrong_C": "'Command' means to give orders, inappropriate for torque verification.",
+        "wrong_D": "'Steer' means to guide directional heading, unrelated to bolt torque."
+      },
+      "cz_learning_point": "Czech 'kontrolovat' translates to 'check', 'inspect', or 'verify'. Using 'control' here is one of the most widespread Czenglish mistakes in Czech factories.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-SP-001-Q2",
+      "prompt": "Our Kopřivnice heavy machinery plant does not simply assemble parts; we _____ our own backbone tubes and swinging half-axles in-house.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fabricate"
+        },
+        {
+          "key": "B",
+          "text": "invent"
+        },
+        {
+          "key": "C",
+          "text": "manufacture"
+        },
+        {
+          "key": "D",
+          "text": "pretend"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Manufacture' (or 'produce') is the standard professional term for industrial production of goods and mechanical parts.",
+        "wrong_A": "While 'fabricate' in heavy industry can mean metal structural fabrication, in general English it often means 'to falsify / make up an excuse or lie'. 'Manufacture' is clearer and unambiguous.",
+        "wrong_B": "'Invent' means to devise a new concept, not the physical routine production of components.",
+        "wrong_D": "'Pretend' means to simulate or make believe."
+      },
+      "cz_learning_point": "Czechs sometimes use 'fabricate' thinking of 'továrna / fabrika'. In industrial contexts, stick to 'manufacture' or 'produce' to avoid connotations of falsification.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-SP-001-Q3",
+      "prompt": "The quality department maintains detailed digital _____ of every welding inspection carried out on the assembly line.",
+      "options": [
+        {
+          "key": "A",
+          "text": "records"
+        },
+        {
+          "key": "B",
+          "text": "evidence"
+        },
+        {
+          "key": "C",
+          "text": "proofs"
+        },
+        {
+          "key": "D",
+          "text": "clues"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Records' (or 'logs / documentation') refers to recorded facts, historical data, and audit tracking in manufacturing.",
+        "wrong_B": "'Evidence' is an uncountable noun predominantly used in criminal law or scientific hypotheses (důkazní materiál), not standard quality logs.",
+        "wrong_C": "'Proofs' is usually uncountable ('proof') or refers to mathematical demonstrations and printing proofs.",
+        "wrong_D": "'Clues' refers to hints used in detective investigations."
+      },
+      "cz_learning_point": "Czech 'evidence' (e.g. 'evidence zakázek / evidence svárů') translates to 'records', 'tracking', or 'logs'. In English, 'evidence' means courtroom proof.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-SP-001-Q4",
+      "prompt": "What is the _____ production capacity of the cab paint shop following last month's robotics upgrade?",
+      "options": [
+        {
+          "key": "A",
+          "text": "actual"
+        },
+        {
+          "key": "B",
+          "text": "eventual"
+        },
+        {
+          "key": "C",
+          "text": "punctual"
+        },
+        {
+          "key": "D",
+          "text": "current"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Current' means happening or existing now (současný / nynější).",
+        "wrong_A": "'Actual' means real/fact-based as opposed to theoretical or estimated (skutečný/faktický), not 'current/now'.",
+        "wrong_B": "'Eventual' means happening at the end after a delay (konečný / budoucí), not 'now'.",
+        "wrong_C": "'Punctual' means arriving on time (dochvilný)."
+      },
+      "cz_learning_point": "Czech 'aktuální' translates to 'current' or 'present', NOT 'actual'. In English, 'actual' means 'real / in fact'.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-SP-001-Q5",
+      "prompt": "During the ultrasonic non-destructive testing, the technician detected a minor metallurgical _____ in the forging.",
+      "options": [
+        {
+          "key": "A",
+          "text": "deficiency"
+        },
+        {
+          "key": "B",
+          "text": "absence"
+        },
+        {
+          "key": "C",
+          "text": "flaw"
+        },
+        {
+          "key": "D",
+          "text": "shortage"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Flaw' (or 'defect / fissure') refers to a physical imperfection, crack, or blemish in a material.",
+        "wrong_A": "'Deficiency' refers to a lack of an essential quality or nutrient (e.g., vitamin deficiency, dietary lack), not a material crack.",
+        "wrong_B": "'Absence' means the state of being away.",
+        "wrong_D": "'Shortage' means an insufficient quantity of supply."
+      },
+      "cz_learning_point": "Czechs sometimes translate 'defekt / vada materiálu' as 'deficiency'. The proper technical terms are 'flaw', 'defect', or 'imperfection'.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-SP-001-Q6",
+      "prompt": "Our line managers regularly meet to coordinate _____ shifts and ensure seamless handover between morning and afternoon teams.",
+      "options": [
+        {
+          "key": "A",
+          "text": "concurrent"
+        },
+        {
+          "key": "B",
+          "text": "consecutive"
+        },
+        {
+          "key": "C",
+          "text": "competing"
+        },
+        {
+          "key": "D",
+          "text": "concurring"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Consecutive' means following continuously in unbroken or logical sequence (po sobě jdoucí).",
+        "wrong_A": "'Concurrent' means occurring at the exact same time (souběžný), which morning and afternoon shifts do not.",
+        "wrong_C": "'Competing' means rivaling each other.",
+        "wrong_D": "'Concurring' means agreeing in opinion."
+      },
+      "cz_learning_point": "Do not confuse 'consecutive' (následující po sobě) with 'concurrent' (probíhající současně ve stejný okamžik).",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-SP-001-Q7",
+      "prompt": "The workshop supervisor asked the apprentice to _____ the specialized pneumatic torque wrench to station 4.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fetch"
+        },
+        {
+          "key": "B",
+          "text": "conduct"
+        },
+        {
+          "key": "C",
+          "text": "translate"
+        },
+        {
+          "key": "D",
+          "text": "bring"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Bring' means to carry or lead something toward the speaker/destination.",
+        "wrong_A": "'Fetch' means go and bring back, but 'bring to station 4' is standard.",
+        "wrong_B": "'Conduct' means to manage, guide, or transmit electricity, not to physically carry a tool (Czech 'donést' vs 'vést').",
+        "wrong_C": "'Translate' means to render into another language (Czech 'přeložit', not carry)."
+      },
+      "cz_learning_point": "Avoid confusing false Latin cognates like 'conduct' (provádět audit, vést proud) with basic physical movement of items ('bring', 'deliver').",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-SP-001-Q8",
+      "prompt": "All hazardous assembly chemicals must be stored in _____ containers to prevent toxic evaporation.",
+      "options": [
+        {
+          "key": "A",
+          "text": "airtight"
+        },
+        {
+          "key": "B",
+          "text": "hermetic"
+        },
+        {
+          "key": "C",
+          "text": "isolated"
+        },
+        {
+          "key": "D",
+          "text": "insulated"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Airtight' is the natural, modern English term for preventing the entry or escape of air and vapors.",
+        "wrong_B": "While 'hermetic' exists, it is overly archaic or used in specialized seals ('hermetically sealed'); 'airtight' is preferred.",
+        "wrong_C": "'Isolated' means separated from others.",
+        "wrong_D": "'Insulated' refers to thermal or electrical barrier protection, not gas sealing."
+      },
+      "cz_learning_point": "Czech 'hermetický' is often rendered as 'airtight' or 'sealed' in modern technical manufacturing English.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-SP-001-Q9",
+      "prompt": "Before installing the planetary reduction gearbox, the mechanic ensured that all mating surfaces were _____ and free of burrs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "flat"
+        },
+        {
+          "key": "B",
+          "text": "smooth"
+        },
+        {
+          "key": "C",
+          "text": "plane"
+        },
+        {
+          "key": "D",
+          "text": "slick"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Smooth' (having an even and regular surface free of roughness or burrs) is the proper mechanical term.",
+        "wrong_A": "'Flat' refers to planar geometry, but 'free of burrs' relates directly to surface finish smoothness.",
+        "wrong_C": "'Plane' is a geometric concept or tool, not an adjective for surface finish quality.",
+        "wrong_D": "'Slick' implies slippery (e.g., icy road), not machined finish."
+      },
+      "cz_learning_point": "Czech 'hladký' translates to 'smooth'; do not confuse 'plane / flat' with surface texture finish.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-SP-001-Q10",
+      "prompt": "Our quality assurance manual strictly forbids operators from making _____ modifications to standard operating procedures.",
+      "options": [
+        {
+          "key": "A",
+          "text": "autonomous"
+        },
+        {
+          "key": "B",
+          "text": "voluntary"
+        },
+        {
+          "key": "C",
+          "text": "automatic"
+        },
+        {
+          "key": "D",
+          "text": "arbitrary"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Arbitrary' (based on random choice or personal whim rather than system rule) accurately reflects unauthorized changes.",
+        "wrong_A": "'Autonomous' means self-governing or robotic self-driving.",
+        "wrong_B": "'Voluntary' means done of one's own free will without payment or force (dobrovolný).",
+        "wrong_C": "'Automatic' means operating by itself mechanically."
+      },
+      "cz_learning_point": "Czech 'svévolný' translates to 'arbitrary' or 'unauthorized', NOT 'voluntary'.",
+      "workplace_track": "Quality Assurance & Assembly"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-A2-003",
+  "title": "Yesterday's Chemical Synthesis & Titration: Past Simple",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Organic Chemical Synthesis & Batch Reactors",
+  "estimated_time_minutes": 10,
+  "description": "Report analytical laboratory results, synthesis batches, and Karl Fischer titrations using regular and irregular Past Simple forms.",
+  "learning_objectives": [
+    "Use Past Simple -ed endings correctly for lab verbs (dissolved, heated, filtered)",
+    "Master essential irregular past forms (took, added, blew, kept, forgot) in batch reports",
+    "Formulate negative sentences and questions with auxiliary 'did/didn't'"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-A2-003-Q1",
+      "prompt": "Yesterday afternoon, the analytical chemist _____ the active pharmaceutical ingredient in 50 mL of methanol.",
+      "options": [
+        {
+          "key": "A",
+          "text": "dissolve"
+        },
+        {
+          "key": "B",
+          "text": "dissolved"
+        },
+        {
+          "key": "C",
+          "text": "is dissolving"
+        },
+        {
+          "key": "D",
+          "text": "has dissolved"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Yesterday afternoon' specifies a completed past time, requiring Past Simple 'dissolved'.",
+        "wrong_A": "Base form without past inflection.",
+        "wrong_C": "Present continuous cannot be used with 'yesterday'.",
+        "wrong_D": "Present perfect cannot be used with specific past time adverbs like 'yesterday'."
+      },
+      "cz_learning_point": "Czech uses the same past form for both, but in English, 'yesterday' requires Past Simple ('dissolved'), never Present Perfect.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-A2-003-Q2",
+      "prompt": "We _____ the titration three times to confirm the endpoint color change.",
+      "options": [
+        {
+          "key": "A",
+          "text": "repeat"
+        },
+        {
+          "key": "B",
+          "text": "repeats"
+        },
+        {
+          "key": "C",
+          "text": "repeated"
+        },
+        {
+          "key": "D",
+          "text": "are repeating"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Simple regular verb adds -ed: 'repeated'.",
+        "wrong_A": "Present base form.",
+        "wrong_B": "3rd person singular present form.",
+        "wrong_D": "Present continuous describes ongoing actions, not finished tests."
+      },
+      "cz_learning_point": "Czech 'Opakovali jsme titraci třikrát'. Use regular Past Simple: 'repeated'.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-A2-003-Q3",
+      "prompt": "The technician _____ 5.0 grams of sodium hydroxide on the analytical balance.",
+      "options": [
+        {
+          "key": "A",
+          "text": "weighed"
+        },
+        {
+          "key": "B",
+          "text": "weigh"
+        },
+        {
+          "key": "C",
+          "text": "is weighing"
+        },
+        {
+          "key": "D",
+          "text": "weights"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Regular past tense is 'weighed'.",
+        "wrong_B": "Present base form.",
+        "wrong_C": "Present continuous.",
+        "wrong_D": "'weights' is a noun (plural) or misspelled present verb."
+      },
+      "cz_learning_point": "Czech 'Technik navážil'. Use Past Simple 'weighed' (pronounced /weɪd/).",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-A2-003-Q4",
+      "prompt": "Why _____ the temperature in reactor R-201 rise above 65°C during the night shift?",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "did"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Simple questions with action verbs ('rise') require auxiliary 'did'.",
+        "wrong_A": "'was' cannot auxiliary base verb 'rise' without '-ing'.",
+        "wrong_B": "'does' is Present Simple, but the night shift is finished.",
+        "wrong_C": "'has' requires past participle 'risen'."
+      },
+      "cz_learning_point": "In English past questions with main verbs: 'Why did the temperature rise...?', not *Why the temperature rose?*.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-A2-003-Q5",
+      "prompt": "The lab assistant _____ not add hydrochloric acid because the pH was already 2.5.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "did"
+        },
+        {
+          "key": "D",
+          "text": "does"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Simple negation uses 'did not' + base verb: 'did not add'.",
+        "wrong_A": "'was not add' is ungrammatical.",
+        "wrong_B": "'is not' is present tense.",
+        "wrong_D": "'does not' is present tense."
+      },
+      "cz_learning_point": "Czech 'Asistent nepřidal'. English past negative is 'did not add', never *was not add*.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-A2-003-Q6",
+      "prompt": "The synthesis batch _____ approximately four hours to reach reflux temperature.",
+      "options": [
+        {
+          "key": "A",
+          "text": "take"
+        },
+        {
+          "key": "B",
+          "text": "took"
+        },
+        {
+          "key": "C",
+          "text": "taken"
+        },
+        {
+          "key": "D",
+          "text": "is taking"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Irregular past of 'take' is 'took'.",
+        "wrong_A": "Base form.",
+        "wrong_C": "Past participle 'taken' cannot stand without auxiliary 'has/had'.",
+        "wrong_D": "Present continuous."
+      },
+      "cz_learning_point": "The irregular past of 'take' is 'took': 'The reaction took four hours'.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-A2-003-Q7",
+      "prompt": "Yesterday, the QC analyst _____ three sample vials in the refrigerated autosampler rack.",
+      "options": [
+        {
+          "key": "A",
+          "text": "place"
+        },
+        {
+          "key": "B",
+          "text": "places"
+        },
+        {
+          "key": "C",
+          "text": "placing"
+        },
+        {
+          "key": "D",
+          "text": "placed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Regular past tense is 'placed'.",
+        "wrong_A": "Base present form.",
+        "wrong_B": "Present 3rd person singular.",
+        "wrong_C": "Participle alone cannot be the main verb."
+      },
+      "cz_learning_point": "Past regular verb adds -d: 'placed'.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-A2-003-Q8",
+      "prompt": "The night operator _____ the batch documentation on the cleanroom desk before going home.",
+      "options": [
+        {
+          "key": "A",
+          "text": "left"
+        },
+        {
+          "key": "B",
+          "text": "leave"
+        },
+        {
+          "key": "C",
+          "text": "leaved"
+        },
+        {
+          "key": "D",
+          "text": "leaves"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Irregular past tense of 'leave' is 'left'.",
+        "wrong_B": "Base present form.",
+        "wrong_C": "'leaved' is an incorrect regularized form.",
+        "wrong_D": "Present tense singular."
+      },
+      "cz_learning_point": "Czech 'nechal dokumentaci'. Irregular past form of 'leave' is 'left'.",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-A2-003-Q9",
+      "prompt": "_____ you calibrate the Karl Fischer titrator before testing the solvent moisture content?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Were"
+        },
+        {
+          "key": "B",
+          "text": "Do"
+        },
+        {
+          "key": "C",
+          "text": "Did"
+        },
+        {
+          "key": "D",
+          "text": "Are"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Simple yes/no questions take auxiliary 'Did' + base verb.",
+        "wrong_A": "'Were' cannot accompany base verb 'calibrate'.",
+        "wrong_B": "'Do' is present tense.",
+        "wrong_D": "'Are' is present tense."
+      },
+      "cz_learning_point": "Form past questions with 'Did': 'Did you calibrate...?' (Zkalibroval jste...?).",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    },
+    {
+      "id": "TAPI-CHEM-A2-003-Q10",
+      "prompt": "The crystal precipitation _____ after we added the cooling brine solution.",
+      "options": [
+        {
+          "key": "A",
+          "text": "begin"
+        },
+        {
+          "key": "B",
+          "text": "began"
+        },
+        {
+          "key": "C",
+          "text": "begun"
+        },
+        {
+          "key": "D",
+          "text": "beginning"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Simple of 'begin' is 'began'.",
+        "wrong_A": "Base present form.",
+        "wrong_C": "'begun' is the past participle, requiring auxiliary 'had/has'.",
+        "wrong_D": "Participle alone cannot act as predicate."
+      },
+      "cz_learning_point": "The irregular past tense of 'begin' is 'began' (krystalizace začala).",
+      "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
+    }
+  ]
+}

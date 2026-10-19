@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-A2-018",
+  "title": "Reporting Broken Drills & Damaged Cutting Inserts",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Quality Assurance, Inspection & Torque Verification",
+  "estimated_time_minutes": 10,
+  "description": "Foundational workplace English module covering reporting broken drills & damaged cutting inserts.",
+  "learning_objectives": [
+    "Master professional Past Simple Negatives & Questions in automotive engineering",
+    "Eliminate common Czech interference errors in reporting broken drills & damaged cutting inserts",
+    "Demonstrate precision in technical and regulatory documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-A2-018-Q1",
+      "prompt": "Yesterday during shift 2, the assembly line mechanic _____ the differential gear casing with a calibrated pneumatic impact driver.",
+      "options": [
+        {
+          "key": "A",
+          "text": "tighten"
+        },
+        {
+          "key": "B",
+          "text": "tightened"
+        },
+        {
+          "key": "C",
+          "text": "has tightened"
+        },
+        {
+          "key": "D",
+          "text": "is tightening"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Specific completed time 'yesterday' strictly requires Past Simple 'tightened'.",
+        "wrong_A": "Base form 'tighten' lacks past tense inflection.",
+        "wrong_C": "Present Perfect 'has tightened' cannot co-occur with specific past adverbial 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past form, but in English, 'yesterday' strictly requires Past Simple ('tightened'), never Present Perfect.",
+      "workplace_track": "Quality Assurance, Inspection & Torque Verification"
+    },
+    {
+      "id": "TTR-ENG-A2-018-Q2",
+      "prompt": "Yesterday during shift 2, the quality inspector _____ the chassis backbone tube weld seam for micro-cracks before painting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inspect"
+        },
+        {
+          "key": "B",
+          "text": "has inspected"
+        },
+        {
+          "key": "C",
+          "text": "inspected"
+        },
+        {
+          "key": "D",
+          "text": "is inspecting"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific completed time 'yesterday' strictly requires Past Simple 'inspected'.",
+        "wrong_A": "Base form 'inspect' lacks past tense inflection.",
+        "wrong_B": "Present Perfect 'has inspected' cannot co-occur with specific past adverbial 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past form, but in English, 'yesterday' strictly requires Past Simple ('inspected'), never Present Perfect.",
+      "workplace_track": "Quality Assurance, Inspection & Torque Verification"
+    },
+    {
+      "id": "TTR-ENG-A2-018-Q3",
+      "prompt": "Yesterday during shift 2, the crane operator _____ the heavy Tatra V8 engine block directly onto the front chassis mounts.",
+      "options": [
+        {
+          "key": "A",
+          "text": "lowered"
+        },
+        {
+          "key": "B",
+          "text": "lower"
+        },
+        {
+          "key": "C",
+          "text": "has lowered"
+        },
+        {
+          "key": "D",
+          "text": "is lowering"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Specific completed time 'yesterday' strictly requires Past Simple 'lowered'.",
+        "wrong_B": "Base form 'lower' lacks past tense inflection.",
+        "wrong_C": "Present Perfect 'has lowered' cannot co-occur with specific past adverbial 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past form, but in English, 'yesterday' strictly requires Past Simple ('lowered'), never Present Perfect.",
+      "workplace_track": "Quality Assurance, Inspection & Torque Verification"
+    },
+    {
+      "id": "TTR-ENG-A2-018-Q4",
+      "prompt": "Yesterday during shift 2, our maintenance technician _____ the hydraulic oil level in the cabin tilt mechanism every Monday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "check"
+        },
+        {
+          "key": "B",
+          "text": "has checked"
+        },
+        {
+          "key": "C",
+          "text": "is checking"
+        },
+        {
+          "key": "D",
+          "text": "checked"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Specific completed time 'yesterday' strictly requires Past Simple 'checked'.",
+        "wrong_A": "Base form 'check' lacks past tense inflection.",
+        "wrong_B": "Present Perfect 'has checked' cannot co-occur with specific past adverbial 'yesterday'.",
+        "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past form, but in English, 'yesterday' strictly requires Past Simple ('checked'), never Present Perfect.",
+      "workplace_track": "Quality Assurance, Inspection & Torque Verification"
+    },
+    {
+      "id": "TTR-ENG-A2-018-Q5",
+      "prompt": "Yesterday during shift 2, the robotic welding arm _____ the suspension bracket to the central load-bearing tube automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "weld"
+        },
+        {
+          "key": "B",
+          "text": "has welded"
+        },
+        {
+          "key": "C",
+          "text": "welded"
+        },
+        {
+          "key": "D",
+          "text": "is welding"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific completed time 'yesterday' strictly requires Past Simple 'welded'.",
+        "wrong_A": "Base form 'weld' lacks past tense inflection.",
+        "wrong_B": "Present Perfect 'has welded' cannot co-occur with specific past adverbial 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past form, but in English, 'yesterday' strictly requires Past Simple ('welded'), never Present Perfect.",
+      "workplace_track": "Quality Assurance, Inspection & Torque Verification"
+    },
+    {
+      "id": "TTR-ENG-A2-018-Q6",
+      "prompt": "Yesterday during shift 2, the workshop supervisor _____ the daily assembly logbook before the afternoon shift departs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sign"
+        },
+        {
+          "key": "B",
+          "text": "signed"
+        },
+        {
+          "key": "C",
+          "text": "has signed"
+        },
+        {
+          "key": "D",
+          "text": "is signing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Specific completed time 'yesterday' strictly requires Past Simple 'signed'.",
+        "wrong_A": "Base form 'sign' lacks past tense inflection.",
+        "wrong_C": "Present Perfect 'has signed' cannot co-occur with specific past adverbial 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past form, but in English, 'yesterday' strictly requires Past Simple ('signed'), never Present Perfect.",
+      "workplace_track": "Quality Assurance, Inspection & Torque Verification"
+    },
+    {
+      "id": "TTR-ENG-A2-018-Q7",
+      "prompt": "Yesterday during shift 2, the testing engineer _____ the central tire inflation system (CTIS) pressure valves during road trials.",
+      "options": [
+        {
+          "key": "A",
+          "text": "test"
+        },
+        {
+          "key": "B",
+          "text": "has tested"
+        },
+        {
+          "key": "C",
+          "text": "is testing"
+        },
+        {
+          "key": "D",
+          "text": "tested"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Specific completed time 'yesterday' strictly requires Past Simple 'tested'.",
+        "wrong_A": "Base form 'test' lacks past tense inflection.",
+        "wrong_B": "Present Perfect 'has tested' cannot co-occur with specific past adverbial 'yesterday'.",
+        "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past form, but in English, 'yesterday' strictly requires Past Simple ('tested'), never Present Perfect.",
+      "workplace_track": "Quality Assurance, Inspection & Torque Verification"
+    },
+    {
+      "id": "TTR-ENG-A2-018-Q8",
+      "prompt": "Yesterday during shift 2, the paint shop worker _____ the wheel rims with a protective anti-corrosion primer coating.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sprayed"
+        },
+        {
+          "key": "B",
+          "text": "spray"
+        },
+        {
+          "key": "C",
+          "text": "has sprayed"
+        },
+        {
+          "key": "D",
+          "text": "is spraying"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Specific completed time 'yesterday' strictly requires Past Simple 'sprayed'.",
+        "wrong_B": "Base form 'spray' lacks past tense inflection.",
+        "wrong_C": "Present Perfect 'has sprayed' cannot co-occur with specific past adverbial 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past form, but in English, 'yesterday' strictly requires Past Simple ('sprayed'), never Present Perfect.",
+      "workplace_track": "Quality Assurance, Inspection & Torque Verification"
+    },
+    {
+      "id": "TTR-ENG-A2-018-Q9",
+      "prompt": "Yesterday during shift 2, the driveline specialist _____ the swinging half-axle rubber dust boot for oil weeping.",
+      "options": [
+        {
+          "key": "A",
+          "text": "replace"
+        },
+        {
+          "key": "B",
+          "text": "has replaced"
+        },
+        {
+          "key": "C",
+          "text": "replaced"
+        },
+        {
+          "key": "D",
+          "text": "is replacing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific completed time 'yesterday' strictly requires Past Simple 'replaced'.",
+        "wrong_A": "Base form 'replace' lacks past tense inflection.",
+        "wrong_B": "Present Perfect 'has replaced' cannot co-occur with specific past adverbial 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past form, but in English, 'yesterday' strictly requires Past Simple ('replaced'), never Present Perfect.",
+      "workplace_track": "Quality Assurance, Inspection & Torque Verification"
+    },
+    {
+      "id": "TTR-ENG-A2-018-Q10",
+      "prompt": "Yesterday during shift 2, the logistics handler _____ new hardened M16 flange bolts to workstation 4 in yellow bins.",
+      "options": [
+        {
+          "key": "A",
+          "text": "bring"
+        },
+        {
+          "key": "B",
+          "text": "brought"
+        },
+        {
+          "key": "C",
+          "text": "has brought"
+        },
+        {
+          "key": "D",
+          "text": "is bringing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Specific completed time 'yesterday' strictly requires Past Simple 'brought'.",
+        "wrong_A": "Base form 'bring' lacks past tense inflection.",
+        "wrong_C": "Present Perfect 'has brought' cannot co-occur with specific past adverbial 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past form, but in English, 'yesterday' strictly requires Past Simple ('brought'), never Present Perfect.",
+      "workplace_track": "Quality Assurance, Inspection & Torque Verification"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-A2-018",
+  "title": "TLC Chromatography Chamber Solvent Level & Cover Glass",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)",
+  "estimated_time_minutes": 10,
+  "description": "Foundational chemical laboratory module covering tlc chromatography chamber solvent level & cover glass.",
+  "learning_objectives": [
+    "Master professional Spatial Prepositions (above, below, on) in organic API synthesis and QC analysis",
+    "Eliminate common Czech interference errors in tlc chromatography chamber solvent level & cover glass",
+    "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-A2-018-Q1",
+      "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "between"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "under"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'inside' accurately describes the physical laboratory location.",
+        "wrong_A": "Preposition 'between' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'under' is incompatible with the cabinet layout.",
+        "wrong_D": "Preposition 'next to' indicates wrong direction."
+      },
+      "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-018-Q2",
+      "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "under"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'between' accurately describes the physical laboratory location.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'under' is incompatible with the cabinet layout.",
+        "wrong_D": "Preposition 'next to' indicates wrong direction."
+      },
+      "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-018-Q3",
+      "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "under"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'under' accurately describes the physical laboratory location.",
+        "wrong_B": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' is incompatible with the cabinet layout.",
+        "wrong_D": "Preposition 'next to' indicates wrong direction."
+      },
+      "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-018-Q4",
+      "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "under"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Preposition 'next to' accurately describes the physical laboratory location.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' is incompatible with the cabinet layout.",
+        "wrong_C": "Preposition 'under' indicates wrong direction."
+      },
+      "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-018-Q5",
+      "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "above"
+        },
+        {
+          "key": "D",
+          "text": "under"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'above' accurately describes the physical laboratory location.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' is incompatible with the cabinet layout.",
+        "wrong_D": "Preposition 'under' indicates wrong direction."
+      },
+      "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-018-Q6",
+      "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "behind"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "under"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'behind' accurately describes the physical laboratory location.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' is incompatible with the cabinet layout.",
+        "wrong_D": "Preposition 'under' indicates wrong direction."
+      },
+      "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-018-Q7",
+      "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "under"
+        },
+        {
+          "key": "D",
+          "text": "into"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Preposition 'into' accurately describes the physical laboratory location.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' is incompatible with the cabinet layout.",
+        "wrong_C": "Preposition 'under' indicates wrong direction."
+      },
+      "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-018-Q8",
+      "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "across"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "under"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'across' accurately describes the physical laboratory location.",
+        "wrong_B": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' is incompatible with the cabinet layout.",
+        "wrong_D": "Preposition 'under' indicates wrong direction."
+      },
+      "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-018-Q9",
+      "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "along"
+        },
+        {
+          "key": "D",
+          "text": "under"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'along' accurately describes the physical laboratory location.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' is incompatible with the cabinet layout.",
+        "wrong_D": "Preposition 'under' indicates wrong direction."
+      },
+      "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    },
+    {
+      "id": "TAPI-CHEM-A2-018-Q10",
+      "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "against"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "under"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'against' accurately describes the physical laboratory location.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' is incompatible with the cabinet layout.",
+        "wrong_D": "Preposition 'under' indicates wrong direction."
+      },
+      "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+      "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
+    }
+  ]
+}

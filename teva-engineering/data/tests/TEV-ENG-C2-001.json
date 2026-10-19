@@ -1,0 +1,326 @@
+{
+  "test_id": "TEV-ENG-C2-001",
+  "title": "Unannounced FDA/EMA Regulatory Inspection Defense & GAMP 5 Disputes",
+  "level": "C2",
+  "category": "core",
+  "workplace_track": "FDA/EMA Regulatory Inspection Defense & Audit Management",
+  "estimated_time_minutes": 20,
+  "description": "Lead CSV and sterile facility engineering responses: addressing FDA Form 483 inspection observations, defending SCADA audit trails, and framing cleanroom HVAC cascade mitigations without admitting willful non-compliance.",
+  "learning_objectives": [
+    "Master diplomatic counter-argumentation during high-stakes health authority audits",
+    "Formulate precise passive hedging in computerized system validation (CSV) audit defenses",
+    "Utilize formal mandative and inverted structures in regulatory corrective action plans"
+  ],
+  "questions": [
+    {
+      "id": "TEV-ENG-C2-001-Q1",
+      "prompt": "On no account _____ authorized cleanroom operators share administrative credentials to bypass electronic signature controls on the Lyophilizer SCADA terminal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the personnel may"
+        },
+        {
+          "key": "B",
+          "text": "may authorized"
+        },
+        {
+          "key": "C",
+          "text": "personnel should"
+        },
+        {
+          "key": "D",
+          "text": "are to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Fronted negative restrictive prepositional phrase 'On no account' requires subject-auxiliary inversion ('may authorized cleanroom operators share').",
+        "wrong_A": "Lacks required inversion after fronted negative phrase.",
+        "wrong_C": "Direct word order violates the formal inversion rule.",
+        "wrong_D": "'Are to' creates invalid syntax with the sentence structure."
+      },
+      "cz_learning_point": "Czech 'Za žádných okolností nesmí operátoři sdílet...'. In formal GMP SOPs and audit responses, use fronted inversion: 'On no account may authorized operators share...'.",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    },
+    {
+      "id": "TEV-ENG-C2-001-Q2",
+      "prompt": "While the FDA inspector noted an apparent audit trail gap, our forensic server telemetry _____ that the system was undergoing pre-scheduled NTP synchronization.",
+      "options": [
+        {
+          "key": "A",
+          "text": "categorically proves beyond all shadow of doubt"
+        },
+        {
+          "key": "B",
+          "text": "unmistakably and undeniably asserts"
+        },
+        {
+          "key": "C",
+          "text": "would appear to substantiate"
+        },
+        {
+          "key": "D",
+          "text": "is shouting out"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "In regulatory audit responses, diplomatic epistemic hedging ('would appear to substantiate') demonstrates objective scientific rigor without triggering regulatory antagonism.",
+        "wrong_A": "Excessively emotional and absolute phrasing ('beyond all shadow of doubt') is considered unprofessional in official FDA 483 responses.",
+        "wrong_B": "Confrontational and unscientific register.",
+        "wrong_D": "Colloquial idiom completely out of place in pharmaceutical regulatory governance."
+      },
+      "cz_learning_point": "Czech 'se zdá potvrzovat / nasvědčuje tomu'. In FDA 483 responses, avoid belligerent claims; use refined hedging like 'would appear to substantiate'.",
+      "workplace_track": "Regulatory Health Authority Audits, GAMP 5 & Computerized System Validation"
+    },
+    {
+      "id": "TEV-ENG-C2-001-Q3",
+      "prompt": "_____ the computerized building management system (BMS) executed an automated failover during the cleanroom pressure drop, the Grade B aseptic envelope would have remained compromised.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Had not"
+        },
+        {
+          "key": "B",
+          "text": "Were not"
+        },
+        {
+          "key": "C",
+          "text": "Had"
+        },
+        {
+          "key": "D",
+          "text": "Should not"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Inverted third conditional negative ('Had not the computerized BMS executed...' or 'Had the computerized BMS not executed...') describes a past counterfactual disaster that was successfully prevented.",
+        "wrong_B": "'Were not' cannot pair with past participle 'executed'.",
+        "wrong_C": "Positive 'Had' would mean the failure occurred BECAUSE of the failover, reversing the causal reality.",
+        "wrong_D": "'Should not' applies to future possibilities, not historical past incidents."
+      },
+      "cz_learning_point": "Czech 'Kdyby systém neprovedl automatické přepnutí...'. High-register validation reporting inverts 'had': 'Had the BMS not executed...'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-C2-001-Q4",
+      "prompt": "The Corporate Quality Assurance Directorate mandated that the validation lead engineer _____ an immediate retrospection audit of all GAMP Category 4 configurable software packages.",
+      "options": [
+        {
+          "key": "A",
+          "text": "undertake"
+        },
+        {
+          "key": "B",
+          "text": "undertakes"
+        },
+        {
+          "key": "C",
+          "text": "shall undertake"
+        },
+        {
+          "key": "D",
+          "text": "is undertaking"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mandative subjunctive after 'mandated that' requires the uninflected base verb 'undertake'.",
+        "wrong_B": "Third person singular 'undertakes' violates the mandative subjunctive mood required in formal quality directives.",
+        "wrong_C": "'Shall undertake' is valid in contractual obligations, but after 'mandated that', standard high-register English uses the bare subjunctive.",
+        "wrong_D": "Continuous aspect is incorrect in formal administrative directives."
+      },
+      "cz_learning_point": "Czech 'vedení nařídilo, aby vedoucí inženýr provedl...'. Mandative subjunctive: 'mandated that the engineer undertake...'.",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    },
+    {
+      "id": "TEV-ENG-C2-001-Q5",
+      "prompt": "Rarely _____ an unannounced regulatory health inspection uncover zero computerized system validation discrepancies across an entire multi-suite sterile filling facility.",
+      "options": [
+        {
+          "key": "A",
+          "text": "an inspector does"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "does"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Fronted negative frequency adverb 'Rarely' followed by singular subject 'an inspection' and base verb 'uncover' requires dummy auxiliary inversion 'does' ('Rarely does an inspection uncover...').",
+        "wrong_A": "Lacks required inversion after fronted restrictive adverb.",
+        "wrong_B": "'Is' cannot invert with base action verb 'uncover'.",
+        "wrong_D": "'Has' would require past participle 'uncovered'."
+      },
+      "cz_learning_point": "Czech 'Zřídkakdy neohlášená inspekce neodhalí...'. English fronted 'Rarely' forces inversion: 'Rarely does an unannounced inspection uncover...'.",
+      "workplace_track": "Regulatory Health Authority Audits, GAMP 5 & Computerized System Validation"
+    },
+    {
+      "id": "TEV-ENG-C2-001-Q6",
+      "prompt": "The engineering remediation plan must be executed rigorously, _____ the regulatory body serve a formal Warning Letter against the sterile manufacturing plant.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order not"
+        },
+        {
+          "key": "B",
+          "text": "lest"
+        },
+        {
+          "key": "C",
+          "text": "unless that"
+        },
+        {
+          "key": "D",
+          "text": "otherwise that"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Formal conjunction 'lest' ('for fear that') introduces a severe regulatory consequence and takes the subjunctive verb 'serve'.",
+        "wrong_A": "'In order not' requires infinitive with 'to', not a full clause with subject.",
+        "wrong_C": "'Unless that' is ungrammatical in standard English.",
+        "wrong_D": "'Otherwise that' is a literal Czenglish transfer error (*jinak aby ne*)."
+      },
+      "cz_learning_point": "Czech 'aby inspekční orgán nevydal varovný dopis...'. Formal English uses 'lest [subject] [subjunctive verb]': 'lest the regulatory body serve a Warning Letter'.",
+      "workplace_track": "Regulatory Health Authority Audits, GAMP 5 & Computerized System Validation"
+    },
+    {
+      "id": "TEV-ENG-C2-001-Q7",
+      "prompt": "Hardly had the CIP (Clean-in-Place) caustic wash cycle terminated _____ the inline conductivity sensor recorded an out-of-specification rinse water reading.",
+      "options": [
+        {
+          "key": "A",
+          "text": "than"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "after"
+        },
+        {
+          "key": "D",
+          "text": "when"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Hardly had [event]... when [second event]' is the strictly required correlative conjunction in formal technical reporting.",
+        "wrong_A": "'Than' pairs with 'No sooner', not 'Hardly'.",
+        "wrong_B": "'That' cannot act as the correlative conjunction for 'Hardly'.",
+        "wrong_C": "'After' is grammatically redundant with past perfect auxiliary inversion."
+      },
+      "cz_learning_point": "Czech 'Sotva skončil promývací cyklus, když v tom...'. 'Hardly had...' must always be paired with 'WHEN'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TEV-ENG-C2-001-Q8",
+      "prompt": "_____ an audit trail discrepancy arise in the batch release record, the Qualified Person (QP) must suspend lot disposition immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Should"
+        },
+        {
+          "key": "B",
+          "text": "Were"
+        },
+        {
+          "key": "C",
+          "text": "Had"
+        },
+        {
+          "key": "D",
+          "text": "If so"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Inverted first conditional ('Should an audit trail discrepancy arise...') represents formal GMP standard operating procedure phrasing for future eventualities.",
+        "wrong_B": "'Were' would require 'to arise', not bare infinitive 'arise'.",
+        "wrong_C": "'Had' pairs with past counterfactual events, not future disposition procedures.",
+        "wrong_D": "'If so' cannot act as a subordinate conditional clause conjunction."
+      },
+      "cz_learning_point": "Czech 'Pokud by vznikla jakákoliv nesrovnalost...'. In formal SOP guidelines, use 'Should an audit trail discrepancy arise...'.",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    },
+    {
+      "id": "TEV-ENG-C2-001-Q9",
+      "prompt": "The observed particle count excursion during vial stoppling cannot _____ solely to operator gowning shedding without evaluating HEPA filter face velocity.",
+      "options": [
+        {
+          "key": "A",
+          "text": "conclusively ascribe"
+        },
+        {
+          "key": "B",
+          "text": "ascribe itself"
+        },
+        {
+          "key": "C",
+          "text": "rationally be ascribed"
+        },
+        {
+          "key": "D",
+          "text": "be having ascribed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive modal construction with cognitive hedging ('cannot rationally be ascribed to...') accurately qualifies root cause analysis in pharmaceutical quality risk management.",
+        "wrong_A": "Active voice 'ascribe' cannot have the inanimate excursion as its subject.",
+        "wrong_B": "'Ascribe itself' is a direct Czenglish reflexive error (*připisovat se*).",
+        "wrong_D": "Ungrammatical progressive passive construction."
+      },
+      "cz_learning_point": "Czech 'odchylku nelze rozumně přičítat pouze...'. Do not translate reflexively (*ascribe itself*). Use passive modal 'cannot rationally be ascribed to...'.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-C2-001-Q10",
+      "prompt": "Little _____ the plant automation team realize that a legacy firmware update on the programmable logic controller would corrupt historical 21 CFR Part 11 electronic signatures.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "had"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Fronted restrictive adverb 'Little' followed by base lexical verb 'realize' requires past auxiliary inversion 'did' ('Little did the team realize...').",
+        "wrong_A": "'Was' cannot invert with base action verb 'realize'.",
+        "wrong_C": "'Has' would require past participle 'realized'.",
+        "wrong_D": "'Had' creates awkward double-past perfect with 'would corrupt'."
+      },
+      "cz_learning_point": "Czech 'Tým si vůbec neuvědomoval, že...'. Formal dramatic negative inversion in incident post-mortems: 'Little did the plant automation team realize...'.",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    }
+  ]
+}

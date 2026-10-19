@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-B2-002",
+  "title": "International Defense Tender Negotiations: Modals of Deduction",
+  "level": "B2",
+  "category": "core",
+  "workplace_track": "International Sales & Tenders",
+  "estimated_time_minutes": 16,
+  "description": "Analyze competitor bids, tender award criteria, and past contract outcomes using modals of deduction and speculation (must have, can't have, might have, should have).",
+  "learning_objectives": [
+    "Express degrees of certainty regarding past outcomes using modal perfect auxiliaries",
+    "Distinguish between logical impossibility ('can't have') and obligation/regret ('should have')",
+    "Avoid typical Czech modal translation traps in high-stakes tender negotiations"
+  ],
+  "questions": [
+    {
+      "id": "TTR-B2-002-Q1",
+      "prompt": "The rival truck manufacturer won the desert defense tender with an unrealistically low bid; they _____ their margins to less than 2% to secure market entry.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should have slashed"
+        },
+        {
+          "key": "B",
+          "text": "must have slashed"
+        },
+        {
+          "key": "C",
+          "text": "can't have slashed"
+        },
+        {
+          "key": "D",
+          "text": "would slash"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Must have slashed' expresses logical deduction with high certainty based on overwhelming commercial evidence.",
+        "wrong_A": "'Should have slashed' implies criticism or unfulfilled recommendation, which does not fit an explanatory deduction.",
+        "wrong_C": "'Can't have slashed' indicates logical impossibility, contradicting the premise of an unrealistically low bid.",
+        "wrong_D": "'Would slash' is future or conditional, not a past deductive conclusion."
+      },
+      "cz_learning_point": "Czech uses 'určitě snížili' or 'museli snížit'. In English, 'must have + past participle' denotes 95%+ certainty about a past event.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B2-002-Q2",
+      "prompt": "Our legal team _____ the revised penalty clause in the contract; otherwise, the client wouldn't have disputed the delivery milestone.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must have reviewed"
+        },
+        {
+          "key": "B",
+          "text": "may have reviewed"
+        },
+        {
+          "key": "C",
+          "text": "can't have reviewed"
+        },
+        {
+          "key": "D",
+          "text": "should review"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Can't have reviewed' (or 'couldn't have reviewed') expresses deduction of negative certainty / impossibility in the past.",
+        "wrong_A": "'Must have reviewed' contradicts the fact that a dispute arose from an overlooked clause.",
+        "wrong_B": "'May have reviewed' indicates mere possibility, whereas 'otherwise...' establishes certainty.",
+        "wrong_D": "'Should review' is present advice, not a past deduction."
+      },
+      "cz_learning_point": "Czech says 'nemohli zkontrolovat'. English speakers use 'can't have + V3' or 'couldn't have + V3' for logical negative deductions.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B2-002-Q3",
+      "prompt": "We haven't received the signed end-user certificate yet; the ministry's procurement committee _____ for the national holiday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "might have adjourned"
+        },
+        {
+          "key": "B",
+          "text": "must adjourn"
+        },
+        {
+          "key": "C",
+          "text": "should adjourn"
+        },
+        {
+          "key": "D",
+          "text": "can adjourn"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Might have adjourned' expresses a plausible past possibility (speculation without proof).",
+        "wrong_B": "'Must adjourn' is present obligation, not past speculation.",
+        "wrong_C": "'Should adjourn' expresses advice about future or present actions.",
+        "wrong_D": "'Can adjourn' expresses general theoretical ability, not past event speculation."
+      },
+      "cz_learning_point": "Czechs often translate 'možná zasedání přerušili' as 'maybe they adjourned'. Using 'might have + V3' reflects a higher B2 business register.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B2-002-Q4",
+      "prompt": "Our commercial department _____ the local homologation fees into the CIF quotation, because our final profit margin was completely wiped out.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must have factored"
+        },
+        {
+          "key": "B",
+          "text": "could factor"
+        },
+        {
+          "key": "C",
+          "text": "might factor"
+        },
+        {
+          "key": "D",
+          "text": "should have factored"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Should have factored' expresses regret/criticism about an action that was desirable but was not performed.",
+        "wrong_A": "'Must have factored' would imply they did include them, contradicting the wiped-out profit margin.",
+        "wrong_B": "'Could factor' expresses past capability or present hypothetical, not past regret.",
+        "wrong_C": "'Might factor' refers to present or future possibility."
+      },
+      "cz_learning_point": "Czech says 'měli jsme započítat'. In English, unfulfilled past obligations take 'should have + past participle'.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B2-002-Q5",
+      "prompt": "The export documentation _____ through customs in Poland by now, as the courier dispatched it four days ago via express delivery.",
+      "options": [
+        {
+          "key": "A",
+          "text": "can't have cleared"
+        },
+        {
+          "key": "B",
+          "text": "must clear"
+        },
+        {
+          "key": "C",
+          "text": "ought to have cleared"
+        },
+        {
+          "key": "D",
+          "text": "would clear"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Ought to have cleared' expresses strong reasonable expectation based on standard transit times.",
+        "wrong_A": "'Can't have cleared' implies impossibility, contradicting express dispatch 4 days ago.",
+        "wrong_B": "'Must clear' denotes present/future obligation.",
+        "wrong_D": "'Would clear' does not convey expectation based on elapsed time."
+      },
+      "cz_learning_point": "Czech 'mělo by už být procleno' is best translated into professional English as 'ought to have cleared' or 'should have cleared'.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B2-002-Q6",
+      "prompt": "The foreign delegation _____ about our proprietary swinging half-axles, because their chief engineer specifically requested an obstacle track demonstration.",
+      "options": [
+        {
+          "key": "A",
+          "text": "might hear"
+        },
+        {
+          "key": "B",
+          "text": "must have heard"
+        },
+        {
+          "key": "C",
+          "text": "could hear"
+        },
+        {
+          "key": "D",
+          "text": "would have heard"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Must have heard' is the deduction that logically explains the engineer's specific demonstration request.",
+        "wrong_A": "'Might hear' refers to future possibility, not past information acquired.",
+        "wrong_C": "'Could hear' denotes physical auditory ability in the past.",
+        "wrong_D": "'Would have heard' requires an unfulfilled condition ('if they had...')."
+      },
+      "cz_learning_point": "Czech uses 'museli slyšet'. English requires 'must have + past participle'. Avoid literal word-for-word 'they had to hear'.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B2-002-Q7",
+      "prompt": "You _____ all twenty chassis manuals into Arabic overnight; our certified UAE distributor already has standardized technical documentation on file.",
+      "options": [
+        {
+          "key": "A",
+          "text": "didn't need to translate"
+        },
+        {
+          "key": "B",
+          "text": "must not have translated"
+        },
+        {
+          "key": "C",
+          "text": "couldn't have translated"
+        },
+        {
+          "key": "D",
+          "text": "needn't have translated"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Needn't have translated' indicates that the action was performed, but in hindsight it was unnecessary.",
+        "wrong_A": "'Didn't need to translate' usually implies the person knew it was unnecessary and therefore did not do it.",
+        "wrong_B": "'Must not have translated' expresses negative deduction (deducing they didn't do it).",
+        "wrong_C": "'Couldn't have translated' expresses impossibility."
+      },
+      "cz_learning_point": "Distinction between 'nemusel jsi to dělat (ale udělals to)' $\\rightarrow$ 'needn't have done' vs. 'nemusel to dělat (a neudělal)' $\\rightarrow$ 'didn't need to do'.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B2-002-Q8",
+      "prompt": "Given that the military customer insisted on NATO green camouflage paint, they _____ to order vehicles for civilian mining operations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "can't have intended"
+        },
+        {
+          "key": "B",
+          "text": "must intend"
+        },
+        {
+          "key": "C",
+          "text": "should have intended"
+        },
+        {
+          "key": "D",
+          "text": "might not intend"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Can't have intended' expresses logical impossibility regarding their past intentions based on the camouflage specification.",
+        "wrong_B": "'Must intend' is present and contradicts the civilian mining premise.",
+        "wrong_C": "'Should have intended' expresses unfulfilled advice.",
+        "wrong_D": "'Might not intend' is present uncertainty rather than deductive certainty."
+      },
+      "cz_learning_point": "Never say '*must not have intended*' for impossibility in standard English; use '*can't have intended*' or '*couldn't have intended*'.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B2-002-Q9",
+      "prompt": "The test truck arrived at the test track with completely empty auxiliary air tanks; the maintenance crew _____ to open the isolation valve before transit.",
+      "options": [
+        {
+          "key": "A",
+          "text": "can't have forgotten"
+        },
+        {
+          "key": "B",
+          "text": "must have forgotten"
+        },
+        {
+          "key": "C",
+          "text": "may forget"
+        },
+        {
+          "key": "D",
+          "text": "should forget"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Must have forgotten' is the unavoidable deduction explaining the empty air tanks.",
+        "wrong_A": "'Can't have forgotten' contradicts the evidence of empty tanks.",
+        "wrong_C": "'May forget' is present possibility.",
+        "wrong_D": "'Should forget' is illogical advice."
+      },
+      "cz_learning_point": "Czech uses 'určitě zapomněli'. In English, pair 'must have' with the past participle 'forgotten'.",
+      "workplace_track": "International Sales & Tenders"
+    },
+    {
+      "id": "TTR-B2-002-Q10",
+      "prompt": "Our bid was disqualified on technical grounds; we _____ the double-winch recovery specification mentioned in Annex 4.",
+      "options": [
+        {
+          "key": "A",
+          "text": "ought to overlook"
+        },
+        {
+          "key": "B",
+          "text": "can't have overlooked"
+        },
+        {
+          "key": "C",
+          "text": "would overlook"
+        },
+        {
+          "key": "D",
+          "text": "must have overlooked"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Must have overlooked' represents the logical conclusion accounting for technical disqualification.",
+        "wrong_A": "'Ought to overlook' is an impossible recommendation.",
+        "wrong_B": "'Can't have overlooked' contradicts the fact that the bid was disqualified.",
+        "wrong_C": "'Would overlook' expresses habit or hypothetical action, not deduction."
+      },
+      "cz_learning_point": "Czech 'museli jsme přehlédnout' translates to 'we must have overlooked'. Avoid using 'had to overlook' which denotes obligation.",
+      "workplace_track": "International Sales & Tenders"
+    }
+  ]
+}

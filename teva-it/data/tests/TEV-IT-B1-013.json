@@ -1,0 +1,326 @@
+{
+  "test_id": "TEV-IT-B1-013",
+  "title": "VLAN Tagging & Trunk Port Misconfiguration on Edge Switches",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate IT infrastructure and operations module analyzing vlan tagging & trunk port misconfiguration on edge switches.",
+  "learning_objectives": [
+    "Master professional Conditionals in Network Diagnostics in enterprise IT infrastructure and cloud operations",
+    "Eliminate common Czech interference errors in vlan tagging & trunk port misconfiguration on edge switches",
+    "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+  ],
+  "questions": [
+    {
+      "id": "TEV-IT-B1-013-Q1",
+      "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail"
+        },
+        {
+          "key": "B",
+          "text": "fails"
+        },
+        {
+          "key": "C",
+          "text": "would fail"
+        },
+        {
+          "key": "D",
+          "text": "failed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
+        "wrong_A": "Cannot use 'will' in conditional if-clauses.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+      },
+      "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-013-Q2",
+      "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail"
+        },
+        {
+          "key": "B",
+          "text": "would fail"
+        },
+        {
+          "key": "C",
+          "text": "fails"
+        },
+        {
+          "key": "D",
+          "text": "failed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
+        "wrong_A": "Cannot use 'will' in conditional if-clauses.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+      },
+      "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-013-Q3",
+      "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fails"
+        },
+        {
+          "key": "B",
+          "text": "will fail"
+        },
+        {
+          "key": "C",
+          "text": "would fail"
+        },
+        {
+          "key": "D",
+          "text": "failed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
+        "wrong_B": "Cannot use 'will' in conditional if-clauses.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+      },
+      "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-013-Q4",
+      "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail"
+        },
+        {
+          "key": "B",
+          "text": "would fail"
+        },
+        {
+          "key": "C",
+          "text": "failed"
+        },
+        {
+          "key": "D",
+          "text": "fails"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
+        "wrong_A": "Cannot use 'will' in conditional if-clauses.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_C": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+      },
+      "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-013-Q5",
+      "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail"
+        },
+        {
+          "key": "B",
+          "text": "would fail"
+        },
+        {
+          "key": "C",
+          "text": "fails"
+        },
+        {
+          "key": "D",
+          "text": "failed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
+        "wrong_A": "Cannot use 'will' in conditional if-clauses.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+      },
+      "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-013-Q6",
+      "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail"
+        },
+        {
+          "key": "B",
+          "text": "fails"
+        },
+        {
+          "key": "C",
+          "text": "would fail"
+        },
+        {
+          "key": "D",
+          "text": "failed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
+        "wrong_A": "Cannot use 'will' in conditional if-clauses.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+      },
+      "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-013-Q7",
+      "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail"
+        },
+        {
+          "key": "B",
+          "text": "would fail"
+        },
+        {
+          "key": "C",
+          "text": "failed"
+        },
+        {
+          "key": "D",
+          "text": "fails"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
+        "wrong_A": "Cannot use 'will' in conditional if-clauses.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_C": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+      },
+      "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-013-Q8",
+      "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fails"
+        },
+        {
+          "key": "B",
+          "text": "will fail"
+        },
+        {
+          "key": "C",
+          "text": "would fail"
+        },
+        {
+          "key": "D",
+          "text": "failed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
+        "wrong_B": "Cannot use 'will' in conditional if-clauses.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+      },
+      "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-013-Q9",
+      "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail"
+        },
+        {
+          "key": "B",
+          "text": "would fail"
+        },
+        {
+          "key": "C",
+          "text": "fails"
+        },
+        {
+          "key": "D",
+          "text": "failed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
+        "wrong_A": "Cannot use 'will' in conditional if-clauses.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+      },
+      "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-013-Q10",
+      "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail"
+        },
+        {
+          "key": "B",
+          "text": "fails"
+        },
+        {
+          "key": "C",
+          "text": "would fail"
+        },
+        {
+          "key": "D",
+          "text": "failed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
+        "wrong_A": "Cannot use 'will' in conditional if-clauses.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+      },
+      "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    }
+  ]
+}

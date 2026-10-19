@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-C2-001",
+  "title": "Forensic Failure Analysis, Structural Metallurgy & NATO Offsets",
+  "level": "C2",
+  "category": "core",
+  "workplace_track": "Forensic Failure Analysis & Structural Metallurgy",
+  "estimated_time_minutes": 20,
+  "description": "Executive and lead engineering diagnostics: negative inversion in structural failure forensics, diplomatic hedging in joint steering committees, and subjunctive specifications under NATO STANAG trials.",
+  "learning_objectives": [
+    "Master negative inversion for high-stakes safety and metallurgical directives",
+    "Apply diplomatic hedging in forensic engineering dispute committees",
+    "Formulate formal inverted conditionals in structural failure reports"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-C2-001-Q1",
+      "prompt": "Under no circumstances _____ the central backbone tube torsional stress limit be exceeded during the accelerated rough-terrain endurance trial.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the engineers should permit"
+        },
+        {
+          "key": "B",
+          "text": "should the engineers permit"
+        },
+        {
+          "key": "C",
+          "text": "the engineers will permit"
+        },
+        {
+          "key": "D",
+          "text": "must the engineers to permit"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Negative restrictive phrase 'Under no circumstances' at the front of a clause requires subject-auxiliary inversion ('should the engineers permit').",
+        "wrong_A": "Lacks required subject-auxiliary inversion after fronted negative phrase.",
+        "wrong_C": "Direct word order is ungrammatical following fronted 'Under no circumstances'.",
+        "wrong_D": "Modal 'must' cannot be followed by an infinitive with 'to' (*to permit*)."
+      },
+      "cz_learning_point": "Czech speakers naturally use standard word order ('Za žádných okolností inženýři nesmí dovolit'). In English, fronted negative adverbials trigger formal inversion: 'Under no circumstances should the engineers permit'.",
+      "workplace_track": "Forensic Root Cause Analysis, NATO Trials & Joint-Venture Steering"
+    },
+    {
+      "id": "TTR-ENG-C2-001-Q2",
+      "prompt": "The microscopic transgranular fracture patterns _____ that hydrogen embrittlement occurred during the electroplating process, rather than sheer mechanical overload.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are definitively testifying"
+        },
+        {
+          "key": "B",
+          "text": "manifestly proving beyond dispute"
+        },
+        {
+          "key": "C",
+          "text": "would tentatively suggest"
+        },
+        {
+          "key": "D",
+          "text": "are bound to undeniably show"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "At C2 executive level, epistemic modal hedging ('would tentatively suggest') avoids unprovable dogmatic claims in official forensic failure investigations before metallurgical chemical testing is concluded.",
+        "wrong_A": "'Definitively testifying' is inappropriately dogmatic and stylistically clumsy for an engineering failure hypothesis.",
+        "wrong_B": "Prematurely asserts proof beyond dispute without supporting mass spectroscopy data.",
+        "wrong_D": "'Undeniably show' ignores required technical epistemic caution in dispute committees."
+      },
+      "cz_learning_point": "Czech engineers often translate 'Jednoznačně to dokazuje' literally as *it definitely proves*. In C2 international forensic disputes, diplomatic hedging ('would tentatively suggest') protects liability.",
+      "workplace_track": "Forensic Root Cause Analysis, NATO Trials & Joint-Venture Steering"
+    },
+    {
+      "id": "TTR-ENG-C2-001-Q3",
+      "prompt": "_____ the metallurgical testing laboratory executed ultrasonic resonance screening on the swinging half-axles, the fatigue micro-fissures would have been identified prior to field deployment.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Had"
+        },
+        {
+          "key": "B",
+          "text": "If"
+        },
+        {
+          "key": "C",
+          "text": "Were"
+        },
+        {
+          "key": "D",
+          "text": "Should"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Inverted third conditional ('Had the laboratory executed...') omits 'if' and front-inverts the auxiliary 'had' for high-register formal forensic reporting.",
+        "wrong_B": "'If' would require standard word order ('If the laboratory had executed...').",
+        "wrong_C": "'Were' pairs with present/future counterfactuals ('Were the lab to execute...'), not completed past actions.",
+        "wrong_D": "'Should' introduces future conditional possibility, not past counterfactual failure."
+      },
+      "cz_learning_point": "Czech 'Kdyby zkušební laboratoř provedla...'. High-register technical English omits 'if' via inversion: 'Had the laboratory executed...'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-C2-001-Q4",
+      "prompt": "The Chief Technical Officer requested that every weld seam on the tactical 8x8 chassis frame _____ re-examined using magnetic particle inspection prior to NATO STANAG 4569 ballistic testing.",
+      "options": [
+        {
+          "key": "A",
+          "text": "be"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "must be"
+        },
+        {
+          "key": "D",
+          "text": "to be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mandative subjunctive requires the base verb 'be' in subordinate clauses depending on verbs of formal demand/request ('requested that every weld seam be re-examined').",
+        "wrong_B": "Indicative 'is' violates the formal mandative subjunctive register expected in defense engineering specifications.",
+        "wrong_C": "Modal 'must be' is redundant and colloquially informal in a formal subjunctive clause following 'requested that'.",
+        "wrong_D": "Infinitive 'to be' is ungrammatical as the predicate of a finite 'that'-clause."
+      },
+      "cz_learning_point": "Czech 'CTO požádal, aby každý svar byl přezkoumán'. English mandative subjunctive uses the bare base form: 'requested that every weld seam be re-examined'.",
+      "workplace_track": "Forensic Root Cause Analysis, NATO Trials & Joint-Venture Steering"
+    },
+    {
+      "id": "TTR-ENG-C2-001-Q5",
+      "prompt": "Seldom _____ a heavy-duty chassis design combine independent swinging half-axles with a central backbone tube while retaining such high torsional rigidity.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has seen"
+        },
+        {
+          "key": "B",
+          "text": "an automotive engineer sees"
+        },
+        {
+          "key": "C",
+          "text": "does"
+        },
+        {
+          "key": "D",
+          "text": "is seeing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Fronted restrictive frequency adverb 'Seldom' requires subject-auxiliary inversion with auxiliary 'does' ('Seldom does a chassis design combine...').",
+        "wrong_A": "Lacks subject and creates ungrammatical passive/active confusion.",
+        "wrong_B": "Standard word order violates inversion rule after fronted 'Seldom'.",
+        "wrong_D": "Stative verb 'combine' does not take continuous aspect here."
+      },
+      "cz_learning_point": "Czech 'Málokdy se vidí...' or 'Zřídka kdy konstrukce spojuje...'. In English, fronted 'Seldom' forces inversion: 'Seldom does a chassis design combine...'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-C2-001-Q6",
+      "prompt": "The client's arbitration claim is predicated on the assertion that the differential lock failure was caused by defective cast iron, _____ evidence indicates severe operator misapplication.",
+      "options": [
+        {
+          "key": "A",
+          "text": "irrespective"
+        },
+        {
+          "key": "B",
+          "text": "whereas empirical"
+        },
+        {
+          "key": "C",
+          "text": "in spite"
+        },
+        {
+          "key": "D",
+          "text": "despite that"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Whereas empirical' introduces a sharp, formal legal contrast between the adversary's subjective assertion and objective metallurgical findings.",
+        "wrong_A": "'Irrespective' requires preposition 'of' and does not connect two independent clauses.",
+        "wrong_C": "'In spite' requires 'of' and cannot take a finite clause directly.",
+        "wrong_D": "'Despite that' is clumsy and informal compared to the elegant contrastive connector 'whereas'."
+      },
+      "cz_learning_point": "Czech 'zatímco empirické důkazy ukazují...'. In legal/technical disputes, use 'whereas empirical evidence indicates...', avoiding awkward prepositions.",
+      "workplace_track": "Forensic Root Cause Analysis, NATO Trials & Joint-Venture Steering"
+    },
+    {
+      "id": "TTR-ENG-C2-001-Q7",
+      "prompt": "Scarcely had the prototype vehicle commenced the desert sand dune trial _____ the central tyre inflation system (CTIS) pressure manifold reported a critical pressure drop.",
+      "options": [
+        {
+          "key": "A",
+          "text": "than"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "after"
+        },
+        {
+          "key": "D",
+          "text": "when"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Scarcely had [action]... when [second action]' is the correlative grammatical structure for two rapid successive events.",
+        "wrong_A": "'Than' pairs with 'No sooner had...', not 'Scarcely'.",
+        "wrong_B": "'That' cannot serve as the correlative conjunction for 'Scarcely'.",
+        "wrong_C": "'After' creates redundancy with the past perfect auxiliary."
+      },
+      "cz_learning_point": "Czech 'Sotva vozidlo zahájilo... když v tom...'. English requires 'Scarcely had [subject] [verb]... WHEN...', whereas 'No sooner' pairs with 'THAN'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-C2-001-Q8",
+      "prompt": "_____ there be any discrepancy between the CAD finite element analysis and the physical strain gauge readings, the suspension linkage must undergo destructive tensile testing.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Should"
+        },
+        {
+          "key": "B",
+          "text": "Were"
+        },
+        {
+          "key": "C",
+          "text": "Had"
+        },
+        {
+          "key": "D",
+          "text": "If so"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Inverted first conditional ('Should there be...') denotes formal potential contingency in technical test protocols, equivalent to 'If there should be'.",
+        "wrong_B": "'Were there to be' would be used for hypothetical counterfactuals, but 'there be' requires 'Should'.",
+        "wrong_C": "'Had there been' indicates past counterfactual, not future procedural contingency.",
+        "wrong_D": "'If so' cannot act as a subordinate conditional conjunction."
+      },
+      "cz_learning_point": "Czech 'Pokud by nastala jakákoliv odchylka...'. In formal technical protocols, use 'Should there be any discrepancy...', omitting 'if'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-C2-001-Q9",
+      "prompt": "The catastrophic shear failure of the transfer case pinion gear cannot _____ to torsional vibration resonance alone without factoring in low lubricant viscosity at extreme operating temperatures.",
+      "options": [
+        {
+          "key": "A",
+          "text": "definitely attribute"
+        },
+        {
+          "key": "B",
+          "text": "be having attributed"
+        },
+        {
+          "key": "C",
+          "text": "plausibly be attributed"
+        },
+        {
+          "key": "D",
+          "text": "attribute itself"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive modal construction with epistemic adverb ('cannot plausibly be attributed') accurately qualifies the scientific limits of a root-cause hypothesis.",
+        "wrong_A": "Active voice 'attribute' cannot apply when the gear failure is the grammatical subject.",
+        "wrong_B": "Ungrammatical compound progressive passive participle.",
+        "wrong_D": "'Attribute itself' is a literal Czech reflexive translation error (*přisuzovat se*)."
+      },
+      "cz_learning_point": "Czech 'nelze to věrohodně přičítat pouze...'. Do not translate reflexively (*attribute itself*). Use passive modal 'cannot plausibly be attributed to...'.",
+      "workplace_track": "Forensic Root Cause Analysis, NATO Trials & Joint-Venture Steering"
+    },
+    {
+      "id": "TTR-ENG-C2-001-Q10",
+      "prompt": "Not only _____ the swinging half-axle design attenuate severe shock loads over rocky terrain, but it also minimizes tire sidewall scrub compared to conventional rigid axle beams.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "will"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Fronted correlative 'Not only' with base action verb 'attenuate' requires dummy auxiliary 'does' for inversion ('Not only does the design attenuate...').",
+        "wrong_A": "'Is' cannot invert with base action verb 'attenuate'.",
+        "wrong_C": "'Has' would require past participle 'attenuated'.",
+        "wrong_D": "'Will' implies future promise rather than verified inherent engineering capability."
+      },
+      "cz_learning_point": "Czech 'Nejenže konstrukce tlumí..., ale také...'. English requires auxiliary inversion: 'Not only does the design attenuate..., but it also...'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    }
+  ]
+}

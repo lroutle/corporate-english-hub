@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-B1-001",
+  "title": "Chassis Assembly & Final Inspection: Past Simple vs Past Perfect",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Quality Assurance & Assembly",
+  "estimated_time_minutes": 15,
+  "description": "Master narrative past tenses and sequence of events during pre-delivery vehicle inspection, torque verification, and defect detection.",
+  "learning_objectives": [
+    "Differentiate Past Simple and Past Perfect in sequence-of-events reporting",
+    "Apply Passive Voice to automotive chassis inspection checklists",
+    "Avoid typical Czech mother-tongue tense transfer in defect logging"
+  ],
+  "questions": [
+    {
+      "id": "TTR-B1-001-Q1",
+      "prompt": "During the final assembly inspection, the engineer noticed that the air suspension pressure _____ before the road test.",
+      "options": [
+        {
+          "key": "A",
+          "text": "wasn't calibrating"
+        },
+        {
+          "key": "B",
+          "text": "hadn't been calibrated"
+        },
+        {
+          "key": "C",
+          "text": "hasn't been calibrated"
+        },
+        {
+          "key": "D",
+          "text": "didn't calibrated"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('hadn't been calibrated') is required because the calibration failure occurred before the past action ('noticed').",
+        "wrong_A": "Past Continuous suggests an ongoing active action, but pressure cannot calibrate itself—passive voice is required.",
+        "wrong_C": "Present Perfect cannot be used with a completed past reference frame ('noticed').",
+        "wrong_D": "'didn't' requires base form 'calibrate' and represents active voice rather than passive."
+      },
+      "cz_learning_point": "Czech uses past tense for both actions ('všiml si, že tlak nebyl zkalibrován'). In English, prioritize Past Perfect for sequence-of-events clarity.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-001-Q2",
+      "prompt": "By the time the heavy-duty Tatra 815 chassis reached the end of the line, the technicians _____ all flange bolts to 450 Nm.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have already torqued"
+        },
+        {
+          "key": "B",
+          "text": "were already torquing"
+        },
+        {
+          "key": "C",
+          "text": "had already torqued"
+        },
+        {
+          "key": "D",
+          "text": "already torque"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "With 'By the time + past simple', the completed preceding action must be in the Past Perfect ('had already torqued').",
+        "wrong_A": "Present Perfect ('have already torqued') cannot anchor to a past milestone ('reached').",
+        "wrong_B": "Past Continuous indicates an action in progress, not a completed requirement by a milestone.",
+        "wrong_D": "Present simple cannot describe a completed historical assembly operation."
+      },
+      "cz_learning_point": "Czech expresses this with the prefix 'už utáhli' without tense shift. English requires 'had + past participle' after 'by the time'.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-001-Q3",
+      "prompt": "The quality inspector halted the vehicle sign-off because the rear differential _____ properly during initial bench testing.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had not engaged"
+        },
+        {
+          "key": "B",
+          "text": "did not engaged"
+        },
+        {
+          "key": "C",
+          "text": "has not engaged"
+        },
+        {
+          "key": "D",
+          "text": "was not engage"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "The failure to engage occurred prior to halting sign-off, necessitating the Past Perfect ('had not engaged').",
+        "wrong_B": "Double past error: auxiliary 'did' must be followed by base form 'engage', not 'engaged'.",
+        "wrong_C": "Present Perfect is incompatible with the past narrative reference 'halted'.",
+        "wrong_D": "'was not engage' is grammatically corrupt; passive would be 'was not engaged' or continuous 'was not engaging'."
+      },
+      "cz_learning_point": "Czechs often default to Past Simple ('nezaskočil'), causing ambiguity about which event triggered which.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-001-Q4",
+      "prompt": "Before we dispatched the three Tatra Phoenix tippers to the client, our team _____ the pneumatic brake lines twice.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have pressure-tested"
+        },
+        {
+          "key": "B",
+          "text": "pressure-testing"
+        },
+        {
+          "key": "C",
+          "text": "were pressure-test"
+        },
+        {
+          "key": "D",
+          "text": "had pressure-tested"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Perfect ('had pressure-tested') clearly marks that testing was finished prior to dispatch.",
+        "wrong_A": "Present Perfect cannot connect to a past dispatch event.",
+        "wrong_B": "Participle '-ing' alone cannot serve as the finite predicate verb.",
+        "wrong_C": "'were pressure-test' is syntactically invalid."
+      },
+      "cz_learning_point": "Czech relies on the conjunction 'než' without changing verbal tense; English clarifies chronological precedence with Past Perfect.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-001-Q5",
+      "prompt": "When the shift supervisor arrived at 06:00, the night shift crew _____ the central backbone tube welding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "already finished"
+        },
+        {
+          "key": "B",
+          "text": "have already finished"
+        },
+        {
+          "key": "C",
+          "text": "had already finished"
+        },
+        {
+          "key": "D",
+          "text": "were already finish"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "The welding was already completed before the supervisor arrived at 06:00, requiring Past Perfect.",
+        "wrong_A": "While informal spoken English occasionally tolerates past simple with 'already', formal technical reporting strictly requires Past Perfect.",
+        "wrong_B": "Present Perfect does not agree with the past point in time ('arrived at 06:00').",
+        "wrong_D": "'were already finish' is ungrammatical; passive would require 'finished'."
+      },
+      "cz_learning_point": "Czech uses perfective aspect 'už dokončila'; in English formal shift handover reports, use Past Perfect.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-001-Q6",
+      "prompt": "The test driver discovered a hydraulic leak that _____ during the dyno static test.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has developed"
+        },
+        {
+          "key": "B",
+          "text": "had developed"
+        },
+        {
+          "key": "C",
+          "text": "was develop"
+        },
+        {
+          "key": "D",
+          "text": "did developed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "The leak originated and grew prior to the driver's discovery on the track, so Past Perfect ('had developed') is correct.",
+        "wrong_A": "Present Perfect conflicts with the past reference frame 'discovered'.",
+        "wrong_C": "Grammatically incorrect verb phrase.",
+        "wrong_D": "Auxiliary 'did' cannot take the past form 'developed'."
+      },
+      "cz_learning_point": "Czech speakers tend to say 'který se objevil' and map both verbs to simple past.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-001-Q7",
+      "prompt": "The chassis frame was rejected because the primer coat _____ sufficient drying time before painting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was not giving"
+        },
+        {
+          "key": "B",
+          "text": "has not been given"
+        },
+        {
+          "key": "C",
+          "text": "didn't given"
+        },
+        {
+          "key": "D",
+          "text": "had not been given"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had not been given') correctly expresses an antecedent passive omission.",
+        "wrong_A": "Past Continuous Active implies the primer was doing the giving, which is semantically impossible.",
+        "wrong_B": "Present Perfect cannot anchor to past event 'was rejected'.",
+        "wrong_C": "Auxiliary 'didn't' cannot take the past participle 'given'."
+      },
+      "cz_learning_point": "In Czech, passive constructions are often turned into active reflexive ('základovka nedostala čas'). In English QA reports, use Passive Voice.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-001-Q8",
+      "prompt": "We were relieved to find that the supplier _____ the updated steering knuckles before the assembly deadline.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had delivered"
+        },
+        {
+          "key": "B",
+          "text": "has delivered"
+        },
+        {
+          "key": "C",
+          "text": "is delivering"
+        },
+        {
+          "key": "D",
+          "text": "was deliver"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "The delivery occurred prior to our relief in the past; Past Perfect is required.",
+        "wrong_B": "Present Perfect does not fit the past frame 'were relieved'.",
+        "wrong_C": "Present Continuous describes current actions, not completed past deliveries.",
+        "wrong_D": "Malformed verb phrase."
+      },
+      "cz_learning_point": "Sequence of tenses after past mental state verbs ('were relieved that...') requires Past Perfect in English.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-001-Q9",
+      "prompt": "Until yesterday's audit, the assembly technician _____ that the oil seal was seated incorrectly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did not realized"
+        },
+        {
+          "key": "B",
+          "text": "had not realized"
+        },
+        {
+          "key": "C",
+          "text": "has not realized"
+        },
+        {
+          "key": "D",
+          "text": "was not realize"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Until yesterday's audit' sets a past boundary up to which the lack of realization lasted, requiring Past Perfect.",
+        "wrong_A": "Auxiliary 'did' cannot pair with past form 'realized'.",
+        "wrong_C": "Present Perfect is invalidated by 'yesterday's audit'.",
+        "wrong_D": "Malformed verbal construction."
+      },
+      "cz_learning_point": "Czech 'až do včerejška si neuvědomil' uses simple past. English uses Past Perfect to denote duration up to a past cutoff point.",
+      "workplace_track": "Quality Assurance & Assembly"
+    },
+    {
+      "id": "TTR-B1-001-Q10",
+      "prompt": "After the diagnostic software _____ the CAN-bus communication error, the line technician re-flashed the ECU.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has isolated"
+        },
+        {
+          "key": "B",
+          "text": "was isolate"
+        },
+        {
+          "key": "C",
+          "text": "isolating"
+        },
+        {
+          "key": "D",
+          "text": "had isolated"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "The software isolated the fault prior to the technician re-flashing the ECU, making Past Perfect ('had isolated') the most precise technical choice.",
+        "wrong_A": "Present Perfect cannot combine with past narrative 're-flashed'.",
+        "wrong_B": "Invalid verb structure.",
+        "wrong_C": "Participle alone cannot form the predicate of a finite subordinate clause."
+      },
+      "cz_learning_point": "Although Czech uses 'poté co izoloval' (simple past), English technical procedures emphasize clear chronological causality with Past Perfect.",
+      "workplace_track": "Quality Assurance & Assembly"
+    }
+  ]
+}

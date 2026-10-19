@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-A2-010",
+  "title": "Assembly Line Parts Staging & Storage Bins",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Workshop Assembly & Line Tooling",
+  "estimated_time_minutes": 10,
+  "description": "Foundational workplace English module covering assembly line parts staging & storage bins.",
+  "learning_objectives": [
+    "Master professional Prepositions of Direction (into, onto, across) in automotive engineering",
+    "Eliminate common Czech interference errors in assembly line parts staging & storage bins",
+    "Demonstrate precision in technical and regulatory documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-A2-010-Q1",
+      "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+      "options": [
+        {
+          "key": "A",
+          "text": "between"
+        },
+        {
+          "key": "B",
+          "text": "under"
+        },
+        {
+          "key": "C",
+          "text": "inside"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'under' accurately describes the physical spatial relationship here.",
+        "wrong_A": "Preposition 'between' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'inside' does not fit the mechanical mounting geometry.",
+        "wrong_D": "Preposition 'next to' indicates incorrect direction or orientation."
+      },
+      "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-010-Q2",
+      "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+      "options": [
+        {
+          "key": "A",
+          "text": "under"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'between' accurately describes the physical spatial relationship here.",
+        "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'inside' does not fit the mechanical mounting geometry.",
+        "wrong_D": "Preposition 'next to' indicates incorrect direction or orientation."
+      },
+      "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-010-Q3",
+      "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "under"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'inside' accurately describes the physical spatial relationship here.",
+        "wrong_B": "Preposition 'under' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' does not fit the mechanical mounting geometry.",
+        "wrong_D": "Preposition 'next to' indicates incorrect direction or orientation."
+      },
+      "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-010-Q4",
+      "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+      "options": [
+        {
+          "key": "A",
+          "text": "under"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "inside"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Preposition 'next to' accurately describes the physical spatial relationship here.",
+        "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' does not fit the mechanical mounting geometry.",
+        "wrong_C": "Preposition 'inside' indicates incorrect direction or orientation."
+      },
+      "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-010-Q5",
+      "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+      "options": [
+        {
+          "key": "A",
+          "text": "under"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "on top of"
+        },
+        {
+          "key": "D",
+          "text": "inside"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'on top of' accurately describes the physical spatial relationship here.",
+        "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' does not fit the mechanical mounting geometry.",
+        "wrong_D": "Preposition 'inside' indicates incorrect direction or orientation."
+      },
+      "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-010-Q6",
+      "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+      "options": [
+        {
+          "key": "A",
+          "text": "under"
+        },
+        {
+          "key": "B",
+          "text": "behind"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "inside"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'behind' accurately describes the physical spatial relationship here.",
+        "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' does not fit the mechanical mounting geometry.",
+        "wrong_D": "Preposition 'inside' indicates incorrect direction or orientation."
+      },
+      "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-010-Q7",
+      "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+      "options": [
+        {
+          "key": "A",
+          "text": "under"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "inside"
+        },
+        {
+          "key": "D",
+          "text": "into"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Preposition 'into' accurately describes the physical spatial relationship here.",
+        "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' does not fit the mechanical mounting geometry.",
+        "wrong_C": "Preposition 'inside' indicates incorrect direction or orientation."
+      },
+      "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-010-Q8",
+      "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+      "options": [
+        {
+          "key": "A",
+          "text": "across"
+        },
+        {
+          "key": "B",
+          "text": "under"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "inside"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'across' accurately describes the physical spatial relationship here.",
+        "wrong_B": "Preposition 'under' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' does not fit the mechanical mounting geometry.",
+        "wrong_D": "Preposition 'inside' indicates incorrect direction or orientation."
+      },
+      "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-010-Q9",
+      "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+      "options": [
+        {
+          "key": "A",
+          "text": "under"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "along"
+        },
+        {
+          "key": "D",
+          "text": "inside"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'along' accurately describes the physical spatial relationship here.",
+        "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' does not fit the mechanical mounting geometry.",
+        "wrong_D": "Preposition 'inside' indicates incorrect direction or orientation."
+      },
+      "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-010-Q10",
+      "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+      "options": [
+        {
+          "key": "A",
+          "text": "under"
+        },
+        {
+          "key": "B",
+          "text": "against"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "inside"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'against' accurately describes the physical spatial relationship here.",
+        "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' does not fit the mechanical mounting geometry.",
+        "wrong_D": "Preposition 'inside' indicates incorrect direction or orientation."
+      },
+      "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_id": "TEV-IT-B2-016",
+  "title": "Cloud Disaster Recovery RTO/RPO SLA Breach Impact Analyses",
+  "level": "B2",
+  "category": "core",
+  "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery",
+  "estimated_time_minutes": 15,
+  "description": "Upper-intermediate enterprise IT and cybersecurity module analyzing cloud disaster recovery rto/rpo sla breach impact analyses.",
+  "learning_objectives": [
+    "Master professional Mixed Conditionals in Recovery Disasters in enterprise IT infrastructure and cloud operations",
+    "Eliminate common Czech interference errors in cloud disaster recovery rto/rpo sla breach impact analyses",
+    "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+  ],
+  "questions": [
+    {
+      "id": "TEV-IT-B2-016-Q1",
+      "prompt": "The Zero Trust security policy requires that every API microservice request _____ mutual TLS certificates before granting access.",
+      "options": [
+        {
+          "key": "A",
+          "text": "validates"
+        },
+        {
+          "key": "B",
+          "text": "validate"
+        },
+        {
+          "key": "C",
+          "text": "shall validate"
+        },
+        {
+          "key": "D",
+          "text": "must to validate"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "B2 cybersecurity & cloud architecture syntax: Mandative subjunctive after 'requires that' takes base form 'validate'.",
+        "wrong_A": "Option 'validates' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'shall validate' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'must to validate' is ungrammatical in formal enterprise IT discourse."
+      },
+      "cz_learning_point": "Enterprise cybersecurity directives require rigorous mandative subjunctive ('mandates that logs be retained') and auxiliary inversion ('Rarely does an APT penetrate').",
+      "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
+    },
+    {
+      "id": "TEV-IT-B2-016-Q2",
+      "prompt": "Under no circumstances _____ allow remote desktop protocol (RDP) ports to remain exposed to the public internet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "engineers should"
+        },
+        {
+          "key": "B",
+          "text": "engineers must to"
+        },
+        {
+          "key": "C",
+          "text": "should engineers"
+        },
+        {
+          "key": "D",
+          "text": "shall engineers to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "B2 cybersecurity & cloud architecture syntax: Negative inversion: 'Under no circumstances should engineers allow'.",
+        "wrong_A": "Option 'engineers should' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'engineers must to' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'shall engineers to' is ungrammatical in formal enterprise IT discourse."
+      },
+      "cz_learning_point": "Enterprise cybersecurity directives require rigorous mandative subjunctive ('mandates that logs be retained') and auxiliary inversion ('Rarely does an APT penetrate').",
+      "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
+    },
+    {
+      "id": "TEV-IT-B2-016-Q3",
+      "prompt": "It is imperative that all multi-tenant cloud storage buckets _____ encrypted with customer-managed KMS keys.",
+      "options": [
+        {
+          "key": "A",
+          "text": "be"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "was"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "B2 cybersecurity & cloud architecture syntax: Formulaic subjunctive after 'imperative that' requires base form 'be'.",
+        "wrong_B": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'was' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'must to be' is ungrammatical in formal enterprise IT discourse."
+      },
+      "cz_learning_point": "Enterprise cybersecurity directives require rigorous mandative subjunctive ('mandates that logs be retained') and auxiliary inversion ('Rarely does an APT penetrate').",
+      "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
+    },
+    {
+      "id": "TEV-IT-B2-016-Q4",
+      "prompt": "Had the cloud architect configured multi-region redundancy, the availability zone outage _____ service downtime.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not cause"
+        },
+        {
+          "key": "B",
+          "text": "had not caused"
+        },
+        {
+          "key": "C",
+          "text": "will not cause"
+        },
+        {
+          "key": "D",
+          "text": "would not have caused"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "B2 cybersecurity & cloud architecture syntax: Inverted Third Conditional result: 'would not have caused'.",
+        "wrong_A": "Option 'would not cause' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'had not caused' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_C": "Option 'will not cause' is ungrammatical in formal enterprise IT discourse."
+      },
+      "cz_learning_point": "Enterprise cybersecurity directives require rigorous mandative subjunctive ('mandates that logs be retained') and auxiliary inversion ('Rarely does an APT penetrate').",
+      "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
+    },
+    {
+      "id": "TEV-IT-B2-016-Q5",
+      "prompt": "The SOC 2 Type II audit report mandates that administrative privileged access logs _____ retained for at least 365 days.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "were"
+        },
+        {
+          "key": "C",
+          "text": "be"
+        },
+        {
+          "key": "D",
+          "text": "will be"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "B2 cybersecurity & cloud architecture syntax: Passive mandative subjunctive: 'mandates that logs be retained'.",
+        "wrong_A": "Option 'are' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'were' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'will be' is ungrammatical in formal enterprise IT discourse."
+      },
+      "cz_learning_point": "Enterprise cybersecurity directives require rigorous mandative subjunctive ('mandates that logs be retained') and auxiliary inversion ('Rarely does an APT penetrate').",
+      "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
+    },
+    {
+      "id": "TEV-IT-B2-016-Q6",
+      "prompt": "Rarely _____ an advanced persistent threat (APT) penetrate an enterprise network without prior reconnaissance of vulnerable VPN endpoints.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "will"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "B2 cybersecurity & cloud architecture syntax: Negative inversion: 'Rarely does an APT penetrate'.",
+        "wrong_A": "Option 'is' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'has' is ungrammatical in formal enterprise IT discourse."
+      },
+      "cz_learning_point": "Enterprise cybersecurity directives require rigorous mandative subjunctive ('mandates that logs be retained') and auxiliary inversion ('Rarely does an APT penetrate').",
+      "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
+    },
+    {
+      "id": "TEV-IT-B2-016-Q7",
+      "prompt": "If the CI/CD pipeline had automated static application security testing (SAST), the vulnerability _____ in production today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not have existed"
+        },
+        {
+          "key": "B",
+          "text": "will not exist"
+        },
+        {
+          "key": "C",
+          "text": "does not exist"
+        },
+        {
+          "key": "D",
+          "text": "would not exist"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "B2 cybersecurity & cloud architecture syntax: Mixed conditional: past condition ('had automated') with present consequence ('today') takes 'would not exist'.",
+        "wrong_A": "Option 'would not have existed' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'will not exist' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_C": "Option 'does not exist' is ungrammatical in formal enterprise IT discourse."
+      },
+      "cz_learning_point": "Enterprise cybersecurity directives require rigorous mandative subjunctive ('mandates that logs be retained') and auxiliary inversion ('Rarely does an APT penetrate').",
+      "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
+    },
+    {
+      "id": "TEV-IT-B2-016-Q8",
+      "prompt": "The 21 CFR Part 11 guidance stipulates that computerized system audit trails _____ secure, computer-generated, and time-stamped.",
+      "options": [
+        {
+          "key": "A",
+          "text": "be"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "will be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "B2 cybersecurity & cloud architecture syntax: Mandative subjunctive in GxP IT guidance: 'stipulates that audit trails be secure'.",
+        "wrong_B": "Option 'are' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will be' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'must to be' is ungrammatical in formal enterprise IT discourse."
+      },
+      "cz_learning_point": "Enterprise cybersecurity directives require rigorous mandative subjunctive ('mandates that logs be retained') and auxiliary inversion ('Rarely does an APT penetrate').",
+      "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
+    },
+    {
+      "id": "TEV-IT-B2-016-Q9",
+      "prompt": "Only by enforcing strict least-privilege role-based access control (RBAC) _____ mitigate the blast radius of compromised credentials.",
+      "options": [
+        {
+          "key": "A",
+          "text": "organizations can"
+        },
+        {
+          "key": "B",
+          "text": "organizations could"
+        },
+        {
+          "key": "C",
+          "text": "can organizations"
+        },
+        {
+          "key": "D",
+          "text": "was organizations can"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "B2 cybersecurity & cloud architecture syntax: Inversion after 'Only by...': 'can organizations mitigate'.",
+        "wrong_A": "Option 'organizations can' violates formal mandative subjunctive or inversion rules.",
+        "wrong_B": "Option 'organizations could' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'was organizations can' is ungrammatical in formal enterprise IT discourse."
+      },
+      "cz_learning_point": "Enterprise cybersecurity directives require rigorous mandative subjunctive ('mandates that logs be retained') and auxiliary inversion ('Rarely does an APT penetrate').",
+      "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
+    },
+    {
+      "id": "TEV-IT-B2-016-Q10",
+      "prompt": "Were the container cluster _____ a distributed denial-of-service (DDoS) flood, automated ingress rate-limiting rules would mitigate the impact.",
+      "options": [
+        {
+          "key": "A",
+          "text": "suffers"
+        },
+        {
+          "key": "B",
+          "text": "to suffer"
+        },
+        {
+          "key": "C",
+          "text": "will suffer"
+        },
+        {
+          "key": "D",
+          "text": "would suffer"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "B2 cybersecurity & cloud architecture syntax: Inverted Second Conditional: 'Were the cluster to suffer...' expresses formal hypothetical condition.",
+        "wrong_A": "Option 'suffers' violates formal mandative subjunctive or inversion rules.",
+        "wrong_C": "Option 'will suffer' applies inappropriate indicative or non-inverted phrasing.",
+        "wrong_D": "Option 'would suffer' is ungrammatical in formal enterprise IT discourse."
+      },
+      "cz_learning_point": "Enterprise cybersecurity directives require rigorous mandative subjunctive ('mandates that logs be retained') and auxiliary inversion ('Rarely does an APT penetrate').",
+      "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
+    }
+  ]
+}

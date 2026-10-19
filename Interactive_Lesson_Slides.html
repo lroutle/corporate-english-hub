@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>English for Overseas Division & International Sales | Lesson Deck</title>
+<style>
+  :root {
+    --bg-primary: #0f172a;
+    --bg-card: #1e293b;
+    --text-primary: #f8fafc;
+    --text-muted: #94a3b8;
+    --accent: #38bdf8;
+    --accent-glow: rgba(56, 189, 248, 0.25);
+    --gold: #f59e0b;
+    --green: #10b981;
+    --border: rgba(255, 255, 255, 0.1);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    overflow: hidden;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Slide Container */
+  #presentation {
+    flex: 1;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 60px 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(20px);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .slide.active {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+  }
+
+  /* Typography */
+  .badge {
+    display: inline-block;
+    align-self: flex-start;
+    padding: 6px 14px;
+    border-radius: 9999px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    background: var(--accent-glow);
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-size: 3.2rem;
+    font-weight: 800;
+    line-height: 1.15;
+    margin-bottom: 16px;
+    background: linear-gradient(135deg, #ffffff 40%, var(--accent) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  h2 {
+    font-size: 2.3rem;
+    font-weight: 700;
+    margin-bottom: 24px;
+    color: #ffffff;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--accent);
+    margin-bottom: 12px;
+  }
+
+  p.subtitle {
+    font-size: 1.3rem;
+    color: var(--text-muted);
+    max-width: 800px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+  }
+
+  /* Cards & Layouts */
+  .grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin-top: 15px;
+  }
+
+  .grid-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 24px;
+    margin-top: 15px;
+  }
+
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 28px;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+  }
+
+  .card.highlight {
+    border-color: var(--accent);
+    box-shadow: 0 0 25px var(--accent-glow);
+  }
+
+  .card ul {
+    list-style: none;
+    margin-top: 12px;
+  }
+
+  .card li {
+    font-size: 1.1rem;
+    color: #e2e8f0;
+    margin-bottom: 12px;
+    line-height: 1.5;
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .card li::before {
+    content: "•";
+    color: var(--accent);
+    font-size: 1.6rem;
+    line-height: 1;
+    margin-right: 12px;
+  }
+
+  /* Interactive Test Item Styles */
+  .test-box {
+    background: #1e293b;
+    border-left: 5px solid var(--accent);
+    padding: 18px 24px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    font-size: 1.15rem;
+    line-height: 1.5;
+  }
+
+  .test-box strong {
+    color: var(--gold);
+    display: block;
+    margin-bottom: 6px;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .options-row {
+    display: flex;
+    gap: 14px;
+    margin-top: 8px;
+    font-size: 1rem;
+    color: #cbd5e1;
+  }
+
+  .options-row span {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 4px 10px;
+    border-radius: 6px;
+  }
+
+  /* Controls & Bottom Bar */
+  #footer-bar {
+    height: 70px;
+    background: rgba(15, 23, 42, 0.95);
+    border-top: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+    z-index: 100;
+  }
+
+  .progress-container {
+    flex: 1;
+    max-width: 400px;
+    height: 6px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 9999px;
+    overflow: hidden;
+    margin: 0 30px;
+  }
+
+  #progress-bar {
+    height: 100%;
+    width: 0%;
+    background: var(--accent);
+    transition: width 0.3s ease;
+  }
+
+  .btn {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .btn:hover {
+    background: var(--accent);
+    color: var(--bg-primary);
+    border-color: var(--accent);
+  }
+
+  #slide-counter {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text-muted);
+  }
+
+  .formula-box {
+    background: rgba(56, 189, 248, 0.08);
+    border: 1px dashed var(--accent);
+    border-radius: 12px;
+    padding: 16px 20px;
+    margin: 16px 0;
+    font-family: monospace;
+    font-size: 1.15rem;
+    color: #bae6fd;
+  }
+</style>
+</head>
+<body>
+
+<div id="presentation">
+
+  <!-- SLIDE 1: Title -->
+  <div class="slide active">
+    <span class="badge">Overseas Division • Professional English</span>
+    <h1>International Sales & Business Development</h1>
+    <p class="subtitle">Diagnostic Assessment & Advanced Communication Strategy for Global Commercial Operations</p>
+    <div class="grid-3" style="max-width: 900px;">
+      <div class="card">
+        <h3>🗣️ Speaking Audit</h3>
+        <p style="color: #94a3b8; font-size: 0.95rem;">Cross-border negotiations, client relations & market development.</p>
+      </div>
+      <div class="card">
+        <h3>🔍 Structural Precision</h3>
+        <p style="color: #94a3b8; font-size: 0.95rem;">Diagnostic grammar screening tailored to international trade & contracts.</p>
+      </div>
+      <div class="card">
+        <h3>🎯 Personal Roadmap</h3>
+        <p style="color: #94a3b8; font-size: 0.95rem;">Targeted trajectory built around real commercial communication needs.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 2: Agenda -->
+  <div class="slide">
+    <span class="badge">Session Roadmap</span>
+    <h2>Today's 50/50 Executive Framework</h2>
+    <p class="subtitle">A balanced 60-minute session combining real-world fluency with diagnostic precision.</p>
+    <div class="grid-2">
+      <div class="card">
+        <h3 style="color: #38bdf8;">Part 1: Commercial Spoken Assessment (30 min)</h3>
+        <ul>
+          <li><strong>00–05m:</strong> Welcome, rapport building & video check.</li>
+          <li><strong>05–20m:</strong> Your overseas markets, foreign distributors & routine accounts.</li>
+          <li><strong>20–30m:</strong> Commercial negotiation scenarios, challenges & strategic priorities.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3 style="color: #10b981;">Part 2: Diagnostic & Target Grammar (30 min)</h3>
+        <ul>
+          <li><strong>30–45m:</strong> Interactive "Rough Test of Grammar" (15 items + error-spotting).</li>
+          <li><strong>45–55m:</strong> Immediate deep dive into top priority grammar hurdles.</li>
+          <li><strong>55–60m:</strong> Strength summary, course trajectory & homework agreement.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 3: Spoken Diagnostic 1 -->
+  <div class="slide">
+    <span class="badge">Part 1: Spoken Diagnostic</span>
+    <h2>Overseas Markets & Account Management</h2>
+    <p class="subtitle">Exploring your daily international business footprint and communication routine.</p>
+    <div class="grid-2">
+      <div class="card">
+        <h3>1. Territory & Role</h3>
+        <p style="font-size: 1.15rem; color: #fff; line-height: 1.5;">"Could you introduce your role in the overseas division? Which international markets or regions do you primarily manage?"</p>
+        <div class="formula-box">Focus: Present Simple • Territory terminology • Third-person -s</div>
+      </div>
+      <div class="card">
+        <h3>2. Market Evolution</h3>
+        <p style="font-size: 1.15rem; color: #fff; line-height: 1.5;">"How long have you been handling these overseas accounts, and how has international demand developed recently?"</p>
+        <div class="formula-box">Focus: Present Perfect (since / for) vs Past Simple</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 4: Spoken Diagnostic 2 -->
+  <div class="slide">
+    <span class="badge">Part 1: Spoken Diagnostic</span>
+    <h2>Client Negotiations & Cross-Border Deals</h2>
+    <p class="subtitle">Analyzing recent negotiations and international communication challenges.</p>
+    <div class="grid-2">
+      <div class="card">
+        <h3>3. Channels & Travel</h3>
+        <p style="font-size: 1.15rem; color: #fff; line-height: 1.5;">"How do you usually communicate with your foreign clients or distributors? Do you travel for meetings, or is it mostly online?"</p>
+        <div class="formula-box">Focus: Frequency adverbs • Modals of necessity (have to / can)</div>
+      </div>
+      <div class="card">
+        <h3>4. Complex Deal Resolution</h3>
+        <p style="font-size: 1.15rem; color: #fff; line-height: 1.5;">"Tell me about a challenging overseas deal, contract negotiation, or delivery issue you resolved recently. What happened?"</p>
+        <div class="formula-box">Focus: Narrative past tenses (Past Simple & Continuous)</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 5: Strategic Hypothetical -->
+  <div class="slide">
+    <span class="badge">Part 1: Commercial Scenario</span>
+    <h2>Hypothetical Strategy & Self-Assessment</h2>
+    <p class="subtitle">Testing second conditionals, diplomatic framing, and self-evaluation.</p>
+    <div class="grid-2">
+      <div class="card highlight">
+        <h3>Market Expansion Dilemma</h3>
+        <p style="font-size: 1.25rem; color: #fff; line-height: 1.6; margin-bottom: 12px;">"If you were responsible for opening up a completely new overseas market next year, which country would you target first and why?"</p>
+        <p style="color: var(--text-muted);">Structure target: <em>If I were responsible... I would target... because...</em></p>
+      </div>
+      <div class="card">
+        <h3>Communication Confidence Check</h3>
+        <p style="font-size: 1.15rem; color: #fff; line-height: 1.6; margin-bottom: 12px;">"When you negotiate or write emails in English, where do you feel confident, and where do you feel you lack precision?"</p>
+        <ul style="margin-top: 10px;">
+          <li>Finding the right tone (polite vs assertive)</li>
+          <li>Speed of formulation in spontaneous meetings</li>
+          <li>Accurate verb tenses in contract terms</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 6: Diagnostic Grammar Intro -->
+  <div class="slide">
+    <span class="badge">Part 2: Diagnostic Check</span>
+    <h2>The "Rough Test of Grammar"</h2>
+    <p class="subtitle">15 focused diagnostic checkpoints grounded in international business scenarios.</p>
+    <div class="grid-3">
+      <div class="card">
+        <h3>Tense Precision</h3>
+        <p style="color: #94a3b8; font-size: 0.95rem;">Distinguishing between completed quarterly reports, current negotiations, and ongoing client relationships.</p>
+      </div>
+      <div class="card">
+        <h3>Bargaining Conditionals</h3>
+        <p style="color: #94a3b8; font-size: 0.95rem;">Using 1st and 2nd conditionals cleanly for volume discounts and commercial concessions.</p>
+      </div>
+      <div class="card">
+        <h3>Diplomatic Accuracy</h3>
+        <p style="color: #94a3b8; font-size: 0.95rem;">Polite indirect questions, contractual passive voice, and essential business prepositions.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 7: Grammar Items 1-3 -->
+  <div class="slide">
+    <span class="badge">Diagnostic Items 1 – 3</span>
+    <h2>Core Tense Differentiation</h2>
+    <div class="test-box">
+      <strong>1. Routine vs Current Project</strong>
+      Right now our sales department _______ a key contract with an overseas distributor, but normally we _______ regional retail accounts.
+      <div class="options-row">
+        <span>A) negotiates / are handling</span>
+        <span>B) is negotiating / handle</span>
+        <span>C) negotiates / handle</span>
+      </div>
+    </div>
+    <div class="test-box">
+      <strong>2. Narrative Interruption</strong>
+      While the export team _______ the logistics documents, the foreign buyer suddenly _______ to amend the payment terms.
+      <div class="options-row">
+        <span>A) prepared / asked</span>
+        <span>B) were preparing / was asking</span>
+        <span>C) were preparing / asked</span>
+      </div>
+    </div>
+    <div class="test-box">
+      <strong>3. Finished vs Unfinished Time</strong>
+      I _______ with overseas distributors for five years now, but before joining this department I _______ domestic clients.
+      <div class="options-row">
+        <span>A) worked / have managed</span>
+        <span>B) have worked / managed</span>
+        <span>C) am working / managed</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 8: Grammar Items 4-6 -->
+  <div class="slide">
+    <span class="badge">Diagnostic Items 4 – 6</span>
+    <h2>Experience, Duration & Spontaneous Decisions</h2>
+    <div class="test-box">
+      <strong>4. Commercial Experience vs Specific Past Deal</strong>
+      "_______ to a major international trade fair in Germany or the Middle East?"<br>
+      "Yes, I _______ our company stand at an expo in Frankfurt two months ago."
+      <div class="options-row">
+        <span>A) Have you ever been / attended</span>
+        <span>B) Did you ever go / have attended</span>
+        <span>C) Have you ever gone / attended</span>
+      </div>
+    </div>
+    <div class="test-box">
+      <strong>5. Duration of Ongoing Negotiations</strong>
+      Our export manager looks exhausted because she _______ with our partners in Singapore nonstop since 6:00 AM.
+      <div class="options-row">
+        <span>A) is negotiating</span>
+        <span>B) negotiates</span>
+        <span>C) has been negotiating</span>
+      </div>
+    </div>
+    <div class="test-box">
+      <strong>6. Instant Commercial Decisions</strong>
+      "Our client just sent an email refusing our shipping terms."<br>
+      "Don't worry, I _______ their representative right away to clarify the situation."
+      <div class="options-row">
+        <span>A) will call</span>
+        <span>B) am calling</span>
+        <span>C) am going to call</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 9: Grammar Items 7-9 -->
+  <div class="slide">
+    <span class="badge">Diagnostic Items 7 – 9</span>
+    <h2>Regulations & Commercial Conditionals</h2>
+    <div class="test-box">
+      <strong>7. Modals: Trade Rules & Regulations</strong>
+      Under international export law, our department _______ provide an official certificate of origin before the shipment can clear customs.
+      <div class="options-row">
+        <span>A) should</span>
+        <span>B) must / has to</span>
+        <span>C) can</span>
+      </div>
+    </div>
+    <div class="test-box">
+      <strong>8. First Conditional (Sales Offer)</strong>
+      If the overseas distributor _______ the full container load today, we _______ a 7% volume discount.
+      <div class="options-row">
+        <span>A) will order / provide</span>
+        <span>B) orders / will provide</span>
+        <span>C) orders / provide</span>
+      </div>
+    </div>
+    <div class="test-box">
+      <strong>9. Second Conditional (Hypothetical Bargaining)</strong>
+      If our company _______ more flexible credit terms to foreign buyers, we _______ much faster market share abroad.
+      <div class="options-row">
+        <span>A) offers / will gain</span>
+        <span>B) offered / would gain</span>
+        <span>C) offered / will gain</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 10: Grammar Items 10-12 -->
+  <div class="slide">
+    <span class="badge">Diagnostic Items 10 – 12</span>
+    <h2>Past Review, Passives & Relative Clauses</h2>
+    <div class="test-box">
+      <strong>10. Third Conditional (Past Missed Tender)</strong>
+      If we _______ our sales pitch to their local business culture, we _______ the distribution tender last year.
+      <div class="options-row">
+        <span>A) adapted / wouldn't lose</span>
+        <span>B) had adapted / wouldn't have lost</span>
+        <span>C) had adapted / wouldn't lose</span>
+      </div>
+    </div>
+    <div class="test-box">
+      <strong>11. Contractual Passive Voice</strong>
+      All export shipments _______ strictly according to Incoterms before they _______ to the port of entry.
+      <div class="options-row">
+        <span>A) insure / dispatch</span>
+        <span>B) are insured / are dispatched</span>
+        <span>C) are insuring / are dispatched</span>
+      </div>
+    </div>
+    <div class="test-box">
+      <strong>12. Relative Clauses</strong>
+      This is the foreign distributor _______ warehouse network covers the entire Latin American market.
+      <div class="options-row">
+        <span>A) who</span>
+        <span>B) which</span>
+        <span>C) whose</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 11: Grammar Items 13-15 -->
+  <div class="slide">
+    <span class="badge">Diagnostic Items 13 – 15</span>
+    <h2>Verb Complements, Diplomacy & Prepositions</h2>
+    <div class="test-box">
+      <strong>13. Verb Patterns in Negotiations</strong>
+      The client considered _______ the contract for another two years, but they refused _______ the revised price index.
+      <div class="options-row">
+        <span>A) to renew / accepting</span>
+        <span>B) renewing / to accept</span>
+        <span>C) to renew / to accept</span>
+      </div>
+    </div>
+    <div class="test-box">
+      <strong>14. Diplomatic Indirect Questions</strong>
+      "Could you clarify _______?"
+      <div class="options-row">
+        <span>A) when will the overseas shipment arrive</span>
+        <span>B) when the overseas shipment will arrive</span>
+        <span>C) when does the overseas shipment arrive</span>
+      </div>
+    </div>
+    <div class="test-box">
+      <strong>15. Dependent Prepositions in Sales</strong>
+      Our team is responsible _______ developing overseas partnerships, and our quarterly targets depend heavily _______ market stability.
+      <div class="options-row">
+        <span>A) of / on</span>
+        <span>B) for / in</span>
+        <span>C) for / on</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 12: Error Spotting -->
+  <div class="slide">
+    <span class="badge">Part 2: Error-Spotting</span>
+    <h2>The Top 5 International Business English Traps</h2>
+    <p class="subtitle">Spot the single error in each sentence before the client does!</p>
+    <div class="card" style="font-size: 1.15rem; line-height: 2;">
+      <p>1. ❌ <em>"I am working in the overseas division since January 2021."</em></p>
+      <p>2. ❌ <em>"We need to discuss about the pricing policy before the meeting."</em></p>
+      <p>3. ❌ <em>"If the distributor will sign the contract by Friday, we will dispatch the batch."</em></p>
+      <p>4. ❌ <em>"I look forward to meet you at the international trade exhibition."</em></p>
+      <p>5. ❌ <em>"The sales director explained me the new commission structure."</em></p>
+    </div>
+  </div>
+
+  <!-- SLIDE 13: Spotlight Present Perfect -->
+  <div class="slide">
+    <span class="badge">Immediate High-Impact Review</span>
+    <h2>Present Perfect vs Past Simple in Commercial Writing</h2>
+    <p class="subtitle">The Golden Rule for Client Updates and Export Reports</p>
+    <div class="grid-2">
+      <div class="card" style="border-left: 5px solid var(--gold);">
+        <h3 style="color: var(--gold);">Past Simple: Completed Period</h3>
+        <p style="margin-bottom: 12px; color: #cbd5e1;">Used when the time is finished or a specific past date is mentioned.</p>
+        <div class="formula-box">yesterday, in 2023, last week, three days ago</div>
+        <p style="font-size: 1.1rem; color: #fff;">✓ <em>"We sent the revised quotation yesterday."</em></p>
+        <p style="font-size: 1.1rem; color: #fff;">✓ <em>"They visited our booth at the 2025 expo."</em></p>
+      </div>
+      <div class="card" style="border-left: 5px solid var(--green);">
+        <h3 style="color: var(--green);">Present Perfect: Status Up to Now</h3>
+        <p style="margin-bottom: 12px; color: #cbd5e1;">Used when time is open, or the current status / result matters right now.</p>
+        <div class="formula-box">so far, already, yet, since, this week, ever</div>
+        <p style="font-size: 1.1rem; color: #fff;">✓ <em>"Have they confirmed the purchase order yet?"</em></p>
+        <p style="font-size: 1.1rem; color: #fff;">✓ <em>"We have already dispatched 300 units this month."</em></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 14: Extension Dilemma -->
+  <div class="slide">
+    <span class="badge">50% Extension Bank • Live Case Study</span>
+    <h2>The 15% Price Reduction Crisis</h2>
+    <p class="subtitle">A realistic commercial negotiation dilemma to test fluency under pressure.</p>
+    <div class="card highlight" style="margin-bottom: 24px;">
+      <p style="font-size: 1.25rem; line-height: 1.6; color: #fff;">
+        <strong>The Scenario:</strong> A key overseas distributor contacts you urgently. Because of currency devaluation in their domestic market and rising shipping costs, they demand an immediate <strong>15% price cut</strong> for all remaining orders this year. If you refuse, they threaten to switch to an Asian competitor.
+      </p>
+    </div>
+    <div class="grid-3">
+      <div class="card">
+        <h3>1. Immediate Action</h3>
+        <p style="color: #94a3b8;">What information must you verify with finance and logistics before responding?</p>
+      </div>
+      <div class="card">
+        <h3>2. Strategic Concession</h3>
+        <p style="color: #94a3b8;">How can you offer a compromise (e.g. tiered rebates) without lowering list prices?</p>
+      </div>
+      <div class="card">
+        <h3>3. Conditional Formulation</h3>
+        <p style="color: #94a3b8;"><em>"If we extended payment terms to 60 days, would you commit to...?"</em></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 15: Wrap-up & Roadmap -->
+  <div class="slide">
+    <span class="badge">Course Alignment</span>
+    <h2>Recap & Course Trajectory</h2>
+    <p class="subtitle">Establishing your tailored pathway for international commercial mastery.</p>
+    <div class="grid-2">
+      <div class="card">
+        <h3>Observed Strengths</h3>
+        <ul>
+          <li>Clear commercial domain knowledge and market awareness.</li>
+          <li>Strong baseline vocabulary for export and product specs.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>Next Focus Areas</h3>
+        <ul>
+          <li>Mastering 1st & 2nd conditionals for diplomatic bargaining.</li>
+          <li>Eliminating mother-tongue tense interferences (*since/for*).</li>
+          <li>Polite indirect questioning in executive correspondence.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Navigation Footer -->
+<div id="footer-bar">
+  <div>
+    <button class="btn" id="prev-btn">◀ Previous</button>
+    <button class="btn" id="next-btn" style="margin-left: 8px;">Next ▶</button>
+  </div>
+  <div class="progress-container">
+    <div id="progress-bar"></div>
+  </div>
+  <div id="slide-counter">Slide 1 / 15</div>
+</div>
+
+<script>
+  const slides = document.querySelectorAll('.slide');
+  const prevBtn = document.getElementById('prev-btn');
+  const nextBtn = document.getElementById('next-btn');
+  const progressBar = document.getElementById('progress-bar');
+  const slideCounter = document.getElementById('slide-counter');
+  let currentSlide = 0;
+
+  function updateSlide(index) {
+    slides.forEach((s, i) => {
+      s.classList.toggle('active', i === index);
+    });
+    const pct = ((index + 1) / slides.length) * 100;
+    progressBar.style.width = pct + '%';
+    slideCounter.innerText = `Slide ${index + 1} / ${slides.length}`;
+  }
+
+  prevBtn.addEventListener('click', () => {
+    if (currentSlide > 0) {
+      currentSlide--;
+      updateSlide(currentSlide);
+    }
+  });
+
+  nextBtn.addEventListener('click', () => {
+    if (currentSlide < slides.length - 1) {
+      currentSlide++;
+      updateSlide(currentSlide);
+    }
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') {
+      if (currentSlide < slides.length - 1) {
+        currentSlide++;
+        updateSlide(currentSlide);
+      }
+    } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
+      if (currentSlide > 0) {
+        currentSlide--;
+        updateSlide(currentSlide);
+      }
+    }
+  });
+
+  updateSlide(0);
+</script>
+</body>
+</html>

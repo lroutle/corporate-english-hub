@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-B1-007",
+  "title": "Hydraulic Steering Circuit Pressure Testing & Troubleshooting",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate technical English module analyzing hydraulic steering circuit pressure testing & troubleshooting.",
+  "learning_objectives": [
+    "Master professional Modal Verbs of Probability (must be, can't be) in automotive engineering",
+    "Eliminate common Czech interference errors in hydraulic steering circuit pressure testing & troubleshooting",
+    "Demonstrate precision in technical and regulatory documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-B1-007-Q1",
+      "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail to maintain"
+        },
+        {
+          "key": "B",
+          "text": "fails to maintain"
+        },
+        {
+          "key": "C",
+          "text": "would fail to maintain"
+        },
+        {
+          "key": "D",
+          "text": "failed to maintain"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
+        "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+      },
+      "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-007-Q2",
+      "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail to maintain"
+        },
+        {
+          "key": "B",
+          "text": "would fail to maintain"
+        },
+        {
+          "key": "C",
+          "text": "fails to maintain"
+        },
+        {
+          "key": "D",
+          "text": "failed to maintain"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
+        "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+      },
+      "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-007-Q3",
+      "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fails to maintain"
+        },
+        {
+          "key": "B",
+          "text": "will fail to maintain"
+        },
+        {
+          "key": "C",
+          "text": "would fail to maintain"
+        },
+        {
+          "key": "D",
+          "text": "failed to maintain"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
+        "wrong_B": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
+        "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+      },
+      "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-007-Q4",
+      "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail to maintain"
+        },
+        {
+          "key": "B",
+          "text": "would fail to maintain"
+        },
+        {
+          "key": "C",
+          "text": "failed to maintain"
+        },
+        {
+          "key": "D",
+          "text": "fails to maintain"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
+        "wrong_C": "Past tense produces an unreal condition, mismatched with present 'flags'."
+      },
+      "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-007-Q5",
+      "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail to maintain"
+        },
+        {
+          "key": "B",
+          "text": "would fail to maintain"
+        },
+        {
+          "key": "C",
+          "text": "fails to maintain"
+        },
+        {
+          "key": "D",
+          "text": "failed to maintain"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
+        "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+      },
+      "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-007-Q6",
+      "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail to maintain"
+        },
+        {
+          "key": "B",
+          "text": "fails to maintain"
+        },
+        {
+          "key": "C",
+          "text": "would fail to maintain"
+        },
+        {
+          "key": "D",
+          "text": "failed to maintain"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
+        "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+      },
+      "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-007-Q7",
+      "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail to maintain"
+        },
+        {
+          "key": "B",
+          "text": "would fail to maintain"
+        },
+        {
+          "key": "C",
+          "text": "failed to maintain"
+        },
+        {
+          "key": "D",
+          "text": "fails to maintain"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
+        "wrong_C": "Past tense produces an unreal condition, mismatched with present 'flags'."
+      },
+      "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-007-Q8",
+      "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fails to maintain"
+        },
+        {
+          "key": "B",
+          "text": "will fail to maintain"
+        },
+        {
+          "key": "C",
+          "text": "would fail to maintain"
+        },
+        {
+          "key": "D",
+          "text": "failed to maintain"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
+        "wrong_B": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
+        "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+      },
+      "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-007-Q9",
+      "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail to maintain"
+        },
+        {
+          "key": "B",
+          "text": "would fail to maintain"
+        },
+        {
+          "key": "C",
+          "text": "fails to maintain"
+        },
+        {
+          "key": "D",
+          "text": "failed to maintain"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
+        "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+      },
+      "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    },
+    {
+      "id": "TTR-ENG-B1-007-Q10",
+      "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will fail to maintain"
+        },
+        {
+          "key": "B",
+          "text": "fails to maintain"
+        },
+        {
+          "key": "C",
+          "text": "would fail to maintain"
+        },
+        {
+          "key": "D",
+          "text": "failed to maintain"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
+        "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+      },
+      "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+      "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
+    }
+  ]
+}

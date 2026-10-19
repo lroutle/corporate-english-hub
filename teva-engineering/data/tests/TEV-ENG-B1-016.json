@@ -1,0 +1,326 @@
+{
+  "test_id": "TEV-ENG-B1-016",
+  "title": "Emergency Nitrogen Blanketing Valve Actuation Failure Inquests",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Sterile Compounding & Filling Line Automation",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate pharmaceutical engineering module investigating emergency nitrogen blanketing valve actuation failure inquests.",
+  "learning_objectives": [
+    "Master professional Past Continuous in Event Timelines in pharmaceutical engineering and cleanroom automation",
+    "Eliminate common Czech interference errors in emergency nitrogen blanketing valve actuation failure inquests",
+    "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+  ],
+  "questions": [
+    {
+      "id": "TEV-ENG-B1-016-Q1",
+      "prompt": "By the time the QA compliance auditor entered the sterile suite, the cleanroom differential pressure cascade _____ by facility engineering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was restored"
+        },
+        {
+          "key": "B",
+          "text": "had been restored"
+        },
+        {
+          "key": "C",
+          "text": "has been restored"
+        },
+        {
+          "key": "D",
+          "text": "didn't restore"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been restored') is required because the engineering action preceded the auditor's past entry.",
+        "wrong_A": "Past Simple ('was restored') fails to indicate completion prior to 'entered'.",
+        "wrong_C": "Present Perfect ('has been restored') cannot connect to completed past reference frame 'entered'.",
+        "wrong_D": "'didn't restore' is active voice; cleanroom systems are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než vstoupil, systém byl zkontrolován'). In GxP engineering reports, use Past Perfect.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B1-016-Q2",
+      "prompt": "By the time the QA compliance auditor entered the sterile suite, the HEPA filter DOP aerosol penetration test _____ by facility engineering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was executed"
+        },
+        {
+          "key": "B",
+          "text": "has been executed"
+        },
+        {
+          "key": "C",
+          "text": "had been executed"
+        },
+        {
+          "key": "D",
+          "text": "didn't execute"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been executed') is required because the engineering action preceded the auditor's past entry.",
+        "wrong_A": "Past Simple ('was executed') fails to indicate completion prior to 'entered'.",
+        "wrong_B": "Present Perfect ('has been executed') cannot connect to completed past reference frame 'entered'.",
+        "wrong_D": "'didn't execute' is active voice; cleanroom systems are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než vstoupil, systém byl zkontrolován'). In GxP engineering reports, use Past Perfect.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B1-016-Q3",
+      "prompt": "By the time the QA compliance auditor entered the sterile suite, the automated autoclave chamber thermocouple calibration _____ by facility engineering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had been verified"
+        },
+        {
+          "key": "B",
+          "text": "was verified"
+        },
+        {
+          "key": "C",
+          "text": "has been verified"
+        },
+        {
+          "key": "D",
+          "text": "didn't verify"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been verified') is required because the engineering action preceded the auditor's past entry.",
+        "wrong_B": "Past Simple ('was verified') fails to indicate completion prior to 'entered'.",
+        "wrong_C": "Present Perfect ('has been verified') cannot connect to completed past reference frame 'entered'.",
+        "wrong_D": "'didn't verify' is active voice; cleanroom systems are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než vstoupil, systém byl zkontrolován'). In GxP engineering reports, use Past Perfect.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B1-016-Q4",
+      "prompt": "By the time the QA compliance auditor entered the sterile suite, the WFI distribution loop ozone sanitization cycle _____ by facility engineering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was completed"
+        },
+        {
+          "key": "B",
+          "text": "has been completed"
+        },
+        {
+          "key": "C",
+          "text": "didn't complete"
+        },
+        {
+          "key": "D",
+          "text": "had been completed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been completed') is required because the engineering action preceded the auditor's past entry.",
+        "wrong_A": "Past Simple ('was completed') fails to indicate completion prior to 'entered'.",
+        "wrong_B": "Present Perfect ('has been completed') cannot connect to completed past reference frame 'entered'.",
+        "wrong_C": "'didn't complete' is active voice; cleanroom systems are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než vstoupil, systém byl zkontrolován'). In GxP engineering reports, use Past Perfect.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B1-016-Q5",
+      "prompt": "By the time the QA compliance auditor entered the sterile suite, the sterile filling needle peristaltic pump tubing _____ by facility engineering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was sanitized"
+        },
+        {
+          "key": "B",
+          "text": "has been sanitized"
+        },
+        {
+          "key": "C",
+          "text": "had been sanitized"
+        },
+        {
+          "key": "D",
+          "text": "didn't sanitize"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been sanitized') is required because the engineering action preceded the auditor's past entry.",
+        "wrong_A": "Past Simple ('was sanitized') fails to indicate completion prior to 'entered'.",
+        "wrong_B": "Present Perfect ('has been sanitized') cannot connect to completed past reference frame 'entered'.",
+        "wrong_D": "'didn't sanitize' is active voice; cleanroom systems are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než vstoupil, systém byl zkontrolován'). In GxP engineering reports, use Past Perfect.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B1-016-Q6",
+      "prompt": "By the time the QA compliance auditor entered the sterile suite, the Lyophilizer condenser vacuum seal integrity _____ by facility engineering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was tested"
+        },
+        {
+          "key": "B",
+          "text": "had been tested"
+        },
+        {
+          "key": "C",
+          "text": "has been tested"
+        },
+        {
+          "key": "D",
+          "text": "didn't test"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been tested') is required because the engineering action preceded the auditor's past entry.",
+        "wrong_A": "Past Simple ('was tested') fails to indicate completion prior to 'entered'.",
+        "wrong_C": "Present Perfect ('has been tested') cannot connect to completed past reference frame 'entered'.",
+        "wrong_D": "'didn't test' is active voice; cleanroom systems are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než vstoupil, systém byl zkontrolován'). In GxP engineering reports, use Past Perfect.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B1-016-Q7",
+      "prompt": "By the time the QA compliance auditor entered the sterile suite, the SCADA automated alarm threshold limits _____ by facility engineering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was reconfigured"
+        },
+        {
+          "key": "B",
+          "text": "has been reconfigured"
+        },
+        {
+          "key": "C",
+          "text": "didn't reconfigure"
+        },
+        {
+          "key": "D",
+          "text": "had been reconfigured"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been reconfigured') is required because the engineering action preceded the auditor's past entry.",
+        "wrong_A": "Past Simple ('was reconfigured') fails to indicate completion prior to 'entered'.",
+        "wrong_B": "Present Perfect ('has been reconfigured') cannot connect to completed past reference frame 'entered'.",
+        "wrong_C": "'didn't reconfigure' is active voice; cleanroom systems are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než vstoupil, systém byl zkontrolován'). In GxP engineering reports, use Past Perfect.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B1-016-Q8",
+      "prompt": "By the time the QA compliance auditor entered the sterile suite, the rotary tablet press upper punch lubrication _____ by facility engineering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had been inspected"
+        },
+        {
+          "key": "B",
+          "text": "was inspected"
+        },
+        {
+          "key": "C",
+          "text": "has been inspected"
+        },
+        {
+          "key": "D",
+          "text": "didn't inspect"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been inspected') is required because the engineering action preceded the auditor's past entry.",
+        "wrong_B": "Past Simple ('was inspected') fails to indicate completion prior to 'entered'.",
+        "wrong_C": "Present Perfect ('has been inspected') cannot connect to completed past reference frame 'entered'.",
+        "wrong_D": "'didn't inspect' is active voice; cleanroom systems are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než vstoupil, systém byl zkontrolován'). In GxP engineering reports, use Past Perfect.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B1-016-Q9",
+      "prompt": "By the time the QA compliance auditor entered the sterile suite, the vaporized hydrogen peroxide (VHP) decontamination protocol _____ by facility engineering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was validated"
+        },
+        {
+          "key": "B",
+          "text": "has been validated"
+        },
+        {
+          "key": "C",
+          "text": "had been validated"
+        },
+        {
+          "key": "D",
+          "text": "didn't validate"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been validated') is required because the engineering action preceded the auditor's past entry.",
+        "wrong_A": "Past Simple ('was validated') fails to indicate completion prior to 'entered'.",
+        "wrong_B": "Present Perfect ('has been validated') cannot connect to completed past reference frame 'entered'.",
+        "wrong_D": "'didn't validate' is active voice; cleanroom systems are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než vstoupil, systém byl zkontrolován'). In GxP engineering reports, use Past Perfect.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TEV-ENG-B1-016-Q10",
+      "prompt": "By the time the QA compliance auditor entered the sterile suite, the cleanroom air change rate per hour calculation _____ by facility engineering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was audited"
+        },
+        {
+          "key": "B",
+          "text": "had been audited"
+        },
+        {
+          "key": "C",
+          "text": "has been audited"
+        },
+        {
+          "key": "D",
+          "text": "didn't audit"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been audited') is required because the engineering action preceded the auditor's past entry.",
+        "wrong_A": "Past Simple ('was audited') fails to indicate completion prior to 'entered'.",
+        "wrong_C": "Present Perfect ('has been audited') cannot connect to completed past reference frame 'entered'.",
+        "wrong_D": "'didn't audit' is active voice; cleanroom systems are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než vstoupil, systém byl zkontrolován'). In GxP engineering reports, use Past Perfect.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    }
+  ]
+}

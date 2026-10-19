@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-CHEM-SP-001",
+  "title": "False Friends in Chemical Synthesis & Lab Testing",
+  "level": "B1/B2",
+  "category": "specialized",
+  "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP)",
+  "estimated_time_minutes": 15,
+  "description": "Eliminate false friends and vocabulary traps commonly made by Czech chemists and chemical technicians in lab reports, certificates of analysis, and synthesis protocols.",
+  "learning_objectives": [
+    "Distinguish 'control' (řídit, ovládat) from 'inspect / check / test' (kontrolovat)",
+    "Differentiate 'actual' (skutečný) from 'current' (aktuální)",
+    "Master chemical false friends like 'recipe' vs 'formula / batch record', 'toxic' vs 'harmful', and 'fabric' vs 'factory / plant'"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-CHEM-SP-001-Q1",
+      "prompt": "Before releasing the API batch, the QC team must _____ the chromatograms for baseline stability.",
+      "options": [
+        {
+          "key": "A",
+          "text": "control"
+        },
+        {
+          "key": "B",
+          "text": "check"
+        },
+        {
+          "key": "C",
+          "text": "drive"
+        },
+        {
+          "key": "D",
+          "text": "command"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'check' (or 'inspect/verify') means to examine for errors or compliance. 'Control' means to govern, regulate, or manipulate.",
+        "wrong_A": "'control' is a classic false friend: Czech 'kontrolovat' means 'to check/inspect', whereas English 'to control' means to direct or regulate.",
+        "wrong_C": "'drive' means to steer or power.",
+        "wrong_D": "'command' means to give authoritative orders."
+      },
+      "cz_learning_point": "Czech 'kontrolovat' = 'to check / inspect / verify'. English 'to control' means ovládat nebo regulovat (e.g. control temperature).",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP)"
+    },
+    {
+      "id": "TAPI-CHEM-SP-001-Q2",
+      "prompt": "The Certificate of Analysis displays the _____ synthetic yield, not the theoretical target yield.",
+      "options": [
+        {
+          "key": "A",
+          "text": "actual"
+        },
+        {
+          "key": "B",
+          "text": "actualized"
+        },
+        {
+          "key": "C",
+          "text": "current"
+        },
+        {
+          "key": "D",
+          "text": "present"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'actual' means real or existing in fact (skutečný).",
+        "wrong_B": "'actualized' means realized or made real.",
+        "wrong_C": "'current' means belonging to the present time (aktuální), not 'real/factual'.",
+        "wrong_D": "'present' means existing now."
+      },
+      "cz_learning_point": "False friend: English 'actual' = skutečný. Czech 'aktuální' = English 'current' or 'up-to-date'.",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP)"
+    },
+    {
+      "id": "TAPI-CHEM-SP-001-Q3",
+      "prompt": "The manufacturing technician followed the approved master production _____ to blend the active granules.",
+      "options": [
+        {
+          "key": "A",
+          "text": "formula"
+        },
+        {
+          "key": "B",
+          "text": "recipe"
+        },
+        {
+          "key": "C",
+          "text": "prescription"
+        },
+        {
+          "key": "D",
+          "text": "receipt"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "In pharmaceutical chemical synthesis, blending instructions are a 'formula' or 'master batch record'.",
+        "wrong_B": "'recipe' is used for cooking and culinary preparations, not GMP pharmaceutical manufacturing.",
+        "wrong_C": "'prescription' (recept) is written by a physician for a patient.",
+        "wrong_D": "'receipt' is a proof of purchase payment (účtenka)."
+      },
+      "cz_learning_point": "Czech 'recept': Culinary = 'recipe'; Doctor's = 'prescription'; Pharma chemical manufacturing = 'formula' or 'master batch record'.",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP)"
+    },
+    {
+      "id": "TAPI-CHEM-SP-001-Q4",
+      "prompt": "The active pharmaceutical ingredient is manufactured in our chemical synthesis _____ in Opava.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fabric"
+        },
+        {
+          "key": "B",
+          "text": "fabrication"
+        },
+        {
+          "key": "C",
+          "text": "mill"
+        },
+        {
+          "key": "D",
+          "text": "plant"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "A large industrial chemical facility is a chemical 'plant' (or 'facility' / 'factory').",
+        "wrong_A": "'fabric' is a false friend: it means cloth/textile (látka, tkanina), not a factory (fabrika).",
+        "wrong_B": "'fabrication' means manufacturing parts or inventing a falsehood.",
+        "wrong_C": "'mill' is for grinding grain or rolling steel."
+      },
+      "cz_learning_point": "False friend: English 'fabric' = textil/látka. Czech 'továrna / fabrika' = English 'plant', 'factory', or 'facility'.",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP)"
+    },
+    {
+      "id": "TAPI-CHEM-SP-001-Q5",
+      "prompt": "The R&D team plans to _____ an automated Karl Fischer titrator next quarter.",
+      "options": [
+        {
+          "key": "A",
+          "text": "gain"
+        },
+        {
+          "key": "B",
+          "text": "actualize"
+        },
+        {
+          "key": "C",
+          "text": "acquire"
+        },
+        {
+          "key": "D",
+          "text": "reach"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'acquire' (or 'purchase / procure') means to obtain equipment.",
+        "wrong_A": "'gain' means to increase in weight, speed, or advantage.",
+        "wrong_B": "'actualize' means to make real or realize a potential, not acquire hardware.",
+        "wrong_D": "'reach' means to arrive at a destination."
+      },
+      "cz_learning_point": "Czech 'získat/pořídit přístroj'. Use 'acquire', 'purchase', or 'procure'. Do not use *gain* for buying equipment.",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP)"
+    },
+    {
+      "id": "TAPI-CHEM-SP-001-Q6",
+      "prompt": "The safety data sheet (SDS) indicates that acetonitrile is _____ if absorbed through the skin.",
+      "options": [
+        {
+          "key": "A",
+          "text": "harming"
+        },
+        {
+          "key": "B",
+          "text": "toxic"
+        },
+        {
+          "key": "C",
+          "text": "poison"
+        },
+        {
+          "key": "D",
+          "text": "venomous"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'toxic' (or 'hazardous') is the formal adjective for chemical poisons.",
+        "wrong_A": "'harming' is a participle, not a standard chemical hazard adjective.",
+        "wrong_C": "'poison' is a noun; the adjective is 'poisonous' or 'toxic'.",
+        "wrong_D": "'venomous' is strictly for animals that inject toxins through bites/stings (e.g. snakes)."
+      },
+      "cz_learning_point": "In chemical safety, use 'toxic' or 'hazardous'. Biological toxins from animal bites are 'venomous'.",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP)"
+    },
+    {
+      "id": "TAPI-CHEM-SP-001-Q7",
+      "prompt": "We need to consult the _____ pharmacopeial monograph for the updated residual solvent limits.",
+      "options": [
+        {
+          "key": "A",
+          "text": "actual"
+        },
+        {
+          "key": "B",
+          "text": "actualized"
+        },
+        {
+          "key": "C",
+          "text": "eventual"
+        },
+        {
+          "key": "D",
+          "text": "current"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'current' means up-to-date, valid at the present time (aktuální).",
+        "wrong_A": "'actual' means real/factual (skutečný), not 'presently valid'.",
+        "wrong_B": "'actualized' means converted into reality.",
+        "wrong_C": "'eventual' means resulting in the end (konečný), not 'aktuální'."
+      },
+      "cz_learning_point": "Czech 'aktuální lékopis' = English 'current pharmacopeia'. English 'actual' means *skutečný*, not current.",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP)"
+    },
+    {
+      "id": "TAPI-CHEM-SP-001-Q8",
+      "prompt": "The synthesis reaction produced an insoluble white _____ at the bottom of the flask.",
+      "options": [
+        {
+          "key": "A",
+          "text": "precipitate"
+        },
+        {
+          "key": "B",
+          "text": "sedimentation"
+        },
+        {
+          "key": "C",
+          "text": "drop"
+        },
+        {
+          "key": "D",
+          "text": "precipitation"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "The solid chemical substance formed from solution is a 'precipitate' (sraženina).",
+        "wrong_B": "'sedimentation' is the physical process of settling, not the substance itself.",
+        "wrong_C": "'drop' is a small liquid sphere (kapka).",
+        "wrong_D": "'precipitation' is the process or weather rainfall, whereas the solid product is 'precipitate'."
+      },
+      "cz_learning_point": "In chemistry: the process is 'precipitation' (srážení), but the resulting solid chemical is a 'precipitate' (sraženina).",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP)"
+    },
+    {
+      "id": "TAPI-CHEM-SP-001-Q9",
+      "prompt": "The analytical balance calibration must be _____ by a second certified technician.",
+      "options": [
+        {
+          "key": "A",
+          "text": "controlled"
+        },
+        {
+          "key": "B",
+          "text": "re-viewed"
+        },
+        {
+          "key": "C",
+          "text": "witnessed"
+        },
+        {
+          "key": "D",
+          "text": "manipulated"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'witnessed' (or 'verified / overseen') means observed and confirmed in person.",
+        "wrong_A": "'controlled' means steered or governed, not verified by observation.",
+        "wrong_B": "'re-viewed' with hyphen is non-standard; 'reviewed' means examining documents after the fact.",
+        "wrong_D": "'manipulated' implies tampering or manual handling."
+      },
+      "cz_learning_point": "To verify a physical lab operation in real time, use 'witnessed' or 'verified', not *controlled*.",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP)"
+    },
+    {
+      "id": "TAPI-CHEM-SP-001-Q10",
+      "prompt": "The failure to seal the desiccator could cause _____ moisture absorption by the dry crystals.",
+      "options": [
+        {
+          "key": "A",
+          "text": "eventual"
+        },
+        {
+          "key": "B",
+          "text": "possible"
+        },
+        {
+          "key": "C",
+          "text": "actual"
+        },
+        {
+          "key": "D",
+          "text": "present"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'possible' (or 'potential') means capable of happening (možný).",
+        "wrong_A": "'eventual' is a false friend: it means happening at the end after delays (konečný/výsledný), not 'možný'.",
+        "wrong_C": "'actual' means real/factual.",
+        "wrong_D": "'present' means existing now."
+      },
+      "cz_learning_point": "False friend: English 'eventual' = konečný / po čase nastávající. Czech 'eventuální' (možný) = English 'possible' or 'potential'.",
+      "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP)"
+    }
+  ]
+}

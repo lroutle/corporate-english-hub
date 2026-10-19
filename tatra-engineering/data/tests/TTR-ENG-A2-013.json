@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-A2-013",
+  "title": "Battery Handling, Charging & High-Voltage Warnings",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+  "estimated_time_minutes": 10,
+  "description": "Foundational workplace English module covering battery handling, charging & high-voltage warnings.",
+  "learning_objectives": [
+    "Master professional Modal verbs (should, must not, have to) in automotive engineering",
+    "Eliminate common Czech interference errors in battery handling, charging & high-voltage warnings",
+    "Demonstrate precision in technical and regulatory documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-A2-013-Q1",
+      "prompt": "The assembly line mechanic usually _____ the differential gear casing with a calibrated pneumatic impact driver.",
+      "options": [
+        {
+          "key": "A",
+          "text": "tighten"
+        },
+        {
+          "key": "B",
+          "text": "tightens"
+        },
+        {
+          "key": "C",
+          "text": "tightening"
+        },
+        {
+          "key": "D",
+          "text": "is tighten"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('tightens').",
+        "wrong_A": "Base form 'tighten' lacks required 3rd person singular '-s'.",
+        "wrong_C": "Participle 'tightening' cannot function as finite predicate without auxiliary.",
+        "wrong_D": "'is tighten' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Czech 'mechanik utahuje'. English 3rd person singular takes -s: 'tightens'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-A2-013-Q2",
+      "prompt": "The quality inspector usually _____ the chassis backbone tube weld seam for micro-cracks before painting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inspect"
+        },
+        {
+          "key": "B",
+          "text": "inspecting"
+        },
+        {
+          "key": "C",
+          "text": "inspects"
+        },
+        {
+          "key": "D",
+          "text": "is inspect"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('inspects').",
+        "wrong_A": "Base form 'inspect' lacks required 3rd person singular '-s'.",
+        "wrong_B": "Participle 'inspecting' cannot function as finite predicate without auxiliary.",
+        "wrong_D": "'is inspect' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Czech 'inspektor kontroluje'. Singular subject takes 'inspects', not 'inspect'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-A2-013-Q3",
+      "prompt": "The crane operator usually _____ the heavy Tatra V8 engine block directly onto the front chassis mounts.",
+      "options": [
+        {
+          "key": "A",
+          "text": "lowers"
+        },
+        {
+          "key": "B",
+          "text": "lower"
+        },
+        {
+          "key": "C",
+          "text": "lowering"
+        },
+        {
+          "key": "D",
+          "text": "is lower"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('lowers').",
+        "wrong_B": "Base form 'lower' lacks required 3rd person singular '-s'.",
+        "wrong_C": "Participle 'lowering' cannot function as finite predicate without auxiliary.",
+        "wrong_D": "'is lower' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Czech 'jeřábník spouští'. English requires 'lowers' for habitual shift actions.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-A2-013-Q4",
+      "prompt": "Our maintenance technician usually _____ the hydraulic oil level in the cabin tilt mechanism every Monday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "check"
+        },
+        {
+          "key": "B",
+          "text": "checking"
+        },
+        {
+          "key": "C",
+          "text": "is check"
+        },
+        {
+          "key": "D",
+          "text": "checks"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('checks').",
+        "wrong_A": "Base form 'check' lacks required 3rd person singular '-s'.",
+        "wrong_B": "Participle 'checking' cannot function as finite predicate without auxiliary.",
+        "wrong_C": "'is check' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Czech 'technik kontroluje'. Singular present requires 'checks'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-A2-013-Q5",
+      "prompt": "The robotic welding arm usually _____ the suspension bracket to the central load-bearing tube automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "weld"
+        },
+        {
+          "key": "B",
+          "text": "welding"
+        },
+        {
+          "key": "C",
+          "text": "welds"
+        },
+        {
+          "key": "D",
+          "text": "is weld"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('welds').",
+        "wrong_A": "Base form 'weld' lacks required 3rd person singular '-s'.",
+        "wrong_B": "Participle 'welding' cannot function as finite predicate without auxiliary.",
+        "wrong_D": "'is weld' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular machine subjects take 3rd person -s: 'welds'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-A2-013-Q6",
+      "prompt": "The workshop supervisor usually _____ the daily assembly logbook before the afternoon shift departs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sign"
+        },
+        {
+          "key": "B",
+          "text": "signs"
+        },
+        {
+          "key": "C",
+          "text": "signing"
+        },
+        {
+          "key": "D",
+          "text": "is sign"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('signs').",
+        "wrong_A": "Base form 'sign' lacks required 3rd person singular '-s'.",
+        "wrong_C": "Participle 'signing' cannot function as finite predicate without auxiliary.",
+        "wrong_D": "'is sign' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Czech 'mistr podepisuje'. Use 'signs' with 3rd person singular.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-A2-013-Q7",
+      "prompt": "The testing engineer usually _____ the central tire inflation system (CTIS) pressure valves during road trials.",
+      "options": [
+        {
+          "key": "A",
+          "text": "test"
+        },
+        {
+          "key": "B",
+          "text": "testing"
+        },
+        {
+          "key": "C",
+          "text": "is test"
+        },
+        {
+          "key": "D",
+          "text": "tests"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('tests').",
+        "wrong_A": "Base form 'test' lacks required 3rd person singular '-s'.",
+        "wrong_B": "Participle 'testing' cannot function as finite predicate without auxiliary.",
+        "wrong_C": "'is test' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Use 'tests' for singular engineer subject.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-A2-013-Q8",
+      "prompt": "The paint shop worker usually _____ the wheel rims with a protective anti-corrosion primer coating.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sprays"
+        },
+        {
+          "key": "B",
+          "text": "spray"
+        },
+        {
+          "key": "C",
+          "text": "spraying"
+        },
+        {
+          "key": "D",
+          "text": "is spray"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('sprays').",
+        "wrong_B": "Base form 'spray' lacks required 3rd person singular '-s'.",
+        "wrong_C": "Participle 'spraying' cannot function as finite predicate without auxiliary.",
+        "wrong_D": "'is spray' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'sprays'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-A2-013-Q9",
+      "prompt": "The driveline specialist usually _____ the swinging half-axle rubber dust boot for oil weeping.",
+      "options": [
+        {
+          "key": "A",
+          "text": "replace"
+        },
+        {
+          "key": "B",
+          "text": "replacing"
+        },
+        {
+          "key": "C",
+          "text": "replaces"
+        },
+        {
+          "key": "D",
+          "text": "is replace"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('replaces').",
+        "wrong_A": "Base form 'replace' lacks required 3rd person singular '-s'.",
+        "wrong_B": "Participle 'replacing' cannot function as finite predicate without auxiliary.",
+        "wrong_D": "'is replace' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Czech 'specialista mění'. Use 'replaces'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-A2-013-Q10",
+      "prompt": "The logistics handler usually _____ new hardened M16 flange bolts to workstation 4 in yellow bins.",
+      "options": [
+        {
+          "key": "A",
+          "text": "bring"
+        },
+        {
+          "key": "B",
+          "text": "brings"
+        },
+        {
+          "key": "C",
+          "text": "bringing"
+        },
+        {
+          "key": "D",
+          "text": "is bring"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('brings').",
+        "wrong_A": "Base form 'bring' lacks required 3rd person singular '-s'.",
+        "wrong_C": "Participle 'bringing' cannot function as finite predicate without auxiliary.",
+        "wrong_D": "'is bring' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'brings' with -s.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    }
+  ]
+}

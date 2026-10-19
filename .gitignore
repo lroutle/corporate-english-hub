@@ -1,0 +1,9 @@
+dist/
+*.zip
+*.7z
+*.log
+__pycache__/
+*.pyc
+.gemini/
+teva/
+Engineering/

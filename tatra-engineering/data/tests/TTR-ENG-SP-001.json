@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-SP-001",
+  "title": "Backbone Tube, Swinging Half-Axles & CTIS Technical Jargon",
+  "level": "B1/B2",
+  "category": "specialized",
+  "workplace_track": "Central Backbone Tube & Chassis R&D",
+  "estimated_time_minutes": 18,
+  "description": "Master the proprietary technical terminology of the world-renowned Tatra chassis architecture: central load-bearing tube, swinging half-axles, enclosed drive shafts, and modular differential housings.",
+  "learning_objectives": [
+    "Accurately deploy Tatra-specific technical terms in international engineering debates",
+    "Describe the mechanical advantages of swinging half-axles over solid beam axles",
+    "Explain torsional stiffness, powertrain shielding, and independent wheel articulation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-SP-001-Q1",
+      "prompt": "The core of Tatra's chassis concept is the central load-bearing _____, which protects all internal drive shafts from dust, mud, and mechanical damage.",
+      "options": [
+        {
+          "key": "A",
+          "text": "ladder frame"
+        },
+        {
+          "key": "B",
+          "text": "backbone tube"
+        },
+        {
+          "key": "C",
+          "text": "monocoque shell"
+        },
+        {
+          "key": "D",
+          "text": "strut bar"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Backbone tube' (centrální nosná roura) is the definitive engineering term for Tatra's proprietary rigid tubular chassis.",
+        "wrong_A": "'Ladder frame' (žebřinový rám) is the conventional dual-rail chassis used by competing truck manufacturers.",
+        "wrong_C": "'Monocoque shell' is a unibody car chassis structure, not a heavy truck tubular spine.",
+        "wrong_D": "'Strut bar' is a small suspension reinforcement brace found in passenger sports cars."
+      },
+      "cz_learning_point": "Czech 'centrální nosná roura' is universally known in international heavy vehicle engineering as the 'central backbone tube'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-SP-001-Q2",
+      "prompt": "Unlike conventional solid rigid axles, Tatra utilizes independently suspended _____ that allow each wheel to move up and down freely across severe terrain.",
+      "options": [
+        {
+          "key": "A",
+          "text": "rigid beam axles"
+        },
+        {
+          "key": "B",
+          "text": "floating spindles"
+        },
+        {
+          "key": "C",
+          "text": "swinging half-axles"
+        },
+        {
+          "key": "D",
+          "text": "trailing arms"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Swinging half-axles' (výkyvné polonápravy) rotate about the central tube axis to provide exceptional wheel articulation and ground contact.",
+        "wrong_A": "'Rigid beam axles' (tuhé nápravy) connect opposite wheels directly, tilting the vehicle body over bumps.",
+        "wrong_B": "'Floating spindles' are wheel hub bearing components, not the full articulating axle structure.",
+        "wrong_D": "'Trailing arms' are specific suspension link rods, not swinging half-axle assemblies."
+      },
+      "cz_learning_point": "Czech 'výkyvné polonápravy' must be translated as 'swinging half-axles' (or 'independent swing axles'), not '*swinging axles*' or '*half-bridges*'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-SP-001-Q3",
+      "prompt": "Because the central tube is extremely rigid in torsion, the vehicle superstructure is shielded from high _____ stresses when traversing uneven ditches.",
+      "options": [
+        {
+          "key": "A",
+          "text": "twisting"
+        },
+        {
+          "key": "B",
+          "text": "compressing"
+        },
+        {
+          "key": "C",
+          "text": "expanding"
+        },
+        {
+          "key": "D",
+          "text": "stretching"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Twisting' (or torsional stress / torsion) is the rotational force created when diagonally opposite wheels encounter uneven ground.",
+        "wrong_B": "'Compressing' refers to axial squeezing forces along a single axis.",
+        "wrong_C": "'Expanding' refers to outward volume growth.",
+        "wrong_D": "'Stretching' refers to tensile pulling forces."
+      },
+      "cz_learning_point": "Czech 'krut / kroucení' corresponds to 'torsion' or 'twisting'. Torsional rigidity protects superstructures (tanks, tippers, cranes) from cracking.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-SP-001-Q4",
+      "prompt": "All drivetrain components inside the Tatra spine run in a fully _____ oil bath, eliminating the need for exposed universal cardan joints.",
+      "options": [
+        {
+          "key": "A",
+          "text": "exposed"
+        },
+        {
+          "key": "B",
+          "text": "uncovered"
+        },
+        {
+          "key": "C",
+          "text": "ambient"
+        },
+        {
+          "key": "D",
+          "text": "enclosed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Enclosed' (zapouzdřený / uzavřený) describes the fully protected environment inside the central tubular chassis.",
+        "wrong_A": "'Exposed' (odhalený) is the exact opposite of Tatra's protected design.",
+        "wrong_B": "'Uncovered' means exposed to external weather.",
+        "wrong_C": "'Ambient' refers to surrounding room or environmental conditions."
+      },
+      "cz_learning_point": "Czech 'zapouzdřený hnací trakt' translates directly to 'fully enclosed drivetrain' or 'sealed drivetrain housing'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-SP-001-Q5",
+      "prompt": "To distribute torque between the engine transmission and the front and rear axles, Tatra vehicles incorporate an auxiliary _____ (drop box).",
+      "options": [
+        {
+          "key": "A",
+          "text": "steering box"
+        },
+        {
+          "key": "B",
+          "text": "flywheel casing"
+        },
+        {
+          "key": "C",
+          "text": "transfer case"
+        },
+        {
+          "key": "D",
+          "text": "torque converter"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Transfer case' (or 'drop box' / sestupná přídavná převodovka) splits engine torque between multiple drive axles.",
+        "wrong_A": "'Steering box' translates steering wheel input to mechanical wheel turning angles.",
+        "wrong_B": "'Flywheel casing' houses the engine flywheel and starter gear ring.",
+        "wrong_D": "'Torque converter' is a fluid coupling used in automatic transmissions."
+      },
+      "cz_learning_point": "Czech 'přídavná sestupná převodovka' is technically termed a 'transfer case' or 'auxiliary transfer gearbox / drop box'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-SP-001-Q6",
+      "prompt": "When driving through deep mud or soft sand, the operator can pneumatically lock both the inter-axle and _____ differentials from the cab switchboard.",
+      "options": [
+        {
+          "key": "A",
+          "text": "outer-hub"
+        },
+        {
+          "key": "B",
+          "text": "inter-wheel"
+        },
+        {
+          "key": "C",
+          "text": "cross-line"
+        },
+        {
+          "key": "D",
+          "text": "axle-less"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Inter-wheel' differential lock (mezikolová uzávěrka diferenciálu) ensures that both wheels on the same axle turn at identical speeds.",
+        "wrong_A": "'Outer-hub' is non-standard and does not designate differential lock architecture.",
+        "wrong_C": "'Cross-line' is a piping term.",
+        "wrong_D": "'Axle-less' is meaningless in this context."
+      },
+      "cz_learning_point": "Differentiate 'inter-axle differential lock' (mezinápravová uzávěrka) from 'inter-wheel differential lock' (mezikolová uzávěrka).",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-SP-001-Q7",
+      "prompt": "The KingFrame® suspension system on heavy Tatra models combines pneumatic _____ with internal coil springs or leaf springs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "air flasks"
+        },
+        {
+          "key": "B",
+          "text": "pneumatic tires"
+        },
+        {
+          "key": "C",
+          "text": "rubber pistons"
+        },
+        {
+          "key": "D",
+          "text": "air bellows"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Air bellows' (vzduchové vaky / pružící měchy) provide variable pneumatic damping and load-leveling capacity.",
+        "wrong_A": "'Air flasks' refers to rigid high-pressure gas bottles/cylinders.",
+        "wrong_B": "'Pneumatic tires' are the vehicle's road wheels.",
+        "wrong_C": "'Rubber pistons' is mechanically incorrect."
+      },
+      "cz_learning_point": "Czech 'vzduchové měchy / vaky' translates to 'air bellows' or 'air springs', never '*air bags*' (which refers to cabin safety crash bags).",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-SP-001-Q8",
+      "prompt": "Due to the unique swinging half-axle design, unladen Tatra trucks exhibit a slight positive wheel _____ when viewing the truck from behind.",
+      "options": [
+        {
+          "key": "A",
+          "text": "camber"
+        },
+        {
+          "key": "B",
+          "text": "caster"
+        },
+        {
+          "key": "C",
+          "text": "toe-in"
+        },
+        {
+          "key": "D",
+          "text": "overhang"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Camber' (odklon kola) is the vertical angle of the wheel relative to the ground. Positive camber tilts the top of the wheel outward when empty.",
+        "wrong_B": "'Caster' (záklon rejdového čepu) is the forward/backward tilt of the steering axis.",
+        "wrong_C": "'Toe-in' (sbíhavost) refers to horizontal angle viewed from above.",
+        "wrong_D": "'Overhang' (převis) refers to chassis length beyond front or rear axles."
+      },
+      "cz_learning_point": "Czech 'odklon kola' is 'camber'. An empty Tatra truck has distinct positive camber which levels out flat when fully loaded.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-SP-001-Q9",
+      "prompt": "Tatra's modular chassis architecture allows engineers to easily configure vehicles from 4x4 up to _____ driven multi-axle super-heavy prime movers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "12x4"
+        },
+        {
+          "key": "B",
+          "text": "6x2"
+        },
+        {
+          "key": "C",
+          "text": "12x12"
+        },
+        {
+          "key": "D",
+          "text": "4x2"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'12x12' indicates a twelve-wheel-drive vehicle with all six axles actively driven by the central backbone tube.",
+        "wrong_A": "'12x4' has only two driven axles out of six, which is not an all-wheel-drive configuration.",
+        "wrong_B": "'6x2' has only one driven axle out of three.",
+        "wrong_D": "'4x2' is a standard two-wheel-drive configuration."
+      },
+      "cz_learning_point": "In heavy all-wheel-drive terminology, the first digit denotes total wheel positions and the second denotes driven wheel positions (e.g. 8x8, 10x10, 12x12).",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-SP-001-Q10",
+      "prompt": "The acronym CTIS, vital for operating across desert dunes and swampy terrain, stands for Central Tire _____ System.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Inspection"
+        },
+        {
+          "key": "B",
+          "text": "Inflation"
+        },
+        {
+          "key": "C",
+          "text": "Ignition"
+        },
+        {
+          "key": "D",
+          "text": "Injection"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Central Tire Inflation System' (CTIS) enables the driver to alter tire pressures from inside the cab to enlarge tire footprint on soft ground.",
+        "wrong_A": "'Inspection' is incorrect.",
+        "wrong_C": "'Ignition' refers to engine fuel/spark firing.",
+        "wrong_D": "'Injection' refers to fuel delivery into cylinders."
+      },
+      "cz_learning_point": "Czech 'centrální dofukování pneumatik' is universally abbreviated as CTIS ('Central Tire Inflation System').",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    }
+  ]
+}

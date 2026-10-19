@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-A2-003",
+  "title": "Yesterday's Workshop Faults & Defective Parts: Past Simple",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Quality Assurance, Inspection & Torque Verification",
+  "estimated_time_minutes": 12,
+  "description": "Report broken parts, line stoppages, and replaced bolts using high-frequency regular and irregular past verbs.",
+  "learning_objectives": [
+    "Use Past Simple regular (-ed) and irregular verbs (broke, stopped, found)",
+    "Ask and answer simple past questions about workshop equipment",
+    "Avoid using present tense with past time markers like 'yesterday'"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-A2-003-Q1",
+      "prompt": "Yesterday, the assembly line _____ for 45 minutes due to an electrical failure.",
+      "options": [
+        {
+          "key": "A",
+          "text": "stop"
+        },
+        {
+          "key": "B",
+          "text": "stopped"
+        },
+        {
+          "key": "C",
+          "text": "was stop"
+        },
+        {
+          "key": "D",
+          "text": "stopping"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Regular verb 'stop' doubles the consonant and adds -ed: 'stopped'.",
+        "wrong_A": "'stop' is present tense.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Včera se linka zastavila'. With 'yesterday', always use Past Simple: 'stopped'.",
+      "workplace_track": "Quality Assurance & Testing"
+    },
+    {
+      "id": "TTR-ENG-A2-003-Q2",
+      "prompt": "The technician _____ a crack in the swinging half-axle housing during the ultrasonic test.",
+      "options": [
+        {
+          "key": "A",
+          "text": "find"
+        },
+        {
+          "key": "B",
+          "text": "finded"
+        },
+        {
+          "key": "C",
+          "text": "found"
+        },
+        {
+          "key": "D",
+          "text": "was find"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Irregular past tense of 'find' is 'found'.",
+        "wrong_A": "'find' is present.",
+        "wrong_B": "'finded' is incorrect irregular morphology.",
+        "wrong_D": "Ungrammatical."
+      },
+      "cz_learning_point": "Czech 'Technik našel prasklinu'. Irregular verb: 'find $\\rightarrow$ found'.",
+      "workplace_track": "Quality Assurance & Testing"
+    },
+    {
+      "id": "TTR-ENG-A2-003-Q3",
+      "prompt": "We _____ all damaged flange bolts before the endurance test started.",
+      "options": [
+        {
+          "key": "A",
+          "text": "replaced"
+        },
+        {
+          "key": "B",
+          "text": "replace"
+        },
+        {
+          "key": "C",
+          "text": "were replace"
+        },
+        {
+          "key": "D",
+          "text": "replacing"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Regular past tense is 'replaced'.",
+        "wrong_B": "'replace' is present tense.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Vyměnili jsme...'. Use past form 'replaced'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-003-Q4",
+      "prompt": "_____ you calibrate the digital torque wrench before tightening the flange?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Were"
+        },
+        {
+          "key": "B",
+          "text": "Do"
+        },
+        {
+          "key": "C",
+          "text": "Have"
+        },
+        {
+          "key": "D",
+          "text": "Did"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Simple questions use auxiliary 'Did' + base verb ('Did you calibrate').",
+        "wrong_A": "'Were' cannot pair with bare base verb 'calibrate'.",
+        "wrong_B": "'Do' is present.",
+        "wrong_C": "'Have' requires past participle 'calibrated'."
+      },
+      "cz_learning_point": "Czech 'Zkalibroval jste...?'. Past Simple questions use 'Did you calibrate...'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-003-Q5",
+      "prompt": "The transfer case oil pressure _____ sharply during the high-speed dyno run.",
+      "options": [
+        {
+          "key": "A",
+          "text": "drop"
+        },
+        {
+          "key": "B",
+          "text": "was drop"
+        },
+        {
+          "key": "C",
+          "text": "dropped"
+        },
+        {
+          "key": "D",
+          "text": "dropping"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Regular verb 'drop' doubles the consonant: 'dropped'.",
+        "wrong_A": "'drop' is present tense.",
+        "wrong_B": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Tlak oleje prudce klesl'. Use Past Simple 'dropped'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-A2-003-Q6",
+      "prompt": "The operator _____ not notice the yellow warning lamp on the dashboard.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "does"
+        },
+        {
+          "key": "D",
+          "text": "is"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Negative Past Simple takes auxiliary 'did not' + base verb 'notice'.",
+        "wrong_A": "'was not' requires adjective or -ing.",
+        "wrong_C": "'does' is present tense.",
+        "wrong_D": "'is' is present tense."
+      },
+      "cz_learning_point": "Czech 'Operátor si nevšiml'. Use 'did not notice', not *was not notice*.",
+      "workplace_track": "Quality Assurance & Testing"
+    },
+    {
+      "id": "TTR-ENG-A2-003-Q7",
+      "prompt": "Why _____ the hydraulic lift stop working at 14:00 yesterday?",
+      "options": [
+        {
+          "key": "A",
+          "text": "does"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "was"
+        },
+        {
+          "key": "D",
+          "text": "did"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past question takes auxiliary 'did' + subject + base verb: 'Why did the lift stop...'.",
+        "wrong_A": "'does' is present.",
+        "wrong_B": "'is' is present.",
+        "wrong_C": "'was' cannot pair with bare verb 'stop'."
+      },
+      "cz_learning_point": "Czech 'Proč výtah přestal fungovat?'. In past questions, use auxiliary 'did'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-003-Q8",
+      "prompt": "The maintenance crew _____ three new air filters into the paint booth yesterday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fitted"
+        },
+        {
+          "key": "B",
+          "text": "fit"
+        },
+        {
+          "key": "C",
+          "text": "were fit"
+        },
+        {
+          "key": "D",
+          "text": "fitting"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Regular past tense is 'fitted' (or 'fit'), but 'fitted' clearly signals past completion.",
+        "wrong_B": "'fit' is ambiguous present.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Četa namontovala...'. Use Past Simple: 'fitted'.",
+      "workplace_track": "Workshop Assembly & Line Tooling"
+    },
+    {
+      "id": "TTR-ENG-A2-003-Q9",
+      "prompt": "The rear differential seal _____ during the rough-road durability test.",
+      "options": [
+        {
+          "key": "A",
+          "text": "leak"
+        },
+        {
+          "key": "B",
+          "text": "was leak"
+        },
+        {
+          "key": "C",
+          "text": "leaked"
+        },
+        {
+          "key": "D",
+          "text": "leaking"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Regular past tense is 'leaked'.",
+        "wrong_A": "'leak' is present.",
+        "wrong_B": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Těsnění teklo / propustilo olej'. Use Past Simple 'leaked'.",
+      "workplace_track": "Central Backbone Tube & Chassis R&D"
+    },
+    {
+      "id": "TTR-ENG-A2-003-Q10",
+      "prompt": "The quality engineer _____ the defective chassis back to welding station 2.",
+      "options": [
+        {
+          "key": "A",
+          "text": "send"
+        },
+        {
+          "key": "B",
+          "text": "sent"
+        },
+        {
+          "key": "C",
+          "text": "sended"
+        },
+        {
+          "key": "D",
+          "text": "was send"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Irregular past tense of 'send' is 'sent'.",
+        "wrong_A": "'send' is present.",
+        "wrong_C": "'sended' is non-existent irregular error.",
+        "wrong_D": "Ungrammatical."
+      },
+      "cz_learning_point": "Czech 'Inženýr poslal podvozek zpět'. Irregular verb: 'send $\\rightarrow$ sent'.",
+      "workplace_track": "Quality Assurance & Testing"
+    }
+  ]
+}

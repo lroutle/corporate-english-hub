@@ -1,0 +1,326 @@
+{
+  "test_id": "TEV-ENG-C2-009",
+  "title": "GAMP 5 Electronic Audit Trail Tampering Forensic Expert Testimony",
+  "level": "C2",
+  "category": "core",
+  "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity",
+  "estimated_time_minutes": 20,
+  "description": "Mastery-tier pharmaceutical engineering governance module examining gamp 5 electronic audit trail tampering forensic expert testimony.",
+  "learning_objectives": [
+    "Master professional Forensic Cross-Examination Deposition in pharmaceutical engineering and cleanroom automation",
+    "Eliminate common Czech interference errors in gamp 5 electronic audit trail tampering forensic expert testimony",
+    "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+  ],
+  "questions": [
+    {
+      "id": "TEV-ENG-C2-009-Q1",
+      "prompt": "The regulatory inspection panel mandated that the pharmaceutical manufacturer _____ immediate root cause corrective actions regarding data integrity.",
+      "options": [
+        {
+          "key": "A",
+          "text": "institutes"
+        },
+        {
+          "key": "B",
+          "text": "institute"
+        },
+        {
+          "key": "C",
+          "text": "shall institute"
+        },
+        {
+          "key": "D",
+          "text": "must to institute"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive requires base form 'institute' after 'mandated that'.",
+        "wrong_A": "Option 'institutes' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+        "wrong_C": "Option 'shall institute' inappropriately uses indicative forms in regulatory legal directives.",
+        "wrong_D": "Option 'must to institute' is ungrammatical in international GxP jurisprudence."
+      },
+      "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+      "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
+    },
+    {
+      "id": "TEV-ENG-C2-009-Q2",
+      "prompt": "Seldom _____ regulatory health authorities accepted electronic audit trail gaps without issuing formal Form FDA 483 inspectional observations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "were"
+        },
+        {
+          "key": "C",
+          "text": "have"
+        },
+        {
+          "key": "D",
+          "text": "did"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Seldom have regulatory health authorities accepted'.",
+        "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+        "wrong_B": "Option 'were' inappropriately uses indicative forms in regulatory legal directives.",
+        "wrong_D": "Option 'did' is ungrammatical in international GxP jurisprudence."
+      },
+      "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+      "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
+    },
+    {
+      "id": "TEV-ENG-C2-009-Q3",
+      "prompt": "It is of paramount regulatory importance that all automated sterile filling robotics _____ validated against Annex 1 barrier isolation standards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "be"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "will be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "C2 regulatory inspection & litigation discourse: Formulaic subjunctive: 'paramount regulatory importance that all robotics be validated'.",
+        "wrong_B": "Option 'is' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+        "wrong_C": "Option 'will be' inappropriately uses indicative forms in regulatory legal directives.",
+        "wrong_D": "Option 'must to be' is ungrammatical in international GxP jurisprudence."
+      },
+      "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+      "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
+    },
+    {
+      "id": "TEV-ENG-C2-009-Q4",
+      "prompt": "_____ the engineering contractor to default on the cleanroom EPCMV commissioning milestone, liquidated damages would immediately become enforceable.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Had"
+        },
+        {
+          "key": "B",
+          "text": "Should"
+        },
+        {
+          "key": "C",
+          "text": "If were"
+        },
+        {
+          "key": "D",
+          "text": "Were"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "C2 regulatory inspection & litigation discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical breach.",
+        "wrong_A": "Option 'Had' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+        "wrong_B": "Option 'Should' inappropriately uses indicative forms in regulatory legal directives.",
+        "wrong_C": "Option 'If were' is ungrammatical in international GxP jurisprudence."
+      },
+      "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+      "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
+    },
+    {
+      "id": "TEV-ENG-C2-009-Q5",
+      "prompt": "Not only _____ fail to maintain the 15-Pascal airlock pressure cascade, but the emergency damper actuator also malfunctioned during the smoke test.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the HVAC system did"
+        },
+        {
+          "key": "B",
+          "text": "was the HVAC system"
+        },
+        {
+          "key": "C",
+          "text": "did the HVAC system"
+        },
+        {
+          "key": "D",
+          "text": "has the HVAC system"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "C2 regulatory inspection & litigation discourse: Inversion after 'Not only': 'did the HVAC system fail'.",
+        "wrong_A": "Option 'the HVAC system did' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+        "wrong_B": "Option 'was the HVAC system' inappropriately uses indicative forms in regulatory legal directives.",
+        "wrong_D": "Option 'has the HVAC system' is ungrammatical in international GxP jurisprudence."
+      },
+      "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+      "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
+    },
+    {
+      "id": "TEV-ENG-C2-009-Q6",
+      "prompt": "Under no circumstances _____ the Qualified Person (QP) to authorize commercial batch release while critical deviation investigations remain unresolved.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "will"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "C2 regulatory inspection & litigation discourse: Negative inversion: 'Under no circumstances is the QP to authorize'.",
+        "wrong_A": "Option 'are' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+        "wrong_C": "Option 'will' inappropriately uses indicative forms in regulatory legal directives.",
+        "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
+      },
+      "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+      "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
+    },
+    {
+      "id": "TEV-ENG-C2-009-Q7",
+      "prompt": "The Lead Forensic Auditor insisted that all SCADA database audit trail logs _____ directly to the EMA inspection team without editorial redaction.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are presented"
+        },
+        {
+          "key": "B",
+          "text": "will be presented"
+        },
+        {
+          "key": "C",
+          "text": "must to be presented"
+        },
+        {
+          "key": "D",
+          "text": "be presented"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "C2 regulatory inspection & litigation discourse: Passive mandative subjunctive: 'insisted that logs be presented'.",
+        "wrong_A": "Option 'are presented' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+        "wrong_B": "Option 'will be presented' inappropriately uses indicative forms in regulatory legal directives.",
+        "wrong_C": "Option 'must to be presented' is ungrammatical in international GxP jurisprudence."
+      },
+      "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+      "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
+    },
+    {
+      "id": "TEV-ENG-C2-009-Q8",
+      "prompt": "Had the cleanroom design team not isolated the lyophilization condenser room, toxic refrigerant vapor leakage _____ into the sterile core.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would have migrated"
+        },
+        {
+          "key": "B",
+          "text": "would migrate"
+        },
+        {
+          "key": "C",
+          "text": "had migrated"
+        },
+        {
+          "key": "D",
+          "text": "will migrate"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "C2 regulatory inspection & litigation discourse: Third Conditional counterfactual: 'would have migrated'.",
+        "wrong_B": "Option 'would migrate' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+        "wrong_C": "Option 'had migrated' inappropriately uses indicative forms in regulatory legal directives.",
+        "wrong_D": "Option 'will migrate' is ungrammatical in international GxP jurisprudence."
+      },
+      "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+      "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
+    },
+    {
+      "id": "TEV-ENG-C2-009-Q9",
+      "prompt": "Barely _____ the unannounced FDA inspection concluded when European health authorities served an unannounced inspection notice on line 3.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "had"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "C2 regulatory inspection & litigation discourse: Inversion: 'Barely had the inspection concluded... when...'.",
+        "wrong_A": "Option 'was' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+        "wrong_B": "Option 'did' inappropriately uses indicative forms in regulatory legal directives.",
+        "wrong_D": "Option 'has' is ungrammatical in international GxP jurisprudence."
+      },
+      "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+      "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
+    },
+    {
+      "id": "TEV-ENG-C2-009-Q10",
+      "prompt": "The international GMP harmonization treaty specifies that computerized electronic batch signatures _____ equivalent to traditional handwritten signatures.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is deemed"
+        },
+        {
+          "key": "B",
+          "text": "be deemed"
+        },
+        {
+          "key": "C",
+          "text": "will be deemed"
+        },
+        {
+          "key": "D",
+          "text": "shall to be deemed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "C2 regulatory inspection & litigation discourse: Mandative subjunctive in regulatory treaties: 'specifies that signatures be deemed equivalent'.",
+        "wrong_A": "Option 'is deemed' fails to apply the mandatory subjunctive base form or subject-auxiliary inversion.",
+        "wrong_C": "Option 'will be deemed' inappropriately uses indicative forms in regulatory legal directives.",
+        "wrong_D": "Option 'shall to be deemed' is ungrammatical in international GxP jurisprudence."
+      },
+      "cz_learning_point": "Regulatory audit defense demands absolute mastery of mandative subjunctive ('mandated that the firm institute') and formal inversion ('Seldom have authorities accepted').",
+      "workplace_track": "21 CFR Part 11 Electronic Records & Data Integrity"
+    }
+  ]
+}

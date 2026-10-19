@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-B2-011",
+  "title": "Exhaust After-Treatment System (SCR / AdBlue) Emission Compliance",
+  "level": "B2",
+  "category": "core",
+  "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)",
+  "estimated_time_minutes": 15,
+  "description": "Upper-intermediate engineering module investigating exhaust after-treatment system (scr / adblue) emission compliance.",
+  "learning_objectives": [
+    "Master professional Complex Relative Clauses & Concessives in automotive engineering",
+    "Eliminate common Czech interference errors in exhaust after-treatment system (scr / adblue) emission compliance",
+    "Demonstrate precision in technical and regulatory documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-B2-011-Q1",
+      "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not have deformed"
+        },
+        {
+          "key": "B",
+          "text": "would not deform"
+        },
+        {
+          "key": "C",
+          "text": "will not deform"
+        },
+        {
+          "key": "D",
+          "text": "does not deform"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
+        "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
+        "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
+        "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-B2-011-Q2",
+      "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not have deformed"
+        },
+        {
+          "key": "B",
+          "text": "will not deform"
+        },
+        {
+          "key": "C",
+          "text": "would not deform"
+        },
+        {
+          "key": "D",
+          "text": "does not deform"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
+        "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
+        "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
+        "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-B2-011-Q3",
+      "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not deform"
+        },
+        {
+          "key": "B",
+          "text": "would not have deformed"
+        },
+        {
+          "key": "C",
+          "text": "will not deform"
+        },
+        {
+          "key": "D",
+          "text": "does not deform"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
+        "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
+        "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
+        "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-B2-011-Q4",
+      "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not have deformed"
+        },
+        {
+          "key": "B",
+          "text": "will not deform"
+        },
+        {
+          "key": "C",
+          "text": "does not deform"
+        },
+        {
+          "key": "D",
+          "text": "would not deform"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
+        "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
+        "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
+        "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-B2-011-Q5",
+      "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not have deformed"
+        },
+        {
+          "key": "B",
+          "text": "will not deform"
+        },
+        {
+          "key": "C",
+          "text": "would not deform"
+        },
+        {
+          "key": "D",
+          "text": "does not deform"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
+        "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
+        "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
+        "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-B2-011-Q6",
+      "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not have deformed"
+        },
+        {
+          "key": "B",
+          "text": "would not deform"
+        },
+        {
+          "key": "C",
+          "text": "will not deform"
+        },
+        {
+          "key": "D",
+          "text": "does not deform"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
+        "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
+        "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
+        "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-B2-011-Q7",
+      "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not have deformed"
+        },
+        {
+          "key": "B",
+          "text": "will not deform"
+        },
+        {
+          "key": "C",
+          "text": "does not deform"
+        },
+        {
+          "key": "D",
+          "text": "would not deform"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
+        "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
+        "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
+        "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-B2-011-Q8",
+      "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not deform"
+        },
+        {
+          "key": "B",
+          "text": "would not have deformed"
+        },
+        {
+          "key": "C",
+          "text": "will not deform"
+        },
+        {
+          "key": "D",
+          "text": "does not deform"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
+        "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
+        "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
+        "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-B2-011-Q9",
+      "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not have deformed"
+        },
+        {
+          "key": "B",
+          "text": "will not deform"
+        },
+        {
+          "key": "C",
+          "text": "would not deform"
+        },
+        {
+          "key": "D",
+          "text": "does not deform"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
+        "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
+        "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
+        "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    },
+    {
+      "id": "TTR-ENG-B2-011-Q10",
+      "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not have deformed"
+        },
+        {
+          "key": "B",
+          "text": "would not deform"
+        },
+        {
+          "key": "C",
+          "text": "will not deform"
+        },
+        {
+          "key": "D",
+          "text": "does not deform"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
+        "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
+        "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
+        "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+      "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
+    }
+  ]
+}

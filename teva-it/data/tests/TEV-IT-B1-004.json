@@ -1,0 +1,326 @@
+{
+  "test_id": "TEV-IT-B1-004",
+  "title": "Virtual Machine Snapshot Rollbacks After Corrupted Kernel Patches",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate IT infrastructure and operations module analyzing virtual machine snapshot rollbacks after corrupted kernel patches.",
+  "learning_objectives": [
+    "Master professional Present Perfect with since & for in enterprise IT infrastructure and cloud operations",
+    "Eliminate common Czech interference errors in virtual machine snapshot rollbacks after corrupted kernel patches",
+    "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+  ],
+  "questions": [
+    {
+      "id": "TEV-IT-B1-004-Q1",
+      "prompt": "By the time the CISO initiated the incident escalation call, the primary database cluster failover _____ by the DevOps engineers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was triggered"
+        },
+        {
+          "key": "B",
+          "text": "had been triggered"
+        },
+        {
+          "key": "C",
+          "text": "has been triggered"
+        },
+        {
+          "key": "D",
+          "text": "didn't trigger"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been triggered') is required because the DevOps action occurred prior to the CISO's past call.",
+        "wrong_A": "Past Simple ('was triggered') fails to indicate precedence before 'initiated'.",
+        "wrong_C": "Present Perfect ('has been triggered') cannot connect to a past narrative frame.",
+        "wrong_D": "'didn't trigger' is active voice; IT systems and backups are acted upon passively."
+      },
+      "cz_learning_point": "In IT post-mortems, use Past Perfect Passive to document infrastructure changes completed prior to an outage detection.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-004-Q2",
+      "prompt": "By the time the CISO initiated the incident escalation call, the Active Directory domain controller sync _____ by the DevOps engineers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was restored"
+        },
+        {
+          "key": "B",
+          "text": "has been restored"
+        },
+        {
+          "key": "C",
+          "text": "had been restored"
+        },
+        {
+          "key": "D",
+          "text": "didn't restore"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been restored') is required because the DevOps action occurred prior to the CISO's past call.",
+        "wrong_A": "Past Simple ('was restored') fails to indicate precedence before 'initiated'.",
+        "wrong_B": "Present Perfect ('has been restored') cannot connect to a past narrative frame.",
+        "wrong_D": "'didn't restore' is active voice; IT systems and backups are acted upon passively."
+      },
+      "cz_learning_point": "In IT post-mortems, use Past Perfect Passive to document infrastructure changes completed prior to an outage detection.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-004-Q3",
+      "prompt": "By the time the CISO initiated the incident escalation call, the cloud firewall security rule update _____ by the DevOps engineers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had been deployed"
+        },
+        {
+          "key": "B",
+          "text": "was deployed"
+        },
+        {
+          "key": "C",
+          "text": "has been deployed"
+        },
+        {
+          "key": "D",
+          "text": "didn't deploy"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been deployed') is required because the DevOps action occurred prior to the CISO's past call.",
+        "wrong_B": "Past Simple ('was deployed') fails to indicate precedence before 'initiated'.",
+        "wrong_C": "Present Perfect ('has been deployed') cannot connect to a past narrative frame.",
+        "wrong_D": "'didn't deploy' is active voice; IT systems and backups are acted upon passively."
+      },
+      "cz_learning_point": "In IT post-mortems, use Past Perfect Passive to document infrastructure changes completed prior to an outage detection.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-004-Q4",
+      "prompt": "By the time the CISO initiated the incident escalation call, the corrupted virtual machine snapshot _____ by the DevOps engineers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was rolled back"
+        },
+        {
+          "key": "B",
+          "text": "has been rolled back"
+        },
+        {
+          "key": "C",
+          "text": "didn't rollback"
+        },
+        {
+          "key": "D",
+          "text": "had been rolled back"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been rolled back') is required because the DevOps action occurred prior to the CISO's past call.",
+        "wrong_A": "Past Simple ('was rolled back') fails to indicate precedence before 'initiated'.",
+        "wrong_B": "Present Perfect ('has been rolled back') cannot connect to a past narrative frame.",
+        "wrong_C": "'didn't rollback' is active voice; IT systems and backups are acted upon passively."
+      },
+      "cz_learning_point": "In IT post-mortems, use Past Perfect Passive to document infrastructure changes completed prior to an outage detection.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-004-Q5",
+      "prompt": "By the time the CISO initiated the incident escalation call, the DNS cache resolution discrepancy _____ by the DevOps engineers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was flushed"
+        },
+        {
+          "key": "B",
+          "text": "has been flushed"
+        },
+        {
+          "key": "C",
+          "text": "had been flushed"
+        },
+        {
+          "key": "D",
+          "text": "didn't flush"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been flushed') is required because the DevOps action occurred prior to the CISO's past call.",
+        "wrong_A": "Past Simple ('was flushed') fails to indicate precedence before 'initiated'.",
+        "wrong_B": "Present Perfect ('has been flushed') cannot connect to a past narrative frame.",
+        "wrong_D": "'didn't flush' is active voice; IT systems and backups are acted upon passively."
+      },
+      "cz_learning_point": "In IT post-mortems, use Past Perfect Passive to document infrastructure changes completed prior to an outage detection.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-004-Q6",
+      "prompt": "By the time the CISO initiated the incident escalation call, the critical operating system kernel patch _____ by the DevOps engineers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was installed"
+        },
+        {
+          "key": "B",
+          "text": "had been installed"
+        },
+        {
+          "key": "C",
+          "text": "has been installed"
+        },
+        {
+          "key": "D",
+          "text": "didn't install"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been installed') is required because the DevOps action occurred prior to the CISO's past call.",
+        "wrong_A": "Past Simple ('was installed') fails to indicate precedence before 'initiated'.",
+        "wrong_C": "Present Perfect ('has been installed') cannot connect to a past narrative frame.",
+        "wrong_D": "'didn't install' is active voice; IT systems and backups are acted upon passively."
+      },
+      "cz_learning_point": "In IT post-mortems, use Past Perfect Passive to document infrastructure changes completed prior to an outage detection.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-004-Q7",
+      "prompt": "By the time the CISO initiated the incident escalation call, the multi-factor authentication (MFA) token _____ by the DevOps engineers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was re-synchronized"
+        },
+        {
+          "key": "B",
+          "text": "has been re-synchronized"
+        },
+        {
+          "key": "C",
+          "text": "didn't re-synchronize"
+        },
+        {
+          "key": "D",
+          "text": "had been re-synchronized"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been re-synchronized') is required because the DevOps action occurred prior to the CISO's past call.",
+        "wrong_A": "Past Simple ('was re-synchronized') fails to indicate precedence before 'initiated'.",
+        "wrong_B": "Present Perfect ('has been re-synchronized') cannot connect to a past narrative frame.",
+        "wrong_C": "'didn't re-synchronize' is active voice; IT systems and backups are acted upon passively."
+      },
+      "cz_learning_point": "In IT post-mortems, use Past Perfect Passive to document infrastructure changes completed prior to an outage detection.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-004-Q8",
+      "prompt": "By the time the CISO initiated the incident escalation call, the isolated ransomware quarantine subnet _____ by the DevOps engineers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had been activated"
+        },
+        {
+          "key": "B",
+          "text": "was activated"
+        },
+        {
+          "key": "C",
+          "text": "has been activated"
+        },
+        {
+          "key": "D",
+          "text": "didn't activate"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been activated') is required because the DevOps action occurred prior to the CISO's past call.",
+        "wrong_B": "Past Simple ('was activated') fails to indicate precedence before 'initiated'.",
+        "wrong_C": "Present Perfect ('has been activated') cannot connect to a past narrative frame.",
+        "wrong_D": "'didn't activate' is active voice; IT systems and backups are acted upon passively."
+      },
+      "cz_learning_point": "In IT post-mortems, use Past Perfect Passive to document infrastructure changes completed prior to an outage detection.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-004-Q9",
+      "prompt": "By the time the CISO initiated the incident escalation call, the off-site encrypted disaster recovery backup _____ by the DevOps engineers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was verified"
+        },
+        {
+          "key": "B",
+          "text": "has been verified"
+        },
+        {
+          "key": "C",
+          "text": "had been verified"
+        },
+        {
+          "key": "D",
+          "text": "didn't verify"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been verified') is required because the DevOps action occurred prior to the CISO's past call.",
+        "wrong_A": "Past Simple ('was verified') fails to indicate precedence before 'initiated'.",
+        "wrong_B": "Present Perfect ('has been verified') cannot connect to a past narrative frame.",
+        "wrong_D": "'didn't verify' is active voice; IT systems and backups are acted upon passively."
+      },
+      "cz_learning_point": "In IT post-mortems, use Past Perfect Passive to document infrastructure changes completed prior to an outage detection.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    },
+    {
+      "id": "TEV-IT-B1-004-Q10",
+      "prompt": "By the time the CISO initiated the incident escalation call, the VPN gateway SSL certificate renewal _____ by the DevOps engineers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was completed"
+        },
+        {
+          "key": "B",
+          "text": "had been completed"
+        },
+        {
+          "key": "C",
+          "text": "has been completed"
+        },
+        {
+          "key": "D",
+          "text": "didn't complete"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been completed') is required because the DevOps action occurred prior to the CISO's past call.",
+        "wrong_A": "Past Simple ('was completed') fails to indicate precedence before 'initiated'.",
+        "wrong_C": "Present Perfect ('has been completed') cannot connect to a past narrative frame.",
+        "wrong_D": "'didn't complete' is active voice; IT systems and backups are acted upon passively."
+      },
+      "cz_learning_point": "In IT post-mortems, use Past Perfect Passive to document infrastructure changes completed prior to an outage detection.",
+      "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-ENG-B2-002",
+  "title": "NATO STANAG 4380 Mobility Trials & Trench Crossing Validation",
+  "level": "B2",
+  "category": "core",
+  "workplace_track": "Vehicle Homologation & NATO STANAG Mobility",
+  "estimated_time_minutes": 15,
+  "description": "Upper-intermediate engineering module investigating nato stanag 4380 mobility trials & trench crossing validation.",
+  "learning_objectives": [
+    "Master professional Negative Inversion for Professional Rigor in automotive engineering",
+    "Eliminate common Czech interference errors in nato stanag 4380 mobility trials & trench crossing validation",
+    "Demonstrate precision in technical and regulatory documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-ENG-B2-002-Q1",
+      "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+      "options": [
+        {
+          "key": "A",
+          "text": "assembly technicians should"
+        },
+        {
+          "key": "B",
+          "text": "should assembly technicians"
+        },
+        {
+          "key": "C",
+          "text": "assembly technicians must to"
+        },
+        {
+          "key": "D",
+          "text": "shall assembly technicians to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
+        "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+        "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_D": "'shall... to' is ungrammatical in English."
+      },
+      "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+      "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
+    },
+    {
+      "id": "TTR-ENG-B2-002-Q2",
+      "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+      "options": [
+        {
+          "key": "A",
+          "text": "assembly technicians should"
+        },
+        {
+          "key": "B",
+          "text": "assembly technicians must to"
+        },
+        {
+          "key": "C",
+          "text": "should assembly technicians"
+        },
+        {
+          "key": "D",
+          "text": "shall assembly technicians to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
+        "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+        "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_D": "'shall... to' is ungrammatical in English."
+      },
+      "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+      "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
+    },
+    {
+      "id": "TTR-ENG-B2-002-Q3",
+      "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should assembly technicians"
+        },
+        {
+          "key": "B",
+          "text": "assembly technicians should"
+        },
+        {
+          "key": "C",
+          "text": "assembly technicians must to"
+        },
+        {
+          "key": "D",
+          "text": "shall assembly technicians to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
+        "wrong_B": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+        "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_D": "'shall... to' is ungrammatical in English."
+      },
+      "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+      "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
+    },
+    {
+      "id": "TTR-ENG-B2-002-Q4",
+      "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+      "options": [
+        {
+          "key": "A",
+          "text": "assembly technicians should"
+        },
+        {
+          "key": "B",
+          "text": "assembly technicians must to"
+        },
+        {
+          "key": "C",
+          "text": "shall assembly technicians to"
+        },
+        {
+          "key": "D",
+          "text": "should assembly technicians"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
+        "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+        "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_C": "'shall... to' is ungrammatical in English."
+      },
+      "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+      "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
+    },
+    {
+      "id": "TTR-ENG-B2-002-Q5",
+      "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+      "options": [
+        {
+          "key": "A",
+          "text": "assembly technicians should"
+        },
+        {
+          "key": "B",
+          "text": "assembly technicians must to"
+        },
+        {
+          "key": "C",
+          "text": "should assembly technicians"
+        },
+        {
+          "key": "D",
+          "text": "shall assembly technicians to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
+        "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+        "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_D": "'shall... to' is ungrammatical in English."
+      },
+      "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+      "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
+    },
+    {
+      "id": "TTR-ENG-B2-002-Q6",
+      "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+      "options": [
+        {
+          "key": "A",
+          "text": "assembly technicians should"
+        },
+        {
+          "key": "B",
+          "text": "should assembly technicians"
+        },
+        {
+          "key": "C",
+          "text": "assembly technicians must to"
+        },
+        {
+          "key": "D",
+          "text": "shall assembly technicians to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
+        "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+        "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_D": "'shall... to' is ungrammatical in English."
+      },
+      "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+      "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
+    },
+    {
+      "id": "TTR-ENG-B2-002-Q7",
+      "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+      "options": [
+        {
+          "key": "A",
+          "text": "assembly technicians should"
+        },
+        {
+          "key": "B",
+          "text": "assembly technicians must to"
+        },
+        {
+          "key": "C",
+          "text": "shall assembly technicians to"
+        },
+        {
+          "key": "D",
+          "text": "should assembly technicians"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
+        "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+        "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_C": "'shall... to' is ungrammatical in English."
+      },
+      "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+      "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
+    },
+    {
+      "id": "TTR-ENG-B2-002-Q8",
+      "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should assembly technicians"
+        },
+        {
+          "key": "B",
+          "text": "assembly technicians should"
+        },
+        {
+          "key": "C",
+          "text": "assembly technicians must to"
+        },
+        {
+          "key": "D",
+          "text": "shall assembly technicians to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
+        "wrong_B": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+        "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_D": "'shall... to' is ungrammatical in English."
+      },
+      "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+      "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
+    },
+    {
+      "id": "TTR-ENG-B2-002-Q9",
+      "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+      "options": [
+        {
+          "key": "A",
+          "text": "assembly technicians should"
+        },
+        {
+          "key": "B",
+          "text": "assembly technicians must to"
+        },
+        {
+          "key": "C",
+          "text": "should assembly technicians"
+        },
+        {
+          "key": "D",
+          "text": "shall assembly technicians to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
+        "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+        "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_D": "'shall... to' is ungrammatical in English."
+      },
+      "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+      "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
+    },
+    {
+      "id": "TTR-ENG-B2-002-Q10",
+      "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+      "options": [
+        {
+          "key": "A",
+          "text": "assembly technicians should"
+        },
+        {
+          "key": "B",
+          "text": "should assembly technicians"
+        },
+        {
+          "key": "C",
+          "text": "assembly technicians must to"
+        },
+        {
+          "key": "D",
+          "text": "shall assembly technicians to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
+        "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+        "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_D": "'shall... to' is ungrammatical in English."
+      },
+      "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+      "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
+    }
+  ]
+}
