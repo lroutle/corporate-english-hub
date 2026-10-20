@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-IT-A2-005",
+  "title": "Cybersecurity Warnings & Password Rules: Must & Must Not",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture",
+  "estimated_time_minutes": 10,
+  "description": "Understand and communicate IT security policies, multi-factor authentication (MFA) guidelines, and credential safety rules using 'must', 'must not', and 'have to'.",
+  "learning_objectives": [
+    "Use 'must' for mandatory security obligations and 'must not' for strict prohibitions",
+    "Differentiate 'must not' (prohibition: nesmět) from 'don't have to' (absence of obligation: nemuset)",
+    "Communicate cybersecurity policies clearly to end-users without modal confusion"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-IT-A2-005-Q1",
+      "prompt": "All corporate domain users _____ change their password every 90 days according to group policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "can"
+        },
+        {
+          "key": "B",
+          "text": "must"
+        },
+        {
+          "key": "C",
+          "text": "might"
+        },
+        {
+          "key": "D",
+          "text": "could"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'must' expresses mandatory corporate security policy obligations.",
+        "wrong_A": "'can' indicates optional ability or permission.",
+        "wrong_C": "'might' indicates weak possibility.",
+        "wrong_D": "'could' indicates tentative ability."
+      },
+      "cz_learning_point": "Czech 'musí změnit'. Obligatory corporate rules require 'must'.",
+      "workplace_track": "Cybersecurity, IAM & Zero Trust Architecture"
+    },
+    {
+      "id": "TAPI-IT-A2-005-Q2",
+      "prompt": "You _____ share your Active Directory credentials or MFA tokens with anyone, including IT support.",
+      "options": [
+        {
+          "key": "A",
+          "text": "don't have to"
+        },
+        {
+          "key": "B",
+          "text": "need not"
+        },
+        {
+          "key": "C",
+          "text": "must not"
+        },
+        {
+          "key": "D",
+          "text": "haven't to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'must not' expresses a strict prohibition (nesmíte).",
+        "wrong_A": "'don't have to' means absence of necessity (nemusíte = you can if you want), which is a dangerous security flaw.",
+        "wrong_B": "'need not' means not necessary.",
+        "wrong_D": "'haven't to' is ungrammatical English."
+      },
+      "cz_learning_point": "Major Czenglish danger: 'must not' = nesmíte (zákaz). 'Don't have to' = nemusíte (není to nutné, ale můžete). Credential sharing is strictly 'must not'!",
+      "workplace_track": "Cybersecurity, IAM & Zero Trust Architecture"
+    },
+    {
+      "id": "TAPI-IT-A2-005-Q3",
+      "prompt": "Technicians _____ install unauthorized software on company-issued laptops.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not"
+        },
+        {
+          "key": "B",
+          "text": "don't must"
+        },
+        {
+          "key": "C",
+          "text": "haven't to"
+        },
+        {
+          "key": "D",
+          "text": "are not having to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'must not' is the negative modal expressing prohibition.",
+        "wrong_B": "'don't must' is completely ungrammatical in English.",
+        "wrong_C": "'haven't to' is ungrammatical.",
+        "wrong_D": "'are not having to' is ungrammatical."
+      },
+      "cz_learning_point": "Czech 'nesmí instalovat'. English prohibition is 'must not', never *don't must*.",
+      "workplace_track": "Cybersecurity, IAM & Zero Trust Architecture"
+    },
+    {
+      "id": "TAPI-IT-A2-005-Q4",
+      "prompt": "If you work from home, you _____ connect to the corporate VPN to access internal SharePoint sites.",
+      "options": [
+        {
+          "key": "A",
+          "text": "may"
+        },
+        {
+          "key": "B",
+          "text": "could"
+        },
+        {
+          "key": "C",
+          "text": "can to"
+        },
+        {
+          "key": "D",
+          "text": "have to"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'have to' expresses an external technical requirement/necessity.",
+        "wrong_A": "'may' indicates permission.",
+        "wrong_B": "'could' indicates optional possibility.",
+        "wrong_C": "'can to' is ungrammatical; modal 'can' does not take 'to'."
+      },
+      "cz_learning_point": "Czech 'musíte se připojit'. 'Have to' or 'must' expresses technical necessity. Never say *can to*.",
+      "workplace_track": "Cybersecurity, IAM & Zero Trust Architecture"
+    },
+    {
+      "id": "TAPI-IT-A2-005-Q5",
+      "prompt": "Employees _____ memorize 20 complex passwords if they use the corporate enterprise password manager.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not"
+        },
+        {
+          "key": "B",
+          "text": "cannot"
+        },
+        {
+          "key": "C",
+          "text": "don't have to"
+        },
+        {
+          "key": "D",
+          "text": "mustn't"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'don't have to' expresses lack of necessity (nemusejí si pamatovat).",
+        "wrong_A": "'must not' would mean they are forbidden from memorizing them.",
+        "wrong_B": "'cannot' expresses inability.",
+        "wrong_D": "'mustn't' is prohibition."
+      },
+      "cz_learning_point": "Czech 'nemusejí': Absence of obligation is 'don't have to', not *must not* (nesmějí).",
+      "workplace_track": "Cybersecurity, IAM & Zero Trust Architecture"
+    },
+    {
+      "id": "TAPI-IT-A2-005-Q6",
+      "prompt": "When leaving your workstation, you _____ press Windows + L to lock your screen.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should"
+        },
+        {
+          "key": "B",
+          "text": "must"
+        },
+        {
+          "key": "C",
+          "text": "might"
+        },
+        {
+          "key": "D",
+          "text": "could"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'must' emphasizes mandatory compliance with the Clean Desk and Screen Policy.",
+        "wrong_A": "'should' is a gentle recommendation, but screen locking is mandatory in pharma IT.",
+        "wrong_C": "'might' expresses weak possibility.",
+        "wrong_D": "'could' expresses weak ability."
+      },
+      "cz_learning_point": "Mandatory security policy requires 'must': 'You must lock your screen'.",
+      "workplace_track": "Cybersecurity, IAM & Zero Trust Architecture"
+    },
+    {
+      "id": "TAPI-IT-A2-005-Q7",
+      "prompt": "You _____ click on links inside suspicious emails from unknown external senders.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not"
+        },
+        {
+          "key": "B",
+          "text": "need not"
+        },
+        {
+          "key": "C",
+          "text": "haven't to"
+        },
+        {
+          "key": "D",
+          "text": "don't have to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'must not' expresses absolute prohibition against clicking phishing links.",
+        "wrong_B": "'need not' means optional.",
+        "wrong_C": "'haven't to' is ungrammatical.",
+        "wrong_D": "'don't have to' means it is not required, but permissible if you want."
+      },
+      "cz_learning_point": "Phishing prevention: 'You must not click...' (nesmíte klikat). Do not use *don't have to*.",
+      "workplace_track": "Cybersecurity, IAM & Zero Trust Architecture"
+    },
+    {
+      "id": "TAPI-IT-A2-005-Q8",
+      "prompt": "Passphrases _____ contain at least 14 characters, including numbers and symbols.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must"
+        },
+        {
+          "key": "B",
+          "text": "can to"
+        },
+        {
+          "key": "C",
+          "text": "ought"
+        },
+        {
+          "key": "D",
+          "text": "may to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'must' expresses mandatory password complexity rules.",
+        "wrong_B": "'can to' is ungrammatical.",
+        "wrong_C": "'ought' requires 'to' ('ought to contain').",
+        "wrong_D": "'may to' is ungrammatical."
+      },
+      "cz_learning_point": "Password policy: 'Passphrases must contain...' (hesla musí obsahovat).",
+      "workplace_track": "Cybersecurity, IAM & Zero Trust Architecture"
+    },
+    {
+      "id": "TAPI-IT-A2-005-Q9",
+      "prompt": "Visitors _____ be escorted by a badged employee at all times inside the server room.",
+      "options": [
+        {
+          "key": "A",
+          "text": "can"
+        },
+        {
+          "key": "B",
+          "text": "must"
+        },
+        {
+          "key": "C",
+          "text": "could"
+        },
+        {
+          "key": "D",
+          "text": "might"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'must' denotes mandatory physical security protocol.",
+        "wrong_A": "'can' implies optional permission.",
+        "wrong_C": "'could' implies tentative possibility.",
+        "wrong_D": "'might' implies uncertainty."
+      },
+      "cz_learning_point": "Physical datacenter security: 'Visitors must be escorted' (návštěvy musí být doprovázeny).",
+      "workplace_track": "Cybersecurity, IAM & Zero Trust Architecture"
+    },
+    {
+      "id": "TAPI-IT-A2-005-Q10",
+      "prompt": "Users _____ disable anti-virus software on their machines under any circumstances.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cannot to"
+        },
+        {
+          "key": "B",
+          "text": "must not"
+        },
+        {
+          "key": "C",
+          "text": "don't have to"
+        },
+        {
+          "key": "D",
+          "text": "haven't to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'must not' expresses unconditional prohibition.",
+        "wrong_A": "'cannot to' is ungrammatical.",
+        "wrong_C": "'don't have to' means lack of requirement, not prohibition.",
+        "wrong_D": "'haven't to' is ungrammatical."
+      },
+      "cz_learning_point": "Never say *don't have to* for prohibitions. Disabling security tools is strictly 'must not' (nesmějí).",
+      "workplace_track": "Cybersecurity, IAM & Zero Trust Architecture"
+    }
+  ]
+}

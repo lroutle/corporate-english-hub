@@ -1,0 +1,327 @@
+{
+  "test_id": "TAPI-IT-B1-001",
+  "title": "Cloud Server Outage Post-Mortems: Past Simple vs Past Perfect",
+  "level": "B1",
+  "category": "core",
+  "department": "IT",
+  "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)",
+  "estimated_time_minutes": 15,
+  "description": "Master sequence of events and narrative past tenses during AWS/Azure infrastructure outages, database failovers, and root-cause post-mortems.",
+  "learning_objectives": [
+    "Differentiate Past Simple and Past Perfect in cloud outage post-mortem reports",
+    "Apply passive voice to server and container actions",
+    "Eliminate Czech past tense collapsing during incident investigations"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-IT-B1-001-Q1",
+      "prompt": "During the P1 critical outage review, the cloud engineer realized that the production PostgreSQL database _____ before the automated migration script ran.",
+      "options": [
+        {
+          "key": "A",
+          "text": "wasn't backing up"
+        },
+        {
+          "key": "B",
+          "text": "hadn't been backed up"
+        },
+        {
+          "key": "C",
+          "text": "hasn't been backed up"
+        },
+        {
+          "key": "D",
+          "text": "didn't backed up"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('hadn't been backed up') is required because the omission occurred before the past action ('realized' / 'ran').",
+        "wrong_A": "Past Continuous suggests an action in progress, but a database does not actively back itself up—passive voice is required.",
+        "wrong_C": "Present Perfect cannot anchor to completed past events ('realized').",
+        "wrong_D": "Auxiliary 'didn't' requires base form 'back up' and is active voice, not passive."
+      },
+      "cz_learning_point": "Czech uses past tense for both actions ('uvědomil si, že databáze nebyla zazálohována'). In English incident reports, prioritize Past Perfect for sequence clarity.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TAPI-IT-B1-001-Q2",
+      "prompt": "By the time the DevOps team received the PagerDuty alert, the Kubernetes cluster _____ sixty pods automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has already restarted"
+        },
+        {
+          "key": "B",
+          "text": "was already restart"
+        },
+        {
+          "key": "C",
+          "text": "had already restarted"
+        },
+        {
+          "key": "D",
+          "text": "already restarts"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "With 'By the time + past simple', the prior completed action takes Past Perfect ('had already restarted').",
+        "wrong_A": "Present Perfect cannot be anchored to past event 'received'.",
+        "wrong_B": "Malformed verb phrase.",
+        "wrong_D": "Present tense cannot describe completed historical cluster events."
+      },
+      "cz_learning_point": "Czech says 'už restartoval' without tense shift; English strictly requires 'had + past participle' after 'by the time'.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TAPI-IT-B1-001-Q3",
+      "prompt": "The security operations analyst discovered that the rogue IP address _____ brute-force attempts on the VPN gateway for over three hours before being blocked.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had been executing"
+        },
+        {
+          "key": "B",
+          "text": "has executed"
+        },
+        {
+          "key": "C",
+          "text": "is executing"
+        },
+        {
+          "key": "D",
+          "text": "was execute"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Past Perfect Continuous ('had been executing') denotes an ongoing past activity leading up to a past cutoff point ('before being blocked').",
+        "wrong_B": "Present Perfect cannot connect to past reference 'discovered'.",
+        "wrong_C": "Present Continuous describes actions happening right now.",
+        "wrong_D": "Invalid verb construction."
+      },
+      "cz_learning_point": "Czech uses past tense 'prováděla'; English clarifies duration prior to past intervention with Past Perfect Continuous.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TAPI-IT-B1-001-Q4",
+      "prompt": "Before the IT administrator rolled back the firmware on the core Cisco switch, he _____ the configuration file to the backup server.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has exported"
+        },
+        {
+          "key": "B",
+          "text": "exporting"
+        },
+        {
+          "key": "C",
+          "text": "is exporting"
+        },
+        {
+          "key": "D",
+          "text": "had exported"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Perfect ('had exported') marks the completed prerequisite before the rollback occurred.",
+        "wrong_A": "Present Perfect does not fit the past narrative 'rolled back'.",
+        "wrong_B": "Participle alone cannot function as the finite predicate.",
+        "wrong_C": "Present Continuous conflicts with past timeframe."
+      },
+      "cz_learning_point": "Czech uses 'než vrátil... vyexportoval'; English technical documentation emphasizes chronological precedence with Past Perfect.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TAPI-IT-B1-001-Q5",
+      "prompt": "When the morning shift arrived, the automated Jenkins pipeline _____ all microservice test suites.",
+      "options": [
+        {
+          "key": "A",
+          "text": "already finished"
+        },
+        {
+          "key": "B",
+          "text": "has already finished"
+        },
+        {
+          "key": "C",
+          "text": "had already finished"
+        },
+        {
+          "key": "D",
+          "text": "is already finish"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "The build was completed prior to the shift arrival at 08:00, requiring Past Perfect ('had already finished').",
+        "wrong_A": "Past simple with 'already' is informal and less precise in formal engineering reports.",
+        "wrong_B": "Present Perfect clashes with past anchor 'arrived'.",
+        "wrong_D": "Syntactically invalid."
+      },
+      "cz_learning_point": "Czech uses perfective aspect 'už dokončila'; in written IT shift handovers, use Past Perfect.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TAPI-IT-B1-001-Q6",
+      "prompt": "The storage server crashed because a corrupt log file _____ all available disk space on the primary volume.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has consumed"
+        },
+        {
+          "key": "B",
+          "text": "had consumed"
+        },
+        {
+          "key": "C",
+          "text": "was consume"
+        },
+        {
+          "key": "D",
+          "text": "consumes"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "The consumption of disk space happened before the server crashed, so Past Perfect is required.",
+        "wrong_A": "Present Perfect clashes with past event 'crashed'.",
+        "wrong_C": "Invalid verb form.",
+        "wrong_D": "Present Simple cannot describe a completed causal event in the past."
+      },
+      "cz_learning_point": "Root cause reporting in IT incident tickets requires Past Perfect for the root failure condition.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TAPI-IT-B1-001-Q7",
+      "prompt": "The change management board rejected the deployment request because the staging environment _____ for load capacity.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was not testing"
+        },
+        {
+          "key": "B",
+          "text": "has not been tested"
+        },
+        {
+          "key": "C",
+          "text": "didn't tested"
+        },
+        {
+          "key": "D",
+          "text": "had not been tested"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had not been tested') correctly expresses the prior omitted validation.",
+        "wrong_A": "Active continuous implies the environment was performing the testing, which is impossible.",
+        "wrong_B": "Present Perfect does not agree with 'rejected'.",
+        "wrong_C": "Double past error."
+      },
+      "cz_learning_point": "Czech 'nebylo otestováno' is frequently translated with past simple. In English CAB logs, use Past Perfect Passive.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TAPI-IT-B1-001-Q8",
+      "prompt": "Until yesterday's audit, the system architect _____ that third-party cookies were tracking user sessions on the internal portal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had not noticed"
+        },
+        {
+          "key": "B",
+          "text": "did not noticed"
+        },
+        {
+          "key": "C",
+          "text": "has not noticed"
+        },
+        {
+          "key": "D",
+          "text": "was not notice"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Until yesterday's audit' sets a past limit up to which the lack of awareness existed, requiring Past Perfect.",
+        "wrong_B": "Auxiliary 'did' cannot take past form 'noticed'.",
+        "wrong_C": "Present Perfect is invalidated by 'yesterday'.",
+        "wrong_D": "Malformed construction."
+      },
+      "cz_learning_point": "Czech 'až do včerejška si nevšiml' uses simple past. English uses Past Perfect to denote duration up to a past cutoff.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TAPI-IT-B1-001-Q9",
+      "prompt": "After the cybersecurity team _____ the compromised API token, the threat actor was unable to access customer records.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has revoked"
+        },
+        {
+          "key": "B",
+          "text": "revoking"
+        },
+        {
+          "key": "C",
+          "text": "had revoked"
+        },
+        {
+          "key": "D",
+          "text": "was revoke"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "The revoking of the token occurred before the actor attempted further access; Past Perfect is the most accurate sequence marker.",
+        "wrong_A": "Present Perfect clashes with past narrative 'was unable'.",
+        "wrong_B": "Participle alone cannot serve as predicate.",
+        "wrong_D": "Malformed verb."
+      },
+      "cz_learning_point": "Clauses introduced by 'After' that describe past completed prerequisites take Past Perfect.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    },
+    {
+      "id": "TAPI-IT-B1-001-Q10",
+      "prompt": "We were relieved to confirm that the Azure failover cluster _____ into operation seamlessly when the primary region went offline.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is switching"
+        },
+        {
+          "key": "B",
+          "text": "had switched"
+        },
+        {
+          "key": "C",
+          "text": "has switched"
+        },
+        {
+          "key": "D",
+          "text": "switches"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "The switch into operation preceded our verification in the past; Past Perfect ('had switched') is correct.",
+        "wrong_A": "Present continuous is invalid in past context.",
+        "wrong_C": "Present Perfect does not fit 'were relieved'.",
+        "wrong_D": "Present Simple indicates current routine."
+      },
+      "cz_learning_point": "Sequence of tenses following past perception verbs ('confirmed that...') requires Past Perfect in English.",
+      "workplace_track": "IT Infrastructure & Cloud Operations"
+    }
+  ]
+}

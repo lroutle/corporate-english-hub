@@ -502,7 +502,7 @@ def get_tapi_chem_curriculum():
 
     return curriculum
 
-def get_teva_it_curriculum():
+def get_tapi_it_curriculum():
     curriculum = []
     # A2 (001-020)
     a2_topics = [
@@ -529,7 +529,7 @@ def get_teva_it_curriculum():
     ]
     for num, title, track, grammar in a2_topics:
         curriculum.append({
-            "test_id": f"TEV-IT-A2-{num}", "title": title, "level": "A2", "category": "core",
+            "test_id": f"TAPI-IT-A2-{num}", "title": title, "level": "A2", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 10,
             "description": f"Foundational IT workplace English module covering {title.lower()}."
         })
@@ -559,7 +559,7 @@ def get_teva_it_curriculum():
     ]
     for num, title, track, grammar in b1_topics:
         curriculum.append({
-            "test_id": f"TEV-IT-B1-{num}", "title": title, "level": "B1", "category": "core",
+            "test_id": f"TAPI-IT-B1-{num}", "title": title, "level": "B1", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 15,
             "description": f"Intermediate IT infrastructure and operations module analyzing {title.lower()}."
         })
@@ -589,7 +589,7 @@ def get_teva_it_curriculum():
     ]
     for num, title, track, grammar in b2_topics:
         curriculum.append({
-            "test_id": f"TEV-IT-B2-{num}", "title": title, "level": "B2", "category": "core",
+            "test_id": f"TAPI-IT-B2-{num}", "title": title, "level": "B2", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 15,
             "description": f"Upper-intermediate enterprise IT and cybersecurity module analyzing {title.lower()}."
         })
@@ -619,7 +619,7 @@ def get_teva_it_curriculum():
     ]
     for num, title, track, grammar in c1_topics:
         curriculum.append({
-            "test_id": f"TEV-IT-C1-{num}", "title": title, "level": "C1", "category": "core",
+            "test_id": f"TAPI-IT-C1-{num}", "title": title, "level": "C1", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 20,
             "description": f"Mastery-tier global IT leadership and cybersecurity governance module examining {title.lower()}."
         })
@@ -632,8 +632,12 @@ ALL_CURRICULA = {
     "tapi-engineering": get_tapi_eng_curriculum,
     "teva-engineering": get_tapi_eng_curriculum,
     "tapi-chemistry": get_tapi_chem_curriculum,
-    "teva-it": get_teva_it_curriculum
+    "tapi-it": get_tapi_it_curriculum,
+    "teva-it": get_tapi_it_curriculum
 }
 
 # Backward compatibility alias
 get_teva_eng_curriculum = get_tapi_eng_curriculum
+
+# Backward compatibility alias
+get_teva_it_curriculum = get_tapi_it_curriculum

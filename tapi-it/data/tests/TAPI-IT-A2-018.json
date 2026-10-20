@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-IT-A2-018",
+  "title": "Ethernet Patch Cable Routing in Desk Cable Trays",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling",
+  "estimated_time_minutes": 10,
+  "description": "Foundational IT workplace English module covering ethernet patch cable routing in desk cable trays.",
+  "learning_objectives": [
+    "Master professional Prepositions of Motion (through, along, under) in enterprise IT infrastructure and cloud operations",
+    "Eliminate common Czech interference errors in ethernet patch cable routing in desk cable trays",
+    "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-IT-A2-018-Q1",
+      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "into"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "behind"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'into' accurately identifies the physical hardware connection.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' does not fit the port connection geometry.",
+        "wrong_D": "Preposition 'behind' indicates wrong direction."
+      },
+      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-018-Q2",
+      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "options": [
+        {
+          "key": "A",
+          "text": "into"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "inside"
+        },
+        {
+          "key": "D",
+          "text": "behind"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'inside' accurately identifies the physical hardware connection.",
+        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' does not fit the port connection geometry.",
+        "wrong_D": "Preposition 'behind' indicates wrong direction."
+      },
+      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-018-Q3",
+      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "options": [
+        {
+          "key": "A",
+          "text": "between"
+        },
+        {
+          "key": "B",
+          "text": "into"
+        },
+        {
+          "key": "C",
+          "text": "inside"
+        },
+        {
+          "key": "D",
+          "text": "behind"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'between' accurately identifies the physical hardware connection.",
+        "wrong_B": "Preposition 'into' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'inside' does not fit the port connection geometry.",
+        "wrong_D": "Preposition 'behind' indicates wrong direction."
+      },
+      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-018-Q4",
+      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "options": [
+        {
+          "key": "A",
+          "text": "into"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "behind"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Preposition 'behind' accurately identifies the physical hardware connection.",
+        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'inside' does not fit the port connection geometry.",
+        "wrong_C": "Preposition 'between' indicates wrong direction."
+      },
+      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-018-Q5",
+      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "options": [
+        {
+          "key": "A",
+          "text": "into"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "underneath"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'underneath' accurately identifies the physical hardware connection.",
+        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'inside' does not fit the port connection geometry.",
+        "wrong_D": "Preposition 'between' indicates wrong direction."
+      },
+      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-018-Q6",
+      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "options": [
+        {
+          "key": "A",
+          "text": "into"
+        },
+        {
+          "key": "B",
+          "text": "above"
+        },
+        {
+          "key": "C",
+          "text": "inside"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'above' accurately identifies the physical hardware connection.",
+        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'inside' does not fit the port connection geometry.",
+        "wrong_D": "Preposition 'between' indicates wrong direction."
+      },
+      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-018-Q7",
+      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "options": [
+        {
+          "key": "A",
+          "text": "into"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "across"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Preposition 'across' accurately identifies the physical hardware connection.",
+        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'inside' does not fit the port connection geometry.",
+        "wrong_C": "Preposition 'between' indicates wrong direction."
+      },
+      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-018-Q8",
+      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "options": [
+        {
+          "key": "A",
+          "text": "along"
+        },
+        {
+          "key": "B",
+          "text": "into"
+        },
+        {
+          "key": "C",
+          "text": "inside"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'along' accurately identifies the physical hardware connection.",
+        "wrong_B": "Preposition 'into' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'inside' does not fit the port connection geometry.",
+        "wrong_D": "Preposition 'between' indicates wrong direction."
+      },
+      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-018-Q9",
+      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "options": [
+        {
+          "key": "A",
+          "text": "into"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "against"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'against' accurately identifies the physical hardware connection.",
+        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'inside' does not fit the port connection geometry.",
+        "wrong_D": "Preposition 'between' indicates wrong direction."
+      },
+      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-018-Q10",
+      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "options": [
+        {
+          "key": "A",
+          "text": "into"
+        },
+        {
+          "key": "B",
+          "text": "from"
+        },
+        {
+          "key": "C",
+          "text": "inside"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'from' accurately identifies the physical hardware connection.",
+        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'inside' does not fit the port connection geometry.",
+        "wrong_D": "Preposition 'between' indicates wrong direction."
+      },
+      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    }
+  ]
+}

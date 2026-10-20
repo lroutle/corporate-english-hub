@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-IT-A2-020",
+  "title": "End-of-Day Workstation Shutdown & Screen Sleep Policies",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling",
+  "estimated_time_minutes": 10,
+  "description": "Foundational IT workplace English module covering end-of-day workstation shutdown & screen sleep policies.",
+  "learning_objectives": [
+    "Master professional Obligations & Checklists in enterprise IT infrastructure and cloud operations",
+    "Eliminate common Czech interference errors in end-of-day workstation shutdown & screen sleep policies",
+    "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-IT-A2-020-Q1",
+      "prompt": "Always make sure that you _____ the user's Active Directory password via the IT support portal to comply with IT security policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to reset"
+        },
+        {
+          "key": "B",
+          "text": "reset"
+        },
+        {
+          "key": "C",
+          "text": "resets"
+        },
+        {
+          "key": "D",
+          "text": "resetting"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'make sure that you' is followed by base verb 'reset' in the present tense clause.",
+        "wrong_A": "'to reset' is ungrammatical; finite that-clause requires base verb, not infinitive with 'to'.",
+        "wrong_C": "3rd person singular 'resets' cannot agree with subject 'you'.",
+        "wrong_D": "Participle 'resetting' cannot act as finite verb without auxiliary."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že resetujete'. In English that-clauses with 'you', use base form: 'that you reset'.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-020-Q2",
+      "prompt": "Always make sure that you _____ the virtual domain controller server after installing security patches to comply with IT security policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to restart"
+        },
+        {
+          "key": "B",
+          "text": "restarts"
+        },
+        {
+          "key": "C",
+          "text": "restart"
+        },
+        {
+          "key": "D",
+          "text": "restarting"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'make sure that you' is followed by base verb 'restart' in the present tense clause.",
+        "wrong_A": "'to restart' is ungrammatical; finite that-clause requires base verb, not infinitive with 'to'.",
+        "wrong_B": "3rd person singular 'restarts' cannot agree with subject 'you'.",
+        "wrong_D": "Participle 'restarting' cannot act as finite verb without auxiliary."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že resetujete'. In English that-clauses with 'you', use base form: 'that you restart'.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-020-Q3",
+      "prompt": "Always make sure that you _____ the Cat6 ethernet cable directly into patch panel port 12 to comply with IT security policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "plug"
+        },
+        {
+          "key": "B",
+          "text": "to plug"
+        },
+        {
+          "key": "C",
+          "text": "plugs"
+        },
+        {
+          "key": "D",
+          "text": "plugging"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'make sure that you' is followed by base verb 'plug' in the present tense clause.",
+        "wrong_B": "'to plug' is ungrammatical; finite that-clause requires base verb, not infinitive with 'to'.",
+        "wrong_C": "3rd person singular 'plugs' cannot agree with subject 'you'.",
+        "wrong_D": "Participle 'plugging' cannot act as finite verb without auxiliary."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že resetujete'. In English that-clauses with 'you', use base form: 'that you plug'.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-020-Q4",
+      "prompt": "Always make sure that you _____ the endpoint antivirus status on every newly enrolled laptop to comply with IT security policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to verify"
+        },
+        {
+          "key": "B",
+          "text": "verifies"
+        },
+        {
+          "key": "C",
+          "text": "verifying"
+        },
+        {
+          "key": "D",
+          "text": "verify"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'make sure that you' is followed by base verb 'verify' in the present tense clause.",
+        "wrong_A": "'to verify' is ungrammatical; finite that-clause requires base verb, not infinitive with 'to'.",
+        "wrong_B": "3rd person singular 'verifies' cannot agree with subject 'you'.",
+        "wrong_C": "Participle 'verifying' cannot act as finite verb without auxiliary."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že resetujete'. In English that-clauses with 'you', use base form: 'that you verify'.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-020-Q5",
+      "prompt": "Always make sure that you _____ the network printer driver using the automated software catalog to comply with IT security policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to install"
+        },
+        {
+          "key": "B",
+          "text": "installs"
+        },
+        {
+          "key": "C",
+          "text": "install"
+        },
+        {
+          "key": "D",
+          "text": "installing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'make sure that you' is followed by base verb 'install' in the present tense clause.",
+        "wrong_A": "'to install' is ungrammatical; finite that-clause requires base verb, not infinitive with 'to'.",
+        "wrong_B": "3rd person singular 'installs' cannot agree with subject 'you'.",
+        "wrong_D": "Participle 'installing' cannot act as finite verb without auxiliary."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že resetujete'. In English that-clauses with 'you', use base form: 'that you install'.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-020-Q6",
+      "prompt": "Always make sure that you _____ the temperature inside server rack B-04 every morning to comply with IT security policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to check"
+        },
+        {
+          "key": "B",
+          "text": "check"
+        },
+        {
+          "key": "C",
+          "text": "checks"
+        },
+        {
+          "key": "D",
+          "text": "checking"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'make sure that you' is followed by base verb 'check' in the present tense clause.",
+        "wrong_A": "'to check' is ungrammatical; finite that-clause requires base verb, not infinitive with 'to'.",
+        "wrong_C": "3rd person singular 'checks' cannot agree with subject 'you'.",
+        "wrong_D": "Participle 'checking' cannot act as finite verb without auxiliary."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že resetujete'. In English that-clauses with 'you', use base form: 'that you check'.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-020-Q7",
+      "prompt": "Always make sure that you _____ the high-priority ticket to the Tier 2 networking team to comply with IT security policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to escalate"
+        },
+        {
+          "key": "B",
+          "text": "escalates"
+        },
+        {
+          "key": "C",
+          "text": "escalating"
+        },
+        {
+          "key": "D",
+          "text": "escalate"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'make sure that you' is followed by base verb 'escalate' in the present tense clause.",
+        "wrong_A": "'to escalate' is ungrammatical; finite that-clause requires base verb, not infinitive with 'to'.",
+        "wrong_B": "3rd person singular 'escalates' cannot agree with subject 'you'.",
+        "wrong_C": "Participle 'escalating' cannot act as finite verb without auxiliary."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že resetujete'. In English that-clauses with 'you', use base form: 'that you escalate'.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-020-Q8",
+      "prompt": "Always make sure that you _____ the automated off-site cloud backup status every night to comply with IT security policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "monitor"
+        },
+        {
+          "key": "B",
+          "text": "to monitor"
+        },
+        {
+          "key": "C",
+          "text": "monitors"
+        },
+        {
+          "key": "D",
+          "text": "monitoring"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'make sure that you' is followed by base verb 'monitor' in the present tense clause.",
+        "wrong_B": "'to monitor' is ungrammatical; finite that-clause requires base verb, not infinitive with 'to'.",
+        "wrong_C": "3rd person singular 'monitors' cannot agree with subject 'you'.",
+        "wrong_D": "Participle 'monitoring' cannot act as finite verb without auxiliary."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že resetujete'. In English that-clauses with 'you', use base form: 'that you monitor'.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-020-Q9",
+      "prompt": "Always make sure that you _____ unassigned IP addresses from the corporate DHCP scope to comply with IT security policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to release"
+        },
+        {
+          "key": "B",
+          "text": "releases"
+        },
+        {
+          "key": "C",
+          "text": "release"
+        },
+        {
+          "key": "D",
+          "text": "releasing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'make sure that you' is followed by base verb 'release' in the present tense clause.",
+        "wrong_A": "'to release' is ungrammatical; finite that-clause requires base verb, not infinitive with 'to'.",
+        "wrong_B": "3rd person singular 'releases' cannot agree with subject 'you'.",
+        "wrong_D": "Participle 'releasing' cannot act as finite verb without auxiliary."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že resetujete'. In English that-clauses with 'you', use base form: 'that you release'.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    },
+    {
+      "id": "TAPI-IT-A2-020-Q10",
+      "prompt": "Always make sure that you _____ the external USB-C docking station with dual DisplayPort monitors to comply with IT security policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to configure"
+        },
+        {
+          "key": "B",
+          "text": "configure"
+        },
+        {
+          "key": "C",
+          "text": "configures"
+        },
+        {
+          "key": "D",
+          "text": "configuring"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'make sure that you' is followed by base verb 'configure' in the present tense clause.",
+        "wrong_A": "'to configure' is ungrammatical; finite that-clause requires base verb, not infinitive with 'to'.",
+        "wrong_C": "3rd person singular 'configures' cannot agree with subject 'you'.",
+        "wrong_D": "Participle 'configuring' cannot act as finite verb without auxiliary."
+      },
+      "cz_learning_point": "Czech 'ujistěte se, že resetujete'. In English that-clauses with 'you', use base form: 'that you configure'.",
+      "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
+    }
+  ]
+}

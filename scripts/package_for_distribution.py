@@ -20,7 +20,7 @@ SUITES = [
     ("tatra-sales-engineering", "Tatra_Sales_Engineering_Suite"),
     ("tapi-engineering", "Tapi_Engineering_Suite"),
     ("tapi-chemistry", "Tapi_Chemistry_Suite"),
-    ("teva-it", "Teva_IT_Suite")
+    ("tapi-it", "Tapi_IT_Suite")
 ]
 
 STUDENT_README = """========================================================================
@@ -75,7 +75,7 @@ Contains all 5 independent corporate assessment suites:
 2. Tatra Sales and Engineering (Defense bids, STANAG, Incoterms, international sales)
 3. Tapi Engineering (Cleanroom HVAC, SCADA/PLC, tablet presses, CSV)
 4. Tapi Chemistry (Active Pharmaceutical Ingredients, synthesis, HPLC/GC)
-5. Teva IT (Cloud infrastructure, DevOps, Zero Trust cybersecurity, SAP/LIMS)
+5. Tapi IT (Cloud infrastructure, DevOps, Zero Trust cybersecurity, SAP/LIMS)
 
 ************************************************************************
 CRITICAL STEP BEFORE OPENING:

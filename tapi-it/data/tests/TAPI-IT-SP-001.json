@@ -1,0 +1,327 @@
+{
+  "test_id": "TAPI-IT-SP-001",
+  "title": "False Friends in IT & Software Development",
+  "level": "B1/B2",
+  "category": "specialized",
+  "department": "IT",
+  "workplace_track": "Software Engineering, APIs & Microservices",
+  "estimated_time_minutes": 15,
+  "description": "Master deceptive cognates (false friends) frequently misused by Czech IT professionals, developers, and DevOps engineers in technical architecture and Jira tickets.",
+  "learning_objectives": [
+    "Differentiate 'control' (řídit/ovládat) from 'check / inspect / test' (kontrolovat)",
+    "Differentiate 'actual' (skutečný) from 'current / present' (aktuální)",
+    "Eliminate Czenglish interference with 'evidence', 'eventual', and 'fabricate'"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-IT-SP-001-Q1",
+      "prompt": "Before merging the pull request into main, the lead developer asked the team to thoroughly _____ the unit test coverage.",
+      "options": [
+        {
+          "key": "A",
+          "text": "control"
+        },
+        {
+          "key": "B",
+          "text": "check"
+        },
+        {
+          "key": "C",
+          "text": "steer"
+        },
+        {
+          "key": "D",
+          "text": "command"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Check' (or 'verify / inspect / examine') means to review something for correctness and accuracy.",
+        "wrong_A": "'Control' means to dominate, steer, or regulate (e.g., 'the microcontroller controls the motor'), NOT to visually verify or review code.",
+        "wrong_C": "'Steer' means to guide directional heading.",
+        "wrong_D": "'Command' means to give authoritative orders."
+      },
+      "cz_learning_point": "Czech 'zkontrolovat' translates to 'check', 'review', or 'verify'. Using 'control' is one of the most rampant Czenglish errors in IT standups.",
+      "workplace_track": "Software Engineering, APIs & Microservices"
+    },
+    {
+      "id": "TAPI-IT-SP-001-Q2",
+      "prompt": "Could you provide the _____ status of the AWS database migration project during today's sprint review?",
+      "options": [
+        {
+          "key": "A",
+          "text": "actual"
+        },
+        {
+          "key": "B",
+          "text": "eventual"
+        },
+        {
+          "key": "C",
+          "text": "current"
+        },
+        {
+          "key": "D",
+          "text": "punctual"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Current' means existing or happening right now (současný / nynější).",
+        "wrong_A": "'Actual' means real or factual as opposed to estimated (skutečný/faktický), NOT 'current/now'.",
+        "wrong_B": "'Eventual' means happening in the end after delays (konečný / budoucí).",
+        "wrong_D": "'Punctual' means arriving on time (dochvilný)."
+      },
+      "cz_learning_point": "Czech 'aktuální stav' translates to 'current status', NOT 'actual status'. In English, 'actual' means 'real / in reality'.",
+      "workplace_track": "Software Engineering, APIs & Microservices"
+    },
+    {
+      "id": "TAPI-IT-SP-001-Q3",
+      "prompt": "The compliance auditor asked the DevOps lead to export all digital _____ of access grant approvals from the Jira audit trail.",
+      "options": [
+        {
+          "key": "A",
+          "text": "records"
+        },
+        {
+          "key": "B",
+          "text": "evidence"
+        },
+        {
+          "key": "C",
+          "text": "clues"
+        },
+        {
+          "key": "D",
+          "text": "proofs"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Records' (or 'logs / documentation') refers to recorded administrative data, approvals, and system tracking.",
+        "wrong_B": "'Evidence' is an uncountable noun predominantly used in courtroom trials or scientific proofs (důkazní materiál), not routine logs.",
+        "wrong_C": "'Clues' refers to hints in mystery investigations.",
+        "wrong_D": "'Proofs' is usually uncountable or refers to mathematical demonstrations."
+      },
+      "cz_learning_point": "Czech 'evidence schválení' translates to 'records' or 'logs', NOT 'evidence'. In English, 'evidence' denotes criminal proof.",
+      "workplace_track": "Software Engineering, APIs & Microservices"
+    },
+    {
+      "id": "TAPI-IT-SP-001-Q4",
+      "prompt": "If our primary AWS data center in Frankfurt fails, the system will execute an _____ failover to the Dublin backup region.",
+      "options": [
+        {
+          "key": "A",
+          "text": "eventual"
+        },
+        {
+          "key": "B",
+          "text": "eventually"
+        },
+        {
+          "key": "C",
+          "text": "actual"
+        },
+        {
+          "key": "D",
+          "text": "possible"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Possible' (or 'potential / conditional') expresses an action that may occur if conditions arise.",
+        "wrong_A": "'Eventual' means happening at the end of a long process (konečný), not 'případný / možný'.",
+        "wrong_B": "Adverb form cannot modify noun 'failover'.",
+        "wrong_C": "'Actual' means real/existing."
+      },
+      "cz_learning_point": "Czech 'eventuální výpadek' translates to 'possible / potential failover', NOT 'eventual failover'. In English, 'eventual' means 'occurring at the final outcome'.",
+      "workplace_track": "Software Engineering, APIs & Microservices"
+    },
+    {
+      "id": "TAPI-IT-SP-001-Q5",
+      "prompt": "Software testers must never _____ mock test data that breaches patient confidentiality in clinical trial databases.",
+      "options": [
+        {
+          "key": "A",
+          "text": "generate"
+        },
+        {
+          "key": "B",
+          "text": "construct"
+        },
+        {
+          "key": "C",
+          "text": "fabricate"
+        },
+        {
+          "key": "D",
+          "text": "produce"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Fabricate' in data management means to falsify or invent counterfeit data (vymyslet si / zfalšovat), which is strictly illegal under GxP.",
+        "wrong_A": "'Generate' means legitimate creation using synthetic scripts, which does not convey the negative connotation of falsification.",
+        "wrong_B": "'Construct' is neutral.",
+        "wrong_D": "'Produce' is neutral."
+      },
+      "cz_learning_point": "In pharmaceutical and IT auditing, 'to fabricate data' means to falsify records. Be very careful: generating mock data is 'synthesize / generate', while 'fabricate' implies fraud.",
+      "workplace_track": "Software Engineering, APIs & Microservices"
+    },
+    {
+      "id": "TAPI-IT-SP-001-Q6",
+      "prompt": "Our microservices architecture allows multiple API requests to be processed _____ across separate Docker containers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "consecutively"
+        },
+        {
+          "key": "B",
+          "text": "concurrently"
+        },
+        {
+          "key": "C",
+          "text": "competing"
+        },
+        {
+          "key": "D",
+          "text": "actually"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Concurrently' means simultaneously at the exact same time (souběžně / paralelně).",
+        "wrong_A": "'Consecutively' means one after another in chronological sequence (po sobě).",
+        "wrong_C": "'Competing' implies rivalry rather than parallel computation.",
+        "wrong_D": "'Actually' means in reality."
+      },
+      "cz_learning_point": "Do not confuse 'concurrently' (souběžně ve stejný čas) with 'consecutively' (následně jedno po druhém).",
+      "workplace_track": "Software Engineering, APIs & Microservices"
+    },
+    {
+      "id": "TAPI-IT-SP-001-Q7",
+      "prompt": "The IT project manager asked the software vendor to _____ a detailed quote for twenty enterprise SAP licenses.",
+      "options": [
+        {
+          "key": "A",
+          "text": "bring"
+        },
+        {
+          "key": "B",
+          "text": "conduct"
+        },
+        {
+          "key": "C",
+          "text": "translate"
+        },
+        {
+          "key": "D",
+          "text": "provide"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Provide' (or 'submit / supply') is the professional commercial and IT verb for delivering quotes or information.",
+        "wrong_A": "'Bring' implies physical carrying.",
+        "wrong_B": "'Conduct' means lead or execute audits/tests, not deliver quotes.",
+        "wrong_C": "'Translate' means render into another language."
+      },
+      "cz_learning_point": "Czech 'poskytnout / dodat cenovou nabídku' translates to 'provide / submit a quote'.",
+      "workplace_track": "Software Engineering, APIs & Microservices"
+    },
+    {
+      "id": "TAPI-IT-SP-001-Q8",
+      "prompt": "All production API keys and private certificates must be stored in an _____ cloud secrets vault.",
+      "options": [
+        {
+          "key": "A",
+          "text": "isolated"
+        },
+        {
+          "key": "B",
+          "text": "insulated"
+        },
+        {
+          "key": "C",
+          "text": "airtight"
+        },
+        {
+          "key": "D",
+          "text": "hermetic"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Isolated' (separated from public networks and unauthorized VPCs) is the correct cybersecurity term.",
+        "wrong_B": "'Insulated' refers to thermal or electrical barrier protection (Czech izolovaný od tepla).",
+        "wrong_C": "'Airtight' refers to physical gas sealing.",
+        "wrong_D": "'Hermetic' is physical airtight sealing."
+      },
+      "cz_learning_point": "Czech 'izolovaný' translates to 'isolated' in network and cyber architecture, NOT 'insulated' (which is for thermal/electrical cables).",
+      "workplace_track": "Software Engineering, APIs & Microservices"
+    },
+    {
+      "id": "TAPI-IT-SP-001-Q9",
+      "prompt": "The QA automation suite identified a critical security _____ in the user authentication microservice.",
+      "options": [
+        {
+          "key": "A",
+          "text": "deficiency"
+        },
+        {
+          "key": "B",
+          "text": "shortage"
+        },
+        {
+          "key": "C",
+          "text": "flaw"
+        },
+        {
+          "key": "D",
+          "text": "absence"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Flaw' (or 'vulnerability / defect / bug') refers to an imperfection or weakness in software code or design.",
+        "wrong_A": "'Deficiency' refers to nutritional or systemic inadequacy, not a code defect.",
+        "wrong_B": "'Shortage' means an inadequate quantity of inventory.",
+        "wrong_D": "'Absence' means non-presence."
+      },
+      "cz_learning_point": "In software security, 'bezpečnostní vada / nedostatek' is a 'security flaw' or 'vulnerability', NOT a 'deficiency'.",
+      "workplace_track": "Software Engineering, APIs & Microservices"
+    },
+    {
+      "id": "TAPI-IT-SP-001-Q10",
+      "prompt": "Tapi's IT governance policy strictly forbids developers from deploying _____ changes directly to production servers without ticket approval.",
+      "options": [
+        {
+          "key": "A",
+          "text": "voluntary"
+        },
+        {
+          "key": "B",
+          "text": "arbitrary"
+        },
+        {
+          "key": "C",
+          "text": "autonomous"
+        },
+        {
+          "key": "D",
+          "text": "automatic"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Arbitrary' (unauthorized, based on personal whim rather than established procedure) accurately describes unauthorized production edits.",
+        "wrong_A": "'Voluntary' means done freely without pay or coercion (dobrovolný).",
+        "wrong_C": "'Autonomous' means self-governing.",
+        "wrong_D": "'Automatic' means programmed."
+      },
+      "cz_learning_point": "Czech 'svévolný / neautorizovaný' translates to 'arbitrary' or 'unauthorized', NOT 'voluntary'.",
+      "workplace_track": "Software Engineering, APIs & Microservices"
+    }
+  ]
+}

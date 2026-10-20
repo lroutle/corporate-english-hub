@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-IT-A2-002",
+  "title": "Daily Service Desk Support & User Tickets: Present Simple",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "ITIL Global Service Desk & Incident Escalation",
+  "estimated_time_minutes": 10,
+  "description": "Handle IT helpdesk tickets, user account unlocks, and password resets using Present Simple.",
+  "learning_objectives": [
+    "Use Present Simple 3rd person singular for user ticket handling",
+    "Formulate standard troubleshooting questions with 'do / does'",
+    "Communicate ticket priorities (P1, P2, P3) accurately"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-IT-A2-002-Q1",
+      "prompt": "The IT service desk technician _____ password reset requests in ServiceNow.",
+      "options": [
+        {
+          "key": "A",
+          "text": "process"
+        },
+        {
+          "key": "B",
+          "text": "processes"
+        },
+        {
+          "key": "C",
+          "text": "is process"
+        },
+        {
+          "key": "D",
+          "text": "processing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject 'technician' takes 'processes' with -es.",
+        "wrong_A": "Lacks 3rd person -es.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Technik zpracovává'. Singular subject takes '-es': 'processes'.",
+      "workplace_track": "IT Service Desk & Enterprise Support"
+    },
+    {
+      "id": "TAPI-IT-A2-002-Q2",
+      "prompt": "We usually _____ high-priority P1 tickets within 15 minutes of escalation.",
+      "options": [
+        {
+          "key": "A",
+          "text": "resolves"
+        },
+        {
+          "key": "B",
+          "text": "is resolve"
+        },
+        {
+          "key": "C",
+          "text": "resolve"
+        },
+        {
+          "key": "D",
+          "text": "resolving"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Plural subject 'We' takes base verb 'resolve'.",
+        "wrong_A": "'resolves' is singular.",
+        "wrong_B": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Běžně řešíme P1 tikety...'. Plural subject takes base verb: 'resolve'.",
+      "workplace_track": "IT Service Desk & Enterprise Support"
+    },
+    {
+      "id": "TAPI-IT-A2-002-Q3",
+      "prompt": "The enterprise VPN client _____ automatically when the laptop connects to home Wi-Fi.",
+      "options": [
+        {
+          "key": "A",
+          "text": "launches"
+        },
+        {
+          "key": "B",
+          "text": "launch"
+        },
+        {
+          "key": "C",
+          "text": "is launch"
+        },
+        {
+          "key": "D",
+          "text": "launching"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject 'VPN client' takes 'launches' with -es.",
+        "wrong_B": "Lacks singular -es.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'VPN klient se spouští'. Singular subject takes '-es': 'launches'.",
+      "workplace_track": "IT Service Desk & Enterprise Support"
+    },
+    {
+      "id": "TAPI-IT-A2-002-Q4",
+      "prompt": "_____ the user have administrative rights on the corporate workstation?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is"
+        },
+        {
+          "key": "B",
+          "text": "Do"
+        },
+        {
+          "key": "C",
+          "text": "Are"
+        },
+        {
+          "key": "D",
+          "text": "Does"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject 'the user' takes auxiliary 'Does' in Present Simple questions.",
+        "wrong_A": "'Is' requires continuous -ing.",
+        "wrong_B": "'Do' is plural.",
+        "wrong_C": "'Are' is plural."
+      },
+      "cz_learning_point": "Czech 'Má uživatel administrátorská práva?'. Singular question takes 'Does the user have...?'.",
+      "workplace_track": "IT Service Desk & Enterprise Support"
+    },
+    {
+      "id": "TAPI-IT-A2-002-Q5",
+      "prompt": "System administrators _____ new employee accounts in Active Directory.",
+      "options": [
+        {
+          "key": "A",
+          "text": "creates"
+        },
+        {
+          "key": "B",
+          "text": "create"
+        },
+        {
+          "key": "C",
+          "text": "is create"
+        },
+        {
+          "key": "D",
+          "text": "creating"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Plural subject 'administrators' takes base verb 'create'.",
+        "wrong_A": "'creates' is singular.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Správci vytvářejí...'. Plural subject takes base verb: 'create'.",
+      "workplace_track": "IT Service Desk & Enterprise Support"
+    },
+    {
+      "id": "TAPI-IT-A2-002-Q6",
+      "prompt": "The user account _____ not unlock automatically after three consecutive failed attempts.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "do"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular negative Present Simple takes 'does not unlock'.",
+        "wrong_A": "'is not unlock' is ungrammatical.",
+        "wrong_C": "'do' is plural.",
+        "wrong_D": "'has' cannot negate action verbs like this."
+      },
+      "cz_learning_point": "Czech 'Účet se neodemkne automaticky'. Use 'does not unlock'.",
+      "workplace_track": "IT Service Desk & Enterprise Support"
+    },
+    {
+      "id": "TAPI-IT-A2-002-Q7",
+      "prompt": "How often _____ the backup system duplicate the database to the cloud?",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "do"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "does"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject 'backup system' takes auxiliary 'does': 'How often does the system duplicate...?'.",
+        "wrong_A": "'is' cannot pair with bare base verb 'duplicate'.",
+        "wrong_B": "'do' is plural.",
+        "wrong_C": "'are' is plural."
+      },
+      "cz_learning_point": "Czech 'Jak často zálohovací systém duplikuje...?'. Question requires auxiliary 'does'.",
+      "workplace_track": "Cloud Architecture & Hybrid Infrastructure (AWS & Azure)"
+    },
+    {
+      "id": "TAPI-IT-A2-002-Q8",
+      "prompt": "The security scanner _____ all inbound email attachments for malicious macros.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inspects"
+        },
+        {
+          "key": "B",
+          "text": "inspect"
+        },
+        {
+          "key": "C",
+          "text": "is inspect"
+        },
+        {
+          "key": "D",
+          "text": "inspecting"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject 'scanner' takes 'inspects' with 3rd person -s.",
+        "wrong_B": "Lacks singular -s.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Bezpečnostní skener kontroluje...'. Singular subject takes '-s': 'inspects'.",
+      "workplace_track": "Enterprise Cybersecurity, Threat Hunting & Zero Trust"
+    },
+    {
+      "id": "TAPI-IT-A2-002-Q9",
+      "prompt": "Our service desk technicians _____ support in both Czech and English.",
+      "options": [
+        {
+          "key": "A",
+          "text": "provides"
+        },
+        {
+          "key": "B",
+          "text": "is provide"
+        },
+        {
+          "key": "C",
+          "text": "provide"
+        },
+        {
+          "key": "D",
+          "text": "providing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Plural subject 'technicians' takes base verb 'provide'.",
+        "wrong_A": "'provides' is singular.",
+        "wrong_B": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Technici poskytují...'. Plural subject takes base verb: 'provide'.",
+      "workplace_track": "IT Service Desk & Enterprise Support"
+    },
+    {
+      "id": "TAPI-IT-A2-002-Q10",
+      "prompt": "The multi-factor authentication (MFA) prompt _____ after 30 days of inactivity.",
+      "options": [
+        {
+          "key": "A",
+          "text": "expire"
+        },
+        {
+          "key": "B",
+          "text": "expires"
+        },
+        {
+          "key": "C",
+          "text": "is expire"
+        },
+        {
+          "key": "D",
+          "text": "expiring"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject 'prompt' takes 'expires' with 3rd person -s.",
+        "wrong_A": "Lacks singular -s.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Platnost vyprší po 30 dnech'. Singular subject takes '-s': 'expires'.",
+      "workplace_track": "Enterprise Cybersecurity, Threat Hunting & Zero Trust"
+    }
+  ]
+}

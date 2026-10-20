@@ -49,13 +49,13 @@ if __name__ == "__main__":
     from generators.tatra_sales import generate_tatra_sales_modules
     from generators.tapi_eng import generate_tapi_eng_modules
     from generators.tapi_chem import generate_tapi_chem_modules
-    from generators.teva_it import generate_teva_it_modules
+    from generators.tapi_it import generate_tapi_it_modules
 
     ok1 = validate_suite_modules("tatra-engineering", generate_tatra_eng_modules)
     ok2 = validate_suite_modules("tatra-sales-engineering", generate_tatra_sales_modules)
     ok3 = validate_suite_modules("tapi-engineering", generate_tapi_eng_modules)
     ok4 = validate_suite_modules("tapi-chemistry", generate_tapi_chem_modules)
-    ok5 = validate_suite_modules("teva-it", generate_teva_it_modules)
+    ok5 = validate_suite_modules("tapi-it", generate_tapi_it_modules)
 
     all_passed = ok1 and ok2 and ok3 and ok4 and ok5
     print("\n" + "=" * 50)

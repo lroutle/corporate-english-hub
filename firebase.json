@@ -40,6 +40,16 @@
         "source": "/teva-engineering",
         "destination": "/tapi-engineering/",
         "type": 301
+      },
+      {
+        "source": "/teva-it/:path*",
+        "destination": "/tapi-it/:path*",
+        "type": 301
+      },
+      {
+        "source": "/teva-it",
+        "destination": "/tapi-it/",
+        "type": 301
       }
     ]
   }
