@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-ENG-A2-002",
+  "title": "Sterile Line Sensor Readings & Status: Present Simple",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "SCADA, PLC & Industrial Automation",
+  "estimated_time_minutes": 10,
+  "description": "Report sterile vial filling line sensor readings, laminar flow velocities, and alarm states using Present Simple.",
+  "learning_objectives": [
+    "Use Present Simple 3rd person singular for instrument readouts",
+    "State machine operational states with 'is / are'",
+    "Avoid Czech word order transfer in affirmative instrument reports"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-ENG-A2-002-Q1",
+      "prompt": "The differential pressure sensor on airlock 3 _____ a steady reading of 15 Pa.",
+      "options": [
+        {
+          "key": "A",
+          "text": "show"
+        },
+        {
+          "key": "B",
+          "text": "shows"
+        },
+        {
+          "key": "C",
+          "text": "showing"
+        },
+        {
+          "key": "D",
+          "text": "is show"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject 'sensor' takes 'shows' with 3rd person -s.",
+        "wrong_A": "Lacks singular -s.",
+        "wrong_C": "Participle alone cannot be verb.",
+        "wrong_D": "Ungrammatical."
+      },
+      "cz_learning_point": "Czech 'Senzor ukazuje'. Singular subject takes '-s': 'shows'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-A2-002-Q2",
+      "prompt": "Laminar airflow velocity beneath the HEPA filter _____ within the 0.36 to 0.54 m/s specification.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "have"
+        },
+        {
+          "key": "C",
+          "text": "is"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular uncountable subject 'velocity' takes 'is'.",
+        "wrong_A": "'are' is plural.",
+        "wrong_B": "'have' cannot link to a predicate prepositional phrase.",
+        "wrong_D": "'has' is incorrect for state."
+      },
+      "cz_learning_point": "Czech 'Rychlost proudění je v normě'. 'Velocity' is singular $\\rightarrow$ 'is within specification'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-A2-002-Q3",
+      "prompt": "The sterile vial filling machine _____ automatically when a fallen bottle is detected.",
+      "options": [
+        {
+          "key": "A",
+          "text": "stops"
+        },
+        {
+          "key": "B",
+          "text": "stop"
+        },
+        {
+          "key": "C",
+          "text": "is stop"
+        },
+        {
+          "key": "D",
+          "text": "stopping"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject 'machine' takes 'stops'.",
+        "wrong_B": "Lacks -s.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Plnička se automaticky zastavuje'. Singular subject takes '-s': 'stops'.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-002-Q4",
+      "prompt": "_____ the SCADA monitoring system archive temperature logs every ten seconds?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is"
+        },
+        {
+          "key": "B",
+          "text": "Do"
+        },
+        {
+          "key": "C",
+          "text": "Are"
+        },
+        {
+          "key": "D",
+          "text": "Does"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject 'the system' takes auxiliary 'Does' in Present Simple questions.",
+        "wrong_A": "'Is' requires continuous -ing.",
+        "wrong_B": "'Do' is plural.",
+        "wrong_C": "'Are' is plural."
+      },
+      "cz_learning_point": "Czech 'Archivuje systém data každých deset sekund?'. Singular question takes 'Does the system archive...'.",
+      "workplace_track": "SCADA, PLC & Industrial Sensors"
+    },
+    {
+      "id": "TAPI-ENG-A2-002-Q5",
+      "prompt": "Cleanroom technicians _____ glove integrity tests before entering Grade A aseptic zones.",
+      "options": [
+        {
+          "key": "A",
+          "text": "perform"
+        },
+        {
+          "key": "B",
+          "text": "performs"
+        },
+        {
+          "key": "C",
+          "text": "is perform"
+        },
+        {
+          "key": "D",
+          "text": "performing"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Plural subject 'technicians' takes base verb 'perform'.",
+        "wrong_B": "'performs' is singular.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Technici provádějí...'. Plural subject takes base form without -s: 'perform'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-A2-002-Q6",
+      "prompt": "The sterile transfer port _____ not unlock until differential pressure equalizes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "do"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular negative Present Simple takes 'does not unlock'.",
+        "wrong_A": "'is not unlock' is ungrammatical.",
+        "wrong_C": "'do' is plural.",
+        "wrong_D": "'has' cannot negate action verbs like this."
+      },
+      "cz_learning_point": "Czech 'Port se neodemyká'. Use 'does not unlock'.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-002-Q7",
+      "prompt": "How often _____ the maintenance technician replace the peristaltic pump silicone tubing?",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "do"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "does"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular technician subject takes auxiliary 'does': 'How often does the technician replace...'.",
+        "wrong_A": "'is' cannot pair with bare verb 'replace'.",
+        "wrong_B": "'do' is plural.",
+        "wrong_C": "'are' is plural."
+      },
+      "cz_learning_point": "Czech 'Jak často technik mění...?'. Question requires 'does the technician replace...?'.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-002-Q8",
+      "prompt": "The autoclave chamber temperature _____ steadily during the heating phase.",
+      "options": [
+        {
+          "key": "A",
+          "text": "rises"
+        },
+        {
+          "key": "B",
+          "text": "rise"
+        },
+        {
+          "key": "C",
+          "text": "is rise"
+        },
+        {
+          "key": "D",
+          "text": "rising"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject 'temperature' takes 'rises'.",
+        "wrong_B": "Lacks singular -s.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Teplota v komoře stoupá'. Use 'rises' with 3rd person -s.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    },
+    {
+      "id": "TAPI-ENG-A2-002-Q9",
+      "prompt": "Optical sensors on the conveyor belt _____ defective glass ampoules immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "rejects"
+        },
+        {
+          "key": "B",
+          "text": "is reject"
+        },
+        {
+          "key": "C",
+          "text": "reject"
+        },
+        {
+          "key": "D",
+          "text": "rejecting"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Plural subject 'sensors' takes base verb 'reject'.",
+        "wrong_A": "'rejects' is singular.",
+        "wrong_B": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Optické senzory vyřazují...'. Plural subject takes base verb: 'reject'.",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-002-Q10",
+      "prompt": "The cleanroom HVAC cascade _____ positive pressure from Grade B toward Grade C corridors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "maintain"
+        },
+        {
+          "key": "B",
+          "text": "maintains"
+        },
+        {
+          "key": "C",
+          "text": "is maintain"
+        },
+        {
+          "key": "D",
+          "text": "maintaining"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject 'cascade' takes 'maintains'.",
+        "wrong_A": "Lacks 3rd person -s.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Vzduchotechnická kaskáda udržuje...'. Singular subject takes '-s': 'maintains'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    }
+  ]
+}

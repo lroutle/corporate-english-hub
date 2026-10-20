@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-ENG-B1-013",
+  "title": "Differential Pressure Sensor Zero-Span Electronic Calibration",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate pharmaceutical engineering module investigating differential pressure sensor zero-span electronic calibration.",
+  "learning_objectives": [
+    "Master professional Conditionals in Instrument Tuning in pharmaceutical engineering and cleanroom automation",
+    "Eliminate common Czech interference errors in differential pressure sensor zero-span electronic calibration",
+    "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-ENG-B1-013-Q1",
+      "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will drop"
+        },
+        {
+          "key": "B",
+          "text": "drops"
+        },
+        {
+          "key": "C",
+          "text": "would drop"
+        },
+        {
+          "key": "D",
+          "text": "dropped"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+      },
+      "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-B1-013-Q2",
+      "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will drop"
+        },
+        {
+          "key": "B",
+          "text": "would drop"
+        },
+        {
+          "key": "C",
+          "text": "drops"
+        },
+        {
+          "key": "D",
+          "text": "dropped"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+      },
+      "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-B1-013-Q3",
+      "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "drops"
+        },
+        {
+          "key": "B",
+          "text": "will drop"
+        },
+        {
+          "key": "C",
+          "text": "would drop"
+        },
+        {
+          "key": "D",
+          "text": "dropped"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
+        "wrong_B": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+      },
+      "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-B1-013-Q4",
+      "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will drop"
+        },
+        {
+          "key": "B",
+          "text": "would drop"
+        },
+        {
+          "key": "C",
+          "text": "dropped"
+        },
+        {
+          "key": "D",
+          "text": "drops"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_C": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+      },
+      "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-B1-013-Q5",
+      "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will drop"
+        },
+        {
+          "key": "B",
+          "text": "would drop"
+        },
+        {
+          "key": "C",
+          "text": "drops"
+        },
+        {
+          "key": "D",
+          "text": "dropped"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+      },
+      "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-B1-013-Q6",
+      "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will drop"
+        },
+        {
+          "key": "B",
+          "text": "drops"
+        },
+        {
+          "key": "C",
+          "text": "would drop"
+        },
+        {
+          "key": "D",
+          "text": "dropped"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+      },
+      "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-B1-013-Q7",
+      "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will drop"
+        },
+        {
+          "key": "B",
+          "text": "would drop"
+        },
+        {
+          "key": "C",
+          "text": "dropped"
+        },
+        {
+          "key": "D",
+          "text": "drops"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_C": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+      },
+      "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-B1-013-Q8",
+      "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "drops"
+        },
+        {
+          "key": "B",
+          "text": "will drop"
+        },
+        {
+          "key": "C",
+          "text": "would drop"
+        },
+        {
+          "key": "D",
+          "text": "dropped"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
+        "wrong_B": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+      },
+      "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-B1-013-Q9",
+      "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will drop"
+        },
+        {
+          "key": "B",
+          "text": "would drop"
+        },
+        {
+          "key": "C",
+          "text": "drops"
+        },
+        {
+          "key": "D",
+          "text": "dropped"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+      },
+      "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-B1-013-Q10",
+      "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will drop"
+        },
+        {
+          "key": "B",
+          "text": "drops"
+        },
+        {
+          "key": "C",
+          "text": "would drop"
+        },
+        {
+          "key": "D",
+          "text": "dropped"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
+        "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+      },
+      "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    }
+  ]
+}

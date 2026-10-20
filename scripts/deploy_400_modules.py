@@ -20,7 +20,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 from generators.tatra_eng import generate_tatra_eng_modules
 from generators.tatra_sales import generate_tatra_sales_modules
-from generators.teva_eng import generate_teva_eng_modules
+from generators.tapi_eng import generate_tapi_eng_modules
 from generators.tapi_chem import generate_tapi_chem_modules
 from generators.teva_it import generate_teva_it_modules
 from curriculum_catalog import ALL_CURRICULA
@@ -28,7 +28,7 @@ from curriculum_catalog import ALL_CURRICULA
 SUITE_GENERATORS = {
     "tatra-engineering": generate_tatra_eng_modules,
     "tatra-sales-engineering": generate_tatra_sales_modules,
-    "teva-engineering": generate_teva_eng_modules,
+    "tapi-engineering": generate_tapi_eng_modules,
     "tapi-chemistry": generate_tapi_chem_modules,
     "teva-it": generate_teva_it_modules
 }

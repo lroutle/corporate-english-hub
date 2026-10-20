@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-ENG-A2-013",
+  "title": "Water for Injection (WFI) Sampling Point Locations",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure",
+  "estimated_time_minutes": 10,
+  "description": "Foundational pharmaceutical engineering module covering water for injection (wfi) sampling point locations.",
+  "learning_objectives": [
+    "Master professional Demonstratives (this, that, these, those) in pharmaceutical engineering and cleanroom automation",
+    "Eliminate common Czech interference errors in water for injection (wfi) sampling point locations",
+    "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-ENG-A2-013-Q1",
+      "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "between"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "above"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'inside' accurately identifies the physical cleanroom placement.",
+        "wrong_A": "Preposition 'between' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'above' is incompatible with the wall mount geometry.",
+        "wrong_D": "Preposition 'next to' indicates wrong direction."
+      },
+      "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-A2-013-Q2",
+      "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "above"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'between' accurately identifies the physical cleanroom placement.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'above' is incompatible with the wall mount geometry.",
+        "wrong_D": "Preposition 'next to' indicates wrong direction."
+      },
+      "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-A2-013-Q3",
+      "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "above"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'above' accurately identifies the physical cleanroom placement.",
+        "wrong_B": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' is incompatible with the wall mount geometry.",
+        "wrong_D": "Preposition 'next to' indicates wrong direction."
+      },
+      "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-A2-013-Q4",
+      "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "above"
+        },
+        {
+          "key": "D",
+          "text": "next to"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Preposition 'next to' accurately identifies the physical cleanroom placement.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' is incompatible with the wall mount geometry.",
+        "wrong_C": "Preposition 'above' indicates wrong direction."
+      },
+      "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-A2-013-Q5",
+      "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "under"
+        },
+        {
+          "key": "D",
+          "text": "above"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'under' accurately identifies the physical cleanroom placement.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' is incompatible with the wall mount geometry.",
+        "wrong_D": "Preposition 'above' indicates wrong direction."
+      },
+      "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-A2-013-Q6",
+      "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "behind"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "above"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'behind' accurately identifies the physical cleanroom placement.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' is incompatible with the wall mount geometry.",
+        "wrong_D": "Preposition 'above' indicates wrong direction."
+      },
+      "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-A2-013-Q7",
+      "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "above"
+        },
+        {
+          "key": "D",
+          "text": "into"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Preposition 'into' accurately identifies the physical cleanroom placement.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' is incompatible with the wall mount geometry.",
+        "wrong_C": "Preposition 'above' indicates wrong direction."
+      },
+      "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-A2-013-Q8",
+      "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "across"
+        },
+        {
+          "key": "B",
+          "text": "inside"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "above"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'across' accurately identifies the physical cleanroom placement.",
+        "wrong_B": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' is incompatible with the wall mount geometry.",
+        "wrong_D": "Preposition 'above' indicates wrong direction."
+      },
+      "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-A2-013-Q9",
+      "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "along"
+        },
+        {
+          "key": "D",
+          "text": "above"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'along' accurately identifies the physical cleanroom placement.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_B": "Preposition 'between' is incompatible with the wall mount geometry.",
+        "wrong_D": "Preposition 'above' indicates wrong direction."
+      },
+      "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    },
+    {
+      "id": "TAPI-ENG-A2-013-Q10",
+      "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "against"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "above"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'against' accurately identifies the physical cleanroom placement.",
+        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
+        "wrong_C": "Preposition 'between' is incompatible with the wall mount geometry.",
+        "wrong_D": "Preposition 'above' indicates wrong direction."
+      },
+      "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+      "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
+    }
+  ]
+}

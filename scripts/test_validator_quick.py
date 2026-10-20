@@ -47,13 +47,13 @@ def validate_suite_modules(suite_dir, gen_func):
 if __name__ == "__main__":
     from generators.tatra_eng import generate_tatra_eng_modules
     from generators.tatra_sales import generate_tatra_sales_modules
-    from generators.teva_eng import generate_teva_eng_modules
+    from generators.tapi_eng import generate_tapi_eng_modules
     from generators.tapi_chem import generate_tapi_chem_modules
     from generators.teva_it import generate_teva_it_modules
 
     ok1 = validate_suite_modules("tatra-engineering", generate_tatra_eng_modules)
     ok2 = validate_suite_modules("tatra-sales-engineering", generate_tatra_sales_modules)
-    ok3 = validate_suite_modules("teva-engineering", generate_teva_eng_modules)
+    ok3 = validate_suite_modules("tapi-engineering", generate_tapi_eng_modules)
     ok4 = validate_suite_modules("tapi-chemistry", generate_tapi_chem_modules)
     ok5 = validate_suite_modules("teva-it", generate_teva_it_modules)
 

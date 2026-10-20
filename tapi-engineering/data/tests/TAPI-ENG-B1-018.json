@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-ENG-B1-018",
+  "title": "Equipment Change Control Initiation: Servo Motor Retrofits",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Computerized System Validation (CSV & GAMP 5)",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate pharmaceutical engineering module investigating equipment change control initiation: servo motor retrofits.",
+  "learning_objectives": [
+    "Master professional Formal Justification Connectors in pharmaceutical engineering and cleanroom automation",
+    "Eliminate common Czech interference errors in equipment change control initiation: servo motor retrofits",
+    "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-ENG-B1-018-Q1",
+      "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be autoclaved"
+        },
+        {
+          "key": "B",
+          "text": "must be autoclaved"
+        },
+        {
+          "key": "C",
+          "text": "must autoclave"
+        },
+        {
+          "key": "D",
+          "text": "are must be autoclaved"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be autoclaved'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    },
+    {
+      "id": "TAPI-ENG-B1-018-Q2",
+      "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be autoclaved"
+        },
+        {
+          "key": "B",
+          "text": "must autoclave"
+        },
+        {
+          "key": "C",
+          "text": "must be autoclaved"
+        },
+        {
+          "key": "D",
+          "text": "are must be autoclaved"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be autoclaved'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    },
+    {
+      "id": "TAPI-ENG-B1-018-Q3",
+      "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must be autoclaved"
+        },
+        {
+          "key": "B",
+          "text": "must to be autoclaved"
+        },
+        {
+          "key": "C",
+          "text": "must autoclave"
+        },
+        {
+          "key": "D",
+          "text": "are must be autoclaved"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be autoclaved'.",
+        "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    },
+    {
+      "id": "TAPI-ENG-B1-018-Q4",
+      "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be autoclaved"
+        },
+        {
+          "key": "B",
+          "text": "must autoclave"
+        },
+        {
+          "key": "C",
+          "text": "are must be autoclaved"
+        },
+        {
+          "key": "D",
+          "text": "must be autoclaved"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be autoclaved'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+        "wrong_C": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    },
+    {
+      "id": "TAPI-ENG-B1-018-Q5",
+      "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be autoclaved"
+        },
+        {
+          "key": "B",
+          "text": "must autoclave"
+        },
+        {
+          "key": "C",
+          "text": "must be autoclaved"
+        },
+        {
+          "key": "D",
+          "text": "are must be autoclaved"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be autoclaved'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    },
+    {
+      "id": "TAPI-ENG-B1-018-Q6",
+      "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be autoclaved"
+        },
+        {
+          "key": "B",
+          "text": "must be autoclaved"
+        },
+        {
+          "key": "C",
+          "text": "must autoclave"
+        },
+        {
+          "key": "D",
+          "text": "are must be autoclaved"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be autoclaved'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    },
+    {
+      "id": "TAPI-ENG-B1-018-Q7",
+      "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be autoclaved"
+        },
+        {
+          "key": "B",
+          "text": "must autoclave"
+        },
+        {
+          "key": "C",
+          "text": "are must be autoclaved"
+        },
+        {
+          "key": "D",
+          "text": "must be autoclaved"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be autoclaved'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+        "wrong_C": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    },
+    {
+      "id": "TAPI-ENG-B1-018-Q8",
+      "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must be autoclaved"
+        },
+        {
+          "key": "B",
+          "text": "must to be autoclaved"
+        },
+        {
+          "key": "C",
+          "text": "must autoclave"
+        },
+        {
+          "key": "D",
+          "text": "are must be autoclaved"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be autoclaved'.",
+        "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    },
+    {
+      "id": "TAPI-ENG-B1-018-Q9",
+      "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be autoclaved"
+        },
+        {
+          "key": "B",
+          "text": "must autoclave"
+        },
+        {
+          "key": "C",
+          "text": "must be autoclaved"
+        },
+        {
+          "key": "D",
+          "text": "are must be autoclaved"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be autoclaved'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    },
+    {
+      "id": "TAPI-ENG-B1-018-Q10",
+      "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be autoclaved"
+        },
+        {
+          "key": "B",
+          "text": "must be autoclaved"
+        },
+        {
+          "key": "C",
+          "text": "must autoclave"
+        },
+        {
+          "key": "D",
+          "text": "are must be autoclaved"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Passive construction with modal: 'must be autoclaved'.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
+        "wrong_D": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+      "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
+    }
+  ]
+}

@@ -18,7 +18,7 @@ DIST_DIR = ROOT / "dist"
 SUITES = [
     ("tatra-engineering", "Tatra_Engineering_Suite"),
     ("tatra-sales-engineering", "Tatra_Sales_Engineering_Suite"),
-    ("teva-engineering", "Teva_Engineering_Suite"),
+    ("tapi-engineering", "Tapi_Engineering_Suite"),
     ("tapi-chemistry", "Tapi_Chemistry_Suite"),
     ("teva-it", "Teva_IT_Suite")
 ]
@@ -73,7 +73,7 @@ MASTER_README = """=============================================================
 Contains all 5 independent corporate assessment suites:
 1. Tatra Engineering (Automotive chassis R&D, assembly lines, powertrain)
 2. Tatra Sales and Engineering (Defense bids, STANAG, Incoterms, international sales)
-3. Teva Engineering (Cleanroom HVAC, SCADA/PLC, tablet presses, CSV)
+3. Tapi Engineering (Cleanroom HVAC, SCADA/PLC, tablet presses, CSV)
 4. Tapi Chemistry (Active Pharmaceutical Ingredients, synthesis, HPLC/GC)
 5. Teva IT (Cloud infrastructure, DevOps, Zero Trust cybersecurity, SAP/LIMS)
 

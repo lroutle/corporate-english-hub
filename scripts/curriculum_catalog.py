@@ -254,7 +254,7 @@ def get_tatra_sales_curriculum():
 print("Curriculum helper module created.")
 
 
-def get_teva_eng_curriculum():
+def get_tapi_eng_curriculum():
     curriculum = []
     # A2 (001-020)
     a2_topics = [
@@ -281,7 +281,7 @@ def get_teva_eng_curriculum():
     ]
     for num, title, track, grammar in a2_topics:
         curriculum.append({
-            "test_id": f"TEV-ENG-A2-{num}", "title": title, "level": "A2", "category": "core",
+            "test_id": f"TAPI-ENG-A2-{num}", "title": title, "level": "A2", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 10,
             "description": f"Foundational pharmaceutical engineering module covering {title.lower()}."
         })
@@ -311,7 +311,7 @@ def get_teva_eng_curriculum():
     ]
     for num, title, track, grammar in b1_topics:
         curriculum.append({
-            "test_id": f"TEV-ENG-B1-{num}", "title": title, "level": "B1", "category": "core",
+            "test_id": f"TAPI-ENG-B1-{num}", "title": title, "level": "B1", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 15,
             "description": f"Intermediate pharmaceutical engineering module investigating {title.lower()}."
         })
@@ -341,7 +341,7 @@ def get_teva_eng_curriculum():
     ]
     for num, title, track, grammar in b2_topics:
         curriculum.append({
-            "test_id": f"TEV-ENG-B2-{num}", "title": title, "level": "B2", "category": "core",
+            "test_id": f"TAPI-ENG-B2-{num}", "title": title, "level": "B2", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 15,
             "description": f"Upper-intermediate pharmaceutical engineering module analyzing {title.lower()}."
         })
@@ -371,7 +371,7 @@ def get_teva_eng_curriculum():
     ]
     for num, title, track, grammar in c1_topics:
         curriculum.append({
-            "test_id": f"TEV-ENG-C1-{num}", "title": title, "level": "C1", "category": "core",
+            "test_id": f"TAPI-ENG-C1-{num}", "title": title, "level": "C1", "category": "core",
             "workplace_track": track, "grammar_focus": grammar, "estimated_time_minutes": 20,
             "description": f"Advanced-tier pharmaceutical engineering governance module examining {title.lower()}."
         })
@@ -629,7 +629,11 @@ def get_teva_it_curriculum():
 ALL_CURRICULA = {
     "tatra-engineering": get_tatra_eng_curriculum,
     "tatra-sales-engineering": get_tatra_sales_curriculum,
-    "teva-engineering": get_teva_eng_curriculum,
+    "tapi-engineering": get_tapi_eng_curriculum,
+    "teva-engineering": get_tapi_eng_curriculum,
     "tapi-chemistry": get_tapi_chem_curriculum,
     "teva-it": get_teva_it_curriculum
 }
+
+# Backward compatibility alias
+get_teva_eng_curriculum = get_tapi_eng_curriculum

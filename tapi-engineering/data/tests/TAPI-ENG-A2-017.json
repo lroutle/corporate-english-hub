@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-ENG-A2-017",
+  "title": "Sterilization Indicator Strip Color Verification",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Tablet Compression & Lyophilization Equipment",
+  "estimated_time_minutes": 10,
+  "description": "Foundational pharmaceutical engineering module covering sterilization indicator strip color verification.",
+  "learning_objectives": [
+    "Master professional Adjectives of State & Condition in pharmaceutical engineering and cleanroom automation",
+    "Eliminate common Czech interference errors in sterilization indicator strip color verification",
+    "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-ENG-A2-017-Q1",
+      "prompt": "The cleanroom operator routinely _____ sterile nitrile gloves before passing through the Grade B airlock.",
+      "options": [
+        {
+          "key": "A",
+          "text": "wear"
+        },
+        {
+          "key": "B",
+          "text": "wears"
+        },
+        {
+          "key": "C",
+          "text": "wearing"
+        },
+        {
+          "key": "D",
+          "text": "is wear"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('wears').",
+        "wrong_A": "Base form 'wear' lacks singular '-s'.",
+        "wrong_C": "Participle 'wearing' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is wear' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Czech 'operátor nosí'. English 3rd person singular takes -s: 'wears'.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    },
+    {
+      "id": "TAPI-ENG-A2-017-Q2",
+      "prompt": "The validation technician routinely _____ the differential pressure display on panel DP-04 every morning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "check"
+        },
+        {
+          "key": "B",
+          "text": "checking"
+        },
+        {
+          "key": "C",
+          "text": "checks"
+        },
+        {
+          "key": "D",
+          "text": "is check"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('checks').",
+        "wrong_A": "Base form 'check' lacks singular '-s'.",
+        "wrong_B": "Participle 'checking' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is check' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'checks' with -s.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    },
+    {
+      "id": "TAPI-ENG-A2-017-Q3",
+      "prompt": "The automation engineer routinely _____ the emergency stop button on the blistering line immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "presses"
+        },
+        {
+          "key": "B",
+          "text": "press"
+        },
+        {
+          "key": "C",
+          "text": "pressing"
+        },
+        {
+          "key": "D",
+          "text": "is press"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('presses').",
+        "wrong_B": "Base form 'press' lacks singular '-s'.",
+        "wrong_C": "Participle 'pressing' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is press' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Verb ending in -ss takes -es: 'presses'.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    },
+    {
+      "id": "TAPI-ENG-A2-017-Q4",
+      "prompt": "The autoclave operator routinely _____ the temperature recording chart at the end of each sterilization cycle.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sign"
+        },
+        {
+          "key": "B",
+          "text": "signing"
+        },
+        {
+          "key": "C",
+          "text": "is sign"
+        },
+        {
+          "key": "D",
+          "text": "signs"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('signs').",
+        "wrong_A": "Base form 'sign' lacks singular '-s'.",
+        "wrong_B": "Participle 'signing' cannot act as finite verb without auxiliary.",
+        "wrong_C": "'is sign' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Czech 'operátor podepisuje'. Use 'signs'.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    },
+    {
+      "id": "TAPI-ENG-A2-017-Q5",
+      "prompt": "The HVAC specialist routinely _____ the pre-filter cartridge in air handling unit AHU-02 once a month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "replace"
+        },
+        {
+          "key": "B",
+          "text": "replacing"
+        },
+        {
+          "key": "C",
+          "text": "replaces"
+        },
+        {
+          "key": "D",
+          "text": "is replace"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('replaces').",
+        "wrong_A": "Base form 'replace' lacks singular '-s'.",
+        "wrong_B": "Participle 'replacing' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is replace' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'replaces'.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    },
+    {
+      "id": "TAPI-ENG-A2-017-Q6",
+      "prompt": "The maintenance technician routinely _____ the peristaltic pump roller assembly before starting sterile batch compounding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "lubricate"
+        },
+        {
+          "key": "B",
+          "text": "lubricates"
+        },
+        {
+          "key": "C",
+          "text": "lubricating"
+        },
+        {
+          "key": "D",
+          "text": "is lubricate"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('lubricates').",
+        "wrong_A": "Base form 'lubricate' lacks singular '-s'.",
+        "wrong_C": "Participle 'lubricating' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is lubricate' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'lubricates'.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    },
+    {
+      "id": "TAPI-ENG-A2-017-Q7",
+      "prompt": "The calibration technician routinely _____ the certified digital manometer across the cleanroom pressure barrier.",
+      "options": [
+        {
+          "key": "A",
+          "text": "connect"
+        },
+        {
+          "key": "B",
+          "text": "connecting"
+        },
+        {
+          "key": "C",
+          "text": "is connect"
+        },
+        {
+          "key": "D",
+          "text": "connects"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('connects').",
+        "wrong_A": "Base form 'connect' lacks singular '-s'.",
+        "wrong_B": "Participle 'connecting' cannot act as finite verb without auxiliary.",
+        "wrong_C": "'is connect' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'connects'.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    },
+    {
+      "id": "TAPI-ENG-A2-017-Q8",
+      "prompt": "The packaging operator routinely _____ defective glass ampoules into the designated biohazard sharps container.",
+      "options": [
+        {
+          "key": "A",
+          "text": "discards"
+        },
+        {
+          "key": "B",
+          "text": "discard"
+        },
+        {
+          "key": "C",
+          "text": "discarding"
+        },
+        {
+          "key": "D",
+          "text": "is discard"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('discards').",
+        "wrong_B": "Base form 'discard' lacks singular '-s'.",
+        "wrong_C": "Participle 'discarding' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is discard' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'discards'.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    },
+    {
+      "id": "TAPI-ENG-A2-017-Q9",
+      "prompt": "The shift supervisor routinely _____ the automated SCADA batch release report before leaving the floor.",
+      "options": [
+        {
+          "key": "A",
+          "text": "print"
+        },
+        {
+          "key": "B",
+          "text": "printing"
+        },
+        {
+          "key": "C",
+          "text": "prints"
+        },
+        {
+          "key": "D",
+          "text": "is print"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('prints').",
+        "wrong_A": "Base form 'print' lacks singular '-s'.",
+        "wrong_B": "Participle 'printing' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is print' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'prints'.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    },
+    {
+      "id": "TAPI-ENG-A2-017-Q10",
+      "prompt": "The facility technician routinely _____ the pure steam generator boiler pressure reading in bar gauge.",
+      "options": [
+        {
+          "key": "A",
+          "text": "record"
+        },
+        {
+          "key": "B",
+          "text": "records"
+        },
+        {
+          "key": "C",
+          "text": "recording"
+        },
+        {
+          "key": "D",
+          "text": "is record"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('records').",
+        "wrong_A": "Base form 'record' lacks singular '-s'.",
+        "wrong_C": "Participle 'recording' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is record' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'records'.",
+      "workplace_track": "Tablet Compression & Lyophilization Equipment"
+    }
+  ]
+}

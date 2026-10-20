@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-ENG-A2-018",
+  "title": "Shift Handover Logbook Entries for Sterile Line 2",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Sterile Compounding & Filling Line Automation",
+  "estimated_time_minutes": 10,
+  "description": "Foundational pharmaceutical engineering module covering shift handover logbook entries for sterile line 2.",
+  "learning_objectives": [
+    "Master professional Past Simple vs Present Simple in pharmaceutical engineering and cleanroom automation",
+    "Eliminate common Czech interference errors in shift handover logbook entries for sterile line 2",
+    "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-ENG-A2-018-Q1",
+      "prompt": "Yesterday during the evening shift, the cleanroom operator _____ sterile nitrile gloves before passing through the Grade B airlock.",
+      "options": [
+        {
+          "key": "A",
+          "text": "wear"
+        },
+        {
+          "key": "B",
+          "text": "wore"
+        },
+        {
+          "key": "C",
+          "text": "has wore"
+        },
+        {
+          "key": "D",
+          "text": "is wearing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Specific past adverbial 'Yesterday' strictly requires Past Simple 'wore'.",
+        "wrong_A": "Base form 'wear' lacks past tense marking.",
+        "wrong_C": "Present Perfect 'has wore' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('wore').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-018-Q2",
+      "prompt": "Yesterday during the evening shift, the validation technician _____ the differential pressure display on panel DP-04 every morning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "check"
+        },
+        {
+          "key": "B",
+          "text": "has checked"
+        },
+        {
+          "key": "C",
+          "text": "checked"
+        },
+        {
+          "key": "D",
+          "text": "is checking"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific past adverbial 'Yesterday' strictly requires Past Simple 'checked'.",
+        "wrong_A": "Base form 'check' lacks past tense marking.",
+        "wrong_B": "Present Perfect 'has checked' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('checked').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-018-Q3",
+      "prompt": "Yesterday during the evening shift, the automation engineer _____ the emergency stop button on the blistering line immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "pressed"
+        },
+        {
+          "key": "B",
+          "text": "press"
+        },
+        {
+          "key": "C",
+          "text": "has pressed"
+        },
+        {
+          "key": "D",
+          "text": "is pressing"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Specific past adverbial 'Yesterday' strictly requires Past Simple 'pressed'.",
+        "wrong_B": "Base form 'press' lacks past tense marking.",
+        "wrong_C": "Present Perfect 'has pressed' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('pressed').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-018-Q4",
+      "prompt": "Yesterday during the evening shift, the autoclave operator _____ the temperature recording chart at the end of each sterilization cycle.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sign"
+        },
+        {
+          "key": "B",
+          "text": "has signed"
+        },
+        {
+          "key": "C",
+          "text": "is signing"
+        },
+        {
+          "key": "D",
+          "text": "signed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Specific past adverbial 'Yesterday' strictly requires Past Simple 'signed'.",
+        "wrong_A": "Base form 'sign' lacks past tense marking.",
+        "wrong_B": "Present Perfect 'has signed' cannot accompany 'yesterday'.",
+        "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('signed').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-018-Q5",
+      "prompt": "Yesterday during the evening shift, the hvac specialist _____ the pre-filter cartridge in air handling unit AHU-02 once a month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "replace"
+        },
+        {
+          "key": "B",
+          "text": "has replaced"
+        },
+        {
+          "key": "C",
+          "text": "replaced"
+        },
+        {
+          "key": "D",
+          "text": "is replacing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific past adverbial 'Yesterday' strictly requires Past Simple 'replaced'.",
+        "wrong_A": "Base form 'replace' lacks past tense marking.",
+        "wrong_B": "Present Perfect 'has replaced' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('replaced').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-018-Q6",
+      "prompt": "Yesterday during the evening shift, the maintenance technician _____ the peristaltic pump roller assembly before starting sterile batch compounding.",
+      "options": [
+        {
+          "key": "A",
+          "text": "lubricate"
+        },
+        {
+          "key": "B",
+          "text": "lubricated"
+        },
+        {
+          "key": "C",
+          "text": "has lubricated"
+        },
+        {
+          "key": "D",
+          "text": "is lubricating"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Specific past adverbial 'Yesterday' strictly requires Past Simple 'lubricated'.",
+        "wrong_A": "Base form 'lubricate' lacks past tense marking.",
+        "wrong_C": "Present Perfect 'has lubricated' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('lubricated').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-018-Q7",
+      "prompt": "Yesterday during the evening shift, the calibration technician _____ the certified digital manometer across the cleanroom pressure barrier.",
+      "options": [
+        {
+          "key": "A",
+          "text": "connect"
+        },
+        {
+          "key": "B",
+          "text": "has connected"
+        },
+        {
+          "key": "C",
+          "text": "is connecting"
+        },
+        {
+          "key": "D",
+          "text": "connected"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Specific past adverbial 'Yesterday' strictly requires Past Simple 'connected'.",
+        "wrong_A": "Base form 'connect' lacks past tense marking.",
+        "wrong_B": "Present Perfect 'has connected' cannot accompany 'yesterday'.",
+        "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('connected').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-018-Q8",
+      "prompt": "Yesterday during the evening shift, the packaging operator _____ defective glass ampoules into the designated biohazard sharps container.",
+      "options": [
+        {
+          "key": "A",
+          "text": "discarded"
+        },
+        {
+          "key": "B",
+          "text": "discard"
+        },
+        {
+          "key": "C",
+          "text": "has discarded"
+        },
+        {
+          "key": "D",
+          "text": "is discarding"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Specific past adverbial 'Yesterday' strictly requires Past Simple 'discarded'.",
+        "wrong_B": "Base form 'discard' lacks past tense marking.",
+        "wrong_C": "Present Perfect 'has discarded' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('discarded').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-018-Q9",
+      "prompt": "Yesterday during the evening shift, the shift supervisor _____ the automated SCADA batch release report before leaving the floor.",
+      "options": [
+        {
+          "key": "A",
+          "text": "print"
+        },
+        {
+          "key": "B",
+          "text": "has printed"
+        },
+        {
+          "key": "C",
+          "text": "printed"
+        },
+        {
+          "key": "D",
+          "text": "is printing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific past adverbial 'Yesterday' strictly requires Past Simple 'printed'.",
+        "wrong_A": "Base form 'print' lacks past tense marking.",
+        "wrong_B": "Present Perfect 'has printed' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('printed').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    },
+    {
+      "id": "TAPI-ENG-A2-018-Q10",
+      "prompt": "Yesterday during the evening shift, the facility technician _____ the pure steam generator boiler pressure reading in bar gauge.",
+      "options": [
+        {
+          "key": "A",
+          "text": "record"
+        },
+        {
+          "key": "B",
+          "text": "recorded"
+        },
+        {
+          "key": "C",
+          "text": "has recorded"
+        },
+        {
+          "key": "D",
+          "text": "is recording"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Specific past adverbial 'Yesterday' strictly requires Past Simple 'recorded'.",
+        "wrong_A": "Base form 'record' lacks past tense marking.",
+        "wrong_C": "Present Perfect 'has recorded' cannot accompany 'yesterday'.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "Czech uses the same past tense, but in English, 'yesterday' strictly triggers Past Simple ('recorded').",
+      "workplace_track": "Sterile Compounding & Filling Line Automation"
+    }
+  ]
+}

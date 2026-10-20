@@ -1,0 +1,326 @@
+{
+  "test_id": "TAPI-ENG-A2-007",
+  "title": "Daily Line Sanitization: Disinfectant Spraying & Wiping SOPs",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE",
+  "estimated_time_minutes": 10,
+  "description": "Foundational pharmaceutical engineering module covering daily line sanitization: disinfectant spraying & wiping sops.",
+  "learning_objectives": [
+    "Master professional Sequence Markers (first, next, then) in pharmaceutical engineering and cleanroom automation",
+    "Eliminate common Czech interference errors in daily line sanitization: disinfectant spraying & wiping sops",
+    "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+  ],
+  "questions": [
+    {
+      "id": "TAPI-ENG-A2-007-Q1",
+      "prompt": "Always remember to _____ sterile nitrile gloves before passing through the Grade B airlock to prevent cleanroom contamination.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to wear"
+        },
+        {
+          "key": "B",
+          "text": "wear"
+        },
+        {
+          "key": "C",
+          "text": "wears"
+        },
+        {
+          "key": "D",
+          "text": "wearing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'remember to' is followed by base infinitive 'wear' without double-to or inflections.",
+        "wrong_A": "'to wear' causes ungrammatical double 'to'.",
+        "wrong_C": "3rd person 'wears' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'wearing' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'nezapomeňte zkontrolovat'. After 'remember to', use base form 'wear'.",
+      "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
+    },
+    {
+      "id": "TAPI-ENG-A2-007-Q2",
+      "prompt": "Always remember to _____ the differential pressure display on panel DP-04 every morning to prevent cleanroom contamination.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to check"
+        },
+        {
+          "key": "B",
+          "text": "checks"
+        },
+        {
+          "key": "C",
+          "text": "check"
+        },
+        {
+          "key": "D",
+          "text": "checking"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'remember to' is followed by base infinitive 'check' without double-to or inflections.",
+        "wrong_A": "'to check' causes ungrammatical double 'to'.",
+        "wrong_B": "3rd person 'checks' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'checking' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'nezapomeňte zkontrolovat'. After 'remember to', use base form 'check'.",
+      "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
+    },
+    {
+      "id": "TAPI-ENG-A2-007-Q3",
+      "prompt": "Always remember to _____ the emergency stop button on the blistering line immediately to prevent cleanroom contamination.",
+      "options": [
+        {
+          "key": "A",
+          "text": "press"
+        },
+        {
+          "key": "B",
+          "text": "to press"
+        },
+        {
+          "key": "C",
+          "text": "presses"
+        },
+        {
+          "key": "D",
+          "text": "pressing"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'remember to' is followed by base infinitive 'press' without double-to or inflections.",
+        "wrong_B": "'to press' causes ungrammatical double 'to'.",
+        "wrong_C": "3rd person 'presses' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'pressing' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'nezapomeňte zkontrolovat'. After 'remember to', use base form 'press'.",
+      "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
+    },
+    {
+      "id": "TAPI-ENG-A2-007-Q4",
+      "prompt": "Always remember to _____ the temperature recording chart at the end of each sterilization cycle to prevent cleanroom contamination.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to sign"
+        },
+        {
+          "key": "B",
+          "text": "signs"
+        },
+        {
+          "key": "C",
+          "text": "signing"
+        },
+        {
+          "key": "D",
+          "text": "sign"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'remember to' is followed by base infinitive 'sign' without double-to or inflections.",
+        "wrong_A": "'to sign' causes ungrammatical double 'to'.",
+        "wrong_B": "3rd person 'signs' cannot follow infinitive marker 'to'.",
+        "wrong_C": "Participle 'signing' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'nezapomeňte zkontrolovat'. After 'remember to', use base form 'sign'.",
+      "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
+    },
+    {
+      "id": "TAPI-ENG-A2-007-Q5",
+      "prompt": "Always remember to _____ the pre-filter cartridge in air handling unit AHU-02 once a month to prevent cleanroom contamination.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to replace"
+        },
+        {
+          "key": "B",
+          "text": "replaces"
+        },
+        {
+          "key": "C",
+          "text": "replace"
+        },
+        {
+          "key": "D",
+          "text": "replacing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'remember to' is followed by base infinitive 'replace' without double-to or inflections.",
+        "wrong_A": "'to replace' causes ungrammatical double 'to'.",
+        "wrong_B": "3rd person 'replaces' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'replacing' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'nezapomeňte zkontrolovat'. After 'remember to', use base form 'replace'.",
+      "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
+    },
+    {
+      "id": "TAPI-ENG-A2-007-Q6",
+      "prompt": "Always remember to _____ the peristaltic pump roller assembly before starting sterile batch compounding to prevent cleanroom contamination.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to lubricate"
+        },
+        {
+          "key": "B",
+          "text": "lubricate"
+        },
+        {
+          "key": "C",
+          "text": "lubricates"
+        },
+        {
+          "key": "D",
+          "text": "lubricating"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'remember to' is followed by base infinitive 'lubricate' without double-to or inflections.",
+        "wrong_A": "'to lubricate' causes ungrammatical double 'to'.",
+        "wrong_C": "3rd person 'lubricates' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'lubricating' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'nezapomeňte zkontrolovat'. After 'remember to', use base form 'lubricate'.",
+      "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
+    },
+    {
+      "id": "TAPI-ENG-A2-007-Q7",
+      "prompt": "Always remember to _____ the certified digital manometer across the cleanroom pressure barrier to prevent cleanroom contamination.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to connect"
+        },
+        {
+          "key": "B",
+          "text": "connects"
+        },
+        {
+          "key": "C",
+          "text": "connecting"
+        },
+        {
+          "key": "D",
+          "text": "connect"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'remember to' is followed by base infinitive 'connect' without double-to or inflections.",
+        "wrong_A": "'to connect' causes ungrammatical double 'to'.",
+        "wrong_B": "3rd person 'connects' cannot follow infinitive marker 'to'.",
+        "wrong_C": "Participle 'connecting' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'nezapomeňte zkontrolovat'. After 'remember to', use base form 'connect'.",
+      "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
+    },
+    {
+      "id": "TAPI-ENG-A2-007-Q8",
+      "prompt": "Always remember to _____ defective glass ampoules into the designated biohazard sharps container to prevent cleanroom contamination.",
+      "options": [
+        {
+          "key": "A",
+          "text": "discard"
+        },
+        {
+          "key": "B",
+          "text": "to discard"
+        },
+        {
+          "key": "C",
+          "text": "discards"
+        },
+        {
+          "key": "D",
+          "text": "discarding"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'remember to' is followed by base infinitive 'discard' without double-to or inflections.",
+        "wrong_B": "'to discard' causes ungrammatical double 'to'.",
+        "wrong_C": "3rd person 'discards' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'discarding' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'nezapomeňte zkontrolovat'. After 'remember to', use base form 'discard'.",
+      "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
+    },
+    {
+      "id": "TAPI-ENG-A2-007-Q9",
+      "prompt": "Always remember to _____ the automated SCADA batch release report before leaving the floor to prevent cleanroom contamination.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to print"
+        },
+        {
+          "key": "B",
+          "text": "prints"
+        },
+        {
+          "key": "C",
+          "text": "print"
+        },
+        {
+          "key": "D",
+          "text": "printing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'remember to' is followed by base infinitive 'print' without double-to or inflections.",
+        "wrong_A": "'to print' causes ungrammatical double 'to'.",
+        "wrong_B": "3rd person 'prints' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'printing' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'nezapomeňte zkontrolovat'. After 'remember to', use base form 'print'.",
+      "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
+    },
+    {
+      "id": "TAPI-ENG-A2-007-Q10",
+      "prompt": "Always remember to _____ the pure steam generator boiler pressure reading in bar gauge to prevent cleanroom contamination.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to record"
+        },
+        {
+          "key": "B",
+          "text": "record"
+        },
+        {
+          "key": "C",
+          "text": "records"
+        },
+        {
+          "key": "D",
+          "text": "recording"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'remember to' is followed by base infinitive 'record' without double-to or inflections.",
+        "wrong_A": "'to record' causes ungrammatical double 'to'.",
+        "wrong_C": "3rd person 'records' cannot follow infinitive marker 'to'.",
+        "wrong_D": "Participle 'recording' does not form the standard infinitive directive here."
+      },
+      "cz_learning_point": "Czech 'nezapomeňte zkontrolovat'. After 'remember to', use base form 'record'.",
+      "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
+    }
+  ]
+}

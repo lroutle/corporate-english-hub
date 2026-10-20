@@ -29,6 +29,18 @@
           }
         ]
       }
+    ],
+    "redirects": [
+      {
+        "source": "/teva-engineering/:path*",
+        "destination": "/tapi-engineering/:path*",
+        "type": 301
+      },
+      {
+        "source": "/teva-engineering",
+        "destination": "/tapi-engineering/",
+        "type": 301
+      }
     ]
   }
 }
