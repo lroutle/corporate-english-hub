@@ -5551,80 +5551,80 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 10,
     "description": "Foundational IT workplace English module covering ethernet patch cable routing in desk cable trays.",
     "learning_objectives": [
-      "Master professional Prepositions of Motion (through, along, under) in enterprise IT infrastructure and cloud operations",
+      "Master professional Prepositions of Motion (through, along, under) in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in ethernet patch cable routing in desk cable trays",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-A2-018-Q1",
-        "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+        "prompt": "Before starting the shift, the cloud infrastructure architect _____ protect with hardware FIDO2 multi-factor authentication.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "must to"
           },
           {
             "key": "B",
-            "text": "into"
+            "text": "must"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "is must"
           },
           {
             "key": "D",
-            "text": "behind"
+            "text": "has must"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'into' accurately identifies the physical hardware connection.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' does not fit the port connection geometry.",
-          "wrong_D": "Preposition 'behind' indicates wrong direction."
+          "correct": "Modal 'must' is followed by the bare infinitive without 'to': 'must protect'.",
+          "wrong_A": "'must to' is ungrammatical; modals never take 'to'.",
+          "wrong_C": "'is must' is completely ungrammatical in English.",
+          "wrong_D": "'has must' is invalid verb phrasing."
         },
-        "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+        "cz_learning_point": "V angličtině se po způsobovém slovesu 'must' nikdy nepoužívá předložka 'to' (*must to* je hrubá chyba).",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-A2-018-Q2",
-        "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+        "prompt": "Every morning, the senior cybersecurity analyst resiliently _____ the enterprise Azure virtual machine scale set on the corporate Active Directory domain.",
         "options": [
           {
             "key": "A",
-            "text": "into"
+            "text": "scale"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "scaleing"
           },
           {
             "key": "C",
-            "text": "inside"
+            "text": "scales"
           },
           {
             "key": "D",
-            "text": "behind"
+            "text": "is scale"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'inside' accurately identifies the physical hardware connection.",
-          "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' does not fit the port connection geometry.",
-          "wrong_D": "Preposition 'behind' indicates wrong direction."
+          "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('scales').",
+          "wrong_A": "Base form 'scale' lacks required 3rd person singular '-s'.",
+          "wrong_B": "Participle 'scaleing' cannot act as finite verb without auxiliary.",
+          "wrong_D": "'is scale' is ungrammatical."
         },
-        "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+        "cz_learning_point": "Ve 3. osobě jednotného čísla přítomného času prostého nezapomeňte na koncovku -s: 'scales'.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-A2-018-Q3",
-        "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+        "prompt": "The technician placed the diagnostic tool _____ the workbench within the secure perimeter DMZ subnet.",
         "options": [
           {
             "key": "A",
-            "text": "between"
+            "text": "on"
           },
           {
             "key": "B",
@@ -5632,238 +5632,238 @@ Object.assign(window.TEST_REGISTRY, {
           },
           {
             "key": "C",
-            "text": "inside"
+            "text": "under to"
           },
           {
             "key": "D",
-            "text": "behind"
+            "text": "between of"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Preposition 'between' accurately identifies the physical hardware connection.",
-          "wrong_B": "Preposition 'into' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'inside' does not fit the port connection geometry.",
-          "wrong_D": "Preposition 'behind' indicates wrong direction."
+          "correct": "Preposition 'on' correctly denotes physical placement on a horizontal surface.",
+          "wrong_B": "'into' denotes motion entering inside an enclosed space.",
+          "wrong_C": "'under to' is an invalid double preposition.",
+          "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
         },
-        "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+        "cz_learning_point": "Čeština používá 'na stole' = 'on the workbench'. Dejte pozor na chybná spojení jako *between of*.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-A2-018-Q4",
-        "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+        "prompt": "Yesterday during the handover, the it service desk specialist _____ the SAP S/4HANA enterprise database instance.",
         "options": [
           {
             "key": "A",
-            "text": "into"
+            "text": "backup"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "has migrated"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "is backuping"
           },
           {
             "key": "D",
-            "text": "behind"
+            "text": "migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Preposition 'behind' accurately identifies the physical hardware connection.",
-          "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'inside' does not fit the port connection geometry.",
-          "wrong_C": "Preposition 'between' indicates wrong direction."
+          "correct": "Specific past time adverbial 'yesterday' strictly requires Past Simple 'migrated'.",
+          "wrong_A": "Base form 'backup' lacks past tense inflection.",
+          "wrong_B": "Present perfect 'has migrated' cannot accompany finished past time 'yesterday'.",
+          "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
         },
-        "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+        "cz_learning_point": "S příslovečným určením jako 'yesterday' se v angličtině striktně pojí minulý čas prostý (Past Simple), nikdy předpřítomný čas.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-A2-018-Q5",
-        "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+        "prompt": "Are there _____ spare gaskets left in the workshop storage cabinet?",
         "options": [
           {
             "key": "A",
-            "text": "into"
+            "text": "some"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "much"
           },
           {
             "key": "C",
-            "text": "underneath"
+            "text": "any"
           },
           {
             "key": "D",
-            "text": "between"
+            "text": "an"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'underneath' accurately identifies the physical hardware connection.",
-          "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'inside' does not fit the port connection geometry.",
-          "wrong_D": "Preposition 'between' indicates wrong direction."
+          "correct": "'Any' is standard in questions inquiring about the existence or availability of items.",
+          "wrong_A": "'some' is typically reserved for affirmative statements or polite offers.",
+          "wrong_B": "'much' is only used with uncountable mass nouns, not plural 'gaskets'.",
+          "wrong_D": "'an' can only precede singular countable nouns beginning with a vowel sound."
         },
-        "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+        "cz_learning_point": "V běžných záporných větách a otázkách se pro 'nějaký / žádný' používá 'any', nikoli *some*.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-A2-018-Q6",
-        "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+        "prompt": "_____ the maintenance technician inspect the Active Directory Group Policy Object (GPO) every shift?",
         "options": [
           {
             "key": "A",
-            "text": "into"
+            "text": "Do"
           },
           {
             "key": "B",
-            "text": "above"
+            "text": "Does"
           },
           {
             "key": "C",
-            "text": "inside"
+            "text": "Is"
           },
           {
             "key": "D",
-            "text": "between"
+            "text": "Has"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'above' accurately identifies the physical hardware connection.",
-          "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'inside' does not fit the port connection geometry.",
-          "wrong_D": "Preposition 'between' indicates wrong direction."
+          "correct": "Singular 3rd person subject in Present Simple requires auxiliary 'Does'.",
+          "wrong_A": "'Do' is used for plural subjects (they, we, you) or 'I'.",
+          "wrong_C": "'Is' requires an '-ing' participle (Present Continuous), not a base verb.",
+          "wrong_D": "'Has' requires a past participle (Present Perfect)."
         },
-        "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+        "cz_learning_point": "V otázkách v přítomném čase se pro 3. osobu jednotného čísla používá pomocné sloveso 'Does': 'Does the technician inspect...?'.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-A2-018-Q7",
-        "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+        "prompt": "The newly calibrated unit runs significantly _____ than the older model.",
         "options": [
           {
             "key": "A",
-            "text": "into"
+            "text": "more fast"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "fastest"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "as fast"
           },
           {
             "key": "D",
-            "text": "across"
+            "text": "faster"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Preposition 'across' accurately identifies the physical hardware connection.",
-          "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'inside' does not fit the port connection geometry.",
-          "wrong_C": "Preposition 'between' indicates wrong direction."
+          "correct": "One-syllable adjective 'fast' forms comparative with '-er': 'faster'.",
+          "wrong_A": "'more fast' is ungrammatical; short adjectives take '-er'.",
+          "wrong_B": "'fastest' is a superlative and requires 'the'.",
+          "wrong_C": "'as fast' requires 'as' ('as fast as'), not 'than'."
         },
-        "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+        "cz_learning_point": "Jednoslabičná přídavná jména tvoří 2. stupeň koncovkou -er (faster, cheaper), nikoli pomocí *more*.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-A2-018-Q8",
-        "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+        "prompt": "_____ new components on this table must be cataloged immediately.",
         "options": [
           {
             "key": "A",
-            "text": "along"
+            "text": "These"
           },
           {
             "key": "B",
-            "text": "into"
+            "text": "This"
           },
           {
             "key": "C",
-            "text": "inside"
+            "text": "That"
           },
           {
             "key": "D",
-            "text": "between"
+            "text": "There"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Preposition 'along' accurately identifies the physical hardware connection.",
-          "wrong_B": "Preposition 'into' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'inside' does not fit the port connection geometry.",
-          "wrong_D": "Preposition 'between' indicates wrong direction."
+          "correct": "Plural noun 'components' located nearby requires plural demonstrative 'These'.",
+          "wrong_B": "'This' is singular and cannot modify plural 'components'.",
+          "wrong_C": "'That' is singular.",
+          "wrong_D": "'There' is an adverb of place or dummy pronoun, not a demonstrative determiner."
         },
-        "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+        "cz_learning_point": "Množné číslo pro věci blízko mluvčího je 'these' (tyto součástky), jednotné číslo je 'this' (tato součástka).",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-A2-018-Q9",
-        "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+        "prompt": "The team transferred the heavy assembly _____ the testing bay.",
         "options": [
           {
             "key": "A",
-            "text": "into"
+            "text": "in to"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "inside of"
           },
           {
             "key": "C",
-            "text": "against"
+            "text": "into"
           },
           {
             "key": "D",
-            "text": "between"
+            "text": "onto to"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'against' accurately identifies the physical hardware connection.",
-          "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'inside' does not fit the port connection geometry.",
-          "wrong_D": "Preposition 'between' indicates wrong direction."
+          "correct": "'Into' expresses movement from the outside to the interior of a space.",
+          "wrong_A": "'in to' as two separate words is incorrect for directional movement.",
+          "wrong_B": "'inside of' is redundant and colloquial.",
+          "wrong_D": "'onto to' is an ungrammatical repetition."
         },
-        "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+        "cz_learning_point": "Směr dovnitř vyjadřuje předložka 'into' (přesunout do testovací haly = transferred into the bay).",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-A2-018-Q10",
-        "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+        "prompt": "Could you please _____ the shift report before leaving today?",
         "options": [
           {
             "key": "A",
-            "text": "into"
+            "text": "to sign"
           },
           {
             "key": "B",
-            "text": "from"
+            "text": "sign"
           },
           {
             "key": "C",
-            "text": "inside"
+            "text": "signing"
           },
           {
             "key": "D",
-            "text": "between"
+            "text": "signed"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'from' accurately identifies the physical hardware connection.",
-          "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'inside' does not fit the port connection geometry.",
-          "wrong_D": "Preposition 'between' indicates wrong direction."
+          "correct": "Polite request with modal 'Could you please' is followed by the bare infinitive 'sign'.",
+          "wrong_A": "'to sign' is incorrect; modals do not take 'to'.",
+          "wrong_C": "Participle 'signing' cannot follow modal 'could'.",
+          "wrong_D": "Past tense 'signed' is ungrammatical after modal 'could'."
         },
-        "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+        "cz_learning_point": "Po zdvořilostní žádosti 'Could you please' následuje vždy základní tvar slovesa (bare infinitive) bez 'to'.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       }
     ]
@@ -6856,319 +6856,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing active directory group policy object (gpo) deployment failures.",
     "learning_objectives": [
-      "Master professional Passive Voice in Sysadmin SOPs in enterprise IT infrastructure and cloud operations",
+      "Master professional Passive Voice in Sysadmin SOPs in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in active directory group policy object (gpo) deployment failures",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-002-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
         "id": "TAPI-IT-B1-002-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
         "id": "TAPI-IT-B1-002-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
         "id": "TAPI-IT-B1-002-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
         "id": "TAPI-IT-B1-002-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
         "id": "TAPI-IT-B1-002-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
         "id": "TAPI-IT-B1-002-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
         "id": "TAPI-IT-B1-002-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
         "id": "TAPI-IT-B1-002-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       },
       {
         "id": "TAPI-IT-B1-002-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Identity & Access Management (IAM, Active Directory, MFA)"
       }
     ]
@@ -7182,319 +7182,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing firewall port blocking & rule configuration troubleshooting.",
     "learning_objectives": [
-      "Master professional First & Second Conditionals in enterprise IT infrastructure and cloud operations",
+      "Master professional First & Second Conditionals in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in firewall port blocking & rule configuration troubleshooting",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-003-Q1",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "fails"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-003-Q2",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "fails"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
           "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-003-Q3",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "fails"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will fail"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_B": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-003-Q4",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "failed"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "fails"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_C": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-003-Q5",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "fails"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-003-Q6",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "fails"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-003-Q7",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "failed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "fails"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_C": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-003-Q8",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "fails"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will fail"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_B": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-003-Q9",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "fails"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-003-Q10",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "fails"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       }
     ]
@@ -7834,319 +7834,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing dns resolution timeouts & dhcp lease exhaustion incidents.",
     "learning_objectives": [
-      "Master professional Relative Clauses in Network Topology in enterprise IT infrastructure and cloud operations",
+      "Master professional Relative Clauses in Network Topology in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in dns resolution timeouts & dhcp lease exhaustion incidents",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-005-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-005-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-005-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-005-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-005-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-005-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-005-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-005-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-005-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-005-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       }
     ]
@@ -8160,319 +8160,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing database sql query latency spikes & index optimization.",
     "learning_objectives": [
-      "Master professional Passive Voice with Modal Verbs in enterprise IT infrastructure and cloud operations",
+      "Master professional Passive Voice with Modal Verbs in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in database sql query latency spikes & index optimization",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-006-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-006-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-006-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-006-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-006-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-006-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-006-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-006-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-006-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-006-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       }
     ]
@@ -8486,319 +8486,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing microsoft 365 exchange hybrid mailflow delivery delays.",
     "learning_objectives": [
-      "Master professional Purpose Clauses (in order to, so that) in enterprise IT infrastructure and cloud operations",
+      "Master professional Purpose Clauses (in order to, so that) in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in microsoft 365 exchange hybrid mailflow delivery delays",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-007-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-007-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-007-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-007-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-007-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-007-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-007-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-007-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-007-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-007-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       }
     ]
@@ -8812,319 +8812,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing data center uninterruptible power supply (ups) battery health logs.",
     "learning_objectives": [
-      "Master professional Modal Verbs of Probability in enterprise IT infrastructure and cloud operations",
+      "Master professional Modal Verbs of Probability in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in data center uninterruptible power supply (ups) battery health logs",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-008-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-B1-008-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-B1-008-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-B1-008-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-B1-008-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-B1-008-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-B1-008-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-B1-008-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-B1-008-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       },
       {
         "id": "TAPI-IT-B1-008-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
       }
     ]
@@ -9138,319 +9138,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing itil incident severity 1 major escalation bridge coordination.",
     "learning_objectives": [
-      "Master professional Temporal Clauses (while, until, as soon as) in enterprise IT infrastructure and cloud operations",
+      "Master professional Temporal Clauses (while, until, as soon as) in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in itil incident severity 1 major escalation bridge coordination",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-009-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-009-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-009-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-009-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-009-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-009-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-009-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-009-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-009-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-009-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       }
     ]
@@ -9464,319 +9464,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing endpoint encryption (bitlocker) recovery key retrieval protocols.",
     "learning_objectives": [
-      "Master professional Reported Speech in Security Tickets in enterprise IT infrastructure and cloud operations",
+      "Master professional Reported Speech in Security Tickets in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in endpoint encryption (bitlocker) recovery key retrieval protocols",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-010-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-010-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-010-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-010-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-010-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-010-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-010-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-010-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-010-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-010-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       }
     ]
@@ -9790,319 +9790,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing cloud storage blob lifecycle management & cold archive tiers.",
     "learning_objectives": [
-      "Master professional Cause & Effect Connectors in enterprise IT infrastructure and cloud operations",
+      "Master professional Cause & Effect Connectors in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in cloud storage blob lifecycle management & cold archive tiers",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-011-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-011-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-011-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-011-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-011-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-011-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-011-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-011-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-011-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-011-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       }
     ]
@@ -10116,319 +10116,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing disaster recovery off-site tape backup synchronization logs.",
     "learning_objectives": [
-      "Master professional Future Continuous & Future Perfect in enterprise IT infrastructure and cloud operations",
+      "Master professional Future Continuous & Future Perfect in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in disaster recovery off-site tape backup synchronization logs",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-012-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
         "id": "TAPI-IT-B1-012-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
         "id": "TAPI-IT-B1-012-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
         "id": "TAPI-IT-B1-012-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
         "id": "TAPI-IT-B1-012-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
         "id": "TAPI-IT-B1-012-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
         "id": "TAPI-IT-B1-012-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
         "id": "TAPI-IT-B1-012-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
         "id": "TAPI-IT-B1-012-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       },
       {
         "id": "TAPI-IT-B1-012-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "21 CFR Part 11 GxP Cloud Compliance & Disaster Recovery"
       }
     ]
@@ -10442,319 +10442,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing vlan tagging & trunk port misconfiguration on edge switches.",
     "learning_objectives": [
-      "Master professional Conditionals in Network Diagnostics in enterprise IT infrastructure and cloud operations",
+      "Master professional Conditionals in Network Diagnostics in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in vlan tagging & trunk port misconfiguration on edge switches",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-013-Q1",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "fails"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-013-Q2",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "fails"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
           "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-013-Q3",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "fails"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will fail"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_B": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-013-Q4",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "failed"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "fails"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_C": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-013-Q5",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "fails"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-013-Q6",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "fails"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-013-Q7",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "failed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "fails"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_C": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-013-Q8",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "fails"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will fail"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_B": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-013-Q9",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "fails"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-013-Q10",
-        "prompt": "If the secondary fiber link _____ during high traffic load, the BGP router will reroute packets automatically.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "fails"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for automated network routing rules.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will reroute'."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Never use 'will' in network troubleshooting if-clauses (*If the link will fail*). Use Present Simple: 'If the link fails'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       }
     ]
@@ -10768,319 +10768,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing service desk sla breach warnings & resolution milestone updates.",
     "learning_objectives": [
-      "Master professional Passive Reporting of Metrics in enterprise IT infrastructure and cloud operations",
+      "Master professional Passive Reporting of Metrics in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in service desk sla breach warnings & resolution milestone updates",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-014-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-014-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-014-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-014-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-014-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-014-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-014-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-014-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-014-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-014-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       }
     ]
@@ -11094,319 +11094,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing linux ssh key pair generation & bastion host configuration.",
     "learning_objectives": [
-      "Master professional Phrasal Verbs in Cloud Operations in enterprise IT infrastructure and cloud operations",
+      "Master professional Phrasal Verbs in Cloud Operations in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in linux ssh key pair generation & bastion host configuration",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-015-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-015-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-015-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-015-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-015-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-015-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-015-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-015-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-015-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       },
       {
         "id": "TAPI-IT-B1-015-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "IT Infrastructure, Networking & Cloud Operations (Azure/AWS)"
       }
     ]
@@ -11746,319 +11746,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing software license compliance audits: server core cal counts.",
     "learning_objectives": [
-      "Master professional Comparative Structures & Tolerances in enterprise IT infrastructure and cloud operations",
+      "Master professional Comparative Structures & Tolerances in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in software license compliance audits: server core cal counts",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-017-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-017-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-017-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-017-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-017-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-017-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-017-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-017-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-017-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-017-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       }
     ]
@@ -12072,319 +12072,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing automated ci/cd pipeline build break alerts on github actions.",
     "learning_objectives": [
-      "Master professional Formal Root Cause Connectors in enterprise IT infrastructure and cloud operations",
+      "Master professional Formal Root Cause Connectors in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in automated ci/cd pipeline build break alerts on github actions",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-018-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-018-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-018-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-018-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-018-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-018-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-018-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-018-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-018-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       },
       {
         "id": "TAPI-IT-B1-018-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "DevOps, CI/CD Pipelines & Microservices Architecture"
       }
     ]
@@ -12398,319 +12398,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing mobile device management (mdm) intune remote wipe procedures.",
     "learning_objectives": [
-      "Master professional Passive Imperatives & Policies in enterprise IT infrastructure and cloud operations",
+      "Master professional Passive Imperatives & Policies in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in mobile device management (mdm) intune remote wipe procedures",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-019-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-019-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-019-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-019-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-019-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-019-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-019-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-019-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-019-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       },
       {
         "id": "TAPI-IT-B1-019-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Cybersecurity, Endpoint Protection & Zero Trust Architecture"
       }
     ]
@@ -12724,319 +12724,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate IT infrastructure and operations module analyzing post-incident retrospective action items: preventing recurrence.",
     "learning_objectives": [
-      "Master professional Past Unreal Scenarios (should have done) in enterprise IT infrastructure and cloud operations",
+      "Master professional Past Unreal Scenarios (should have done) in corporate IT and cloud systems",
       "Eliminate common Czech interference errors in post-incident retrospective action items: preventing recurrence",
-      "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+      "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
     ],
     "questions": [
       {
         "id": "TAPI-IT-B1-020-Q1",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "Before the validation auditor arrived in the hybrid multi-cloud environment, the cloud infrastructure architect noticed that the Microsoft Entra ID privileged identity role _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "was enforced"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "had been enforced"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "has been enforced"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "didn't protect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been enforced') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was enforced') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been enforced') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-020-Q2",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-020-Q3",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-020-Q4",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "According to GDPR Article 32 technical security controls, the SAP S/4HANA enterprise database instance _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be migrated"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "must backup"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "are must migrated"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "must be migrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
+          "correct": "Passive with modal: 'must be migrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-020-Q5",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-020-Q6",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-020-Q7",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rotated"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rotated"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-020-Q8",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rotated"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rotated"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-020-Q9",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rotate"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rotated"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       },
       {
         "id": "TAPI-IT-B1-020-Q10",
-        "prompt": "All production cloud server access credentials _____ every ninety days under corporate security baseline standards.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rotated"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rotated"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rotate"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rotated"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rotated'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rotate' is active voice; credentials do not rotate themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Enterprise security policies strictly require passive voice with modals: 'must be rotated' (musí být obměňovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "ITIL Global Service Desk & Incident Escalation"
       }
     ]

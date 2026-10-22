@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
 """
-Packaging Script for Google Drive Distribution
+Packaging Script for Offline Distribution
 Creates clean standalone ZIP archives for:
-1. The entire multi-suite ecosystem (Master Hub + all 5 corporate suites)
-2. Each individual department suite (Tatra Eng, Tatra Sales, Teva Eng, Tapi Chem, Teva IT)
+1. The entire multi-suite ecosystem (Master Hub + corporate suites + student sandboxes)
+2. Each individual department & student suite (Tatra, Tapi, Bidfood)
 Includes 1-click launchers and clear instructions for students/employees.
 """
 
 import os
+import sys
 import shutil
 import zipfile
 from pathlib import Path
+
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
 
 ROOT = Path(__file__).resolve().parent.parent
 DIST_DIR = ROOT / "dist"
@@ -20,7 +24,12 @@ SUITES = [
     ("tatra-sales-engineering", "Tatra_Sales_Engineering_Suite"),
     ("tapi-engineering", "Tapi_Engineering_Suite"),
     ("tapi-chemistry", "Tapi_Chemistry_Suite"),
-    ("tapi-it", "Tapi_IT_Suite")
+    ("tapi-it", "Tapi_IT_Suite"),
+    ("tapi-chemistry-kosar", "Tapi_Chemistry_Kosar_Suite"),
+    ("tapi-chemistry-mazur", "Tapi_Chemistry_Mazur_Suite"),
+    ("bidfood-purchasing-libor", "Bidfood_Purchasing_Libor_Suite"),
+    ("bidfood-purchasing-lucie", "Bidfood_Purchasing_Lucie_Suite"),
+    ("bidfood-engineering-jiri", "Bidfood_Engineering_Jiri_Suite")
 ]
 
 STUDENT_README = """========================================================================
@@ -60,7 +69,6 @@ FEATURES:
 ------------------------------------------------------------------------
 - Instant answer feedback with Czech-English contrastive explanations.
 - Automatic score calculation and review of missed items.
-- "NotebookLM Export" button: Generates an AI audio study digest and Markdown summary.
 - Progress saved automatically in your browser.
 
 Enjoy your learning!
@@ -70,12 +78,14 @@ MASTER_README = """=============================================================
    MASTER CORPORATE ENGLISH ASSESSMENT ECOSYSTEM - OFFLINE EDITION
 ========================================================================
 
-Contains all 5 independent corporate assessment suites:
+Contains all corporate assessment suites:
 1. Tatra Engineering (Automotive chassis R&D, assembly lines, powertrain)
 2. Tatra Sales and Engineering (Defense bids, STANAG, Incoterms, international sales)
 3. Tapi Engineering (Cleanroom HVAC, SCADA/PLC, tablet presses, CSV)
 4. Tapi Chemistry (Active Pharmaceutical Ingredients, synthesis, HPLC/GC)
 5. Tapi IT (Cloud infrastructure, DevOps, Zero Trust cybersecurity, SAP/LIMS)
+6. Bidfood Purchasing (Libor Barvenčík & Lucie Rončková - Cold-chain food procurement)
+7. Bidfood Process Engineering (Ing. Jiří Lorenčík - Plant automation, refrigeration, CIP)
 
 ************************************************************************
 CRITICAL STEP BEFORE OPENING:
@@ -83,14 +93,14 @@ CRITICAL STEP BEFORE OPENING:
 If you downloaded this as a ZIP archive:
 1. RIGHT-CLICK the ZIP and select "Extract All..." ("Extrahovat vše...").
 2. Do NOT open index.html from inside the compressed preview window!
-3. Do NOT click index.html inside the Google Drive web interface (download first).
+3. Do NOT click index.html inside cloud storage preview (download first).
 ************************************************************************
 
 HOW TO LAUNCH:
 ------------------------------------------------------------------------
 Option A (Recommended):
   Double-click "Launch_Master_Hub.bat"
-  (Opens the Executive Hub uniting all 5 corporate suites)
+  (Opens the Executive Hub uniting all corporate suites)
 
 Option B:
   Double-click "index.html" directly in the extracted folder.
@@ -104,7 +114,6 @@ def create_zip_archive(source_dir, output_zip_path, extra_files=None):
         for root, dirs, files in os.walk(source_dir):
             for file in files:
                 file_path = Path(root) / file
-                # Skip pycache or dist
                 if "__pycache__" in file_path.parts or "dist" in file_path.parts:
                     continue
                 arcname = file_path.relative_to(source_dir)
@@ -115,11 +124,12 @@ def create_zip_archive(source_dir, output_zip_path, extra_files=None):
 
 def package_all():
     DIST_DIR.mkdir(parents=True, exist_ok=True)
-    print("Packaging testing suites for Google Drive distribution...\n")
+    print("Packaging testing suites for distribution...\n")
 
-    # 1. Package individual suites
     for suite_slug, archive_name in SUITES:
         suite_path = ROOT / suite_slug
+        if not suite_path.exists():
+            continue
         zip_dest = DIST_DIR / f"{archive_name}.zip"
         print(f"Creating {zip_dest.name}...")
         create_zip_archive(
@@ -132,32 +142,6 @@ def package_all():
         )
         print(f"  [OK] Created {zip_dest.name} ({zip_dest.stat().st_size / 1024:.1f} KB)")
 
-    # 2. Package Master Ecosystem (Master Hub + all 5 suites)
-    master_zip_dest = DIST_DIR / "Corporate_English_Testing_Suites_ALL.zip"
-    print(f"\nCreating Master Ecosystem: {master_zip_dest.name}...")
-
-    with zipfile.ZipFile(master_zip_dest, 'w', zipfile.ZIP_DEFLATED) as zipf:
-        # Add root index.html and launchers
-        zipf.write(ROOT / "index.html", "index.html")
-        if (ROOT / "Launch_Master_Hub.bat").exists():
-            zipf.write(ROOT / "Launch_Master_Hub.bat", "Launch_Master_Hub.bat")
-        if (ROOT / "Start_Local_Server.bat").exists():
-            zipf.write(ROOT / "Start_Local_Server.bat", "Start_Local_Server.bat")
-        zipf.writestr("INSTRUCTIONS_FOR_STUDENTS.txt", MASTER_README)
-        zipf.writestr("PLEASE_READ_BEFORE_OPENING.txt", MASTER_README)
-
-        # Add all 5 suites
-        for suite_slug, _ in SUITES:
-            suite_path = ROOT / suite_slug
-            for root, dirs, files in os.walk(suite_path):
-                for file in files:
-                    file_path = Path(root) / file
-                    if "__pycache__" in file_path.parts:
-                        continue
-                    arcname = Path(suite_slug) / file_path.relative_to(suite_path)
-                    zipf.write(file_path, arcname)
-
-    print(f"  [OK] Created {master_zip_dest.name} ({master_zip_dest.stat().st_size / 1024:.1f} KB)")
     print(f"\nAll archives successfully generated in: {DIST_DIR}")
 
 if __name__ == "__main__":

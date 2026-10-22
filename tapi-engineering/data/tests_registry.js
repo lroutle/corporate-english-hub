@@ -3595,319 +3595,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 10,
     "description": "Foundational pharmaceutical engineering module covering peristaltic pump tubing installation & flow direction.",
     "learning_objectives": [
-      "Master professional Prepositions of Motion (through, along, into) in pharmaceutical engineering and cleanroom automation",
+      "Master professional Prepositions of Motion (through, along, into) in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in peristaltic pump tubing installation & flow direction",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-A2-012-Q1",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "Before starting the shift, the cleanroom facility engineer _____ maintain at 15 Pascals above ambient corridors.",
         "options": [
           {
             "key": "A",
-            "text": "between"
+            "text": "must to"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "must"
           },
           {
             "key": "C",
-            "text": "above"
+            "text": "is must"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "has must"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'inside' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'between' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'above' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'next to' indicates wrong direction."
+          "correct": "Modal 'must' is followed by the bare infinitive without 'to': 'must maintain'.",
+          "wrong_A": "'must to' is ungrammatical; modals never take 'to'.",
+          "wrong_C": "'is must' is completely ungrammatical in English.",
+          "wrong_D": "'has must' is invalid verb phrasing."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "V angličtině se po způsobovém slovesu 'must' nikdy nepoužívá předložka 'to' (*must to* je hrubá chyba).",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-A2-012-Q2",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "Every morning, the gxp validation specialist rigorously _____ the HEPA filter terminal ceiling diffuser in the pharmaceutical utilities basement.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "certify"
           },
           {
             "key": "B",
-            "text": "above"
+            "text": "certifying"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "certifies"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "is certify"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'between' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'above' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'next to' indicates wrong direction."
+          "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('certifies').",
+          "wrong_A": "Base form 'certify' lacks required 3rd person singular '-s'.",
+          "wrong_B": "Participle 'certifying' cannot act as finite verb without auxiliary.",
+          "wrong_D": "'is certify' is ungrammatical."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "Ve 3. osobě jednotného čísla přítomného času prostého nezapomeňte na koncovku -s: 'certifies'.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-A2-012-Q3",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "The technician placed the diagnostic tool _____ the workbench at the cleanroom secondary airlock boundary.",
         "options": [
           {
             "key": "A",
-            "text": "above"
+            "text": "on"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "into"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "under to"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "between of"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Preposition 'above' accurately identifies the physical cleanroom placement.",
-          "wrong_B": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'next to' indicates wrong direction."
+          "correct": "Preposition 'on' correctly denotes physical placement on a horizontal surface.",
+          "wrong_B": "'into' denotes motion entering inside an enclosed space.",
+          "wrong_C": "'under to' is an invalid double preposition.",
+          "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "Čeština používá 'na stole' = 'on the workbench'. Dejte pozor na chybná spojení jako *between of*.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-A2-012-Q4",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "Yesterday during the handover, the automation plc programmer _____ the automated autoclave chamber pressure vessel.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "sterilize"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "has calibrated"
           },
           {
             "key": "C",
-            "text": "above"
+            "text": "is sterilizeing"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Preposition 'next to' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_C": "Preposition 'above' indicates wrong direction."
+          "correct": "Specific past time adverbial 'yesterday' strictly requires Past Simple 'calibrated'.",
+          "wrong_A": "Base form 'sterilize' lacks past tense inflection.",
+          "wrong_B": "Present perfect 'has calibrated' cannot accompany finished past time 'yesterday'.",
+          "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "S příslovečným určením jako 'yesterday' se v angličtině striktně pojí minulý čas prostý (Past Simple), nikdy předpřítomný čas.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-A2-012-Q5",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "Are there _____ spare gaskets left in the workshop storage cabinet?",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "some"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "much"
           },
           {
             "key": "C",
-            "text": "under"
+            "text": "any"
           },
           {
             "key": "D",
-            "text": "above"
+            "text": "an"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'under' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'above' indicates wrong direction."
+          "correct": "'Any' is standard in questions inquiring about the existence or availability of items.",
+          "wrong_A": "'some' is typically reserved for affirmative statements or polite offers.",
+          "wrong_B": "'much' is only used with uncountable mass nouns, not plural 'gaskets'.",
+          "wrong_D": "'an' can only precede singular countable nouns beginning with a vowel sound."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "V běžných záporných větách a otázkách se pro 'nějaký / žádný' používá 'any', nikoli *some*.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-A2-012-Q6",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "_____ the maintenance technician inspect the lyophilizer condenser refrigeration circuit every shift?",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "Do"
           },
           {
             "key": "B",
-            "text": "behind"
+            "text": "Does"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "Is"
           },
           {
             "key": "D",
-            "text": "above"
+            "text": "Has"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'behind' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'above' indicates wrong direction."
+          "correct": "Singular 3rd person subject in Present Simple requires auxiliary 'Does'.",
+          "wrong_A": "'Do' is used for plural subjects (they, we, you) or 'I'.",
+          "wrong_C": "'Is' requires an '-ing' participle (Present Continuous), not a base verb.",
+          "wrong_D": "'Has' requires a past participle (Present Perfect)."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "V otázkách v přítomném čase se pro 3. osobu jednotného čísla používá pomocné sloveso 'Does': 'Does the technician inspect...?'.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-A2-012-Q7",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "The newly calibrated unit runs significantly _____ than the older model.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "more fast"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "fastest"
           },
           {
             "key": "C",
-            "text": "above"
+            "text": "as fast"
           },
           {
             "key": "D",
-            "text": "into"
+            "text": "faster"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Preposition 'into' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_C": "Preposition 'above' indicates wrong direction."
+          "correct": "One-syllable adjective 'fast' forms comparative with '-er': 'faster'.",
+          "wrong_A": "'more fast' is ungrammatical; short adjectives take '-er'.",
+          "wrong_B": "'fastest' is a superlative and requires 'the'.",
+          "wrong_C": "'as fast' requires 'as' ('as fast as'), not 'than'."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "Jednoslabičná přídavná jména tvoří 2. stupeň koncovkou -er (faster, cheaper), nikoli pomocí *more*.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-A2-012-Q8",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "_____ new components on this table must be cataloged immediately.",
         "options": [
           {
             "key": "A",
-            "text": "across"
+            "text": "These"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "This"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "That"
           },
           {
             "key": "D",
-            "text": "above"
+            "text": "There"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Preposition 'across' accurately identifies the physical cleanroom placement.",
-          "wrong_B": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'above' indicates wrong direction."
+          "correct": "Plural noun 'components' located nearby requires plural demonstrative 'These'.",
+          "wrong_B": "'This' is singular and cannot modify plural 'components'.",
+          "wrong_C": "'That' is singular.",
+          "wrong_D": "'There' is an adverb of place or dummy pronoun, not a demonstrative determiner."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "Množné číslo pro věci blízko mluvčího je 'these' (tyto součástky), jednotné číslo je 'this' (tato součástka).",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-A2-012-Q9",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "The team transferred the heavy assembly _____ the testing bay.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "in to"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "inside of"
           },
           {
             "key": "C",
-            "text": "along"
+            "text": "into"
           },
           {
             "key": "D",
-            "text": "above"
+            "text": "onto to"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'along' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'above' indicates wrong direction."
+          "correct": "'Into' expresses movement from the outside to the interior of a space.",
+          "wrong_A": "'in to' as two separate words is incorrect for directional movement.",
+          "wrong_B": "'inside of' is redundant and colloquial.",
+          "wrong_D": "'onto to' is an ungrammatical repetition."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "Směr dovnitř vyjadřuje předložka 'into' (přesunout do testovací haly = transferred into the bay).",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-A2-012-Q10",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "Could you please _____ the shift report before leaving today?",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "to sign"
           },
           {
             "key": "B",
-            "text": "against"
+            "text": "sign"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "signing"
           },
           {
             "key": "D",
-            "text": "above"
+            "text": "signed"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'against' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'above' indicates wrong direction."
+          "correct": "Polite request with modal 'Could you please' is followed by the bare infinitive 'sign'.",
+          "wrong_A": "'to sign' is incorrect; modals do not take 'to'.",
+          "wrong_C": "Participle 'signing' cannot follow modal 'could'.",
+          "wrong_D": "Past tense 'signed' is ungrammatical after modal 'could'."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "Po zdvořilostní žádosti 'Could you please' následuje vždy základní tvar slovesa (bare infinitive) bez 'to'.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       }
     ]
@@ -3921,319 +3921,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 10,
     "description": "Foundational pharmaceutical engineering module covering water for injection (wfi) sampling point locations.",
     "learning_objectives": [
-      "Master professional Demonstratives (this, that, these, those) in pharmaceutical engineering and cleanroom automation",
+      "Master professional Demonstratives (this, that, these, those) in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in water for injection (wfi) sampling point locations",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-A2-013-Q1",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "Before starting the shift, the cleanroom facility engineer _____ maintain at 15 Pascals above ambient corridors.",
         "options": [
           {
             "key": "A",
-            "text": "between"
+            "text": "must to"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "must"
           },
           {
             "key": "C",
-            "text": "above"
+            "text": "is must"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "has must"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'inside' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'between' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'above' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'next to' indicates wrong direction."
+          "correct": "Modal 'must' is followed by the bare infinitive without 'to': 'must maintain'.",
+          "wrong_A": "'must to' is ungrammatical; modals never take 'to'.",
+          "wrong_C": "'is must' is completely ungrammatical in English.",
+          "wrong_D": "'has must' is invalid verb phrasing."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "V angličtině se po způsobovém slovesu 'must' nikdy nepoužívá předložka 'to' (*must to* je hrubá chyba).",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-A2-013-Q2",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "Every morning, the gxp validation specialist rigorously _____ the HEPA filter terminal ceiling diffuser in the pharmaceutical utilities basement.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "certify"
           },
           {
             "key": "B",
-            "text": "above"
+            "text": "certifying"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "certifies"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "is certify"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'between' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'above' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'next to' indicates wrong direction."
+          "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('certifies').",
+          "wrong_A": "Base form 'certify' lacks required 3rd person singular '-s'.",
+          "wrong_B": "Participle 'certifying' cannot act as finite verb without auxiliary.",
+          "wrong_D": "'is certify' is ungrammatical."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "Ve 3. osobě jednotného čísla přítomného času prostého nezapomeňte na koncovku -s: 'certifies'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-A2-013-Q3",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "The technician placed the diagnostic tool _____ the workbench at the cleanroom secondary airlock boundary.",
         "options": [
           {
             "key": "A",
-            "text": "above"
+            "text": "on"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "into"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "under to"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "between of"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Preposition 'above' accurately identifies the physical cleanroom placement.",
-          "wrong_B": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'next to' indicates wrong direction."
+          "correct": "Preposition 'on' correctly denotes physical placement on a horizontal surface.",
+          "wrong_B": "'into' denotes motion entering inside an enclosed space.",
+          "wrong_C": "'under to' is an invalid double preposition.",
+          "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "Čeština používá 'na stole' = 'on the workbench'. Dejte pozor na chybná spojení jako *between of*.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-A2-013-Q4",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "Yesterday during the handover, the automation plc programmer _____ the automated autoclave chamber pressure vessel.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "sterilize"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "has calibrated"
           },
           {
             "key": "C",
-            "text": "above"
+            "text": "is sterilizeing"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Preposition 'next to' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_C": "Preposition 'above' indicates wrong direction."
+          "correct": "Specific past time adverbial 'yesterday' strictly requires Past Simple 'calibrated'.",
+          "wrong_A": "Base form 'sterilize' lacks past tense inflection.",
+          "wrong_B": "Present perfect 'has calibrated' cannot accompany finished past time 'yesterday'.",
+          "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "S příslovečným určením jako 'yesterday' se v angličtině striktně pojí minulý čas prostý (Past Simple), nikdy předpřítomný čas.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-A2-013-Q5",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "Are there _____ spare gaskets left in the workshop storage cabinet?",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "some"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "much"
           },
           {
             "key": "C",
-            "text": "under"
+            "text": "any"
           },
           {
             "key": "D",
-            "text": "above"
+            "text": "an"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'under' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'above' indicates wrong direction."
+          "correct": "'Any' is standard in questions inquiring about the existence or availability of items.",
+          "wrong_A": "'some' is typically reserved for affirmative statements or polite offers.",
+          "wrong_B": "'much' is only used with uncountable mass nouns, not plural 'gaskets'.",
+          "wrong_D": "'an' can only precede singular countable nouns beginning with a vowel sound."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "V běžných záporných větách a otázkách se pro 'nějaký / žádný' používá 'any', nikoli *some*.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-A2-013-Q6",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "_____ the maintenance technician inspect the lyophilizer condenser refrigeration circuit every shift?",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "Do"
           },
           {
             "key": "B",
-            "text": "behind"
+            "text": "Does"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "Is"
           },
           {
             "key": "D",
-            "text": "above"
+            "text": "Has"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'behind' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'above' indicates wrong direction."
+          "correct": "Singular 3rd person subject in Present Simple requires auxiliary 'Does'.",
+          "wrong_A": "'Do' is used for plural subjects (they, we, you) or 'I'.",
+          "wrong_C": "'Is' requires an '-ing' participle (Present Continuous), not a base verb.",
+          "wrong_D": "'Has' requires a past participle (Present Perfect)."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "V otázkách v přítomném čase se pro 3. osobu jednotného čísla používá pomocné sloveso 'Does': 'Does the technician inspect...?'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-A2-013-Q7",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "The newly calibrated unit runs significantly _____ than the older model.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "more fast"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "fastest"
           },
           {
             "key": "C",
-            "text": "above"
+            "text": "as fast"
           },
           {
             "key": "D",
-            "text": "into"
+            "text": "faster"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Preposition 'into' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_C": "Preposition 'above' indicates wrong direction."
+          "correct": "One-syllable adjective 'fast' forms comparative with '-er': 'faster'.",
+          "wrong_A": "'more fast' is ungrammatical; short adjectives take '-er'.",
+          "wrong_B": "'fastest' is a superlative and requires 'the'.",
+          "wrong_C": "'as fast' requires 'as' ('as fast as'), not 'than'."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "Jednoslabičná přídavná jména tvoří 2. stupeň koncovkou -er (faster, cheaper), nikoli pomocí *more*.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-A2-013-Q8",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "_____ new components on this table must be cataloged immediately.",
         "options": [
           {
             "key": "A",
-            "text": "across"
+            "text": "These"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "This"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "That"
           },
           {
             "key": "D",
-            "text": "above"
+            "text": "There"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Preposition 'across' accurately identifies the physical cleanroom placement.",
-          "wrong_B": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'above' indicates wrong direction."
+          "correct": "Plural noun 'components' located nearby requires plural demonstrative 'These'.",
+          "wrong_B": "'This' is singular and cannot modify plural 'components'.",
+          "wrong_C": "'That' is singular.",
+          "wrong_D": "'There' is an adverb of place or dummy pronoun, not a demonstrative determiner."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "Množné číslo pro věci blízko mluvčího je 'these' (tyto součástky), jednotné číslo je 'this' (tato součástka).",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-A2-013-Q9",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "The team transferred the heavy assembly _____ the testing bay.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "in to"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "inside of"
           },
           {
             "key": "C",
-            "text": "along"
+            "text": "into"
           },
           {
             "key": "D",
-            "text": "above"
+            "text": "onto to"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'along' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'above' indicates wrong direction."
+          "correct": "'Into' expresses movement from the outside to the interior of a space.",
+          "wrong_A": "'in to' as two separate words is incorrect for directional movement.",
+          "wrong_B": "'inside of' is redundant and colloquial.",
+          "wrong_D": "'onto to' is an ungrammatical repetition."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "Směr dovnitř vyjadřuje předložka 'into' (přesunout do testovací haly = transferred into the bay).",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-A2-013-Q10",
-        "prompt": "The differential pressure sensor is mounted on the wall _____ the airlock doors.",
+        "prompt": "Could you please _____ the shift report before leaving today?",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "to sign"
           },
           {
             "key": "B",
-            "text": "against"
+            "text": "sign"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "signing"
           },
           {
             "key": "D",
-            "text": "above"
+            "text": "signed"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'against' accurately identifies the physical cleanroom placement.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' is incompatible with the wall mount geometry.",
-          "wrong_D": "Preposition 'above' indicates wrong direction."
+          "correct": "Polite request with modal 'Could you please' is followed by the bare infinitive 'sign'.",
+          "wrong_A": "'to sign' is incorrect; modals do not take 'to'.",
+          "wrong_C": "Participle 'signing' cannot follow modal 'could'.",
+          "wrong_D": "Past tense 'signed' is ungrammatical after modal 'could'."
         },
-        "cz_learning_point": "Cleanroom spatial prepositions: 'between the airlock doors' = mezi dveřmi propusti.",
+        "cz_learning_point": "Po zdvořilostní žádosti 'Could you please' následuje vždy základní tvar slovesa (bare infinitive) bez 'to'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       }
     ]
@@ -6856,319 +6856,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating hepa filter integrity dop testing & smoke pattern studies.",
     "learning_objectives": [
-      "Master professional Passive Voice in Testing Protocols in pharmaceutical engineering and cleanroom automation",
+      "Master professional Passive Voice in Testing Protocols in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in hepa filter integrity dop testing & smoke pattern studies",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-002-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-002-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-002-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-002-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-002-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-002-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-002-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-002-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-002-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-002-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       }
     ]
@@ -7182,319 +7182,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating scada automated alarm response & line stoppage escalation.",
     "learning_objectives": [
-      "Master professional First & Second Conditionals in pharmaceutical engineering and cleanroom automation",
+      "Master professional First & Second Conditionals in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in scada automated alarm response & line stoppage escalation",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-003-Q1",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "drops"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "would drop"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-003-Q2",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would drop"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "drops"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
           "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-003-Q3",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "drops"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will drop"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would drop"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_B": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-003-Q4",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "would drop"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "dropped"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "drops"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_C": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-003-Q5",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would drop"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "drops"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-003-Q6",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "drops"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would drop"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-003-Q7",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would drop"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "dropped"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "drops"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_C": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-003-Q8",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "drops"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will drop"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would drop"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_B": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-003-Q9",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would drop"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "drops"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-003-Q10",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "drops"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would drop"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       }
     ]
@@ -7508,319 +7508,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating sterile filling needle dosing accuracy & peristaltic pump drifts.",
     "learning_objectives": [
-      "Master professional Present Perfect with since & for in pharmaceutical engineering and cleanroom automation",
+      "Master professional Present Perfect with since & for in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in sterile filling needle dosing accuracy & peristaltic pump drifts",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-004-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-004-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-004-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-004-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-004-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-004-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-004-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-004-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-004-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-004-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       }
     ]
@@ -7834,319 +7834,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating tablet compression rotary press weight variation investigations.",
     "learning_objectives": [
-      "Master professional Relative Clauses in Equipment Faults in pharmaceutical engineering and cleanroom automation",
+      "Master professional Relative Clauses in Equipment Faults in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in tablet compression rotary press weight variation investigations",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-005-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-005-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-005-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-005-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-005-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-005-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-005-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-005-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-005-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-005-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       }
     ]
@@ -8486,319 +8486,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating water for injection (wfi) loop conductivity & ozone sanitization.",
     "learning_objectives": [
-      "Master professional Purpose Clauses (in order that, so that) in pharmaceutical engineering and cleanroom automation",
+      "Master professional Purpose Clauses (in order that, so that) in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in water for injection (wfi) loop conductivity & ozone sanitization",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-007-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-007-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-007-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-007-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-007-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-007-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-007-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-007-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-007-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-007-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       }
     ]
@@ -8812,319 +8812,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating lyophilization condenser ice cake thickness & vacuum leaks.",
     "learning_objectives": [
-      "Master professional Modal Verbs of Probability (might, must have) in pharmaceutical engineering and cleanroom automation",
+      "Master professional Modal Verbs of Probability (might, must have) in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in lyophilization condenser ice cake thickness & vacuum leaks",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-008-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-008-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-008-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-008-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-008-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-008-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-008-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-008-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-008-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-008-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       }
     ]
@@ -9138,319 +9138,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating isolator glovebox pressure decay leak testing & port replacement.",
     "learning_objectives": [
-      "Master professional Temporal Clauses (as soon as, until) in pharmaceutical engineering and cleanroom automation",
+      "Master professional Temporal Clauses (as soon as, until) in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in isolator glovebox pressure decay leak testing & port replacement",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-009-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-009-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-009-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-009-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-009-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-009-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-009-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-009-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-009-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-009-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       }
     ]
@@ -9464,319 +9464,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating blister packaging machine heat-sealing foil fault reporting.",
     "learning_objectives": [
-      "Master professional Reported Speech in Deviation Logs in pharmaceutical engineering and cleanroom automation",
+      "Master professional Reported Speech in Deviation Logs in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in blister packaging machine heat-sealing foil fault reporting",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-010-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-010-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-010-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-010-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-010-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-010-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-010-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-010-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-010-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-010-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       }
     ]
@@ -9790,319 +9790,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating clean-in-place (cip) caustic rinse flow rate verification.",
     "learning_objectives": [
-      "Master professional Cause & Effect Connectors (due to, as a result) in pharmaceutical engineering and cleanroom automation",
+      "Master professional Cause & Effect Connectors (due to, as a result) in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in clean-in-place (cip) caustic rinse flow rate verification",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-011-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-011-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-011-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-011-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-011-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-011-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-011-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-011-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-011-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-011-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       }
     ]
@@ -10116,319 +10116,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating preventive maintenance scheduling & calibration tagging sops.",
     "learning_objectives": [
-      "Master professional Future Forms in Engineering Planning in pharmaceutical engineering and cleanroom automation",
+      "Master professional Future Forms in Engineering Planning in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in preventive maintenance scheduling & calibration tagging sops",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-012-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-012-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-012-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-012-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-012-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-012-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-012-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-012-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-012-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-012-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       }
     ]
@@ -10442,319 +10442,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating differential pressure sensor zero-span electronic calibration.",
     "learning_objectives": [
-      "Master professional Conditionals in Instrument Tuning in pharmaceutical engineering and cleanroom automation",
+      "Master professional Conditionals in Instrument Tuning in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in differential pressure sensor zero-span electronic calibration",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-013-Q1",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "drops"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "would drop"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-013-Q2",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would drop"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "drops"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
           "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-013-Q3",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "drops"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will drop"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would drop"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_B": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-013-Q4",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "would drop"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "dropped"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "drops"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_C": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-013-Q5",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would drop"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "drops"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-013-Q6",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "drops"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would drop"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-013-Q7",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would drop"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "dropped"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "drops"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_C": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-013-Q8",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "drops"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will drop"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would drop"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_B": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-013-Q9",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would drop"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "drops"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-013-Q10",
-        "prompt": "If the cleanroom differential pressure _____ below 15 Pascals, the SCADA alarm triggers a visual red beacon.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will drop"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "drops"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would drop"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "dropped"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('drops') for automated physical rules.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'dropped' forms an unreal condition, mismatched with present 'triggers'."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Never use 'will' in conditional if-clauses (*If pressure will drop*). Use Present Simple: 'If pressure drops'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       }
     ]
@@ -10768,319 +10768,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating automated visual inspection (avi) reject rate spikes on vials.",
     "learning_objectives": [
-      "Master professional Passive Reporting of Statistics in pharmaceutical engineering and cleanroom automation",
+      "Master professional Passive Reporting of Statistics in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in automated visual inspection (avi) reject rate spikes on vials",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-014-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-014-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-014-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-014-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-014-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-014-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-014-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-014-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-014-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       },
       {
         "id": "TAPI-ENG-B1-014-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Sterile Compounding & Filling Line Automation"
       }
     ]
@@ -11094,319 +11094,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating fluid bed dryer granulation humidity sensor maintenance.",
     "learning_objectives": [
-      "Master professional Phrasal Verbs in Equipment Repair in pharmaceutical engineering and cleanroom automation",
+      "Master professional Phrasal Verbs in Equipment Repair in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in fluid bed dryer granulation humidity sensor maintenance",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-015-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-015-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-015-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-015-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-015-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-015-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-015-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-015-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-015-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       },
       {
         "id": "TAPI-ENG-B1-015-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Tablet Compression & Lyophilization Equipment"
       }
     ]
@@ -11746,319 +11746,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating sterile room airflow velocity anemometer traverse testing.",
     "learning_objectives": [
-      "Master professional Tolerances & Comparative Structures in pharmaceutical engineering and cleanroom automation",
+      "Master professional Tolerances & Comparative Structures in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in sterile room airflow velocity anemometer traverse testing",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-017-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-017-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-017-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-017-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-017-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-017-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-017-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-017-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-017-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       },
       {
         "id": "TAPI-ENG-B1-017-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Cleanroom HVAC Cascades & Differential Pressure"
       }
     ]
@@ -12072,319 +12072,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating equipment change control initiation: servo motor retrofits.",
     "learning_objectives": [
-      "Master professional Formal Justification Connectors in pharmaceutical engineering and cleanroom automation",
+      "Master professional Formal Justification Connectors in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in equipment change control initiation: servo motor retrofits",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-018-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
         "id": "TAPI-ENG-B1-018-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
         "id": "TAPI-ENG-B1-018-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
         "id": "TAPI-ENG-B1-018-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
         "id": "TAPI-ENG-B1-018-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
         "id": "TAPI-ENG-B1-018-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
         "id": "TAPI-ENG-B1-018-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
         "id": "TAPI-ENG-B1-018-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
         "id": "TAPI-ENG-B1-018-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       },
       {
         "id": "TAPI-ENG-B1-018-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Computerized System Validation (CSV & GAMP 5)"
       }
     ]
@@ -12398,319 +12398,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating cleanroom decontamination via vaporized hydrogen peroxide (vhp).",
     "learning_objectives": [
-      "Master professional Passive Imperatives & Process Chains in pharmaceutical engineering and cleanroom automation",
+      "Master professional Passive Imperatives & Process Chains in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in cleanroom decontamination via vaporized hydrogen peroxide (vhp)",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-019-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-019-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-019-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-019-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-019-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-019-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-019-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-019-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-019-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       },
       {
         "id": "TAPI-ENG-B1-019-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Cleanroom Gowning, Airlocks & Facility PPE"
       }
     ]
@@ -12724,319 +12724,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate pharmaceutical engineering module investigating packaging line serialization camera misalignment troubleshooting.",
     "learning_objectives": [
-      "Master professional Past Unreal Scenarios (could have been) in pharmaceutical engineering and cleanroom automation",
+      "Master professional Past Unreal Scenarios (could have been) in pharmaceutical facilities engineering",
       "Eliminate common Czech interference errors in packaging line serialization camera misalignment troubleshooting",
-      "Demonstrate precision in GAMP 5, CSV, and regulatory inspection compliance"
+      "Demonstrate precision in GxP engineering documentation and standard operating procedures"
     ],
     "questions": [
       {
         "id": "TAPI-ENG-B1-020-Q1",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "Before the validation auditor arrived inside the Grade A aseptic processing suite, the cleanroom facility engineer noticed that the cleanroom differential pressure cascade _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "was validated"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "had been validated"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "has been validated"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "didn't maintain"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been validated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was validated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been validated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-020-Q2",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-020-Q3",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-020-Q4",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "According to 21 CFR Part 11 electronic records standards, the automated autoclave chamber pressure vessel _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be calibrated"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "must sterilize"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "are must calibrated"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "must be calibrated"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
+          "correct": "Passive with modal: 'must be calibrated' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-020-Q5",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-020-Q6",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-020-Q7",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be autoclaved"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be autoclaved"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-020-Q8",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be autoclaved"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be autoclaved"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-020-Q9",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must autoclave"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be autoclaved"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       },
       {
         "id": "TAPI-ENG-B1-020-Q10",
-        "prompt": "All sterile filling equipment parts _____ according to validated SOP-ENG-204 prior to batch compounding.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be autoclaved"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be autoclaved"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must autoclave"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be autoclaved"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be autoclaved'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must autoclave' is active voice; parts do not autoclave themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "GxP SOP phrasing strictly requires passive voice with modals: 'must be autoclaved' (musí být autoklávovány).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "SCADA, PLC & Industrial Automation"
       }
     ]

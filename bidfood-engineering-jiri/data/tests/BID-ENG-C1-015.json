@@ -1,0 +1,326 @@
+{
+  "test_id": "BID-ENG-C1-015",
+  "title": "Board-Level Capital Expenditure Defense: Multi-Facility Green Hydrogen Boiler Conversion",
+  "level": "C1",
+  "category": "core",
+  "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities",
+  "estimated_time_minutes": 20,
+  "description": "Mastery-tier food processing engineering leadership module examining board-level capital expenditure defense: multi-facility green hydrogen boiler conversion.",
+  "learning_objectives": [
+    "Master professional Executive Capital Allocation Justification & Board Rhetoric in food process engineering",
+    "Eliminate common Czech interference errors in board-level capital expenditure defense: multi-facility green hydrogen boiler conversion",
+    "Demonstrate precision in refrigeration maintenance logs, CIP cycles, and plant automation SOPs"
+  ],
+  "questions": [
+    {
+      "id": "BID-ENG-C1-015-Q1",
+      "prompt": "The international arbitral tribunal mandated that the respondent enterprise _____ full restitution for latent mechanical defaults.",
+      "options": [
+        {
+          "key": "A",
+          "text": "furnishes"
+        },
+        {
+          "key": "B",
+          "text": "furnish"
+        },
+        {
+          "key": "C",
+          "text": "shall furnish"
+        },
+        {
+          "key": "D",
+          "text": "must to furnish"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "High-register mandative subjunctive requires base form 'furnish' after 'mandated that'.",
+        "wrong_A": "Indicative 'furnishes' violates formal legal subjunctive syntax.",
+        "wrong_C": "'shall furnish' is indicative/modal, less standard than pure subjunctive in mandative clauses.",
+        "wrong_D": "'must to furnish' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "V mezinárodním právu a arbitrážních nálezech se po slovesech nařízení používá subjunktiv se základním tvarem: 'mandated that the respondent furnish'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-C1-015-Q2",
+      "prompt": "Seldom _____ witnessed such profound material degradation without prior ultrasonic acoustic warning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "our forensic metallurgists have"
+        },
+        {
+          "key": "B",
+          "text": "did our forensic metallurgists had"
+        },
+        {
+          "key": "C",
+          "text": "have our forensic metallurgists"
+        },
+        {
+          "key": "D",
+          "text": "had our forensic metallurgists have"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Negative adverb 'Seldom' triggers subject-auxiliary inversion: 'have our forensic metallurgists witnessed'.",
+        "wrong_A": "'our forensic metallurgists have' lacks required subject-auxiliary inversion.",
+        "wrong_B": "'did... had' is an ungrammatical double past.",
+        "wrong_D": "'had... have' is invalid auxiliary stacking."
+      },
+      "cz_learning_point": "Záporné příslovce 'Seldom' na začátku věty vyžaduje přísnou inverzi pomocného slovesa a podmětu: 'Seldom have our experts witnessed...'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-C1-015-Q3",
+      "prompt": "_____ the sovereign ministry to repudiate the bilateral procurement treaty, international offset commitments would immediately trigger arbitration.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Were"
+        },
+        {
+          "key": "B",
+          "text": "Had"
+        },
+        {
+          "key": "C",
+          "text": "Should"
+        },
+        {
+          "key": "D",
+          "text": "If were"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Inverted Second Conditional with 'Were [subject] to [infinitive]' expresses formal hypothetical future contingency.",
+        "wrong_B": "'Had' forms a Third Conditional (past counterfactual), incompatible with 'to repudiate'.",
+        "wrong_C": "'Should' expresses tentative probability with bare infinitive, not 'to repudiate'.",
+        "wrong_D": "'If were' is redundant and ungrammatical."
+      },
+      "cz_learning_point": "Inverze druhého kondicionálu v diplomatických smlouvách: 'Were the ministry to repudiate...' = 'Kdyby ministerstvo vypovědělo...'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-C1-015-Q4",
+      "prompt": "Statutory covenants stipulate that intellectual property rights in respect of the sanitary stainless steel pasteurizer flow diversion valve _____ vested solely in the sovereign contracting authority.",
+      "options": [
+        {
+          "key": "A",
+          "text": "remains"
+        },
+        {
+          "key": "B",
+          "text": "will remain"
+        },
+        {
+          "key": "C",
+          "text": "are remaining"
+        },
+        {
+          "key": "D",
+          "text": "remain"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Mandative subjunctive after 'stipulate that' takes base form 'remain'.",
+        "wrong_A": "Indicative 'remains' violates the subjunctive convention in statutory covenants.",
+        "wrong_B": "Future 'will remain' is non-standard in formal contract drafting.",
+        "wrong_C": "Continuous 'are remaining' cannot express permanent legal status."
+      },
+      "cz_learning_point": "Smluvní ujednání (stipulate that) vyžadují základní tvar slovesa: 'stipulate that rights remain vested'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-C1-015-Q5",
+      "prompt": "_____ irreversible metallurgical micro-shear, the component fractured along the primary grain boundary.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sustaining"
+        },
+        {
+          "key": "B",
+          "text": "Being sustained"
+        },
+        {
+          "key": "C",
+          "text": "Having sustained"
+        },
+        {
+          "key": "D",
+          "text": "After sustained"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Perfect active participle 'Having sustained' correctly expresses prior causal damage leading to subsequent fracture.",
+        "wrong_A": "Present participle 'Sustaining' implies simultaneous action rather than prior cause.",
+        "wrong_B": "Passive 'Being sustained' misassigns voice to the component.",
+        "wrong_D": "'After sustained' is ungrammatical syntax."
+      },
+      "cz_learning_point": "Předpřítomné participium 'Having sustained' (utrpěvši nevratné poškození) vyjadřuje příčinu, která časově předcházela prasknutí.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-C1-015-Q6",
+      "prompt": "The panel rejected the supplier's defense, _____ the catastrophic loss stemmed exclusively from improper operational maintenance.",
+      "options": [
+        {
+          "key": "A",
+          "text": "held that"
+        },
+        {
+          "key": "B",
+          "text": "holding that"
+        },
+        {
+          "key": "C",
+          "text": "to hold that"
+        },
+        {
+          "key": "D",
+          "text": "having held"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Present participle 'holding that' functions as a supplementary clause expressing the legal rationale of the governing body.",
+        "wrong_A": "Past tense 'held that' cannot connect two main clauses without coordinating conjunction.",
+        "wrong_C": "Infinitive 'to hold that' implies purpose rather than contemporaneous legal holding.",
+        "wrong_D": "'having held' implies the holding occurred prior to the rejection."
+      },
+      "cz_learning_point": "Právní formulace 'holding that...' (konstatujíc, že...) se v anglických soudních a arbitrážních nálezech používá pro odůvodnění rozhodnutí.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-C1-015-Q7",
+      "prompt": "Had timely notification of latent defect been served, compensatory damages _____ legally recoverable under Swiss federal law.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would be"
+        },
+        {
+          "key": "B",
+          "text": "had been"
+        },
+        {
+          "key": "C",
+          "text": "will be"
+        },
+        {
+          "key": "D",
+          "text": "would have been"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Third Conditional consequence clause requires 'would have been' to match past counterfactual premise 'Had notification been served'.",
+        "wrong_A": "'would be' refers to present result, but recovery relates to past arbitral award.",
+        "wrong_B": "'had been' is past perfect indicative, not a modal conditional consequence.",
+        "wrong_C": "'will be' is future indicative, completely incompatible with past counterfactual condition."
+      },
+      "cz_learning_point": "Dokončený děj v minulém kondicionálu (Third Conditional): 'Had it been served, damages would have been recoverable'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-C1-015-Q8",
+      "prompt": "Foremost among the tribunal's findings _____ the persistent failure of senior management to enforce standard operating procedures.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "were"
+        },
+        {
+          "key": "C",
+          "text": "has been"
+        },
+        {
+          "key": "D",
+          "text": "did"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Fronted prepositional phrase triggers subject-verb inversion; singular subject 'failure' requires singular verb 'was'.",
+        "wrong_B": "'were' incorrectly agrees with plural 'findings', but the real postposed subject is singular 'failure'.",
+        "wrong_C": "'has been' conflicts with the completed past narrative of the inquiry.",
+        "wrong_D": "'did' is an auxiliary that cannot function as a copula."
+      },
+      "cz_learning_point": "Pozor na shodu podmětu s přísudkem při inverzi: 'Foremost among findings was the failure...' — podmět je jednotné číslo 'failure', proto sloveso musí být 'was' (nikoli *were*).",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-C1-015-Q9",
+      "prompt": "The multinational joint venture established a binding dispute mechanism, pursuant _____ all technical conflicts must be referred to ICC Paris.",
+      "options": [
+        {
+          "key": "A",
+          "text": "of which"
+        },
+        {
+          "key": "B",
+          "text": "for which"
+        },
+        {
+          "key": "C",
+          "text": "to which"
+        },
+        {
+          "key": "D",
+          "text": "in where"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Formal legal phrase 'pursuant to' requires 'to which' when modifying the mechanism.",
+        "wrong_A": "'pursuant of' is incorrect legal English; 'pursuant' strictly takes 'to'.",
+        "wrong_B": "'for which' alters the meaning from legal conformance to purpose.",
+        "wrong_D": "'in where' is ungrammatical syntax."
+      },
+      "cz_learning_point": "Právní vazba 'pursuant to which' (v souladu s nímž / na jehož základě) je ustálená formule mezinárodních smluv.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-C1-015-Q10",
+      "prompt": "Unless the corporate steering committee _____ comprehensive capital reallocation by Q4, institutional market share will irreversibly erode.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will authorize"
+        },
+        {
+          "key": "B",
+          "text": "authorizes"
+        },
+        {
+          "key": "C",
+          "text": "would authorize"
+        },
+        {
+          "key": "D",
+          "text": "shall to authorize"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Conditional clause with 'Unless' requires Present Simple ('authorizes') in high-register executive projections.",
+        "wrong_A": "Future modal 'will' is prohibited inside the conditional 'Unless' clause.",
+        "wrong_C": "'would' creates an ungrammatical hypothetical mismatch with predictive 'will erode'.",
+        "wrong_D": "'shall to' is ungrammatical; modal 'shall' does not take 'to'."
+      },
+      "cz_learning_point": "I na nejvyšší manažerské úrovni platí základní pravidlo: po spojce 'Unless' se nesmí použít 'will' (*Unless the committee will authorize*). Použijte přítomný čas: 'Unless the committee authorizes'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_id": "BID-ENG-B1-016",
+  "title": "Hygienic Pipe Welding & Orbital TIG Weld Inspection: Passive Voice with Modals",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "CIP (Clean-in-Place) Sanitation & Food Hygiene Engineering",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate process engineering English module analyzing hygienic pipe welding & orbital tig weld inspection: passive voice with modals.",
+  "learning_objectives": [
+    "Master professional Passive Voice with Modals in food process engineering",
+    "Eliminate common Czech interference errors in hygienic pipe welding & orbital tig weld inspection: passive voice with modals",
+    "Demonstrate precision in refrigeration maintenance logs, CIP cycles, and plant automation SOPs"
+  ],
+  "questions": [
+    {
+      "id": "BID-ENG-B1-016-Q1",
+      "prompt": "Before the validation auditor arrived inside the central ammonia engine room, the plant process engineer noticed that the two-stage industrial ammonia refrigeration compressor _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was overhauled"
+        },
+        {
+          "key": "B",
+          "text": "had been overhauled"
+        },
+        {
+          "key": "C",
+          "text": "has been overhauled"
+        },
+        {
+          "key": "D",
+          "text": "didn't maintain"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been overhauled') expresses an action completed prior to the past event 'arrived'.",
+        "wrong_A": "Past Simple ('was overhauled') fails to indicate precedence before past 'arrived'.",
+        "wrong_C": "Present Perfect ('has been overhauled') cannot anchor to a past narrative.",
+        "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
+      },
+      "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
+      "workplace_track": "CIP (Clean-in-Place) Sanitation & Food Hygiene Engineering"
+    },
+    {
+      "id": "BID-ENG-B1-016-Q2",
+      "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will rise"
+        },
+        {
+          "key": "B",
+          "text": "would rise"
+        },
+        {
+          "key": "C",
+          "text": "rises"
+        },
+        {
+          "key": "D",
+          "text": "rose"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+        "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
+      },
+      "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
+      "workplace_track": "CIP (Clean-in-Place) Sanitation & Food Hygiene Engineering"
+    },
+    {
+      "id": "BID-ENG-B1-016-Q3",
+      "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
+      "options": [
+        {
+          "key": "A",
+          "text": "while"
+        },
+        {
+          "key": "B",
+          "text": "during"
+        },
+        {
+          "key": "C",
+          "text": "for"
+        },
+        {
+          "key": "D",
+          "text": "since"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+        "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+        "wrong_C": "'For' expresses duration, not simultaneous background events.",
+        "wrong_D": "'Since' indicates a starting point in time or causation."
+      },
+      "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
+      "workplace_track": "CIP (Clean-in-Place) Sanitation & Food Hygiene Engineering"
+    },
+    {
+      "id": "BID-ENG-B1-016-Q4",
+      "prompt": "According to ATEX Directive 2014/34/EU for explosive atmospheres, the sanitary stainless steel pasteurizer flow diversion valve _____ at regular 500-hour operational intervals.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be tested"
+        },
+        {
+          "key": "B",
+          "text": "must divert"
+        },
+        {
+          "key": "C",
+          "text": "are must tested"
+        },
+        {
+          "key": "D",
+          "text": "must be tested"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive with modal: 'must be tested' correctly describes the technical maintenance requirement.",
+        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+        "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+        "wrong_C": "'are must' is completely ungrammatical in English."
+      },
+      "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
+      "workplace_track": "CIP (Clean-in-Place) Sanitation & Food Hygiene Engineering"
+    },
+    {
+      "id": "BID-ENG-B1-016-Q5",
+      "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
+      "options": [
+        {
+          "key": "A",
+          "text": "conducted"
+        },
+        {
+          "key": "B",
+          "text": "is conducting"
+        },
+        {
+          "key": "C",
+          "text": "has conducted"
+        },
+        {
+          "key": "D",
+          "text": "conducts"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+        "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+        "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+        "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
+      },
+      "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
+      "workplace_track": "CIP (Clean-in-Place) Sanitation & Food Hygiene Engineering"
+    },
+    {
+      "id": "BID-ENG-B1-016-Q6",
+      "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order"
+        },
+        {
+          "key": "B",
+          "text": "so that"
+        },
+        {
+          "key": "C",
+          "text": "because of"
+        },
+        {
+          "key": "D",
+          "text": "for to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+        "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+        "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+        "wrong_D": "'for to' is completely ungrammatical in standard English."
+      },
+      "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
+      "workplace_track": "CIP (Clean-in-Place) Sanitation & Food Hygiene Engineering"
+    },
+    {
+      "id": "BID-ENG-B1-016-Q7",
+      "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
+      "options": [
+        {
+          "key": "A",
+          "text": "shut off to"
+        },
+        {
+          "key": "B",
+          "text": "shutting down"
+        },
+        {
+          "key": "C",
+          "text": "shut down of"
+        },
+        {
+          "key": "D",
+          "text": "shut down"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+        "wrong_A": "'shut off to' is an ungrammatical combination.",
+        "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+        "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
+      },
+      "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
+      "workplace_track": "CIP (Clean-in-Place) Sanitation & Food Hygiene Engineering"
+    },
+    {
+      "id": "BID-ENG-B1-016-Q8",
+      "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "of which"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+        "wrong_B": "'which' cannot express possession without 'of'.",
+        "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+        "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
+      },
+      "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
+      "workplace_track": "CIP (Clean-in-Place) Sanitation & Food Hygiene Engineering"
+    },
+    {
+      "id": "BID-ENG-B1-016-Q9",
+      "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be"
+        },
+        {
+          "key": "B",
+          "text": "can to be"
+        },
+        {
+          "key": "C",
+          "text": "must be"
+        },
+        {
+          "key": "D",
+          "text": "is must"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+        "wrong_A": "'must to be' is ungrammatical.",
+        "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+        "wrong_D": "'is must' is invalid syntax."
+      },
+      "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
+      "workplace_track": "CIP (Clean-in-Place) Sanitation & Food Hygiene Engineering"
+    },
+    {
+      "id": "BID-ENG-B1-016-Q10",
+      "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if"
+        },
+        {
+          "key": "B",
+          "text": "unless"
+        },
+        {
+          "key": "C",
+          "text": "provided that"
+        },
+        {
+          "key": "D",
+          "text": "as long as"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+        "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+        "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+        "wrong_D": "'as long as' also creates an illogical condition."
+      },
+      "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
+      "workplace_track": "CIP (Clean-in-Place) Sanitation & Food Hygiene Engineering"
+    }
+  ]
+}

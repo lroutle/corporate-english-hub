@@ -1,0 +1,326 @@
+{
+  "test_id": "BID-ENG-A2-007",
+  "title": "Operating Parameters: Bar, Celsius & Flow Rates (L/min): Numbers & Decimals",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities",
+  "estimated_time_minutes": 10,
+  "description": "Foundational food process engineering English module covering operating parameters: bar, celsius & flow rates (l/min): numbers & decimals.",
+  "learning_objectives": [
+    "Master professional Numbers, units, pressures & temperatures in food process engineering",
+    "Eliminate common Czech interference errors in operating parameters: bar, celsius & flow rates (l/min): numbers & decimals",
+    "Demonstrate precision in refrigeration maintenance logs, CIP cycles, and plant automation SOPs"
+  ],
+  "questions": [
+    {
+      "id": "BID-ENG-A2-007-Q1",
+      "prompt": "Before starting the shift, the plant process engineer _____ maintain suction pressure at 0.5 bar for spiral freezers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to"
+        },
+        {
+          "key": "B",
+          "text": "must"
+        },
+        {
+          "key": "C",
+          "text": "is must"
+        },
+        {
+          "key": "D",
+          "text": "has must"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Modal 'must' is followed by the bare infinitive without 'to': 'must maintain'.",
+        "wrong_A": "'must to' is ungrammatical; modals never take 'to'.",
+        "wrong_C": "'is must' is completely ungrammatical in English.",
+        "wrong_D": "'has must' is invalid verb phrasing."
+      },
+      "cz_learning_point": "V angličtině se po způsobovém slovesu 'must' nikdy nepoužívá předložka 'to' (*must to* je hrubá chyba).",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-A2-007-Q2",
+      "prompt": "Every morning, the industrial refrigeration technician safely _____ the continuous cryogenic blast freezing tunnel along the automated food processing conveyor.",
+      "options": [
+        {
+          "key": "A",
+          "text": "defrost"
+        },
+        {
+          "key": "B",
+          "text": "defrosting"
+        },
+        {
+          "key": "C",
+          "text": "defrosts"
+        },
+        {
+          "key": "D",
+          "text": "is defrost"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('defrosts').",
+        "wrong_A": "Base form 'defrost' lacks required 3rd person singular '-s'.",
+        "wrong_B": "Participle 'defrosting' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is defrost' is ungrammatical."
+      },
+      "cz_learning_point": "Ve 3. osobě jednotného čísla přítomného času prostého nezapomeňte na koncovku -s: 'defrosts'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-A2-007-Q3",
+      "prompt": "The technician placed the diagnostic tool _____ the workbench at the CIP sanitation chemical dosing station.",
+      "options": [
+        {
+          "key": "A",
+          "text": "on"
+        },
+        {
+          "key": "B",
+          "text": "into"
+        },
+        {
+          "key": "C",
+          "text": "under to"
+        },
+        {
+          "key": "D",
+          "text": "between of"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'on' correctly denotes physical placement on a horizontal surface.",
+        "wrong_B": "'into' denotes motion entering inside an enclosed space.",
+        "wrong_C": "'under to' is an invalid double preposition.",
+        "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
+      },
+      "cz_learning_point": "Čeština používá 'na stole' = 'on the workbench'. Dejte pozor na chybná spojení jako *between of*.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-A2-007-Q4",
+      "prompt": "Yesterday during the handover, the food processing line operator _____ the sanitary stainless steel pasteurizer flow diversion valve.",
+      "options": [
+        {
+          "key": "A",
+          "text": "divert"
+        },
+        {
+          "key": "B",
+          "text": "has tested"
+        },
+        {
+          "key": "C",
+          "text": "is diverting"
+        },
+        {
+          "key": "D",
+          "text": "tested"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Specific past time adverbial 'yesterday' strictly requires Past Simple 'tested'.",
+        "wrong_A": "Base form 'divert' lacks past tense inflection.",
+        "wrong_B": "Present perfect 'has tested' cannot accompany finished past time 'yesterday'.",
+        "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
+      },
+      "cz_learning_point": "S příslovečným určením jako 'yesterday' se v angličtině striktně pojí minulý čas prostý (Past Simple), nikdy předpřítomný čas.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-A2-007-Q5",
+      "prompt": "Are there _____ spare gaskets left in the workshop storage cabinet?",
+      "options": [
+        {
+          "key": "A",
+          "text": "some"
+        },
+        {
+          "key": "B",
+          "text": "much"
+        },
+        {
+          "key": "C",
+          "text": "any"
+        },
+        {
+          "key": "D",
+          "text": "an"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Any' is standard in questions inquiring about the existence or availability of items.",
+        "wrong_A": "'some' is typically reserved for affirmative statements or polite offers.",
+        "wrong_B": "'much' is only used with uncountable mass nouns, not plural 'gaskets'.",
+        "wrong_D": "'an' can only precede singular countable nouns beginning with a vowel sound."
+      },
+      "cz_learning_point": "V běžných záporných větách a otázkách se pro 'nějaký / žádný' používá 'any', nikoli *some*.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-A2-007-Q6",
+      "prompt": "_____ the maintenance technician inspect the industrial steam boiler feedwater deaerator every shift?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Do"
+        },
+        {
+          "key": "B",
+          "text": "Does"
+        },
+        {
+          "key": "C",
+          "text": "Is"
+        },
+        {
+          "key": "D",
+          "text": "Has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular 3rd person subject in Present Simple requires auxiliary 'Does'.",
+        "wrong_A": "'Do' is used for plural subjects (they, we, you) or 'I'.",
+        "wrong_C": "'Is' requires an '-ing' participle (Present Continuous), not a base verb.",
+        "wrong_D": "'Has' requires a past participle (Present Perfect)."
+      },
+      "cz_learning_point": "V otázkách v přítomném čase se pro 3. osobu jednotného čísla používá pomocné sloveso 'Does': 'Does the technician inspect...?'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-A2-007-Q7",
+      "prompt": "The newly calibrated unit runs significantly _____ than the older model.",
+      "options": [
+        {
+          "key": "A",
+          "text": "more fast"
+        },
+        {
+          "key": "B",
+          "text": "fastest"
+        },
+        {
+          "key": "C",
+          "text": "as fast"
+        },
+        {
+          "key": "D",
+          "text": "faster"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "One-syllable adjective 'fast' forms comparative with '-er': 'faster'.",
+        "wrong_A": "'more fast' is ungrammatical; short adjectives take '-er'.",
+        "wrong_B": "'fastest' is a superlative and requires 'the'.",
+        "wrong_C": "'as fast' requires 'as' ('as fast as'), not 'than'."
+      },
+      "cz_learning_point": "Jednoslabičná přídavná jména tvoří 2. stupeň koncovkou -er (faster, cheaper), nikoli pomocí *more*.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-A2-007-Q8",
+      "prompt": "_____ new components on this table must be cataloged immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "These"
+        },
+        {
+          "key": "B",
+          "text": "This"
+        },
+        {
+          "key": "C",
+          "text": "That"
+        },
+        {
+          "key": "D",
+          "text": "There"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Plural noun 'components' located nearby requires plural demonstrative 'These'.",
+        "wrong_B": "'This' is singular and cannot modify plural 'components'.",
+        "wrong_C": "'That' is singular.",
+        "wrong_D": "'There' is an adverb of place or dummy pronoun, not a demonstrative determiner."
+      },
+      "cz_learning_point": "Množné číslo pro věci blízko mluvčího je 'these' (tyto součástky), jednotné číslo je 'this' (tato součástka).",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-A2-007-Q9",
+      "prompt": "The team transferred the heavy assembly _____ the testing bay.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in to"
+        },
+        {
+          "key": "B",
+          "text": "inside of"
+        },
+        {
+          "key": "C",
+          "text": "into"
+        },
+        {
+          "key": "D",
+          "text": "onto to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Into' expresses movement from the outside to the interior of a space.",
+        "wrong_A": "'in to' as two separate words is incorrect for directional movement.",
+        "wrong_B": "'inside of' is redundant and colloquial.",
+        "wrong_D": "'onto to' is an ungrammatical repetition."
+      },
+      "cz_learning_point": "Směr dovnitř vyjadřuje předložka 'into' (přesunout do testovací haly = transferred into the bay).",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-A2-007-Q10",
+      "prompt": "Could you please _____ the shift report before leaving today?",
+      "options": [
+        {
+          "key": "A",
+          "text": "to sign"
+        },
+        {
+          "key": "B",
+          "text": "sign"
+        },
+        {
+          "key": "C",
+          "text": "signing"
+        },
+        {
+          "key": "D",
+          "text": "signed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Polite request with modal 'Could you please' is followed by the bare infinitive 'sign'.",
+        "wrong_A": "'to sign' is incorrect; modals do not take 'to'.",
+        "wrong_C": "Participle 'signing' cannot follow modal 'could'.",
+        "wrong_D": "Past tense 'signed' is ungrammatical after modal 'could'."
+      },
+      "cz_learning_point": "Po zdvořilostní žádosti 'Could you please' následuje vždy základní tvar slovesa (bare infinitive) bez 'to'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    }
+  ]
+}

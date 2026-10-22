@@ -14,312 +14,312 @@
   "questions": [
     {
       "id": "TTR-ENG-B1-015-Q1",
-      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
       "options": [
         {
           "key": "A",
-          "text": "must to be torqued"
+          "text": "was assembled"
         },
         {
           "key": "B",
-          "text": "must be torqued"
+          "text": "had been assembled"
         },
         {
           "key": "C",
-          "text": "must torque"
+          "text": "has been assembled"
         },
         {
           "key": "D",
-          "text": "are must be torqued"
+          "text": "didn't align"
         }
       ],
       "correct_key": "B",
       "explanations": {
-        "correct": "Passive construction with modal: 'must be torqued'.",
-        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-        "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-        "wrong_D": "'are must' is completely ungrammatical in English."
+        "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+        "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+        "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+        "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
       },
-      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
       "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
     },
     {
       "id": "TTR-ENG-B1-015-Q2",
-      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
       "options": [
         {
           "key": "A",
-          "text": "must to be torqued"
+          "text": "will rise"
         },
         {
           "key": "B",
-          "text": "must torque"
+          "text": "would rise"
         },
         {
           "key": "C",
-          "text": "must be torqued"
+          "text": "rises"
         },
         {
           "key": "D",
-          "text": "are must be torqued"
+          "text": "rose"
         }
       ],
       "correct_key": "C",
       "explanations": {
-        "correct": "Passive construction with modal: 'must be torqued'.",
-        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-        "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-        "wrong_D": "'are must' is completely ungrammatical in English."
+        "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+        "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
       },
-      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
       "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
     },
     {
       "id": "TTR-ENG-B1-015-Q3",
-      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
       "options": [
         {
           "key": "A",
-          "text": "must be torqued"
+          "text": "while"
         },
         {
           "key": "B",
-          "text": "must to be torqued"
+          "text": "during"
         },
         {
           "key": "C",
-          "text": "must torque"
+          "text": "for"
         },
         {
           "key": "D",
-          "text": "are must be torqued"
+          "text": "since"
         }
       ],
       "correct_key": "A",
       "explanations": {
-        "correct": "Passive construction with modal: 'must be torqued'.",
-        "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-        "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-        "wrong_D": "'are must' is completely ungrammatical in English."
+        "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+        "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+        "wrong_C": "'For' expresses duration, not simultaneous background events.",
+        "wrong_D": "'Since' indicates a starting point in time or causation."
       },
-      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
       "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
     },
     {
       "id": "TTR-ENG-B1-015-Q4",
-      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
       "options": [
         {
           "key": "A",
-          "text": "must to be torqued"
+          "text": "must to be installed"
         },
         {
           "key": "B",
-          "text": "must torque"
+          "text": "must mount"
         },
         {
           "key": "C",
-          "text": "are must be torqued"
+          "text": "are must installed"
         },
         {
           "key": "D",
-          "text": "must be torqued"
+          "text": "must be installed"
         }
       ],
       "correct_key": "D",
       "explanations": {
-        "correct": "Passive construction with modal: 'must be torqued'.",
+        "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
         "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-        "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+        "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
         "wrong_C": "'are must' is completely ungrammatical in English."
       },
-      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
       "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
     },
     {
       "id": "TTR-ENG-B1-015-Q5",
-      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
       "options": [
         {
           "key": "A",
-          "text": "must to be torqued"
+          "text": "conducted"
         },
         {
           "key": "B",
-          "text": "must torque"
+          "text": "is conducting"
         },
         {
           "key": "C",
-          "text": "must be torqued"
+          "text": "has conducted"
         },
         {
           "key": "D",
-          "text": "are must be torqued"
+          "text": "conducts"
         }
       ],
       "correct_key": "C",
       "explanations": {
-        "correct": "Passive construction with modal: 'must be torqued'.",
-        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-        "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-        "wrong_D": "'are must' is completely ungrammatical in English."
+        "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+        "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+        "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+        "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
       },
-      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
       "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
     },
     {
       "id": "TTR-ENG-B1-015-Q6",
-      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
       "options": [
         {
           "key": "A",
-          "text": "must to be torqued"
+          "text": "in order"
         },
         {
           "key": "B",
-          "text": "must be torqued"
+          "text": "so that"
         },
         {
           "key": "C",
-          "text": "must torque"
+          "text": "because of"
         },
         {
           "key": "D",
-          "text": "are must be torqued"
+          "text": "for to"
         }
       ],
       "correct_key": "B",
       "explanations": {
-        "correct": "Passive construction with modal: 'must be torqued'.",
-        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-        "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-        "wrong_D": "'are must' is completely ungrammatical in English."
+        "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+        "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+        "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+        "wrong_D": "'for to' is completely ungrammatical in standard English."
       },
-      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
       "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
     },
     {
       "id": "TTR-ENG-B1-015-Q7",
-      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
       "options": [
         {
           "key": "A",
-          "text": "must to be torqued"
+          "text": "shut off to"
         },
         {
           "key": "B",
-          "text": "must torque"
+          "text": "shutting down"
         },
         {
           "key": "C",
-          "text": "are must be torqued"
+          "text": "shut down of"
         },
         {
           "key": "D",
-          "text": "must be torqued"
+          "text": "shut down"
         }
       ],
       "correct_key": "D",
       "explanations": {
-        "correct": "Passive construction with modal: 'must be torqued'.",
-        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-        "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-        "wrong_C": "'are must' is completely ungrammatical in English."
+        "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+        "wrong_A": "'shut off to' is an ungrammatical combination.",
+        "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+        "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
       },
-      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
       "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
     },
     {
       "id": "TTR-ENG-B1-015-Q8",
-      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
       "options": [
         {
           "key": "A",
-          "text": "must be torqued"
+          "text": "whose"
         },
         {
           "key": "B",
-          "text": "must to be torqued"
+          "text": "which"
         },
         {
           "key": "C",
-          "text": "must torque"
+          "text": "that"
         },
         {
           "key": "D",
-          "text": "are must be torqued"
+          "text": "of which"
         }
       ],
       "correct_key": "A",
       "explanations": {
-        "correct": "Passive construction with modal: 'must be torqued'.",
-        "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-        "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-        "wrong_D": "'are must' is completely ungrammatical in English."
+        "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+        "wrong_B": "'which' cannot express possession without 'of'.",
+        "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+        "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
       },
-      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
       "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
     },
     {
       "id": "TTR-ENG-B1-015-Q9",
-      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
       "options": [
         {
           "key": "A",
-          "text": "must to be torqued"
+          "text": "must to be"
         },
         {
           "key": "B",
-          "text": "must torque"
+          "text": "can to be"
         },
         {
           "key": "C",
-          "text": "must be torqued"
+          "text": "must be"
         },
         {
           "key": "D",
-          "text": "are must be torqued"
+          "text": "is must"
         }
       ],
       "correct_key": "C",
       "explanations": {
-        "correct": "Passive construction with modal: 'must be torqued'.",
-        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-        "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-        "wrong_D": "'are must' is completely ungrammatical in English."
+        "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+        "wrong_A": "'must to be' is ungrammatical.",
+        "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+        "wrong_D": "'is must' is invalid syntax."
       },
-      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
       "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
     },
     {
       "id": "TTR-ENG-B1-015-Q10",
-      "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+      "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
       "options": [
         {
           "key": "A",
-          "text": "must to be torqued"
+          "text": "if"
         },
         {
           "key": "B",
-          "text": "must be torqued"
+          "text": "unless"
         },
         {
           "key": "C",
-          "text": "must torque"
+          "text": "provided that"
         },
         {
           "key": "D",
-          "text": "are must be torqued"
+          "text": "as long as"
         }
       ],
       "correct_key": "B",
       "explanations": {
-        "correct": "Passive construction with modal: 'must be torqued'.",
-        "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-        "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-        "wrong_D": "'are must' is completely ungrammatical in English."
+        "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+        "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+        "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+        "wrong_D": "'as long as' also creates an illogical condition."
       },
-      "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+      "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
       "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
     }
   ]

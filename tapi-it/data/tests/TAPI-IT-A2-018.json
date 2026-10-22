@@ -7,80 +7,80 @@
   "estimated_time_minutes": 10,
   "description": "Foundational IT workplace English module covering ethernet patch cable routing in desk cable trays.",
   "learning_objectives": [
-    "Master professional Prepositions of Motion (through, along, under) in enterprise IT infrastructure and cloud operations",
+    "Master professional Prepositions of Motion (through, along, under) in corporate IT and cloud systems",
     "Eliminate common Czech interference errors in ethernet patch cable routing in desk cable trays",
-    "Demonstrate precision in Zero Trust architecture, ITIL incident management, and cyber governance"
+    "Demonstrate precision in ITIL documentation, cybersecurity policies, and incident reports"
   ],
   "questions": [
     {
       "id": "TAPI-IT-A2-018-Q1",
-      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "prompt": "Before starting the shift, the cloud infrastructure architect _____ protect with hardware FIDO2 multi-factor authentication.",
       "options": [
         {
           "key": "A",
-          "text": "inside"
+          "text": "must to"
         },
         {
           "key": "B",
-          "text": "into"
+          "text": "must"
         },
         {
           "key": "C",
-          "text": "between"
+          "text": "is must"
         },
         {
           "key": "D",
-          "text": "behind"
+          "text": "has must"
         }
       ],
       "correct_key": "B",
       "explanations": {
-        "correct": "Preposition 'into' accurately identifies the physical hardware connection.",
-        "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-        "wrong_C": "Preposition 'between' does not fit the port connection geometry.",
-        "wrong_D": "Preposition 'behind' indicates wrong direction."
+        "correct": "Modal 'must' is followed by the bare infinitive without 'to': 'must protect'.",
+        "wrong_A": "'must to' is ungrammatical; modals never take 'to'.",
+        "wrong_C": "'is must' is completely ungrammatical in English.",
+        "wrong_D": "'has must' is invalid verb phrasing."
       },
-      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "cz_learning_point": "V angličtině se po způsobovém slovesu 'must' nikdy nepoužívá předložka 'to' (*must to* je hrubá chyba).",
       "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
     },
     {
       "id": "TAPI-IT-A2-018-Q2",
-      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "prompt": "Every morning, the senior cybersecurity analyst resiliently _____ the enterprise Azure virtual machine scale set on the corporate Active Directory domain.",
       "options": [
         {
           "key": "A",
-          "text": "into"
+          "text": "scale"
         },
         {
           "key": "B",
-          "text": "between"
+          "text": "scaleing"
         },
         {
           "key": "C",
-          "text": "inside"
+          "text": "scales"
         },
         {
           "key": "D",
-          "text": "behind"
+          "text": "is scale"
         }
       ],
       "correct_key": "C",
       "explanations": {
-        "correct": "Preposition 'inside' accurately identifies the physical hardware connection.",
-        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-        "wrong_B": "Preposition 'between' does not fit the port connection geometry.",
-        "wrong_D": "Preposition 'behind' indicates wrong direction."
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('scales').",
+        "wrong_A": "Base form 'scale' lacks required 3rd person singular '-s'.",
+        "wrong_B": "Participle 'scaleing' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is scale' is ungrammatical."
       },
-      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "cz_learning_point": "Ve 3. osobě jednotného čísla přítomného času prostého nezapomeňte na koncovku -s: 'scales'.",
       "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
     },
     {
       "id": "TAPI-IT-A2-018-Q3",
-      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "prompt": "The technician placed the diagnostic tool _____ the workbench within the secure perimeter DMZ subnet.",
       "options": [
         {
           "key": "A",
-          "text": "between"
+          "text": "on"
         },
         {
           "key": "B",
@@ -88,238 +88,238 @@
         },
         {
           "key": "C",
-          "text": "inside"
+          "text": "under to"
         },
         {
           "key": "D",
-          "text": "behind"
+          "text": "between of"
         }
       ],
       "correct_key": "A",
       "explanations": {
-        "correct": "Preposition 'between' accurately identifies the physical hardware connection.",
-        "wrong_B": "Preposition 'into' expresses incorrect spatial positioning.",
-        "wrong_C": "Preposition 'inside' does not fit the port connection geometry.",
-        "wrong_D": "Preposition 'behind' indicates wrong direction."
+        "correct": "Preposition 'on' correctly denotes physical placement on a horizontal surface.",
+        "wrong_B": "'into' denotes motion entering inside an enclosed space.",
+        "wrong_C": "'under to' is an invalid double preposition.",
+        "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
       },
-      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "cz_learning_point": "Čeština používá 'na stole' = 'on the workbench'. Dejte pozor na chybná spojení jako *between of*.",
       "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
     },
     {
       "id": "TAPI-IT-A2-018-Q4",
-      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "prompt": "Yesterday during the handover, the it service desk specialist _____ the SAP S/4HANA enterprise database instance.",
       "options": [
         {
           "key": "A",
-          "text": "into"
+          "text": "backup"
         },
         {
           "key": "B",
-          "text": "inside"
+          "text": "has migrated"
         },
         {
           "key": "C",
-          "text": "between"
+          "text": "is backuping"
         },
         {
           "key": "D",
-          "text": "behind"
+          "text": "migrated"
         }
       ],
       "correct_key": "D",
       "explanations": {
-        "correct": "Preposition 'behind' accurately identifies the physical hardware connection.",
-        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-        "wrong_B": "Preposition 'inside' does not fit the port connection geometry.",
-        "wrong_C": "Preposition 'between' indicates wrong direction."
+        "correct": "Specific past time adverbial 'yesterday' strictly requires Past Simple 'migrated'.",
+        "wrong_A": "Base form 'backup' lacks past tense inflection.",
+        "wrong_B": "Present perfect 'has migrated' cannot accompany finished past time 'yesterday'.",
+        "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
       },
-      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "cz_learning_point": "S příslovečným určením jako 'yesterday' se v angličtině striktně pojí minulý čas prostý (Past Simple), nikdy předpřítomný čas.",
       "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
     },
     {
       "id": "TAPI-IT-A2-018-Q5",
-      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "prompt": "Are there _____ spare gaskets left in the workshop storage cabinet?",
       "options": [
         {
           "key": "A",
-          "text": "into"
+          "text": "some"
         },
         {
           "key": "B",
-          "text": "inside"
+          "text": "much"
         },
         {
           "key": "C",
-          "text": "underneath"
+          "text": "any"
         },
         {
           "key": "D",
-          "text": "between"
+          "text": "an"
         }
       ],
       "correct_key": "C",
       "explanations": {
-        "correct": "Preposition 'underneath' accurately identifies the physical hardware connection.",
-        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-        "wrong_B": "Preposition 'inside' does not fit the port connection geometry.",
-        "wrong_D": "Preposition 'between' indicates wrong direction."
+        "correct": "'Any' is standard in questions inquiring about the existence or availability of items.",
+        "wrong_A": "'some' is typically reserved for affirmative statements or polite offers.",
+        "wrong_B": "'much' is only used with uncountable mass nouns, not plural 'gaskets'.",
+        "wrong_D": "'an' can only precede singular countable nouns beginning with a vowel sound."
       },
-      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "cz_learning_point": "V běžných záporných větách a otázkách se pro 'nějaký / žádný' používá 'any', nikoli *some*.",
       "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
     },
     {
       "id": "TAPI-IT-A2-018-Q6",
-      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "prompt": "_____ the maintenance technician inspect the Active Directory Group Policy Object (GPO) every shift?",
       "options": [
         {
           "key": "A",
-          "text": "into"
+          "text": "Do"
         },
         {
           "key": "B",
-          "text": "above"
+          "text": "Does"
         },
         {
           "key": "C",
-          "text": "inside"
+          "text": "Is"
         },
         {
           "key": "D",
-          "text": "between"
+          "text": "Has"
         }
       ],
       "correct_key": "B",
       "explanations": {
-        "correct": "Preposition 'above' accurately identifies the physical hardware connection.",
-        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-        "wrong_C": "Preposition 'inside' does not fit the port connection geometry.",
-        "wrong_D": "Preposition 'between' indicates wrong direction."
+        "correct": "Singular 3rd person subject in Present Simple requires auxiliary 'Does'.",
+        "wrong_A": "'Do' is used for plural subjects (they, we, you) or 'I'.",
+        "wrong_C": "'Is' requires an '-ing' participle (Present Continuous), not a base verb.",
+        "wrong_D": "'Has' requires a past participle (Present Perfect)."
       },
-      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "cz_learning_point": "V otázkách v přítomném čase se pro 3. osobu jednotného čísla používá pomocné sloveso 'Does': 'Does the technician inspect...?'.",
       "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
     },
     {
       "id": "TAPI-IT-A2-018-Q7",
-      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "prompt": "The newly calibrated unit runs significantly _____ than the older model.",
       "options": [
         {
           "key": "A",
-          "text": "into"
+          "text": "more fast"
         },
         {
           "key": "B",
-          "text": "inside"
+          "text": "fastest"
         },
         {
           "key": "C",
-          "text": "between"
+          "text": "as fast"
         },
         {
           "key": "D",
-          "text": "across"
+          "text": "faster"
         }
       ],
       "correct_key": "D",
       "explanations": {
-        "correct": "Preposition 'across' accurately identifies the physical hardware connection.",
-        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-        "wrong_B": "Preposition 'inside' does not fit the port connection geometry.",
-        "wrong_C": "Preposition 'between' indicates wrong direction."
+        "correct": "One-syllable adjective 'fast' forms comparative with '-er': 'faster'.",
+        "wrong_A": "'more fast' is ungrammatical; short adjectives take '-er'.",
+        "wrong_B": "'fastest' is a superlative and requires 'the'.",
+        "wrong_C": "'as fast' requires 'as' ('as fast as'), not 'than'."
       },
-      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "cz_learning_point": "Jednoslabičná přídavná jména tvoří 2. stupeň koncovkou -er (faster, cheaper), nikoli pomocí *more*.",
       "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
     },
     {
       "id": "TAPI-IT-A2-018-Q8",
-      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "prompt": "_____ new components on this table must be cataloged immediately.",
       "options": [
         {
           "key": "A",
-          "text": "along"
+          "text": "These"
         },
         {
           "key": "B",
-          "text": "into"
+          "text": "This"
         },
         {
           "key": "C",
-          "text": "inside"
+          "text": "That"
         },
         {
           "key": "D",
-          "text": "between"
+          "text": "There"
         }
       ],
       "correct_key": "A",
       "explanations": {
-        "correct": "Preposition 'along' accurately identifies the physical hardware connection.",
-        "wrong_B": "Preposition 'into' expresses incorrect spatial positioning.",
-        "wrong_C": "Preposition 'inside' does not fit the port connection geometry.",
-        "wrong_D": "Preposition 'between' indicates wrong direction."
+        "correct": "Plural noun 'components' located nearby requires plural demonstrative 'These'.",
+        "wrong_B": "'This' is singular and cannot modify plural 'components'.",
+        "wrong_C": "'That' is singular.",
+        "wrong_D": "'There' is an adverb of place or dummy pronoun, not a demonstrative determiner."
       },
-      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "cz_learning_point": "Množné číslo pro věci blízko mluvčího je 'these' (tyto součástky), jednotné číslo je 'this' (tato součástka).",
       "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
     },
     {
       "id": "TAPI-IT-A2-018-Q9",
-      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "prompt": "The team transferred the heavy assembly _____ the testing bay.",
       "options": [
         {
           "key": "A",
-          "text": "into"
+          "text": "in to"
         },
         {
           "key": "B",
-          "text": "inside"
+          "text": "inside of"
         },
         {
           "key": "C",
-          "text": "against"
+          "text": "into"
         },
         {
           "key": "D",
-          "text": "between"
+          "text": "onto to"
         }
       ],
       "correct_key": "C",
       "explanations": {
-        "correct": "Preposition 'against' accurately identifies the physical hardware connection.",
-        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-        "wrong_B": "Preposition 'inside' does not fit the port connection geometry.",
-        "wrong_D": "Preposition 'between' indicates wrong direction."
+        "correct": "'Into' expresses movement from the outside to the interior of a space.",
+        "wrong_A": "'in to' as two separate words is incorrect for directional movement.",
+        "wrong_B": "'inside of' is redundant and colloquial.",
+        "wrong_D": "'onto to' is an ungrammatical repetition."
       },
-      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "cz_learning_point": "Směr dovnitř vyjadřuje předložka 'into' (přesunout do testovací haly = transferred into the bay).",
       "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
     },
     {
       "id": "TAPI-IT-A2-018-Q10",
-      "prompt": "Connect the fiber optic patch lead _____ the primary core switch SFP port.",
+      "prompt": "Could you please _____ the shift report before leaving today?",
       "options": [
         {
           "key": "A",
-          "text": "into"
+          "text": "to sign"
         },
         {
           "key": "B",
-          "text": "from"
+          "text": "sign"
         },
         {
           "key": "C",
-          "text": "inside"
+          "text": "signing"
         },
         {
           "key": "D",
-          "text": "between"
+          "text": "signed"
         }
       ],
       "correct_key": "B",
       "explanations": {
-        "correct": "Preposition 'from' accurately identifies the physical hardware connection.",
-        "wrong_A": "Preposition 'into' expresses incorrect spatial positioning.",
-        "wrong_C": "Preposition 'inside' does not fit the port connection geometry.",
-        "wrong_D": "Preposition 'between' indicates wrong direction."
+        "correct": "Polite request with modal 'Could you please' is followed by the bare infinitive 'sign'.",
+        "wrong_A": "'to sign' is incorrect; modals do not take 'to'.",
+        "wrong_C": "Participle 'signing' cannot follow modal 'could'.",
+        "wrong_D": "Past tense 'signed' is ungrammatical after modal 'could'."
       },
-      "cz_learning_point": "IT cabling prepositions: 'into the port' = do portu.",
+      "cz_learning_point": "Po zdvořilostní žádosti 'Could you please' následuje vždy základní tvar slovesa (bare infinitive) bez 'to'.",
       "workplace_track": "Hardware Setup, Peripherals & Datacenter Cabling"
     }
   ]

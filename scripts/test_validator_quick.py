@@ -3,6 +3,9 @@ from pathlib import Path
 from collections import Counter
 import jsonschema
 
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+
 sys.path.insert(0, "scripts")
 
 def validate_suite_modules(suite_dir, gen_func):
@@ -24,6 +27,12 @@ def validate_suite_modules(suite_dir, gen_func):
             print(f"[{tid}] Question count error: {len(qs)}")
             errors += 1
         
+        prompts = [q["prompt"] for q in qs]
+        p_counts = Counter(prompts)
+        if max(p_counts.values()) > 1:
+            print(f"[{tid}] Duplicate prompt error: {max(p_counts.values())} identical prompts")
+            errors += 1
+
         keys = [q["correct_key"] for q in qs]
         counts = Counter(keys)
         if max(counts.values()) > 5:
@@ -41,7 +50,7 @@ def validate_suite_modules(suite_dir, gen_func):
                     print(f"[{q['id']}] Missing wrong_{ok}")
                     errors += 1
 
-    print(f"[{suite_dir}] Validated {len(modules)} modules: {errors} errors found.")
+    print(f"[{suite_dir:26}] Validated {len(modules)} modules: {errors} errors found.")
     return errors == 0
 
 if __name__ == "__main__":
@@ -50,14 +59,21 @@ if __name__ == "__main__":
     from generators.tapi_eng import generate_tapi_eng_modules
     from generators.tapi_chem import generate_tapi_chem_modules
     from generators.tapi_it import generate_tapi_it_modules
+    from generators.bidfood_purchasing import generate_bidfood_purchasing_modules
+    from generators.bidfood_engineering import generate_bidfood_engineering_modules
 
     ok1 = validate_suite_modules("tatra-engineering", generate_tatra_eng_modules)
     ok2 = validate_suite_modules("tatra-sales-engineering", generate_tatra_sales_modules)
     ok3 = validate_suite_modules("tapi-engineering", generate_tapi_eng_modules)
     ok4 = validate_suite_modules("tapi-chemistry", generate_tapi_chem_modules)
     ok5 = validate_suite_modules("tapi-it", generate_tapi_it_modules)
+    ok6 = validate_suite_modules("bidfood-purchasing-libor", generate_bidfood_purchasing_modules)
+    ok7 = validate_suite_modules("bidfood-purchasing-lucie", generate_bidfood_purchasing_modules)
+    ok8 = validate_suite_modules("bidfood-engineering-jiri", generate_bidfood_engineering_modules)
 
-    all_passed = ok1 and ok2 and ok3 and ok4 and ok5
+    all_passed = ok1 and ok2 and ok3 and ok4 and ok5 and ok6 and ok7 and ok8
     print("\n" + "=" * 50)
-    print("ALL 5 SUITES (400 MODULES) VALIDATED:", all_passed)
+    print("ALL SUITES VALIDATED:", all_passed)
     print("=" * 50)
+    if not all_passed:
+        sys.exit(1)

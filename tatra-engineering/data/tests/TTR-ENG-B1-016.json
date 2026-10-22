@@ -14,312 +14,312 @@
   "questions": [
     {
       "id": "TTR-ENG-B1-016-Q1",
-      "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the air suspension bellows pressure _____.",
+      "prompt": "The test engineer noticed that the dynamic accelerometer _____ securely onto the backbone tube chassis before the high-speed gravel run began.",
       "options": [
         {
           "key": "A",
-          "text": "was calibrated"
+          "text": "was mounting"
         },
         {
           "key": "B",
-          "text": "had been calibrated"
+          "text": "had been mounted"
         },
         {
           "key": "C",
-          "text": "has been calibrated"
+          "text": "has mounted"
         },
         {
           "key": "D",
-          "text": "didn't calibrate"
+          "text": "didn't mount"
         }
       ],
       "correct_key": "B",
       "explanations": {
-        "correct": "Past Perfect Passive ('had been calibrated') is required because the action was completed prior to the past action 'noticed'.",
-        "wrong_A": "Past Simple ('was calibrated') fails to indicate precedence before 'noticed'.",
-        "wrong_C": "Present Perfect ('has been calibrated') cannot connect to a past anchor time.",
-        "wrong_D": "'didn't calibrate' is active voice, but mechanical parts are acted upon passively."
+        "correct": "Past Perfect Passive ('had been mounted') expresses an action completed prior to the past reference point 'began'.",
+        "wrong_A": "Active continuous 'was mounting' does not fit passive sensor installation.",
+        "wrong_C": "Present Perfect 'has mounted' cannot connect to a past narrative.",
+        "wrong_D": "Active past simple 'didn't mount' is grammatically incorrect for passive equipment."
       },
-      "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+      "cz_learning_point": "Děj, který proběhl před jiným dějem v minulosti ('before the run began'), vyžaduje předminulý čas v trpném rodě: 'had been mounted'.",
       "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
     },
     {
       "id": "TTR-ENG-B1-016-Q2",
-      "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the swinging half-axle crown gear teeth _____.",
+      "prompt": "If the telemetry transceiver _____ signal with the base station on the Kopřivnice test polygon, the onboard logger stores raw vibration data internally.",
       "options": [
         {
           "key": "A",
-          "text": "was lubricated"
+          "text": "will lose"
         },
         {
           "key": "B",
-          "text": "has been lubricated"
+          "text": "would lose"
         },
         {
           "key": "C",
-          "text": "had been lubricated"
+          "text": "loses"
         },
         {
           "key": "D",
-          "text": "didn't lubricate"
+          "text": "lost"
         }
       ],
       "correct_key": "C",
       "explanations": {
-        "correct": "Past Perfect Passive ('had been lubricated') is required because the action was completed prior to the past action 'noticed'.",
-        "wrong_A": "Past Simple ('was lubricated') fails to indicate precedence before 'noticed'.",
-        "wrong_B": "Present Perfect ('has been lubricated') cannot connect to a past anchor time.",
-        "wrong_D": "'didn't lubricate' is active voice, but mechanical parts are acted upon passively."
+        "correct": "First conditional rule: Present Simple ('loses') in the conditional clause for real operational contingencies.",
+        "wrong_A": "'will' cannot be used in a conditional if-clause.",
+        "wrong_B": "'would' cannot be used in a real First Conditional.",
+        "wrong_D": "Past tense 'lost' would conflict with present indicative 'stores'."
       },
-      "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+      "cz_learning_point": "Typická chyba: v podmínkové větě s 'if' se nesmí použít 'will' (*if it will lose*). Použijte přítomný čas: 'if it loses'.",
       "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
     },
     {
       "id": "TTR-ENG-B1-016-Q3",
-      "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the central tire inflation system (CTIS) rotary seals _____.",
+      "prompt": "During the 60 km/h Belgian block test, the suspension transducers registered severe vibrations _____ the rear swinging half-axles.",
       "options": [
         {
           "key": "A",
-          "text": "had been tested"
+          "text": "across"
         },
         {
           "key": "B",
-          "text": "was tested"
+          "text": "into"
         },
         {
           "key": "C",
-          "text": "has been tested"
+          "text": "onto"
         },
         {
           "key": "D",
-          "text": "didn't test"
+          "text": "between of"
         }
       ],
       "correct_key": "A",
       "explanations": {
-        "correct": "Past Perfect Passive ('had been tested') is required because the action was completed prior to the past action 'noticed'.",
-        "wrong_B": "Past Simple ('was tested') fails to indicate precedence before 'noticed'.",
-        "wrong_C": "Present Perfect ('has been tested') cannot connect to a past anchor time.",
-        "wrong_D": "'didn't test' is active voice, but mechanical parts are acted upon passively."
+        "correct": "'Across' appropriately describes vibrations distributed throughout or spanning the axle assembly.",
+        "wrong_B": "'into' implies directional movement entering inside.",
+        "wrong_C": "'onto' denotes motion to a surface.",
+        "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
       },
-      "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+      "cz_learning_point": "Předložka 'across' vyjadřuje rozložení vibrací napříč polonápravami. Vyvarujte se chybné vazby *between of*.",
       "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
     },
     {
       "id": "TTR-ENG-B1-016-Q4",
-      "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the hydraulic retarder cooling valves _____.",
+      "prompt": "To avoid electromagnetic noise interference from the alternator, all analog sensor cables _____ with grounded braided shielding.",
       "options": [
         {
           "key": "A",
-          "text": "was inspected"
+          "text": "must to route"
         },
         {
           "key": "B",
-          "text": "has been inspected"
+          "text": "are routing"
         },
         {
           "key": "C",
-          "text": "didn't inspect"
+          "text": "must route"
         },
         {
           "key": "D",
-          "text": "had been inspected"
+          "text": "must be routed"
         }
       ],
       "correct_key": "D",
       "explanations": {
-        "correct": "Past Perfect Passive ('had been inspected') is required because the action was completed prior to the past action 'noticed'.",
-        "wrong_A": "Past Simple ('was inspected') fails to indicate precedence before 'noticed'.",
-        "wrong_B": "Present Perfect ('has been inspected') cannot connect to a past anchor time.",
-        "wrong_C": "'didn't inspect' is active voice, but mechanical parts are acted upon passively."
+        "correct": "Passive with modal 'must be routed' correctly indicates cable routing requirements.",
+        "wrong_A": "'must to route' is ungrammatical.",
+        "wrong_B": "Cables do not route themselves actively.",
+        "wrong_C": "Active voice 'must route' lacks an object and misassigns action to cables."
       },
-      "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+      "cz_learning_point": "Kabely musí být vedeny stíněním: 'must be routed'. Způsobové sloveso s trpným rodem 'be + příčestí minulé'.",
       "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
     },
     {
       "id": "TTR-ENG-B1-016-Q5",
-      "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the transfer case planetary gear set _____.",
+      "prompt": "The telemetry technician spent three hours yesterday _____ the multi-channel strain gauge amplifier before zero-point offset calibration.",
       "options": [
         {
           "key": "A",
-          "text": "was aligned"
+          "text": "to fine-tune"
         },
         {
           "key": "B",
-          "text": "has been aligned"
+          "text": "fine-tune"
         },
         {
           "key": "C",
-          "text": "had been aligned"
+          "text": "fine-tuning"
         },
         {
           "key": "D",
-          "text": "didn't align"
+          "text": "fine-tuned"
         }
       ],
       "correct_key": "C",
       "explanations": {
-        "correct": "Past Perfect Passive ('had been aligned') is required because the action was completed prior to the past action 'noticed'.",
-        "wrong_A": "Past Simple ('was aligned') fails to indicate precedence before 'noticed'.",
-        "wrong_B": "Present Perfect ('has been aligned') cannot connect to a past anchor time.",
-        "wrong_D": "'didn't align' is active voice, but mechanical parts are acted upon passively."
+        "correct": "The verb structure 'spend time doing something' requires the '-ing' gerund form: 'fine-tuning'.",
+        "wrong_A": "'spend time to do' is ungrammatical in standard English.",
+        "wrong_B": "Base form without '-ing' is incorrect after 'spend time'.",
+        "wrong_D": "Past form cannot follow 'spend time'."
       },
-      "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+      "cz_learning_point": "Vazba 'spend time doing something' vyžaduje gerundium s koncovkou -ing: 'spent three hours fine-tuning' (nikoli *to fine-tune*).",
       "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
     },
     {
       "id": "TTR-ENG-B1-016-Q6",
-      "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the backbone tube flange connecting bolts _____.",
+      "prompt": "Tatra prototype T-815-7 was driven over the 400 mm vertical obstacle _____ the dynamic wheel travel limits could be evaluated by optical cameras.",
       "options": [
         {
           "key": "A",
-          "text": "was torqued"
+          "text": "in order"
         },
         {
           "key": "B",
-          "text": "had been torqued"
+          "text": "so that"
         },
         {
           "key": "C",
-          "text": "has been torqued"
+          "text": "because of"
         },
         {
           "key": "D",
-          "text": "didn't torque"
+          "text": "for"
         }
       ],
       "correct_key": "B",
       "explanations": {
-        "correct": "Past Perfect Passive ('had been torqued') is required because the action was completed prior to the past action 'noticed'.",
-        "wrong_A": "Past Simple ('was torqued') fails to indicate precedence before 'noticed'.",
-        "wrong_C": "Present Perfect ('has been torqued') cannot connect to a past anchor time.",
-        "wrong_D": "'didn't torque' is active voice, but mechanical parts are acted upon passively."
+        "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the dynamic wheel travel limits could be evaluated').",
+        "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+        "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+        "wrong_D": "'for' cannot introduce this purpose clause with modal 'could'."
       },
-      "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+      "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná podmětem a způsobovým slovesem: 'so that limits could be evaluated').",
       "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
     },
     {
       "id": "TTR-ENG-B1-016-Q7",
-      "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the dual-circuit pneumatic brake lines _____.",
+      "prompt": "When reviewing the accelerometer telemetry log, the validation engineer realized that the low-pass Butterworth filter _____ at 200 Hz instead of 500 Hz.",
       "options": [
         {
           "key": "A",
-          "text": "was purged"
+          "text": "was set"
         },
         {
           "key": "B",
-          "text": "has been purged"
+          "text": "has set"
         },
         {
           "key": "C",
-          "text": "didn't purge"
+          "text": "is setting"
         },
         {
           "key": "D",
-          "text": "had been purged"
+          "text": "had been set"
         }
       ],
       "correct_key": "D",
       "explanations": {
-        "correct": "Past Perfect Passive ('had been purged') is required because the action was completed prior to the past action 'noticed'.",
-        "wrong_A": "Past Simple ('was purged') fails to indicate precedence before 'noticed'.",
-        "wrong_B": "Present Perfect ('has been purged') cannot connect to a past anchor time.",
-        "wrong_C": "'didn't purge' is active voice, but mechanical parts are acted upon passively."
+        "correct": "Past Perfect Passive ('had been set') is required because the filter configuration occurred before the engineer 'realized' it.",
+        "wrong_A": "Past simple does not clearly indicate priority before 'realized'.",
+        "wrong_B": "Present perfect active is incorrect in voice and tense.",
+        "wrong_C": "Present continuous does not fit completed past telemetry recording."
       },
-      "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+      "cz_learning_point": "Čeština používá v obou větách minulý čas. V angličtině vyžaduje děj předcházející minulému okamžiku předminulý čas: 'had been set'.",
       "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
     },
     {
       "id": "TTR-ENG-B1-016-Q8",
-      "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the differential lock pneumatic solenoid _____.",
+      "prompt": "The NATO STANAG test protocol requires that each triaxial sensor _____ re-zeroed immediately after every heavy obstacle impact test.",
       "options": [
         {
           "key": "A",
-          "text": "had been replaced"
+          "text": "be"
         },
         {
           "key": "B",
-          "text": "was replaced"
+          "text": "is"
         },
         {
           "key": "C",
-          "text": "has been replaced"
+          "text": "will be"
         },
         {
           "key": "D",
-          "text": "didn't replace"
+          "text": "must to be"
         }
       ],
       "correct_key": "A",
       "explanations": {
-        "correct": "Past Perfect Passive ('had been replaced') is required because the action was completed prior to the past action 'noticed'.",
-        "wrong_B": "Past Simple ('was replaced') fails to indicate precedence before 'noticed'.",
-        "wrong_C": "Present Perfect ('has been replaced') cannot connect to a past anchor time.",
-        "wrong_D": "'didn't replace' is active voice, but mechanical parts are acted upon passively."
+        "correct": "The mandative subjunctive following 'requires that' uses the base form 'be' in formal technical documentation.",
+        "wrong_B": "Indicative 'is' is informal and less appropriate in formal standard specifications.",
+        "wrong_C": "Future 'will be' is incorrect after mandative 'requires that'.",
+        "wrong_D": "'must to be' is ungrammatical."
       },
-      "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+      "cz_learning_point": "Subjunktiv po slovesech požadavku ('requires that each sensor be re-zeroed') používá základní tvar 'be', nikoli *is* nebo *will be*.",
       "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
     },
     {
       "id": "TTR-ENG-B1-016-Q9",
-      "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the steering drag link ball joints _____.",
+      "prompt": "Why _____ the mobile DAQ (Data Acquisition) unit shut down unexpectedly during the cross-country trench crossing trial?",
       "options": [
         {
           "key": "A",
-          "text": "was greased"
+          "text": "has"
         },
         {
           "key": "B",
-          "text": "has been greased"
+          "text": "was"
         },
         {
           "key": "C",
-          "text": "had been greased"
+          "text": "did"
         },
         {
           "key": "D",
-          "text": "didn't grease"
+          "text": "does"
         }
       ],
       "correct_key": "C",
       "explanations": {
-        "correct": "Past Perfect Passive ('had been greased') is required because the action was completed prior to the past action 'noticed'.",
-        "wrong_A": "Past Simple ('was greased') fails to indicate precedence before 'noticed'.",
-        "wrong_B": "Present Perfect ('has been greased') cannot connect to a past anchor time.",
-        "wrong_D": "'didn't grease' is active voice, but mechanical parts are acted upon passively."
+        "correct": "Past Simple question with base verb 'shut down' requires auxiliary 'did': 'Why did the unit shut down?'.",
+        "wrong_A": "'has' would require past participle and doesn't fit specific past event 'during the trial'.",
+        "wrong_B": "'was' with 'shut down' would form a passive without subject-verb agreement or agent.",
+        "wrong_D": "'does' is present tense, incompatible with completed trial."
       },
-      "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+      "cz_learning_point": "Tvoření otázek v minulém čase: tázací způsobové pomocné sloveso 'did' + podmět + základní tvar slovesa ('Why did the unit shut down?').",
       "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
     },
     {
       "id": "TTR-ENG-B1-016-Q10",
-      "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the V8 turbocharged intercooler ducts _____.",
+      "prompt": "Unless the pneumatic tire pressure monitoring sensors are recalibrated for cold-weather conditions, the rolling resistance data _____ invalid.",
       "options": [
         {
           "key": "A",
-          "text": "was fastened"
+          "text": "remains"
         },
         {
           "key": "B",
-          "text": "had been fastened"
+          "text": "will remain"
         },
         {
           "key": "C",
-          "text": "has been fastened"
+          "text": "would have remained"
         },
         {
           "key": "D",
-          "text": "didn't fasten"
+          "text": "remained"
         }
       ],
       "correct_key": "B",
       "explanations": {
-        "correct": "Past Perfect Passive ('had been fastened') is required because the action was completed prior to the past action 'noticed'.",
-        "wrong_A": "Past Simple ('was fastened') fails to indicate precedence before 'noticed'.",
-        "wrong_C": "Present Perfect ('has been fastened') cannot connect to a past anchor time.",
-        "wrong_D": "'didn't fasten' is active voice, but mechanical parts are acted upon passively."
+        "correct": "First conditional result clause takes 'will + base verb' ('will remain') paired with present condition 'Unless... are recalibrated'.",
+        "wrong_A": "Present simple in the main clause expresses timeless general truth rather than future predictive consequence.",
+        "wrong_C": "Third conditional form conflicts with present conditional clause.",
+        "wrong_D": "Past tense cannot serve as the main clause for a present condition."
       },
-      "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+      "cz_learning_point": "První kondicionál (First Conditional): Pokud je v podmínce přítomný čas (Unless sensors are...), v hlavní větě musí být budoucí čas: 'will remain'.",
       "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
     }
   ]

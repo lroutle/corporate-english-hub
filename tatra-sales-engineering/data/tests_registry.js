@@ -5225,76 +5225,76 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 10,
     "description": "Foundational sales English module covering inquiring about sea freight container availability.",
     "learning_objectives": [
-      "Master professional Polite Inquiries (Is there, Are there) in technical sales and export contracts",
+      "Master professional Polite Inquiries (Is there, Are there) in commercial and export sales",
       "Eliminate common Czech interference errors in inquiring about sea freight container availability",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-A2-017-Q1",
-        "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+        "prompt": "Before starting the shift, the export sales manager _____ issue through an accredited European tier-1 bank.",
         "options": [
           {
             "key": "A",
-            "text": "at"
+            "text": "must to"
           },
           {
             "key": "B",
-            "text": "by"
+            "text": "must"
           },
           {
             "key": "C",
-            "text": "on"
+            "text": "is must"
           },
           {
             "key": "D",
-            "text": "in"
+            "text": "has must"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'by' correctly expresses the required time deadline or constraint.",
-          "wrong_A": "Preposition 'at' expresses incorrect temporal relationship.",
-          "wrong_C": "Preposition 'on' does not fit the deadline context.",
-          "wrong_D": "Preposition 'in' is ungrammatical with this time phrase."
+          "correct": "Modal 'must' is followed by the bare infinitive without 'to': 'must issue'.",
+          "wrong_A": "'must to' is ungrammatical; modals never take 'to'.",
+          "wrong_C": "'is must' is completely ungrammatical in English.",
+          "wrong_D": "'has must' is invalid verb phrasing."
         },
-        "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+        "cz_learning_point": "V angličtině se po způsobovém slovesu 'must' nikdy nepoužívá předložka 'to' (*must to* je hrubá chyba).",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-A2-017-Q2",
-        "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+        "prompt": "Every morning, the commercial director promptly _____ the commercial export invoice and bill of lading in the international commercial contract.",
         "options": [
           {
             "key": "A",
-            "text": "by"
+            "text": "present"
           },
           {
             "key": "B",
-            "text": "on"
+            "text": "presenting"
           },
           {
             "key": "C",
-            "text": "at"
+            "text": "presents"
           },
           {
             "key": "D",
-            "text": "in"
+            "text": "is present"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'at' correctly expresses the required time deadline or constraint.",
-          "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
-          "wrong_B": "Preposition 'on' does not fit the deadline context.",
-          "wrong_D": "Preposition 'in' is ungrammatical with this time phrase."
+          "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('presents').",
+          "wrong_A": "Base form 'present' lacks required 3rd person singular '-s'.",
+          "wrong_B": "Participle 'presenting' cannot act as finite verb without auxiliary.",
+          "wrong_D": "'is present' is ungrammatical."
         },
-        "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+        "cz_learning_point": "Ve 3. osobě jednotného čísla přítomného času prostého nezapomeňte na koncovku -s: 'presents'.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-A2-017-Q3",
-        "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+        "prompt": "The technician placed the diagnostic tool _____ the workbench during foreign ministerial bilateral meetings.",
         "options": [
           {
             "key": "A",
@@ -5302,242 +5302,242 @@ Object.assign(window.TEST_REGISTRY, {
           },
           {
             "key": "B",
-            "text": "by"
+            "text": "into"
           },
           {
             "key": "C",
-            "text": "at"
+            "text": "under to"
           },
           {
             "key": "D",
-            "text": "in"
+            "text": "between of"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Preposition 'on' correctly expresses the required time deadline or constraint.",
-          "wrong_B": "Preposition 'by' expresses incorrect temporal relationship.",
-          "wrong_C": "Preposition 'at' does not fit the deadline context.",
-          "wrong_D": "Preposition 'in' is ungrammatical with this time phrase."
+          "correct": "Preposition 'on' correctly denotes physical placement on a horizontal surface.",
+          "wrong_B": "'into' denotes motion entering inside an enclosed space.",
+          "wrong_C": "'under to' is an invalid double preposition.",
+          "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
         },
-        "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+        "cz_learning_point": "Čeština používá 'na stole' = 'on the workbench'. Dejte pozor na chybná spojení jako *between of*.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-A2-017-Q4",
-        "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+        "prompt": "Yesterday during the handover, the legal compliance counsel _____ the military fleet tender compliance matrix.",
         "options": [
           {
             "key": "A",
-            "text": "by"
+            "text": "complete"
           },
           {
             "key": "B",
-            "text": "at"
+            "text": "has submitted"
           },
           {
             "key": "C",
-            "text": "on"
+            "text": "is completeing"
           },
           {
             "key": "D",
-            "text": "in"
+            "text": "submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Preposition 'in' correctly expresses the required time deadline or constraint.",
-          "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
-          "wrong_B": "Preposition 'at' does not fit the deadline context.",
-          "wrong_C": "Preposition 'on' is ungrammatical with this time phrase."
+          "correct": "Specific past time adverbial 'yesterday' strictly requires Past Simple 'submitted'.",
+          "wrong_A": "Base form 'complete' lacks past tense inflection.",
+          "wrong_B": "Present perfect 'has submitted' cannot accompany finished past time 'yesterday'.",
+          "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
         },
-        "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+        "cz_learning_point": "S příslovečným určením jako 'yesterday' se v angličtině striktně pojí minulý čas prostý (Past Simple), nikdy předpřítomný čas.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-A2-017-Q5",
-        "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+        "prompt": "Are there _____ spare gaskets left in the workshop storage cabinet?",
         "options": [
           {
             "key": "A",
-            "text": "by"
+            "text": "some"
           },
           {
             "key": "B",
-            "text": "at"
+            "text": "much"
           },
           {
             "key": "C",
-            "text": "until"
+            "text": "any"
           },
           {
             "key": "D",
-            "text": "on"
+            "text": "an"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'until' correctly expresses the required time deadline or constraint.",
-          "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
-          "wrong_B": "Preposition 'at' does not fit the deadline context.",
-          "wrong_D": "Preposition 'on' is ungrammatical with this time phrase."
+          "correct": "'Any' is standard in questions inquiring about the existence or availability of items.",
+          "wrong_A": "'some' is typically reserved for affirmative statements or polite offers.",
+          "wrong_B": "'much' is only used with uncountable mass nouns, not plural 'gaskets'.",
+          "wrong_D": "'an' can only precede singular countable nouns beginning with a vowel sound."
         },
-        "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+        "cz_learning_point": "V běžných záporných větách a otázkách se pro 'nějaký / žádný' používá 'any', nikoli *some*.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-A2-017-Q6",
-        "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+        "prompt": "_____ the maintenance technician inspect the international dealer warranty reimbursement every shift?",
         "options": [
           {
             "key": "A",
-            "text": "by"
+            "text": "Do"
           },
           {
             "key": "B",
-            "text": "before"
+            "text": "Does"
           },
           {
             "key": "C",
-            "text": "at"
+            "text": "Is"
           },
           {
             "key": "D",
-            "text": "on"
+            "text": "Has"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'before' correctly expresses the required time deadline or constraint.",
-          "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
-          "wrong_C": "Preposition 'at' does not fit the deadline context.",
-          "wrong_D": "Preposition 'on' is ungrammatical with this time phrase."
+          "correct": "Singular 3rd person subject in Present Simple requires auxiliary 'Does'.",
+          "wrong_A": "'Do' is used for plural subjects (they, we, you) or 'I'.",
+          "wrong_C": "'Is' requires an '-ing' participle (Present Continuous), not a base verb.",
+          "wrong_D": "'Has' requires a past participle (Present Perfect)."
         },
-        "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+        "cz_learning_point": "V otázkách v přítomném čase se pro 3. osobu jednotného čísla používá pomocné sloveso 'Does': 'Does the technician inspect...?'.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-A2-017-Q7",
-        "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+        "prompt": "The newly calibrated unit runs significantly _____ than the older model.",
         "options": [
           {
             "key": "A",
-            "text": "by"
+            "text": "more fast"
           },
           {
             "key": "B",
-            "text": "at"
+            "text": "fastest"
           },
           {
             "key": "C",
-            "text": "on"
+            "text": "as fast"
           },
           {
             "key": "D",
-            "text": "during"
+            "text": "faster"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Preposition 'during' correctly expresses the required time deadline or constraint.",
-          "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
-          "wrong_B": "Preposition 'at' does not fit the deadline context.",
-          "wrong_C": "Preposition 'on' is ungrammatical with this time phrase."
+          "correct": "One-syllable adjective 'fast' forms comparative with '-er': 'faster'.",
+          "wrong_A": "'more fast' is ungrammatical; short adjectives take '-er'.",
+          "wrong_B": "'fastest' is a superlative and requires 'the'.",
+          "wrong_C": "'as fast' requires 'as' ('as fast as'), not 'than'."
         },
-        "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+        "cz_learning_point": "Jednoslabičná přídavná jména tvoří 2. stupeň koncovkou -er (faster, cheaper), nikoli pomocí *more*.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-A2-017-Q8",
-        "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+        "prompt": "_____ new components on this table must be cataloged immediately.",
         "options": [
           {
             "key": "A",
-            "text": "after"
+            "text": "These"
           },
           {
             "key": "B",
-            "text": "by"
+            "text": "This"
           },
           {
             "key": "C",
-            "text": "at"
+            "text": "That"
           },
           {
             "key": "D",
-            "text": "on"
+            "text": "There"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Preposition 'after' correctly expresses the required time deadline or constraint.",
-          "wrong_B": "Preposition 'by' expresses incorrect temporal relationship.",
-          "wrong_C": "Preposition 'at' does not fit the deadline context.",
-          "wrong_D": "Preposition 'on' is ungrammatical with this time phrase."
+          "correct": "Plural noun 'components' located nearby requires plural demonstrative 'These'.",
+          "wrong_B": "'This' is singular and cannot modify plural 'components'.",
+          "wrong_C": "'That' is singular.",
+          "wrong_D": "'There' is an adverb of place or dummy pronoun, not a demonstrative determiner."
         },
-        "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+        "cz_learning_point": "Množné číslo pro věci blízko mluvčího je 'these' (tyto součástky), jednotné číslo je 'this' (tato součástka).",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-A2-017-Q9",
-        "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+        "prompt": "The team transferred the heavy assembly _____ the testing bay.",
         "options": [
           {
             "key": "A",
-            "text": "by"
+            "text": "in to"
           },
           {
             "key": "B",
-            "text": "at"
+            "text": "inside of"
           },
           {
             "key": "C",
-            "text": "within"
+            "text": "into"
           },
           {
             "key": "D",
-            "text": "on"
+            "text": "onto to"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'within' correctly expresses the required time deadline or constraint.",
-          "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
-          "wrong_B": "Preposition 'at' does not fit the deadline context.",
-          "wrong_D": "Preposition 'on' is ungrammatical with this time phrase."
+          "correct": "'Into' expresses movement from the outside to the interior of a space.",
+          "wrong_A": "'in to' as two separate words is incorrect for directional movement.",
+          "wrong_B": "'inside of' is redundant and colloquial.",
+          "wrong_D": "'onto to' is an ungrammatical repetition."
         },
-        "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+        "cz_learning_point": "Směr dovnitř vyjadřuje předložka 'into' (přesunout do testovací haly = transferred into the bay).",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-A2-017-Q10",
-        "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+        "prompt": "Could you please _____ the shift report before leaving today?",
         "options": [
           {
             "key": "A",
-            "text": "by"
+            "text": "to sign"
           },
           {
             "key": "B",
-            "text": "throughout"
+            "text": "sign"
           },
           {
             "key": "C",
-            "text": "at"
+            "text": "signing"
           },
           {
             "key": "D",
-            "text": "on"
+            "text": "signed"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'throughout' correctly expresses the required time deadline or constraint.",
-          "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
-          "wrong_C": "Preposition 'at' does not fit the deadline context.",
-          "wrong_D": "Preposition 'on' is ungrammatical with this time phrase."
+          "correct": "Polite request with modal 'Could you please' is followed by the bare infinitive 'sign'.",
+          "wrong_A": "'to sign' is incorrect; modals do not take 'to'.",
+          "wrong_C": "Participle 'signing' cannot follow modal 'could'.",
+          "wrong_D": "Past tense 'signed' is ungrammatical after modal 'could'."
         },
-        "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+        "cz_learning_point": "Po zdvořilostní žádosti 'Could you please' následuje vždy základní tvar slovesa (bare infinitive) bez 'to'.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       }
     ]
@@ -6855,319 +6855,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing incoterms 2020 obligations: exw vs fca vs dap risk transfer.",
     "learning_objectives": [
-      "Master professional Passive Voice & Responsibility Clauses in technical sales and export contracts",
+      "Master professional Passive Voice & Responsibility Clauses in commercial and export sales",
       "Eliminate common Czech interference errors in incoterms 2020 obligations: exw vs fca vs dap risk transfer",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-002-Q1",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "is not"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-002-Q2",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "is not"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-002-Q3",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "is not"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "is"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_B": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-002-Q4",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "must to be"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "is not"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_C": "'must to be' is ungrammatical."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-002-Q5",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "is not"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-002-Q6",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "is not"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-002-Q7",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "must to be"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "is not"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_C": "'must to be' is ungrammatical."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-002-Q8",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "is not"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "is"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_B": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-002-Q9",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "is not"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-002-Q10",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "is not"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       }
     ]
@@ -7181,319 +7181,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing letter of credit (l/c) discrepancy rectification with issuing banks.",
     "learning_objectives": [
-      "Master professional First Conditional & Temporal Clauses in technical sales and export contracts",
+      "Master professional First Conditional & Temporal Clauses in commercial and export sales",
       "Eliminate common Czech interference errors in letter of credit (l/c) discrepancy rectification with issuing banks",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-003-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-003-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-003-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-003-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-003-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-003-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-003-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-003-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-003-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-003-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       }
     ]
@@ -7507,319 +7507,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing dealership margin & annual sales target negotiations.",
     "learning_objectives": [
-      "Master professional Modals of Negotiation & Softening in technical sales and export contracts",
+      "Master professional Modals of Negotiation & Softening in commercial and export sales",
       "Eliminate common Czech interference errors in dealership margin & annual sales target negotiations",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-004-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-004-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-004-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-004-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-004-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-004-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-004-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-004-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-004-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-004-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       }
     ]
@@ -8159,319 +8159,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing government fleet tender submission checklist & compliance sheets.",
     "learning_objectives": [
-      "Master professional Relative Clauses in Tender Criteria in technical sales and export contracts",
+      "Master professional Relative Clauses in Tender Criteria in commercial and export sales",
       "Eliminate common Czech interference errors in government fleet tender submission checklist & compliance sheets",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-006-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-006-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-006-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-006-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-006-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-006-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-006-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-006-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-006-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-006-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       }
     ]
@@ -8485,319 +8485,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing customs bonded warehouse entry & import tariff classification.",
     "learning_objectives": [
-      "Master professional Prepositions of Origin & Transit in technical sales and export contracts",
+      "Master professional Prepositions of Origin & Transit in commercial and export sales",
       "Eliminate common Czech interference errors in customs bonded warehouse entry & import tariff classification",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-007-Q1",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "is not"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-007-Q2",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "is not"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-007-Q3",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "is not"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "is"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_B": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-007-Q4",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "must to be"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "is not"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_C": "'must to be' is ungrammatical."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-007-Q5",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "is not"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-007-Q6",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "is not"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-007-Q7",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "must to be"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "is not"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_C": "'must to be' is ungrammatical."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-007-Q8",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "is not"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "is"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_B": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-007-Q9",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "is not"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       },
       {
         "id": "TTR-SALES-B1-007-Q10",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "is not"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Letters of Credit, Customs & Freight Documentation"
       }
     ]
@@ -8811,319 +8811,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing explaining tatra chassis superiority in mining & off-road tenders.",
     "learning_objectives": [
-      "Master professional Comparative & Superlative Structures in technical sales and export contracts",
+      "Master professional Comparative & Superlative Structures in commercial and export sales",
       "Eliminate common Czech interference errors in explaining tatra chassis superiority in mining & off-road tenders",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-008-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-008-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-008-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-008-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-008-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-008-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-008-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-008-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-008-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-008-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       }
     ]
@@ -9137,319 +9137,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing contractual liquidated damages for late shipment: avoiding penalties.",
     "learning_objectives": [
-      "Master professional Second Conditional in Risk Assessment in technical sales and export contracts",
+      "Master professional Second Conditional in Risk Assessment in commercial and export sales",
       "Eliminate common Czech interference errors in contractual liquidated damages for late shipment: avoiding penalties",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-009-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-009-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-009-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-009-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-009-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-009-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-009-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-009-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-009-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-009-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       }
     ]
@@ -9463,319 +9463,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing end-user certificate (euc) verification for defense export control.",
     "learning_objectives": [
-      "Master professional Passive Reporting Verbs in technical sales and export contracts",
+      "Master professional Passive Reporting Verbs in commercial and export sales",
       "Eliminate common Czech interference errors in end-user certificate (euc) verification for defense export control",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-010-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-010-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-010-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-010-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-010-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-010-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-010-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-010-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-010-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-010-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       }
     ]
@@ -9789,319 +9789,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing after-sales service level agreements (sla) & technician dispatch.",
     "learning_objectives": [
-      "Master professional Future Continuous & Future Perfect in technical sales and export contracts",
+      "Master professional Future Continuous & Future Perfect in commercial and export sales",
       "Eliminate common Czech interference errors in after-sales service level agreements (sla) & technician dispatch",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-011-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-011-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-011-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-011-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-011-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-011-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-011-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-011-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-011-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-011-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       }
     ]
@@ -10115,319 +10115,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing foreign currency exchange fluctuation clauses in long-term bids.",
     "learning_objectives": [
-      "Master professional Connectors of Cause, Purpose & Condition in technical sales and export contracts",
+      "Master professional Connectors of Cause, Purpose & Condition in commercial and export sales",
       "Eliminate common Czech interference errors in foreign currency exchange fluctuation clauses in long-term bids",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-012-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-012-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-012-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-012-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-012-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-012-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-012-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-012-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-012-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-012-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       }
     ]
@@ -10767,319 +10767,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing dealership warranty reimbursement claim verification & auditing.",
     "learning_objectives": [
-      "Master professional Modal Verbs of Deduction in technical sales and export contracts",
+      "Master professional Modal Verbs of Deduction in commercial and export sales",
       "Eliminate common Czech interference errors in dealership warranty reimbursement claim verification & auditing",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-014-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-014-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-014-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-014-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-014-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-014-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-014-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-014-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-014-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-014-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       }
     ]
@@ -11093,319 +11093,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing technical deviation requests from tender minimum specifications.",
     "learning_objectives": [
-      "Master professional Polite Assertiveness & Hedging in technical sales and export contracts",
+      "Master professional Polite Assertiveness & Hedging in commercial and export sales",
       "Eliminate common Czech interference errors in technical deviation requests from tender minimum specifications",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-015-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-015-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-015-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-015-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-015-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-015-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-015-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-015-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-015-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-015-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       }
     ]
@@ -11419,319 +11419,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing roll-on/roll-off (ro-ro) vessel stevedore loading coordination.",
     "learning_objectives": [
-      "Master professional Phrasal Verbs in Maritime Logistics in technical sales and export contracts",
+      "Master professional Phrasal Verbs in Maritime Logistics in commercial and export sales",
       "Eliminate common Czech interference errors in roll-on/roll-off (ro-ro) vessel stevedore loading coordination",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-016-Q1",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "is not"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-016-Q2",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "is not"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-016-Q3",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "is not"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "is"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_B": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-016-Q4",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "must to be"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "is not"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_C": "'must to be' is ungrammatical."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-016-Q5",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "is not"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-016-Q6",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "is not"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-016-Q7",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "must to be"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "is not"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_C": "'must to be' is ungrammatical."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-016-Q8",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "is not"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "is"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_B": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-016-Q9",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "shall to be"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "is not"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       },
       {
         "id": "TTR-SALES-B1-016-Q10",
-        "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "is"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "is not"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "shall to be"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "must to be"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
-          "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
-          "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
-          "wrong_D": "'must to be' is ungrammatical."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
       }
     ]
@@ -11745,319 +11745,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing counter-trade offsets: local assembly kit (ckd) proposals.",
     "learning_objectives": [
-      "Master professional Reported Speech in Government Meetings in technical sales and export contracts",
+      "Master professional Reported Speech in Government Meetings in commercial and export sales",
       "Eliminate common Czech interference errors in counter-trade offsets: local assembly kit (ckd) proposals",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-017-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-017-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-017-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-017-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-017-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-017-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-017-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-017-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-017-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       },
       {
         "id": "TTR-SALES-B1-017-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
       }
     ]
@@ -12071,319 +12071,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing distributor termination warnings due to contractual non-performance.",
     "learning_objectives": [
-      "Master professional Conditional Structures & Legal Directives in technical sales and export contracts",
+      "Master professional Conditional Structures & Legal Directives in commercial and export sales",
       "Eliminate common Czech interference errors in distributor termination warnings due to contractual non-performance",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-018-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-018-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-018-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-018-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-018-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-018-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-018-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-018-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-018-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       },
       {
         "id": "TTR-SALES-B1-018-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Polite Business Communication & Dealership Correspondence"
       }
     ]
@@ -12397,319 +12397,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing tender performance bond bank guarantees & escrow accounts.",
     "learning_objectives": [
-      "Master professional Obligation Verbs (shall, must, undertake) in technical sales and export contracts",
+      "Master professional Obligation Verbs (shall, must, undertake) in commercial and export sales",
       "Eliminate common Czech interference errors in tender performance bond bank guarantees & escrow accounts",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-019-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-019-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-019-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-019-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-019-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-019-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-019-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-019-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-019-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       },
       {
         "id": "TTR-SALES-B1-019-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Commercial Negotiation & Payment Milestones"
       }
     ]
@@ -12723,319 +12723,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate sales and logistics module analyzing post-sale customer satisfaction audits & fleet utilization reviews.",
     "learning_objectives": [
-      "Master professional Evaluative Adjectives & Feedback Syntax in technical sales and export contracts",
+      "Master professional Evaluative Adjectives & Feedback Syntax in commercial and export sales",
       "Eliminate common Czech interference errors in post-sale customer satisfaction audits & fleet utilization reviews",
-      "Demonstrate mastery in international negotiations and Incoterms documentation"
+      "Demonstrate precision in international commercial negotiations and contracts"
     ],
     "questions": [
       {
         "id": "TTR-SALES-B1-020-Q1",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "Before the validation auditor arrived at the defense trade fair in Abu Dhabi, the export sales manager noticed that the irrevocable confirmed Letter of Credit (L/C) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "was confirmed"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "had been confirmed"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "has been confirmed"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "didn't issue"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Past Perfect Passive ('had been confirmed') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was confirmed') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been confirmed') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-020-Q2",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-020-Q3",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-020-Q4",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "According to EU export dual-use licensing guidelines, the military fleet tender compliance matrix _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be submitted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "must complete"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "are must submitted"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "must be submitted"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Passive with modal: 'must be submitted' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-020-Q5",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-020-Q6",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-020-Q7",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "signed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "signs"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-020-Q8",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "signs"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will sign"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-020-Q9",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would sign"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "signs"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       },
       {
         "id": "TTR-SALES-B1-020-Q10",
-        "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will sign"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "signs"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would sign"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "signed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
-          "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
-          "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Customer Inquiries, Quotations & Specifications"
       }
     ]

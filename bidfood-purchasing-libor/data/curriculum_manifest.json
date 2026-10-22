@@ -1,0 +1,802 @@
+[
+  {
+    "test_id": "BID-PUR-A2-001",
+    "title": "Food Product Catalog & Packaging Units: Present Simple & Plurals",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Countable vs Uncountable Nouns & Plurals",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering food product catalog & packaging units: present simple & plurals."
+  },
+  {
+    "test_id": "BID-PUR-A2-002",
+    "title": "Daily Purchase Orders & Supplier Confirmation: Present Simple 3rd Person",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Inventory Management, Lead Times & EDI Purchase Orders",
+    "grammar_focus": "Present Simple 3rd person singular -s",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering daily purchase orders & supplier confirmation: present simple 3rd person."
+  },
+  {
+    "test_id": "BID-PUR-A2-003",
+    "title": "Delivery Notes & Missing Quantities: Past Simple Regular & Irregular",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Past Simple regular & irregular verbs",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering delivery notes & missing quantities: past simple regular & irregular."
+  },
+  {
+    "test_id": "BID-PUR-A2-004",
+    "title": "Cold Warehouse Staging & Pallet Storage: Prepositions of Place",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Prepositions of Place (in, on, next to, between)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering cold warehouse staging & pallet storage: prepositions of place."
+  },
+  {
+    "test_id": "BID-PUR-A2-005",
+    "title": "Receiving Chilled Goods & Temperature Checks: Modal Verbs (Must, Can, Should)",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Modal verbs (must, can, should)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering receiving chilled goods & temperature checks: modal verbs (must, can, should)."
+  },
+  {
+    "test_id": "BID-PUR-A2-006",
+    "title": "Basic Supplier Inquiries by Email: Polite Requests (Could you, Would you)",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Polite Requests & Question Formation",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering basic supplier inquiries by email: polite requests (could you, would you)."
+  },
+  {
+    "test_id": "BID-PUR-A2-007",
+    "title": "Pricing Units, Weight Discrepancies & Kilogram Calculations: Numbers & Decimals",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Numbers, units, weights & decimals",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering pricing units, weight discrepancies & kilogram calculations: numbers & decimals."
+  },
+  {
+    "test_id": "BID-PUR-A2-008",
+    "title": "Morning Delivery Status Handover: Past Simple vs Present Simple",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Past Simple vs Present Simple",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering morning delivery status handover: past simple vs present simple."
+  },
+  {
+    "test_id": "BID-PUR-A2-009",
+    "title": "Comparing Supplier Prices & Minimum Order Quantities: Comparatives & Superlatives",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Comparatives & Superlatives (cheaper, lowest)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering comparing supplier prices & minimum order quantities: comparatives & superlatives."
+  },
+  {
+    "test_id": "BID-PUR-A2-010",
+    "title": "Navigating the Distribution Depot: Prepositions of Motion (Into, Onto, Across)",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Prepositions of Motion (into, onto, across)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering navigating the distribution depot: prepositions of motion (into, onto, across)."
+  },
+  {
+    "test_id": "BID-PUR-A2-011",
+    "title": "Shelf Life & Best-Before Date Verification: Quantifiers (Some, Any, Enough, Much)",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Quantifiers (some, any, enough, too much)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering shelf life & best-before date verification: quantifiers (some, any, enough, much)."
+  },
+  {
+    "test_id": "BID-PUR-A2-012",
+    "title": "Receiving Damaged Goods: Imperatives & Rejection Phrasing",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Imperatives for Directives & Checklists",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering receiving damaged goods: imperatives & rejection phrasing."
+  },
+  {
+    "test_id": "BID-PUR-A2-013",
+    "title": "Fish & Seafood Sourcing Inquiries: Modal Verbs (Can we, May I, Have to)",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Obligation & Permission (have to, may)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering fish & seafood sourcing inquiries: modal verbs (can we, may i, have to)."
+  },
+  {
+    "test_id": "BID-PUR-A2-014",
+    "title": "Tracking Inbound Refrigerated Trucks: Present Continuous for Active Shipments",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Present Continuous for in-transit tracking",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering tracking inbound refrigerated trucks: present continuous for active shipments."
+  },
+  {
+    "test_id": "BID-PUR-A2-015",
+    "title": "Supplier Delivery Punctuality: Adverbs of Frequency (Always, Usually, Rarely)",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Adverbs of Frequency (always, usually, rarely)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering supplier delivery punctuality: adverbs of frequency (always, usually, rarely)."
+  },
+  {
+    "test_id": "BID-PUR-A2-016",
+    "title": "Payment Terms & Invoice Verification: Rules & Obligations (Have to, Must not)",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Rules & Obligations (have to, must not)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering payment terms & invoice verification: rules & obligations (have to, must not)."
+  },
+  {
+    "test_id": "BID-PUR-A2-017",
+    "title": "Warehouse Receiving Routine: Sequence Connectors (First, Next, Then, Finally)",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Sequence Markers (first, next, then, finally)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering warehouse receiving routine: sequence connectors (first, next, then, finally)."
+  },
+  {
+    "test_id": "BID-PUR-A2-018",
+    "title": "Reporting Quality Complaints to Suppliers: Past Simple Negatives & Questions",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Past Simple Negatives & Question Forms",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering reporting quality complaints to suppliers: past simple negatives & questions."
+  },
+  {
+    "test_id": "BID-PUR-A2-019",
+    "title": "Emergency Reorders for Depleted Stock: There is / There are & Quantifiers",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Inventory Management, Lead Times & EDI Purchase Orders",
+    "grammar_focus": "There is / There are & Quantifiers",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering emergency reorders for depleted stock: there is / there are & quantifiers."
+  },
+  {
+    "test_id": "BID-PUR-A2-020",
+    "title": "End-of-Month Stocktaking & Discrepancy Reporting: Checklist Phrasing",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Inventory Management, Lead Times & EDI Purchase Orders",
+    "grammar_focus": "Compound Imperatives & Inventory Checklists",
+    "estimated_time_minutes": 10,
+    "description": "Foundational wholesale purchasing English module covering end-of-month stocktaking & discrepancy reporting: checklist phrasing."
+  },
+  {
+    "test_id": "BID-PUR-B1-001",
+    "title": "Cold-Chain Logistics & Data Logger Readings: Past Simple vs Past Perfect",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Past Simple vs Past Perfect",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing cold-chain logistics & data logger readings: past simple vs past perfect."
+  },
+  {
+    "test_id": "BID-PUR-B1-002",
+    "title": "Master Purchasing Agreements & Volume Rebates: Passive Voice in Commercial SOPs",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Passive Voice in Commercial SOPs",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing master purchasing agreements & volume rebates: passive voice in commercial sops."
+  },
+  {
+    "test_id": "BID-PUR-B1-003",
+    "title": "Daily Supplier Escalations & Backorder Updates: Present Simple vs Continuous",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Present Simple vs Present Continuous",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing daily supplier escalations & backorder updates: present simple vs continuous."
+  },
+  {
+    "test_id": "BID-PUR-B1-004",
+    "title": "Importing Frozen Meat & Poultry: First & Second Conditionals (If/When)",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "First & Second Conditionals (If/When)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing importing frozen meat & poultry: first & second conditionals (if/when)."
+  },
+  {
+    "test_id": "BID-PUR-B1-005",
+    "title": "Managing Perishable Goods Claims: Prepositions of Cause & Manner",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Prepositions of Cause & Manner",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing managing perishable goods claims: prepositions of cause & manner."
+  },
+  {
+    "test_id": "BID-PUR-B1-006",
+    "title": "Supplier Quality Specifications & Certificates of Analysis (CoA): Relative Clauses",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Relative Clauses (which, that, whose)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing supplier quality specifications & certificates of analysis (coa): relative clauses."
+  },
+  {
+    "test_id": "BID-PUR-B1-007",
+    "title": "Commodity Price Fluctuation & Fuel Surcharges: Modal Verbs of Probability",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Modal Verbs of Probability (must be, can't be)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing commodity price fluctuation & fuel surcharges: modal verbs of probability."
+  },
+  {
+    "test_id": "BID-PUR-B1-008",
+    "title": "Auditing Supplier Processing Facilities: Past Continuous vs Past Simple",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Past Continuous vs Past Simple",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing auditing supplier processing facilities: past continuous vs past simple."
+  },
+  {
+    "test_id": "BID-PUR-B1-009",
+    "title": "Customs Clearance & Single Administrative Document (SAD): Present Perfect with Yet, Already, Just",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Present Perfect with yet, already, just",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing customs clearance & single administrative document (sad): present perfect with yet, already, just."
+  },
+  {
+    "test_id": "BID-PUR-B1-010",
+    "title": "Evaluating Alternative Packaging Materials: Degrees of Comparison & Tolerances",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Degrees of Comparison & Tolerances",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing evaluating alternative packaging materials: degrees of comparison & tolerances."
+  },
+  {
+    "test_id": "BID-PUR-B1-011",
+    "title": "Consolidating Less-Than-Truckload (LTL) Shipments: Purpose Clauses (In order to, So that)",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Purpose Clauses (in order to, so that)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing consolidating less-than-truckload (ltl) shipments: purpose clauses (in order to, so that)."
+  },
+  {
+    "test_id": "BID-PUR-B1-012",
+    "title": "Third-Party Logistics (3PL) Service Level Agreements: Passive Voice Reporting Forms",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Passive Voice Reporting Forms",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing third-party logistics (3pl) service level agreements: passive voice reporting forms."
+  },
+  {
+    "test_id": "BID-PUR-B1-013",
+    "title": "Short-Dated Product Clearance & Markdown Strategies: Conditionals in Inventory Management",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Inventory Management, Lead Times & EDI Purchase Orders",
+    "grammar_focus": "Conditionals in Inventory Management",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing short-dated product clearance & markdown strategies: conditionals in inventory management."
+  },
+  {
+    "test_id": "BID-PUR-B1-014",
+    "title": "EDI Purchase Order Exchange & ASN Synchronization: Temporal Conjunctions (Until, As soon as)",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Inventory Management, Lead Times & EDI Purchase Orders",
+    "grammar_focus": "Temporal Conjunctions (until, as soon as, while)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing edi purchase order exchange & asn synchronization: temporal conjunctions (until, as soon as)."
+  },
+  {
+    "test_id": "BID-PUR-B1-015",
+    "title": "Supplier Contract Renegotiation & Price Defense: Phrasal Verbs in Commercial Purchasing",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Phrasal Verbs in Commercial Purchasing",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing supplier contract renegotiation & price defense: phrasal verbs in commercial purchasing."
+  },
+  {
+    "test_id": "BID-PUR-B1-016",
+    "title": "Incoterms 2020 in Food Import (FCA, CIF, DPU, DAP): Passive Voice with Modals",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Passive Voice with Modals",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing incoterms 2020 in food import (fca, cif, dpu, dap): passive voice with modals."
+  },
+  {
+    "test_id": "BID-PUR-B1-017",
+    "title": "Supplier Quality Non-Conformance & CAPA Tracking: Present Perfect Continuous",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Present Perfect Continuous (duration)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing supplier quality non-conformance & capa tracking: present perfect continuous."
+  },
+  {
+    "test_id": "BID-PUR-B1-018",
+    "title": "Supplier Sourcing Audits & IFS/BRC Certification: Reported Speech in Quality Audits",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Reported Speech in Quality Audits",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing supplier sourcing audits & ifs/brc certification: reported speech in quality audits."
+  },
+  {
+    "test_id": "BID-PUR-B1-019",
+    "title": "Cross-Docking Perishable Produce at Distribution Centers: Prepositions of Motion & Logistics Flow",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Prepositions of Motion & Logistics Flow",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing cross-docking perishable produce at distribution centers: prepositions of motion & logistics flow."
+  },
+  {
+    "test_id": "BID-PUR-B1-020",
+    "title": "Post-Delivery Damage Claims & Carrier Subrogation: Cause & Effect Connectors",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Cause & Effect Connectors (due to, owing to)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate professional purchasing English module analyzing post-delivery damage claims & carrier subrogation: cause & effect connectors."
+  },
+  {
+    "test_id": "BID-PUR-B2-001",
+    "title": "Long-Term Supply Contracts & Force Majeure Invocation: Inverted Third Conditionals",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Inverted Conditionals (Had we known...)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating long-term supply contracts & force majeure invocation: inverted third conditionals."
+  },
+  {
+    "test_id": "BID-PUR-B2-002",
+    "title": "Annual Vendor Rebate & Payment Term Negotiations: Negative Inversion for Professional Rigor",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Negative Inversion (Rarely does, Under no circumstances)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating annual vendor rebate & payment term negotiations: negative inversion for professional rigor."
+  },
+  {
+    "test_id": "BID-PUR-B2-003",
+    "title": "Hedge Accounting & Currency Risk in Food Commodities: Mixed Conditionals",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Mixed Conditionals (past cause, present result)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating hedge accounting & currency risk in food commodities: mixed conditionals."
+  },
+  {
+    "test_id": "BID-PUR-B2-004",
+    "title": "Supplier Code of Conduct & ESG Carbon Footprint Audits: Mandative Subjunctive in Corporate Procurement",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Mandative Subjunctive (mandate that X furnish)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating supplier code of conduct & esg carbon footprint audits: mandative subjunctive in corporate procurement."
+  },
+  {
+    "test_id": "BID-PUR-B2-005",
+    "title": "Private Label Manufacturing Agreements & Recipe Exclusivity: Complex Relative Clauses & Restrictive Covenants",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Preposition + Relative Pronoun (in which, under whose)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating private label manufacturing agreements & recipe exclusivity: complex relative clauses & restrictive covenants."
+  },
+  {
+    "test_id": "BID-PUR-B2-006",
+    "title": "Product Recall Crisis Management & Supply Chain Traceability: Participle Clauses in Incident Inquests",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Participle Clauses (Having identified, Being informed)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating product recall crisis management & supply chain traceability: participle clauses in incident inquests."
+  },
+  {
+    "test_id": "BID-PUR-B2-007",
+    "title": "Exclusive Wholesale Distribution Rights & Territorial Restrictions: Advanced Conditionals & Concession Clauses",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Concession Clauses (Even though, Whereas, Albeit)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating exclusive wholesale distribution rights & territorial restrictions: advanced conditionals & concession clauses."
+  },
+  {
+    "test_id": "BID-PUR-B2-008",
+    "title": "Supply Shortages & Allocation Quota Negotiations: Advanced Modal Deduction & Epistemic Stance",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Advanced Modals (cannot have been, must have realized)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating supply shortages & allocation quota negotiations: advanced modal deduction & epistemic stance."
+  },
+  {
+    "test_id": "BID-PUR-B2-009",
+    "title": "Container Shipping Demurrage & Detention Disputes: Discourse Markers in Commercial Dispute Escalation",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Formal Discourse Markers (notwithstanding, conversely)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating container shipping demurrage & detention disputes: discourse markers in commercial dispute escalation."
+  },
+  {
+    "test_id": "BID-PUR-B2-010",
+    "title": "Global Seafood Sourcing: Sustainable Fisheries & Tariff Classifications: Advanced Passive Constructions",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Advanced Passive Reporting (is understood to have been)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating global seafood sourcing: sustainable fisheries & tariff classifications: advanced passive constructions."
+  },
+  {
+    "test_id": "BID-PUR-B2-011",
+    "title": "Supplier Insolvency & Contingency Dual-Sourcing Strategies: Hypothetical & Unreal Structures",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Hypothetical Inversion (Were a supplier to enter...)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating supplier insolvency & contingency dual-sourcing strategies: hypothetical & unreal structures."
+  },
+  {
+    "test_id": "BID-PUR-B2-012",
+    "title": "Cold-Chain Fleet Logistics Outsourcing Tender: Evaluative Language & RFP Defense",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Evaluative Language in RFP Scoring",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating cold-chain fleet logistics outsourcing tender: evaluative language & rfp defense."
+  },
+  {
+    "test_id": "BID-PUR-B2-013",
+    "title": "Anti-Corruption & Fair Trade Compliance in Agricultural Sourcing: Fronting & Inversion for Emphasis",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Fronting & Inversion (On no account may...)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating anti-corruption & fair trade compliance in agricultural sourcing: fronting & inversion for emphasis."
+  },
+  {
+    "test_id": "BID-PUR-B2-014",
+    "title": "Multi-Million Euro Annual Purchasing Budgeting: Advanced Forecasting & Quantitative Hedging",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Epistemic Hedging & Future Projections",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating multi-million euro annual purchasing budgeting: advanced forecasting & quantitative hedging."
+  },
+  {
+    "test_id": "BID-PUR-B2-015",
+    "title": "Supplier Contract Breach & Liquidated Damages Claims: Legalistic Phrasing in Procurement Disputes",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Legalistic Phrasing & Contractual Formulas",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating supplier contract breach & liquidated damages claims: legalistic phrasing in procurement disputes."
+  },
+  {
+    "test_id": "BID-PUR-B2-016",
+    "title": "Biosecurity Quarantines & Veterinary Border Inspection Post (BIP) Holds: Formal Epistemic Modals",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Epistemic Modals (may well, might conceivably)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating biosecurity quarantines & veterinary border inspection post (bip) holds: formal epistemic modals."
+  },
+  {
+    "test_id": "BID-PUR-B2-017",
+    "title": "Warehouse Automation & Automated Storage and Retrieval System (ASRS) Procurement: High-Register Engineering RFQs",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Inventory Management, Lead Times & EDI Purchase Orders",
+    "grammar_focus": "Formulaic Subjunctive in Technical Specifications",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating warehouse automation & automated storage and retrieval system (asrs) procurement: high-register engineering rfqs."
+  },
+  {
+    "test_id": "BID-PUR-B2-018",
+    "title": "Packaging Sustainability Directive (EU PPWR) Purchasing Compliance: Regulatory Deontic Modals",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Regulatory Deontic Modals (shall comply, is obliged to)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating packaging sustainability directive (eu ppwr) purchasing compliance: regulatory deontic modals."
+  },
+  {
+    "test_id": "BID-PUR-B2-019",
+    "title": "Vendor Performance Scorecards & Supplier KPI Reviews: Diplomatic Hedging & Constructive Criticism",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Diplomatic Hedging & Stance",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating vendor performance scorecards & supplier kpi reviews: diplomatic hedging & constructive criticism."
+  },
+  {
+    "test_id": "BID-PUR-B2-020",
+    "title": "Joint Business Planning (JBP) with Multinationals: Executive Negotiation Rhetoric",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "High-Register Executive Negotiation Rhetoric",
+    "estimated_time_minutes": 15,
+    "description": "Advanced commercial purchasing module evaluating joint business planning (jbp) with multinationals: executive negotiation rhetoric."
+  },
+  {
+    "test_id": "BID-PUR-C1-001",
+    "title": "International Commodity Futures Hedging & Derivative Supply Contracts",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Mandative Subjunctive & Financial Jurisprudence",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining international commodity futures hedging & derivative supply contracts."
+  },
+  {
+    "test_id": "BID-PUR-C1-002",
+    "title": "Multinational Food Consortium Merger & European Commission Anti-Trust Inquest",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "High-Register Anti-Trust Competition Law",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining multinational food consortium merger & european commission anti-trust inquest."
+  },
+  {
+    "test_id": "BID-PUR-C1-003",
+    "title": "Cross-Border Food Fraud & Adulteration Forensic Arbitration",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Forensic Trade Arbitration & Evidence Standards",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining cross-border food fraud & adulteration forensic arbitration."
+  },
+  {
+    "test_id": "BID-PUR-C1-004",
+    "title": "Transcontinental Reefer Container Fleet Default & Force Majeure Maritime Litigation",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Maritime Law & Hague-Visby Cargo Rules",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining transcontinental reefer container fleet default & force majeure maritime litigation."
+  },
+  {
+    "test_id": "BID-PUR-C1-005",
+    "title": "Global Food Safety Initiative (GFSI) Systemic Failure Arbitration Under Swiss Law",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Commercial Arbitration Formulas & Indemnification",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining global food safety initiative (gfsi) systemic failure arbitration under swiss law."
+  },
+  {
+    "test_id": "BID-PUR-C1-006",
+    "title": "International Trade Sanctions & Geopolitical Agricultural Embargo Inquests",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Deontic Inversion & WTO Agricultural Treaty Law",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining international trade sanctions & geopolitical agricultural embargo inquests."
+  },
+  {
+    "test_id": "BID-PUR-C1-007",
+    "title": "Corporate Sustainability Due Diligence Directive (CSDDD) Global Supply Chain Governance",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "High-Register Corporate Governance & ESG Liability",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining corporate sustainability due diligence directive (csddd) global supply chain governance."
+  },
+  {
+    "test_id": "BID-PUR-C1-008",
+    "title": "Catastrophic Cold-Storage Ammonia Catastrophe: Third-Party Warehouse Tort Claims",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Forensic Civil Liability & Multi-Party Tort Law",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining catastrophic cold-storage ammonia catastrophe: third-party warehouse tort claims."
+  },
+  {
+    "test_id": "BID-PUR-C1-009",
+    "title": "Bilateral Agricultural Quota Dispute Before the WTO Dispute Settlement Body",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Diplomatic Trade Treaty Phrasing & Retaliation",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining bilateral agricultural quota dispute before the wto dispute settlement body."
+  },
+  {
+    "test_id": "BID-PUR-C1-010",
+    "title": "Forensic Supplier Deposition: Cartel Price-Fixing in Wholesale Frozen Foods",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Legal Cross-Examination & Forensic Testimony",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining forensic supplier deposition: cartel price-fixing in wholesale frozen foods."
+  },
+  {
+    "test_id": "BID-PUR-C1-011",
+    "title": "Master Franchise Distribution & Brand Licensing Sovereign Jurisdiction Disputes",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Complex Jurisdictional Clauses & Choice of Law",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining master franchise distribution & brand licensing sovereign jurisdiction disputes."
+  },
+  {
+    "test_id": "BID-PUR-C1-012",
+    "title": "International Currency Collapse & Hyperinflationary Agricultural Indexation",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Contractual Price Adjustment Formulas",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining international currency collapse & hyperinflationary agricultural indexation."
+  },
+  {
+    "test_id": "BID-PUR-C1-013",
+    "title": "Biotechnology & Genetically Modified Food Regulatory Interdiction Inquests",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Biosafety Protocols & Precautionary Principle Jurisprudence",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining biotechnology & genetically modified food regulatory interdiction inquests."
+  },
+  {
+    "test_id": "BID-PUR-C1-014",
+    "title": "Black Sea Grain & Edible Oil Corridor Maritime Blockade Force Majeure",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Admiralty Law & War Risk Repudiation",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining black sea grain & edible oil corridor maritime blockade force majeure."
+  },
+  {
+    "test_id": "BID-PUR-C1-015",
+    "title": "Class Action Shareholder Inquest: Supply Chain Deforestation Disclosures",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "Corporate Securities Disclosure Litigation",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining class action shareholder inquest: supply chain deforestation disclosures."
+  },
+  {
+    "test_id": "BID-PUR-C1-016",
+    "title": "High-Volume Private Label Intellectual Property & Trademark Infringement Disputes",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "FMCG Trademark Litigation & Packaging Claims",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining high-volume private label intellectual property & trademark infringement disputes."
+  },
+  {
+    "test_id": "BID-PUR-C1-017",
+    "title": "Multi-National Cold Chain Transshipment Hub Catastrophic Power Grid Failure Arbitration",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Cold-Chain Logistics & Temperature-Controlled Transport",
+    "grammar_focus": "Arbitral Award Enforcement & Liability Allocation",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining multi-national cold chain transshipment hub catastrophic power grid failure arbitration."
+  },
+  {
+    "test_id": "BID-PUR-C1-018",
+    "title": "Export Credit Agency (ECA) Sovereign Guarantee Default in Food Aid Procurement",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Contract Terms, Incoterms & Payment Negotiation",
+    "grammar_focus": "Sovereign Debt Restructuring & ECA Credit Agreements",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining export credit agency (eca) sovereign guarantee default in food aid procurement."
+  },
+  {
+    "test_id": "BID-PUR-C1-019",
+    "title": "Administrative Regulatory Penal Defense: EU Deforestation Regulation (EUDR)",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Quality Specifications, Food Safety & Non-Conformance Claims",
+    "grammar_focus": "Regulatory Compliance Verification & Due Diligence Defenses",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining administrative regulatory penal defense: eu deforestation regulation (eudr)."
+  },
+  {
+    "test_id": "BID-PUR-C1-020",
+    "title": "Chief Procurement Officer Keynote: Global Food Security & Resilient Supply Networks",
+    "level": "C1",
+    "category": "core",
+    "workplace_track": "Supplier Sourcing & Vendor Relationship Management",
+    "grammar_focus": "High-Register Executive Keynote Rhetoric",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier corporate procurement leadership module examining chief procurement officer keynote: global food security & resilient supply networks."
+  }
+]

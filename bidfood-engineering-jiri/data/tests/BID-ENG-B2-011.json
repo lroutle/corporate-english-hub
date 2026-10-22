@@ -1,0 +1,326 @@
+{
+  "test_id": "BID-ENG-B2-011",
+  "title": "Biological Wastewater Digester Biogas Generation Disruptions: Hypothetical & Unreal Structures",
+  "level": "B2",
+  "category": "core",
+  "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities",
+  "estimated_time_minutes": 15,
+  "description": "Advanced food processing plant engineering module evaluating biological wastewater digester biogas generation disruptions: hypothetical & unreal structures.",
+  "learning_objectives": [
+    "Master professional Hypothetical Inversion (Were the digester pH to drop...) in food process engineering",
+    "Eliminate common Czech interference errors in biological wastewater digester biogas generation disruptions: hypothetical & unreal structures",
+    "Demonstrate precision in refrigeration maintenance logs, CIP cycles, and plant automation SOPs"
+  ],
+  "questions": [
+    {
+      "id": "BID-ENG-B2-011-Q1",
+      "prompt": "_____ earlier during simulation, the catastrophic breakdown of the two-stage industrial ammonia refrigeration compressor would have been avoided.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If the engineers detected the defect"
+        },
+        {
+          "key": "B",
+          "text": "Had the engineers detected the defect"
+        },
+        {
+          "key": "C",
+          "text": "Would the engineers have detected the defect"
+        },
+        {
+          "key": "D",
+          "text": "Did the engineers detect the defect"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+        "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+        "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+        "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
+      },
+      "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-B2-011-Q2",
+      "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
+      "options": [
+        {
+          "key": "A",
+          "text": "technicians should bypass"
+        },
+        {
+          "key": "B",
+          "text": "technicians must to bypass"
+        },
+        {
+          "key": "C",
+          "text": "should technicians bypass"
+        },
+        {
+          "key": "D",
+          "text": "shall technicians to bypass"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+        "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+        "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_D": "'shall... to' is ungrammatical."
+      },
+      "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-B2-011-Q3",
+      "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not be showing"
+        },
+        {
+          "key": "B",
+          "text": "would not have shown"
+        },
+        {
+          "key": "C",
+          "text": "will not show"
+        },
+        {
+          "key": "D",
+          "text": "does not show"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+        "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+        "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+        "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-B2-011-Q4",
+      "prompt": "Quality audit directives mandate that every facility _____ compliance with ATEX Directive 2014/34/EU for explosive atmospheres without exception.",
+      "options": [
+        {
+          "key": "A",
+          "text": "demonstrates"
+        },
+        {
+          "key": "B",
+          "text": "will demonstrate"
+        },
+        {
+          "key": "C",
+          "text": "must to demonstrate"
+        },
+        {
+          "key": "D",
+          "text": "demonstrate"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+        "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+        "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+        "wrong_C": "'must to' is ungrammatical."
+      },
+      "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-B2-011-Q5",
+      "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the high-speed food packaging thermoformer line for immediate deployment.",
+      "options": [
+        {
+          "key": "A",
+          "text": "After completed"
+        },
+        {
+          "key": "B",
+          "text": "Have completed"
+        },
+        {
+          "key": "C",
+          "text": "Having completed"
+        },
+        {
+          "key": "D",
+          "text": "Being completed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+        "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+        "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+        "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
+      },
+      "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-B2-011-Q6",
+      "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Although"
+        },
+        {
+          "key": "B",
+          "text": "Notwithstanding"
+        },
+        {
+          "key": "C",
+          "text": "Even though"
+        },
+        {
+          "key": "D",
+          "text": "Whereas"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+        "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+        "wrong_C": "'Even though' requires a full clause.",
+        "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
+      },
+      "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-B2-011-Q7",
+      "prompt": "The failure rate of the automated palletizing robotic cell safety interlock is understood _____ by micro-fractures in the mounting alloy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to be caused"
+        },
+        {
+          "key": "B",
+          "text": "having caused"
+        },
+        {
+          "key": "C",
+          "text": "to cause"
+        },
+        {
+          "key": "D",
+          "text": "to have been caused"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+        "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+        "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+        "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
+      },
+      "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-B2-011-Q8",
+      "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did our technicians notice"
+        },
+        {
+          "key": "B",
+          "text": "our technicians noticed"
+        },
+        {
+          "key": "C",
+          "text": "noticed our technicians"
+        },
+        {
+          "key": "D",
+          "text": "have our technicians noticed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+        "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+        "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+        "wrong_D": "Present perfect conflicts with the finished narrative event."
+      },
+      "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-B2-011-Q9",
+      "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not have"
+        },
+        {
+          "key": "B",
+          "text": "should not have"
+        },
+        {
+          "key": "C",
+          "text": "cannot possibly have"
+        },
+        {
+          "key": "D",
+          "text": "may not have"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+        "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+        "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+        "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
+      },
+      "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    },
+    {
+      "id": "BID-ENG-B2-011-Q10",
+      "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whom"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+        "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+        "wrong_C": "'whom' only refers to persons.",
+        "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
+      },
+      "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
+      "workplace_track": "Steam Boilers, Compressed Air & Plant Utilities"
+    }
+  ]
+}

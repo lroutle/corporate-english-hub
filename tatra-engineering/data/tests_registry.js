@@ -2950,312 +2950,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-A2-010-Q1",
-        "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+        "prompt": "Before starting the shift, the assembly technician _____ align with the central backbone tube.",
         "options": [
           {
             "key": "A",
-            "text": "between"
+            "text": "must to"
           },
           {
             "key": "B",
-            "text": "under"
+            "text": "must"
           },
           {
             "key": "C",
-            "text": "inside"
+            "text": "is must"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "has must"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'under' accurately describes the physical spatial relationship here.",
-          "wrong_A": "Preposition 'between' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'inside' does not fit the mechanical mounting geometry.",
-          "wrong_D": "Preposition 'next to' indicates incorrect direction or orientation."
+          "correct": "Modal 'must' is followed by the bare infinitive without 'to': 'must align'.",
+          "wrong_A": "'must to' is ungrammatical; modals never take 'to'.",
+          "wrong_C": "'is must' is completely ungrammatical in English.",
+          "wrong_D": "'has must' is invalid verb phrasing."
         },
-        "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+        "cz_learning_point": "V angličtině se po způsobovém slovesu 'must' nikdy nepoužívá předložka 'to' (*must to* je hrubá chyba).",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-A2-010-Q2",
-        "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+        "prompt": "Every morning, the quality inspector securely _____ the swinging half-axle kingpin bearing on the chassis assembly jig.",
         "options": [
           {
             "key": "A",
-            "text": "under"
+            "text": "inspect"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "inspecting"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "inspects"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "is inspect"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'between' accurately describes the physical spatial relationship here.",
-          "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'inside' does not fit the mechanical mounting geometry.",
-          "wrong_D": "Preposition 'next to' indicates incorrect direction or orientation."
+          "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('inspects').",
+          "wrong_A": "Base form 'inspect' lacks required 3rd person singular '-s'.",
+          "wrong_B": "Participle 'inspecting' cannot act as finite verb without auxiliary.",
+          "wrong_D": "'is inspect' is ungrammatical."
         },
-        "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+        "cz_learning_point": "Ve 3. osobě jednotného čísla přítomného času prostého nezapomeňte na koncovku -s: 'inspects'.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-A2-010-Q3",
-        "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+        "prompt": "The technician placed the diagnostic tool _____ the workbench under the vehicle pit crossmember.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "on"
           },
           {
             "key": "B",
-            "text": "under"
+            "text": "into"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "under to"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "between of"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Preposition 'inside' accurately describes the physical spatial relationship here.",
-          "wrong_B": "Preposition 'under' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' does not fit the mechanical mounting geometry.",
-          "wrong_D": "Preposition 'next to' indicates incorrect direction or orientation."
+          "correct": "Preposition 'on' correctly denotes physical placement on a horizontal surface.",
+          "wrong_B": "'into' denotes motion entering inside an enclosed space.",
+          "wrong_C": "'under to' is an invalid double preposition.",
+          "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
         },
-        "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+        "cz_learning_point": "Čeština používá 'na stole' = 'on the workbench'. Dejte pozor na chybná spojení jako *between of*.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-A2-010-Q4",
-        "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+        "prompt": "Yesterday during the handover, the workshop mechanic _____ the air suspension bellows assembly.",
         "options": [
           {
             "key": "A",
-            "text": "under"
+            "text": "mount"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "has installed"
           },
           {
             "key": "C",
-            "text": "inside"
+            "text": "is mounting"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Preposition 'next to' accurately describes the physical spatial relationship here.",
-          "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' does not fit the mechanical mounting geometry.",
-          "wrong_C": "Preposition 'inside' indicates incorrect direction or orientation."
+          "correct": "Specific past time adverbial 'yesterday' strictly requires Past Simple 'installed'.",
+          "wrong_A": "Base form 'mount' lacks past tense inflection.",
+          "wrong_B": "Present perfect 'has installed' cannot accompany finished past time 'yesterday'.",
+          "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
         },
-        "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+        "cz_learning_point": "S příslovečným určením jako 'yesterday' se v angličtině striktně pojí minulý čas prostý (Past Simple), nikdy předpřítomný čas.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-A2-010-Q5",
-        "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+        "prompt": "Are there _____ spare gaskets left in the workshop storage cabinet?",
         "options": [
           {
             "key": "A",
-            "text": "under"
+            "text": "some"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "much"
           },
           {
             "key": "C",
-            "text": "on top of"
+            "text": "any"
           },
           {
             "key": "D",
-            "text": "inside"
+            "text": "an"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'on top of' accurately describes the physical spatial relationship here.",
-          "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' does not fit the mechanical mounting geometry.",
-          "wrong_D": "Preposition 'inside' indicates incorrect direction or orientation."
+          "correct": "'Any' is standard in questions inquiring about the existence or availability of items.",
+          "wrong_A": "'some' is typically reserved for affirmative statements or polite offers.",
+          "wrong_B": "'much' is only used with uncountable mass nouns, not plural 'gaskets'.",
+          "wrong_D": "'an' can only precede singular countable nouns beginning with a vowel sound."
         },
-        "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+        "cz_learning_point": "V běžných záporných větách a otázkách se pro 'nějaký / žádný' používá 'any', nikoli *some*.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-A2-010-Q6",
-        "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+        "prompt": "_____ the maintenance technician inspect the transfer case planetary reduction gear every shift?",
         "options": [
           {
             "key": "A",
-            "text": "under"
+            "text": "Do"
           },
           {
             "key": "B",
-            "text": "behind"
+            "text": "Does"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "Is"
           },
           {
             "key": "D",
-            "text": "inside"
+            "text": "Has"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'behind' accurately describes the physical spatial relationship here.",
-          "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' does not fit the mechanical mounting geometry.",
-          "wrong_D": "Preposition 'inside' indicates incorrect direction or orientation."
+          "correct": "Singular 3rd person subject in Present Simple requires auxiliary 'Does'.",
+          "wrong_A": "'Do' is used for plural subjects (they, we, you) or 'I'.",
+          "wrong_C": "'Is' requires an '-ing' participle (Present Continuous), not a base verb.",
+          "wrong_D": "'Has' requires a past participle (Present Perfect)."
         },
-        "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+        "cz_learning_point": "V otázkách v přítomném čase se pro 3. osobu jednotného čísla používá pomocné sloveso 'Does': 'Does the technician inspect...?'.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-A2-010-Q7",
-        "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+        "prompt": "The newly calibrated unit runs significantly _____ than the older model.",
         "options": [
           {
             "key": "A",
-            "text": "under"
+            "text": "more fast"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "fastest"
           },
           {
             "key": "C",
-            "text": "inside"
+            "text": "as fast"
           },
           {
             "key": "D",
-            "text": "into"
+            "text": "faster"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Preposition 'into' accurately describes the physical spatial relationship here.",
-          "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' does not fit the mechanical mounting geometry.",
-          "wrong_C": "Preposition 'inside' indicates incorrect direction or orientation."
+          "correct": "One-syllable adjective 'fast' forms comparative with '-er': 'faster'.",
+          "wrong_A": "'more fast' is ungrammatical; short adjectives take '-er'.",
+          "wrong_B": "'fastest' is a superlative and requires 'the'.",
+          "wrong_C": "'as fast' requires 'as' ('as fast as'), not 'than'."
         },
-        "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+        "cz_learning_point": "Jednoslabičná přídavná jména tvoří 2. stupeň koncovkou -er (faster, cheaper), nikoli pomocí *more*.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-A2-010-Q8",
-        "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+        "prompt": "_____ new components on this table must be cataloged immediately.",
         "options": [
           {
             "key": "A",
-            "text": "across"
+            "text": "These"
           },
           {
             "key": "B",
-            "text": "under"
+            "text": "This"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "That"
           },
           {
             "key": "D",
-            "text": "inside"
+            "text": "There"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Preposition 'across' accurately describes the physical spatial relationship here.",
-          "wrong_B": "Preposition 'under' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' does not fit the mechanical mounting geometry.",
-          "wrong_D": "Preposition 'inside' indicates incorrect direction or orientation."
+          "correct": "Plural noun 'components' located nearby requires plural demonstrative 'These'.",
+          "wrong_B": "'This' is singular and cannot modify plural 'components'.",
+          "wrong_C": "'That' is singular.",
+          "wrong_D": "'There' is an adverb of place or dummy pronoun, not a demonstrative determiner."
         },
-        "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+        "cz_learning_point": "Množné číslo pro věci blízko mluvčího je 'these' (tyto součástky), jednotné číslo je 'this' (tato součástka).",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-A2-010-Q9",
-        "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+        "prompt": "The team transferred the heavy assembly _____ the testing bay.",
         "options": [
           {
             "key": "A",
-            "text": "under"
+            "text": "in to"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "inside of"
           },
           {
             "key": "C",
-            "text": "along"
+            "text": "into"
           },
           {
             "key": "D",
-            "text": "inside"
+            "text": "onto to"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'along' accurately describes the physical spatial relationship here.",
-          "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' does not fit the mechanical mounting geometry.",
-          "wrong_D": "Preposition 'inside' indicates incorrect direction or orientation."
+          "correct": "'Into' expresses movement from the outside to the interior of a space.",
+          "wrong_A": "'in to' as two separate words is incorrect for directional movement.",
+          "wrong_B": "'inside of' is redundant and colloquial.",
+          "wrong_D": "'onto to' is an ungrammatical repetition."
         },
-        "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+        "cz_learning_point": "Směr dovnitř vyjadřuje předložka 'into' (přesunout do testovací haly = transferred into the bay).",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-A2-010-Q10",
-        "prompt": "The mechanic placed the torque wrench socket _____ the central backbone tube.",
+        "prompt": "Could you please _____ the shift report before leaving today?",
         "options": [
           {
             "key": "A",
-            "text": "under"
+            "text": "to sign"
           },
           {
             "key": "B",
-            "text": "against"
+            "text": "sign"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "signing"
           },
           {
             "key": "D",
-            "text": "inside"
+            "text": "signed"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'against' accurately describes the physical spatial relationship here.",
-          "wrong_A": "Preposition 'under' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' does not fit the mechanical mounting geometry.",
-          "wrong_D": "Preposition 'inside' indicates incorrect direction or orientation."
+          "correct": "Polite request with modal 'Could you please' is followed by the bare infinitive 'sign'.",
+          "wrong_A": "'to sign' is incorrect; modals do not take 'to'.",
+          "wrong_C": "Participle 'signing' cannot follow modal 'could'.",
+          "wrong_D": "Past tense 'signed' is ungrammatical after modal 'could'."
         },
-        "cz_learning_point": "Spatial prepositions require exact physical matching. Czech 'pod rourou' = 'under the tube', 'mezi polonápravami' = 'between the half-axles'.",
+        "cz_learning_point": "Po zdvořilostní žádosti 'Could you please' následuje vždy základní tvar slovesa (bare infinitive) bez 'to'.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       }
     ]
@@ -6862,312 +6862,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-002-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-002-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-002-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-002-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-002-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-002-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-002-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-002-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-002-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-002-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       }
     ]
@@ -7188,312 +7188,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-003-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B1-003-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B1-003-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B1-003-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B1-003-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B1-003-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B1-003-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B1-003-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B1-003-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B1-003-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       }
     ]
@@ -7514,312 +7514,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-004-Q1",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "fails to maintain"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-004-Q2",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "fails to maintain"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-004-Q3",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "fails to maintain"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will fail to maintain"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_B": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-004-Q4",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "failed to maintain"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "fails to maintain"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_C": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-004-Q5",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "fails to maintain"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-004-Q6",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "fails to maintain"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-004-Q7",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "failed to maintain"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "fails to maintain"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_C": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-004-Q8",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "fails to maintain"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will fail to maintain"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_B": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-004-Q9",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "fails to maintain"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-004-Q10",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "fails to maintain"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       }
     ]
@@ -7840,312 +7840,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-005-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before loosening the lower air bellows retaining flange, the technician _____ the pneumatic suspension system to prevent explosive decompression.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to completely depressurize"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "must completely depressurize"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "must completely depressurizing"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must depressurize"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Modal 'must' is directly followed by the bare infinitive verb 'depressurize' without 'to'.",
+          "wrong_A": "'must to' is ungrammatical; modal verbs never take 'to'.",
+          "wrong_C": "'must' cannot be followed by an '-ing' participle.",
+          "wrong_D": "'is must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině se po způsobovém slovesu 'must' klade holý infinitiv bez 'to': 'must depressurize' (nikdy *must to*).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-005-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Workshop safety protocol mandates that heavy-duty mechanical axle stands _____ securely beneath the backbone tube crossmember before anyone enters the pit.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "are positioning"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "position"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "be positioned"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "must to be positioned"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "The mandative subjunctive or passive construction following 'mandates that' requires 'be positioned'.",
+          "wrong_A": "Active continuous 'are positioning' does not fit passive axle stands.",
+          "wrong_B": "Axle stands do not position themselves actively.",
+          "wrong_D": "'must to be' is ungrammatical; modal 'must' does not take 'to'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Pasivní vazba u bezpečnostních předpisů: stojany musí být umístěny ('be positioned'). Neživé předměty nejednají aktivně.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-005-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The mechanic noticed an audible hiss around the auxiliary air valve _____ the bellow bladder was being inflated to operating height.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full continuous clause ('the bellow bladder was being inflated').",
+          "wrong_B": "'During' is a preposition and must be followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_C": "'For' indicates duration of time, not concurrent background actions.",
+          "wrong_D": "'Since' indicates a starting point in time or causation, not simultaneous events."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Častá chyba: 'during' se pojí s podstatným jménem (during the test), zatímco s celou větou se slovesem se pojí spojka 'while' (while it was being inflated).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-005-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "After removing the top mounting bolts, inspect the upper vulcanized rubber bead _____ signs of ozone cracking or abrasive wear against the bump stop.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "at"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "against"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "for"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "The standard engineering collocation is 'inspect [something] for [defects/signs]'.",
+          "wrong_A": "'inspect to' is incorrect phrasing for checking defects.",
+          "wrong_B": "'inspect at' is non-standard in mechanical inspection.",
+          "wrong_C": "'against' expresses opposition or contact, not the purpose of the inspection."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Vazba 'inspect for defects' = zkontrolovat na přítomnost vad. Češi často nesprávně volí předložku 'on' nebo 'at'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-005-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the replacement bellows does not seat properly on the lower swinging half-axle pedestal, the air fitting _____ cross-threaded.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "might be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is might"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Might be' correctly expresses technical possibility/deduction without ungrammatical 'to'.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical in English.",
+          "wrong_D": "'is might' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Způsobová slovesa vyjadřující možnost (might, may, can, could) se nikdy nepojí s předložkou 'to': 'might be cross-threaded'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-005-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Never inflate a new air spring assembly beyond 0.5 bar _____ the axle shock absorber and upper retaining bracket are fully bolted down.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "by"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "until"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "during"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Until' indicates a condition or time limit that must occur before the prohibited action can change.",
+          "wrong_A": "'by' denotes a deadline, not a temporal condition clause.",
+          "wrong_C": "'during' cannot introduce a finite subordinate clause.",
+          "wrong_D": "'since' indicates elapsed time from a past event or reason."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Until' = dokud ne / až do okamžiku, kdy. V angličtině po 'until' nenásleduje zápor: 'until they are fully bolted down'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-005-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance technician _____ the pneumatic quick-release coupling yesterday because the internal O-ring had dried out.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "has replaced"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "replaces"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "is replacing"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "replaced"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "The specific past time indicator 'yesterday' strictly requires Past Simple 'replaced'.",
+          "wrong_A": "Present Perfect 'has replaced' cannot be used with finished past time expressions like 'yesterday'.",
+          "wrong_B": "Present Simple expresses habitual routines, not a specific finished event.",
+          "wrong_C": "Present Continuous expresses an action in progress right now."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "S příslovečným určením minulého času jako 'yesterday' se v angličtině striktně pojí minulý čas prostý (Past Simple: 'replaced'), nikoli předpřítomný čas.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-005-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Tatra workshop manual TM-815 specifies that the mounting nuts _____ to 180 Nm using a calibrated torque wrench.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "should be tightened"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "should tighten"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "should to be tightened"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "are should tightened"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Passive with modal 'should be tightened' correctly indicates how the nuts must be handled.",
+          "wrong_B": "Active 'should tighten' is wrong; nuts cannot tighten themselves.",
+          "wrong_C": "'should to be' is ungrammatical.",
+          "wrong_D": "'are should' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Trpný rod se způsobovým slovesem: 'should be tightened' (měly by být dotaženy). Vyhněte se činnému rodu u neživých součástek.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-005-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "To verify proper sealing after installation, apply soapy water solution _____ all pneumatic push-in airline fittings.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "into"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "towards"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "to"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "on top"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "The verb 'apply' collocates with preposition 'to': 'apply solution to fittings'.",
+          "wrong_A": "'into' would mean introducing liquid inside the pressurized air lines, which causes contamination.",
+          "wrong_B": "'towards' denotes general direction, not contact application.",
+          "wrong_D": "'on top' is an incomplete prepositional phrase lacking 'of'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Vazba 'apply something to something' = aplikovat / nanést něco na něco. Do vnitřku vedení ('into') se roztok nesmí dostat.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-005-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The truck cannot pass the workshop functional release inspection _____ the pneumatic leveling valve automatically restores ride height within 30 seconds.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "provided that"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "if"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'except if' or 'if not', expressing the mandatory condition required for passing.",
+          "wrong_A": "'provided that' would mean the truck cannot pass IF the valve works, which is illogical.",
+          "wrong_C": "'if' creates an illogical negative outcome.",
+          "wrong_D": "'as long as' also creates an inverted, illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       }
     ]
@@ -8166,312 +8166,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-006-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-006-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-006-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-006-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-006-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-006-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-006-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-006-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-006-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-006-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       }
     ]
@@ -8492,312 +8492,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-007-Q1",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "fails to maintain"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-007-Q2",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "fails to maintain"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-007-Q3",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "fails to maintain"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will fail to maintain"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_B": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-007-Q4",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "failed to maintain"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "fails to maintain"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_C": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-007-Q5",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "fails to maintain"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-007-Q6",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "fails to maintain"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-007-Q7",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "failed to maintain"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "fails to maintain"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_C": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-007-Q8",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "fails to maintain"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will fail to maintain"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_B": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-007-Q9",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "fails to maintain"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-007-Q10",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "fails to maintain"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       }
     ]
@@ -9144,312 +9144,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-009-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-009-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-009-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-009-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-009-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-009-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-009-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-009-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-009-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-009-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       }
     ]
@@ -9470,312 +9470,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-010-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-010-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-010-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-010-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-010-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-010-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-010-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-010-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-010-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-010-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       }
     ]
@@ -9796,312 +9796,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-011-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-011-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-011-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-011-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-011-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-011-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-011-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-011-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-011-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-011-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       }
     ]
@@ -10122,312 +10122,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-012-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-012-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-012-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-012-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-012-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-012-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-012-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-012-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-012-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-012-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       }
     ]
@@ -10774,312 +10774,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-014-Q1",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "fails to maintain"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-014-Q2",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "fails to maintain"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-014-Q3",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "fails to maintain"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will fail to maintain"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_B": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-014-Q4",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "failed to maintain"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "fails to maintain"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_C": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-014-Q5",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "fails to maintain"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-014-Q6",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "fails to maintain"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-014-Q7",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "failed to maintain"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "fails to maintain"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_C": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-014-Q8",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "fails to maintain"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will fail to maintain"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_B": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-014-Q9",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would fail to maintain"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "fails to maintain"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-014-Q10",
-        "prompt": "If the CTIS air compressor _____ pressure above 8 bar within five minutes, the ECU flags an air leak warning.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will fail to maintain"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "fails to maintain"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would fail to maintain"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "failed to maintain"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails to maintain') for real operational consequences.",
-          "wrong_A": "Cannot use 'will' in the conditional if-clause.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional if-clause.",
-          "wrong_D": "Past tense produces an unreal condition, mismatched with present 'flags'."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Czenglish trap: Never put 'will' into the if-clause (*If the compressor will fail*). Use Present Simple: 'If the compressor fails'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       }
     ]
@@ -11100,312 +11100,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-015-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-015-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-015-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-015-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-015-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-015-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-015-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-015-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-015-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B1-015-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       }
     ]
@@ -11426,312 +11426,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-016-Q1",
-        "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the air suspension bellows pressure _____.",
+        "prompt": "The test engineer noticed that the dynamic accelerometer _____ securely onto the backbone tube chassis before the high-speed gravel run began.",
         "options": [
           {
             "key": "A",
-            "text": "was calibrated"
+            "text": "was mounting"
           },
           {
             "key": "B",
-            "text": "had been calibrated"
+            "text": "had been mounted"
           },
           {
             "key": "C",
-            "text": "has been calibrated"
+            "text": "has mounted"
           },
           {
             "key": "D",
-            "text": "didn't calibrate"
+            "text": "didn't mount"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Past Perfect Passive ('had been calibrated') is required because the action was completed prior to the past action 'noticed'.",
-          "wrong_A": "Past Simple ('was calibrated') fails to indicate precedence before 'noticed'.",
-          "wrong_C": "Present Perfect ('has been calibrated') cannot connect to a past anchor time.",
-          "wrong_D": "'didn't calibrate' is active voice, but mechanical parts are acted upon passively."
+          "correct": "Past Perfect Passive ('had been mounted') expresses an action completed prior to the past reference point 'began'.",
+          "wrong_A": "Active continuous 'was mounting' does not fit passive sensor installation.",
+          "wrong_C": "Present Perfect 'has mounted' cannot connect to a past narrative.",
+          "wrong_D": "Active past simple 'didn't mount' is grammatically incorrect for passive equipment."
         },
-        "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+        "cz_learning_point": "Děj, který proběhl před jiným dějem v minulosti ('before the run began'), vyžaduje předminulý čas v trpném rodě: 'had been mounted'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B1-016-Q2",
-        "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the swinging half-axle crown gear teeth _____.",
+        "prompt": "If the telemetry transceiver _____ signal with the base station on the Kopřivnice test polygon, the onboard logger stores raw vibration data internally.",
         "options": [
           {
             "key": "A",
-            "text": "was lubricated"
+            "text": "will lose"
           },
           {
             "key": "B",
-            "text": "has been lubricated"
+            "text": "would lose"
           },
           {
             "key": "C",
-            "text": "had been lubricated"
+            "text": "loses"
           },
           {
             "key": "D",
-            "text": "didn't lubricate"
+            "text": "lost"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Past Perfect Passive ('had been lubricated') is required because the action was completed prior to the past action 'noticed'.",
-          "wrong_A": "Past Simple ('was lubricated') fails to indicate precedence before 'noticed'.",
-          "wrong_B": "Present Perfect ('has been lubricated') cannot connect to a past anchor time.",
-          "wrong_D": "'didn't lubricate' is active voice, but mechanical parts are acted upon passively."
+          "correct": "First conditional rule: Present Simple ('loses') in the conditional clause for real operational contingencies.",
+          "wrong_A": "'will' cannot be used in a conditional if-clause.",
+          "wrong_B": "'would' cannot be used in a real First Conditional.",
+          "wrong_D": "Past tense 'lost' would conflict with present indicative 'stores'."
         },
-        "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+        "cz_learning_point": "Typická chyba: v podmínkové větě s 'if' se nesmí použít 'will' (*if it will lose*). Použijte přítomný čas: 'if it loses'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B1-016-Q3",
-        "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the central tire inflation system (CTIS) rotary seals _____.",
+        "prompt": "During the 60 km/h Belgian block test, the suspension transducers registered severe vibrations _____ the rear swinging half-axles.",
         "options": [
           {
             "key": "A",
-            "text": "had been tested"
+            "text": "across"
           },
           {
             "key": "B",
-            "text": "was tested"
+            "text": "into"
           },
           {
             "key": "C",
-            "text": "has been tested"
+            "text": "onto"
           },
           {
             "key": "D",
-            "text": "didn't test"
+            "text": "between of"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Past Perfect Passive ('had been tested') is required because the action was completed prior to the past action 'noticed'.",
-          "wrong_B": "Past Simple ('was tested') fails to indicate precedence before 'noticed'.",
-          "wrong_C": "Present Perfect ('has been tested') cannot connect to a past anchor time.",
-          "wrong_D": "'didn't test' is active voice, but mechanical parts are acted upon passively."
+          "correct": "'Across' appropriately describes vibrations distributed throughout or spanning the axle assembly.",
+          "wrong_B": "'into' implies directional movement entering inside.",
+          "wrong_C": "'onto' denotes motion to a surface.",
+          "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
         },
-        "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+        "cz_learning_point": "Předložka 'across' vyjadřuje rozložení vibrací napříč polonápravami. Vyvarujte se chybné vazby *between of*.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B1-016-Q4",
-        "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the hydraulic retarder cooling valves _____.",
+        "prompt": "To avoid electromagnetic noise interference from the alternator, all analog sensor cables _____ with grounded braided shielding.",
         "options": [
           {
             "key": "A",
-            "text": "was inspected"
+            "text": "must to route"
           },
           {
             "key": "B",
-            "text": "has been inspected"
+            "text": "are routing"
           },
           {
             "key": "C",
-            "text": "didn't inspect"
+            "text": "must route"
           },
           {
             "key": "D",
-            "text": "had been inspected"
+            "text": "must be routed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Past Perfect Passive ('had been inspected') is required because the action was completed prior to the past action 'noticed'.",
-          "wrong_A": "Past Simple ('was inspected') fails to indicate precedence before 'noticed'.",
-          "wrong_B": "Present Perfect ('has been inspected') cannot connect to a past anchor time.",
-          "wrong_C": "'didn't inspect' is active voice, but mechanical parts are acted upon passively."
+          "correct": "Passive with modal 'must be routed' correctly indicates cable routing requirements.",
+          "wrong_A": "'must to route' is ungrammatical.",
+          "wrong_B": "Cables do not route themselves actively.",
+          "wrong_C": "Active voice 'must route' lacks an object and misassigns action to cables."
         },
-        "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+        "cz_learning_point": "Kabely musí být vedeny stíněním: 'must be routed'. Způsobové sloveso s trpným rodem 'be + příčestí minulé'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B1-016-Q5",
-        "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the transfer case planetary gear set _____.",
+        "prompt": "The telemetry technician spent three hours yesterday _____ the multi-channel strain gauge amplifier before zero-point offset calibration.",
         "options": [
           {
             "key": "A",
-            "text": "was aligned"
+            "text": "to fine-tune"
           },
           {
             "key": "B",
-            "text": "has been aligned"
+            "text": "fine-tune"
           },
           {
             "key": "C",
-            "text": "had been aligned"
+            "text": "fine-tuning"
           },
           {
             "key": "D",
-            "text": "didn't align"
+            "text": "fine-tuned"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Past Perfect Passive ('had been aligned') is required because the action was completed prior to the past action 'noticed'.",
-          "wrong_A": "Past Simple ('was aligned') fails to indicate precedence before 'noticed'.",
-          "wrong_B": "Present Perfect ('has been aligned') cannot connect to a past anchor time.",
-          "wrong_D": "'didn't align' is active voice, but mechanical parts are acted upon passively."
+          "correct": "The verb structure 'spend time doing something' requires the '-ing' gerund form: 'fine-tuning'.",
+          "wrong_A": "'spend time to do' is ungrammatical in standard English.",
+          "wrong_B": "Base form without '-ing' is incorrect after 'spend time'.",
+          "wrong_D": "Past form cannot follow 'spend time'."
         },
-        "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+        "cz_learning_point": "Vazba 'spend time doing something' vyžaduje gerundium s koncovkou -ing: 'spent three hours fine-tuning' (nikoli *to fine-tune*).",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B1-016-Q6",
-        "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the backbone tube flange connecting bolts _____.",
+        "prompt": "Tatra prototype T-815-7 was driven over the 400 mm vertical obstacle _____ the dynamic wheel travel limits could be evaluated by optical cameras.",
         "options": [
           {
             "key": "A",
-            "text": "was torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "had been torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "has been torqued"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "didn't torque"
+            "text": "for"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Past Perfect Passive ('had been torqued') is required because the action was completed prior to the past action 'noticed'.",
-          "wrong_A": "Past Simple ('was torqued') fails to indicate precedence before 'noticed'.",
-          "wrong_C": "Present Perfect ('has been torqued') cannot connect to a past anchor time.",
-          "wrong_D": "'didn't torque' is active voice, but mechanical parts are acted upon passively."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the dynamic wheel travel limits could be evaluated').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for' cannot introduce this purpose clause with modal 'could'."
         },
-        "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná podmětem a způsobovým slovesem: 'so that limits could be evaluated').",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B1-016-Q7",
-        "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the dual-circuit pneumatic brake lines _____.",
+        "prompt": "When reviewing the accelerometer telemetry log, the validation engineer realized that the low-pass Butterworth filter _____ at 200 Hz instead of 500 Hz.",
         "options": [
           {
             "key": "A",
-            "text": "was purged"
+            "text": "was set"
           },
           {
             "key": "B",
-            "text": "has been purged"
+            "text": "has set"
           },
           {
             "key": "C",
-            "text": "didn't purge"
+            "text": "is setting"
           },
           {
             "key": "D",
-            "text": "had been purged"
+            "text": "had been set"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Past Perfect Passive ('had been purged') is required because the action was completed prior to the past action 'noticed'.",
-          "wrong_A": "Past Simple ('was purged') fails to indicate precedence before 'noticed'.",
-          "wrong_B": "Present Perfect ('has been purged') cannot connect to a past anchor time.",
-          "wrong_C": "'didn't purge' is active voice, but mechanical parts are acted upon passively."
+          "correct": "Past Perfect Passive ('had been set') is required because the filter configuration occurred before the engineer 'realized' it.",
+          "wrong_A": "Past simple does not clearly indicate priority before 'realized'.",
+          "wrong_B": "Present perfect active is incorrect in voice and tense.",
+          "wrong_C": "Present continuous does not fit completed past telemetry recording."
         },
-        "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+        "cz_learning_point": "Čeština používá v obou větách minulý čas. V angličtině vyžaduje děj předcházející minulému okamžiku předminulý čas: 'had been set'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B1-016-Q8",
-        "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the differential lock pneumatic solenoid _____.",
+        "prompt": "The NATO STANAG test protocol requires that each triaxial sensor _____ re-zeroed immediately after every heavy obstacle impact test.",
         "options": [
           {
             "key": "A",
-            "text": "had been replaced"
+            "text": "be"
           },
           {
             "key": "B",
-            "text": "was replaced"
+            "text": "is"
           },
           {
             "key": "C",
-            "text": "has been replaced"
+            "text": "will be"
           },
           {
             "key": "D",
-            "text": "didn't replace"
+            "text": "must to be"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Past Perfect Passive ('had been replaced') is required because the action was completed prior to the past action 'noticed'.",
-          "wrong_B": "Past Simple ('was replaced') fails to indicate precedence before 'noticed'.",
-          "wrong_C": "Present Perfect ('has been replaced') cannot connect to a past anchor time.",
-          "wrong_D": "'didn't replace' is active voice, but mechanical parts are acted upon passively."
+          "correct": "The mandative subjunctive following 'requires that' uses the base form 'be' in formal technical documentation.",
+          "wrong_B": "Indicative 'is' is informal and less appropriate in formal standard specifications.",
+          "wrong_C": "Future 'will be' is incorrect after mandative 'requires that'.",
+          "wrong_D": "'must to be' is ungrammatical."
         },
-        "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+        "cz_learning_point": "Subjunktiv po slovesech požadavku ('requires that each sensor be re-zeroed') používá základní tvar 'be', nikoli *is* nebo *will be*.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B1-016-Q9",
-        "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the steering drag link ball joints _____.",
+        "prompt": "Why _____ the mobile DAQ (Data Acquisition) unit shut down unexpectedly during the cross-country trench crossing trial?",
         "options": [
           {
             "key": "A",
-            "text": "was greased"
+            "text": "has"
           },
           {
             "key": "B",
-            "text": "has been greased"
+            "text": "was"
           },
           {
             "key": "C",
-            "text": "had been greased"
+            "text": "did"
           },
           {
             "key": "D",
-            "text": "didn't grease"
+            "text": "does"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Past Perfect Passive ('had been greased') is required because the action was completed prior to the past action 'noticed'.",
-          "wrong_A": "Past Simple ('was greased') fails to indicate precedence before 'noticed'.",
-          "wrong_B": "Present Perfect ('has been greased') cannot connect to a past anchor time.",
-          "wrong_D": "'didn't grease' is active voice, but mechanical parts are acted upon passively."
+          "correct": "Past Simple question with base verb 'shut down' requires auxiliary 'did': 'Why did the unit shut down?'.",
+          "wrong_A": "'has' would require past participle and doesn't fit specific past event 'during the trial'.",
+          "wrong_B": "'was' with 'shut down' would form a passive without subject-verb agreement or agent.",
+          "wrong_D": "'does' is present tense, incompatible with completed trial."
         },
-        "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+        "cz_learning_point": "Tvoření otázek v minulém čase: tázací způsobové pomocné sloveso 'did' + podmět + základní tvar slovesa ('Why did the unit shut down?').",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B1-016-Q10",
-        "prompt": "Before the prototype truck entered the test track, the test engineer noticed that the V8 turbocharged intercooler ducts _____.",
+        "prompt": "Unless the pneumatic tire pressure monitoring sensors are recalibrated for cold-weather conditions, the rolling resistance data _____ invalid.",
         "options": [
           {
             "key": "A",
-            "text": "was fastened"
+            "text": "remains"
           },
           {
             "key": "B",
-            "text": "had been fastened"
+            "text": "will remain"
           },
           {
             "key": "C",
-            "text": "has been fastened"
+            "text": "would have remained"
           },
           {
             "key": "D",
-            "text": "didn't fasten"
+            "text": "remained"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Past Perfect Passive ('had been fastened') is required because the action was completed prior to the past action 'noticed'.",
-          "wrong_A": "Past Simple ('was fastened') fails to indicate precedence before 'noticed'.",
-          "wrong_C": "Present Perfect ('has been fastened') cannot connect to a past anchor time.",
-          "wrong_D": "'didn't fasten' is active voice, but mechanical parts are acted upon passively."
+          "correct": "First conditional result clause takes 'will + base verb' ('will remain') paired with present condition 'Unless... are recalibrated'.",
+          "wrong_A": "Present simple in the main clause expresses timeless general truth rather than future predictive consequence.",
+          "wrong_C": "Third conditional form conflicts with present conditional clause.",
+          "wrong_D": "Past tense cannot serve as the main clause for a present condition."
         },
-        "cz_learning_point": "Czech uses simple past for both actions ('všiml si, že díl nebyl...'). In English engineering logs, use Past Perfect for sequence clarity.",
+        "cz_learning_point": "První kondicionál (First Conditional): Pokud je v podmínce přítomný čas (Unless sensors are...), v hlavní větě musí být budoucí čas: 'will remain'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       }
     ]
@@ -11752,312 +11752,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-017-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-017-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-017-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-017-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-017-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-017-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-017-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-017-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-017-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B1-017-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       }
     ]
@@ -12078,312 +12078,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-018-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-018-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-018-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-018-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-018-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-018-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-018-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-018-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-018-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-018-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       }
     ]
@@ -12404,312 +12404,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-019-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-019-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-019-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-019-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-019-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-019-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-019-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-019-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-019-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B1-019-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       }
     ]
@@ -12730,312 +12730,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B1-020-Q1",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "Before the validation auditor arrived in the Kopřivnice heavy assembly bay, the assembly technician noticed that the differential gear housing _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "was assembled"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "had been assembled"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "has been assembled"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "didn't align"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been assembled') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was assembled') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been assembled') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-020-Q2",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-020-Q3",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-020-Q4",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "According to ECE R13 brake regulation protocols, the air suspension bellows assembly _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be installed"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "must mount"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "are must installed"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "must be installed"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
+          "correct": "Passive with modal: 'must be installed' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-020-Q5",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-020-Q6",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-020-Q7",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be torqued"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be torqued"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-020-Q8",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be torqued"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be torqued"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-020-Q9",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must torque"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be torqued"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       },
       {
         "id": "TTR-ENG-B1-020-Q10",
-        "prompt": "All backbone tube structural mounting fasteners _____ to 450 Nm according to Tatra workshop manual TM-815.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be torqued"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be torqued"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must torque"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be torqued"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be torqued'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must torque' is active voice; fasteners do not torque themselves.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "SOP instructions require passive voice with modals: 'must be torqued' (musí být dotaženy). Avoid active voice for inanimate parts.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Quality Assurance, Inspection & Torque Verification"
       }
     ]
@@ -13382,312 +13382,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-002-Q1",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "should assembly technicians"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-002-Q2",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "should assembly technicians"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
           "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-002-Q3",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "should assembly technicians"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "assembly technicians should"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_B": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-002-Q4",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "shall assembly technicians to"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "should assembly technicians"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_C": "'shall... to' is ungrammatical in English."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-002-Q5",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "should assembly technicians"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-002-Q6",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "should assembly technicians"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-002-Q7",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "shall assembly technicians to"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "should assembly technicians"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_C": "'shall... to' is ungrammatical in English."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-002-Q8",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "should assembly technicians"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "assembly technicians should"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_B": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-002-Q9",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "should assembly technicians"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-002-Q10",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "should assembly technicians"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       }
     ]
@@ -13708,312 +13708,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-003-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-003-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-003-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-003-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-003-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-003-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-003-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-003-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-003-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-003-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       }
     ]
@@ -14034,312 +14034,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-004-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-004-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-004-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-004-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-004-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-004-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-004-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-004-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-004-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-004-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       }
     ]
@@ -14686,312 +14686,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-006-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-006-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-006-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-006-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-006-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-006-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-006-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-006-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-006-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-006-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       }
     ]
@@ -15338,312 +15338,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-008-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B2-008-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B2-008-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B2-008-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B2-008-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B2-008-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B2-008-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B2-008-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B2-008-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Workshop Assembly & Line Tooling"
       },
       {
         "id": "TTR-ENG-B2-008-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Workshop Assembly & Line Tooling"
       }
     ]
@@ -15664,312 +15664,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-009-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-009-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-009-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-009-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-009-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-009-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-009-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-009-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-009-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-009-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       }
     ]
@@ -15990,312 +15990,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-010-Q1",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "should assembly technicians"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-010-Q2",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "should assembly technicians"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
           "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-010-Q3",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "should assembly technicians"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "assembly technicians should"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_B": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-010-Q4",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "shall assembly technicians to"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "should assembly technicians"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_C": "'shall... to' is ungrammatical in English."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-010-Q5",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "should assembly technicians"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-010-Q6",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "should assembly technicians"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-010-Q7",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "shall assembly technicians to"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "should assembly technicians"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_C": "'shall... to' is ungrammatical in English."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-010-Q8",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "should assembly technicians"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "assembly technicians should"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_B": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-010-Q9",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "should assembly technicians"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-010-Q10",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "should assembly technicians"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       }
     ]
@@ -16316,312 +16316,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-011-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-011-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-011-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-011-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-011-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-011-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-011-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-011-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-011-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-011-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       }
     ]
@@ -16642,312 +16642,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-012-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-012-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-012-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-012-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-012-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-012-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-012-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-012-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-012-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-012-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       }
     ]
@@ -16968,312 +16968,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-013-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-013-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-013-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-013-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-013-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-013-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-013-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-013-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-013-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-013-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       }
     ]
@@ -17620,312 +17620,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-015-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-015-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-015-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-015-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-015-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-015-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-015-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-015-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-015-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-015-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       }
     ]
@@ -17946,312 +17946,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-016-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-016-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-016-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-016-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-016-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-016-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-016-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-016-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-016-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       },
       {
         "id": "TTR-ENG-B2-016-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Powertrain & Engine Systems (Air-cooled V8 & Cummins)"
       }
     ]
@@ -18272,312 +18272,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-017-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-017-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-017-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-017-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-017-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-017-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-017-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-017-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-017-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       },
       {
         "id": "TTR-ENG-B2-017-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Central Backbone Tube & Chassis R&D"
       }
     ]
@@ -18598,312 +18598,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-018-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-018-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-018-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-018-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-018-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-018-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-018-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-018-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-018-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       },
       {
         "id": "TTR-ENG-B2-018-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Suspension, Half-Axles & CTIS Diagnostics"
       }
     ]
@@ -18924,312 +18924,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-019-Q1",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-019-Q2",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-019-Q3",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-019-Q4",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-019-Q5",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-019-Q6",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-019-Q7",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "does not deform"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "would not deform"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_C": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-019-Q8",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "would not deform"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "would not have deformed"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_B": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-019-Q9",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "will not deform"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "would not deform"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_B": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-019-Q10",
-        "prompt": "If the metallurgical heat treatment had been performed properly in Kopřivnice, the drive axle _____ under heavy mining loads today.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "would not have deformed"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "would not deform"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "will not deform"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "does not deform"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Mixed conditional: past cause ('had been performed') with present result ('today') takes 'would not deform'.",
-          "wrong_A": "'would not have deformed' refers to past result, but the adverbial 'today' anchors the consequence to the present.",
-          "wrong_C": "'will not deform' is First Conditional, incompatible with past unreal condition.",
-          "wrong_D": "Simple present indicative 'does not deform' cannot express hypothetical consequence."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Mixed Conditionals connect a past action with a present state of affairs: 'If it had been treated [past], it would not deform [today]'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       }
     ]
@@ -19250,312 +19250,312 @@ Object.assign(window.TEST_REGISTRY, {
     "questions": [
       {
         "id": "TTR-ENG-B2-020-Q1",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "_____ earlier during simulation, the catastrophic breakdown of the differential gear housing would have been avoided.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "If the engineers detected the defect"
           },
           {
             "key": "B",
-            "text": "should assembly technicians"
+            "text": "Had the engineers detected the defect"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "Would the engineers have detected the defect"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "Did the engineers detect the defect"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Inverted Third Conditional 'Had the engineers detected...' correctly replaces 'If the engineers had detected...' in formal engineering discourse.",
+          "wrong_A": "'If the engineers detected' is Second Conditional (hypothetical present/future), incompatible with past 'would have been avoided'.",
+          "wrong_C": "'Would... have' cannot appear inside the conditional premise clause.",
+          "wrong_D": "'Did... detect' expresses a past question, not an unreal conditional condition."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Ve formální technické angličtině se podmínka v minulosti často tvoří inverzí bez 'if': 'Had the engineers detected...' = 'Kdyby bývali inženýři zjistili...'. Do podmínky nikdy nepatří *would*.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-020-Q2",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "Under no circumstances _____ the secondary safety interlocks during live machine operation.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "technicians should bypass"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "technicians must to bypass"
           },
           {
             "key": "C",
-            "text": "should assembly technicians"
+            "text": "should technicians bypass"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "shall technicians to bypass"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
+          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should technicians bypass'.",
+          "wrong_A": "'technicians should bypass' lacks required subject-auxiliary inversion.",
           "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "wrong_D": "'shall... to' is ungrammatical."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Záporné úvodní fráze ('Under no circumstances', 'Rarely', 'Seldom') vyžadují převrácený slovosled (inverzi jako u otázky): 'Under no circumstances should technicians bypass...'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-020-Q3",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "If the preventative maintenance had been carried out properly last week, the system _____ erratic readings today.",
         "options": [
           {
             "key": "A",
-            "text": "should assembly technicians"
+            "text": "would not be showing"
           },
           {
             "key": "B",
-            "text": "assembly technicians should"
+            "text": "would not have shown"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "will not show"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "does not show"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_B": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Mixed conditional: past unreal action ('had been carried out last week') with ongoing present result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past consequence, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If it had been done [minulost], it would not be showing [dnes]'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-020-Q4",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "Quality audit directives mandate that every facility _____ compliance with ECE R13 brake regulation protocols without exception.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "demonstrates"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "will demonstrate"
           },
           {
             "key": "C",
-            "text": "shall assembly technicians to"
+            "text": "must to demonstrate"
           },
           {
             "key": "D",
-            "text": "should assembly technicians"
+            "text": "demonstrate"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_C": "'shall... to' is ungrammatical in English."
+          "correct": "Mandative subjunctive after 'mandate that' requires the base verb form 'demonstrate' regardless of singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Subjunktiv po formálních slovesech požadavku (mandate that, require that, insist that) vyžaduje základní tvar slovesa bez -s i u 3. osoby: 'mandate that every facility demonstrate'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-020-Q5",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "_____ comprehensive non-destructive ultrasonic testing, the inspection team cleared the air-cooled V8 cylinder head gasket for immediate deployment.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "After completed"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "Have completed"
           },
           {
             "key": "C",
-            "text": "should assembly technicians"
+            "text": "Having completed"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "Being completed"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Perfect active participle 'Having completed' correctly expresses an action finished prior to the main clause action 'cleared'.",
+          "wrong_A": "'After completed' is ungrammatical; 'after' requires an '-ing' participle or full clause.",
+          "wrong_B": "'Have completed' cannot act as an introductory participial phrase.",
+          "wrong_D": "'Being completed' is passive present, but the inspection team actively completed the testing."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Předpřítomné participium (Having completed = poté, co dokončili) vyjadřuje předcházející děj před hlavní větou.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-020-Q6",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "_____ severe supply chain bottlenecks, the engineering team delivered the prototype on schedule.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "Although"
           },
           {
             "key": "B",
-            "text": "should assembly technicians"
+            "text": "Notwithstanding"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "Even though"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "Whereas"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('severe supply chain bottlenecks').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full clause with subject and verb.",
+          "wrong_C": "'Even though' requires a full clause.",
+          "wrong_D": "'Whereas' introduces a contrastive clause, not a prepositional phrase."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-020-Q7",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "The failure rate of the dual-circuit pneumatic brake actuator is understood _____ by micro-fractures in the mounting alloy.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "to be caused"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "having caused"
           },
           {
             "key": "C",
-            "text": "shall assembly technicians to"
+            "text": "to cause"
           },
           {
             "key": "D",
-            "text": "should assembly technicians"
+            "text": "to have been caused"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_C": "'shall... to' is ungrammatical in English."
+          "correct": "Perfect passive infinitive 'to have been caused' correctly attributes a past completed cause to a current condition.",
+          "wrong_A": "Present passive 'to be caused' fails to indicate past completion.",
+          "wrong_B": "Participle 'having caused' cannot follow passive reporting verb 'is understood'.",
+          "wrong_C": "Active infinitive 'to cause' is wrong in voice; failure rates do not cause themselves."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Vazba 'is understood to have been caused' (má se za to, že bylo způsobeno) vyjadřuje minulý děj pomocí minulého infinitivu trpného.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-020-Q8",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "Only after the second calibration cycle _____ the anomalous drift in sensor telemetry.",
         "options": [
           {
             "key": "A",
-            "text": "should assembly technicians"
+            "text": "did our technicians notice"
           },
           {
             "key": "B",
-            "text": "assembly technicians should"
+            "text": "our technicians noticed"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "noticed our technicians"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "have our technicians noticed"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_B": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did our technicians notice'.",
+          "wrong_B": "'our technicians noticed' lacks the required subject-auxiliary inversion.",
+          "wrong_C": "'noticed our technicians' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with the finished narrative event."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled s pomocným slovesem: 'Only after the cycle did technicians notice...'.",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-020-Q9",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "Given the rigorous pre-flight inspections, the hydraulic failure _____ occurred without catastrophic external impact.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "must not have"
           },
           {
             "key": "B",
-            "text": "assembly technicians must to"
+            "text": "should not have"
           },
           {
             "key": "C",
-            "text": "should assembly technicians"
+            "text": "cannot possibly have"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "may not have"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past event.",
+          "wrong_A": "'must not have' expresses deduction that something did not happen, but lacks impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or reproach, not impossibility.",
+          "wrong_D": "'may not have' expresses mere uncertainty, incompatible with 'conclusive'."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have occurred' (rozhodně nemohlo dojít k...).",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       },
       {
         "id": "TTR-ENG-B2-020-Q10",
-        "prompt": "Under no circumstances _____ bypass the secondary locking pins on the swinging half-axle assembly rig.",
+        "prompt": "The international consortium signed an operational agreement, under the terms of _____ all patent rights remain protected.",
         "options": [
           {
             "key": "A",
-            "text": "assembly technicians should"
+            "text": "that"
           },
           {
             "key": "B",
-            "text": "should assembly technicians"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "assembly technicians must to"
+            "text": "whom"
           },
           {
             "key": "D",
-            "text": "shall assembly technicians to"
+            "text": "what"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Negative phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should assembly technicians'.",
-          "wrong_A": "'assembly technicians should' lacks required subject-auxiliary inversion.",
-          "wrong_C": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
-          "wrong_D": "'shall... to' is ungrammatical in English."
+          "correct": "Prepositional relative phrase 'under the terms of which' strictly takes 'which' when referring to an inanimate contract or agreement.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' only refers to persons.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
         },
-        "cz_learning_point": "Negative introductory phrases ('Under no circumstances', 'Rarely', 'Seldom') trigger question word order: 'Under no circumstances should technicians bypass...'.",
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro věci a smlouvy používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
         "workplace_track": "Vehicle Homologation & NATO STANAG Mobility"
       }
     ]

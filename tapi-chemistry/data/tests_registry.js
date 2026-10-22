@@ -5551,319 +5551,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 10,
     "description": "Foundational chemical laboratory module covering tlc chromatography chamber solvent level & cover glass.",
     "learning_objectives": [
-      "Master professional Spatial Prepositions (above, below, on) in organic API synthesis and QC analysis",
+      "Master professional Spatial Prepositions (above, below, on) in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in tlc chromatography chamber solvent level & cover glass",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-A2-018-Q1",
-        "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+        "prompt": "Before starting the shift, the analytical qc chemist _____ equilibrate with 60:40 acetonitrile-water mobile phase.",
         "options": [
           {
             "key": "A",
-            "text": "between"
+            "text": "must to"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "must"
           },
           {
             "key": "C",
-            "text": "under"
+            "text": "is must"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "has must"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'inside' accurately describes the physical laboratory location.",
-          "wrong_A": "Preposition 'between' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'under' is incompatible with the cabinet layout.",
-          "wrong_D": "Preposition 'next to' indicates wrong direction."
+          "correct": "Modal 'must' is followed by the bare infinitive without 'to': 'must equilibrate'.",
+          "wrong_A": "'must to' is ungrammatical; modals never take 'to'.",
+          "wrong_C": "'is must' is completely ungrammatical in English.",
+          "wrong_D": "'has must' is invalid verb phrasing."
         },
-        "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+        "cz_learning_point": "V angličtině se po způsobovém slovesu 'must' nikdy nepoužívá předložka 'to' (*must to* je hrubá chyba).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-A2-018-Q2",
-        "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+        "prompt": "Every morning, the organic synthesis researcher quantitatively _____ the jacketed glass batch synthesis reactor in the API kilo-lab pilot plant.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "purge"
           },
           {
             "key": "B",
-            "text": "under"
+            "text": "purgeing"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "purges"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "is purge"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'between' accurately describes the physical laboratory location.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'under' is incompatible with the cabinet layout.",
-          "wrong_D": "Preposition 'next to' indicates wrong direction."
+          "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('purges').",
+          "wrong_A": "Base form 'purge' lacks required 3rd person singular '-s'.",
+          "wrong_B": "Participle 'purgeing' cannot act as finite verb without auxiliary.",
+          "wrong_D": "'is purge' is ungrammatical."
         },
-        "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+        "cz_learning_point": "Ve 3. osobě jednotného čísla přítomného času prostého nezapomeňte na koncovku -s: 'purges'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-A2-018-Q3",
-        "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+        "prompt": "The technician placed the diagnostic tool _____ the workbench at the analytical chromatography bench.",
         "options": [
           {
             "key": "A",
-            "text": "under"
+            "text": "on"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "into"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "under to"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "between of"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Preposition 'under' accurately describes the physical laboratory location.",
-          "wrong_B": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' is incompatible with the cabinet layout.",
-          "wrong_D": "Preposition 'next to' indicates wrong direction."
+          "correct": "Preposition 'on' correctly denotes physical placement on a horizontal surface.",
+          "wrong_B": "'into' denotes motion entering inside an enclosed space.",
+          "wrong_C": "'under to' is an invalid double preposition.",
+          "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
         },
-        "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+        "cz_learning_point": "Čeština používá 'na stole' = 'on the workbench'. Dejte pozor na chybná spojení jako *between of*.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-A2-018-Q4",
-        "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+        "prompt": "Yesterday during the handover, the laboratory technician _____ the active pharmaceutical ingredient (API) crystallization tank.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "seed"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "has seeded"
           },
           {
             "key": "C",
-            "text": "under"
+            "text": "is seeding"
           },
           {
             "key": "D",
-            "text": "next to"
+            "text": "seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Preposition 'next to' accurately describes the physical laboratory location.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' is incompatible with the cabinet layout.",
-          "wrong_C": "Preposition 'under' indicates wrong direction."
+          "correct": "Specific past time adverbial 'yesterday' strictly requires Past Simple 'seeded'.",
+          "wrong_A": "Base form 'seed' lacks past tense inflection.",
+          "wrong_B": "Present perfect 'has seeded' cannot accompany finished past time 'yesterday'.",
+          "wrong_C": "Present Continuous describes current actions, not yesterday's finished events."
         },
-        "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+        "cz_learning_point": "S příslovečným určením jako 'yesterday' se v angličtině striktně pojí minulý čas prostý (Past Simple), nikdy předpřítomný čas.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-A2-018-Q5",
-        "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+        "prompt": "Are there _____ spare gaskets left in the workshop storage cabinet?",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "some"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "much"
           },
           {
             "key": "C",
-            "text": "above"
+            "text": "any"
           },
           {
             "key": "D",
-            "text": "under"
+            "text": "an"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'above' accurately describes the physical laboratory location.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' is incompatible with the cabinet layout.",
-          "wrong_D": "Preposition 'under' indicates wrong direction."
+          "correct": "'Any' is standard in questions inquiring about the existence or availability of items.",
+          "wrong_A": "'some' is typically reserved for affirmative statements or polite offers.",
+          "wrong_B": "'much' is only used with uncountable mass nouns, not plural 'gaskets'.",
+          "wrong_D": "'an' can only precede singular countable nouns beginning with a vowel sound."
         },
-        "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+        "cz_learning_point": "V běžných záporných větách a otázkách se pro 'nějaký / žádný' používá 'any', nikoli *some*.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-A2-018-Q6",
-        "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+        "prompt": "_____ the maintenance technician inspect the gas chromatography-mass spectrometry (GC-MS) column every shift?",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "Do"
           },
           {
             "key": "B",
-            "text": "behind"
+            "text": "Does"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "Is"
           },
           {
             "key": "D",
-            "text": "under"
+            "text": "Has"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'behind' accurately describes the physical laboratory location.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' is incompatible with the cabinet layout.",
-          "wrong_D": "Preposition 'under' indicates wrong direction."
+          "correct": "Singular 3rd person subject in Present Simple requires auxiliary 'Does'.",
+          "wrong_A": "'Do' is used for plural subjects (they, we, you) or 'I'.",
+          "wrong_C": "'Is' requires an '-ing' participle (Present Continuous), not a base verb.",
+          "wrong_D": "'Has' requires a past participle (Present Perfect)."
         },
-        "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+        "cz_learning_point": "V otázkách v přítomném čase se pro 3. osobu jednotného čísla používá pomocné sloveso 'Does': 'Does the technician inspect...?'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-A2-018-Q7",
-        "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+        "prompt": "The newly calibrated unit runs significantly _____ than the older model.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "more fast"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "fastest"
           },
           {
             "key": "C",
-            "text": "under"
+            "text": "as fast"
           },
           {
             "key": "D",
-            "text": "into"
+            "text": "faster"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Preposition 'into' accurately describes the physical laboratory location.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' is incompatible with the cabinet layout.",
-          "wrong_C": "Preposition 'under' indicates wrong direction."
+          "correct": "One-syllable adjective 'fast' forms comparative with '-er': 'faster'.",
+          "wrong_A": "'more fast' is ungrammatical; short adjectives take '-er'.",
+          "wrong_B": "'fastest' is a superlative and requires 'the'.",
+          "wrong_C": "'as fast' requires 'as' ('as fast as'), not 'than'."
         },
-        "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+        "cz_learning_point": "Jednoslabičná přídavná jména tvoří 2. stupeň koncovkou -er (faster, cheaper), nikoli pomocí *more*.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-A2-018-Q8",
-        "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+        "prompt": "_____ new components on this table must be cataloged immediately.",
         "options": [
           {
             "key": "A",
-            "text": "across"
+            "text": "These"
           },
           {
             "key": "B",
-            "text": "inside"
+            "text": "This"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "That"
           },
           {
             "key": "D",
-            "text": "under"
+            "text": "There"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Preposition 'across' accurately describes the physical laboratory location.",
-          "wrong_B": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' is incompatible with the cabinet layout.",
-          "wrong_D": "Preposition 'under' indicates wrong direction."
+          "correct": "Plural noun 'components' located nearby requires plural demonstrative 'These'.",
+          "wrong_B": "'This' is singular and cannot modify plural 'components'.",
+          "wrong_C": "'That' is singular.",
+          "wrong_D": "'There' is an adverb of place or dummy pronoun, not a demonstrative determiner."
         },
-        "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+        "cz_learning_point": "Množné číslo pro věci blízko mluvčího je 'these' (tyto součástky), jednotné číslo je 'this' (tato součástka).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-A2-018-Q9",
-        "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+        "prompt": "The team transferred the heavy assembly _____ the testing bay.",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "in to"
           },
           {
             "key": "B",
-            "text": "between"
+            "text": "inside of"
           },
           {
             "key": "C",
-            "text": "along"
+            "text": "into"
           },
           {
             "key": "D",
-            "text": "under"
+            "text": "onto to"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Preposition 'along' accurately describes the physical laboratory location.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_B": "Preposition 'between' is incompatible with the cabinet layout.",
-          "wrong_D": "Preposition 'under' indicates wrong direction."
+          "correct": "'Into' expresses movement from the outside to the interior of a space.",
+          "wrong_A": "'in to' as two separate words is incorrect for directional movement.",
+          "wrong_B": "'inside of' is redundant and colloquial.",
+          "wrong_D": "'onto to' is an ungrammatical repetition."
         },
-        "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+        "cz_learning_point": "Směr dovnitř vyjadřuje předložka 'into' (přesunout do testovací haly = transferred into the bay).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-A2-018-Q10",
-        "prompt": "Store all concentrated reagent bottles _____ the ventilated safety cabinet.",
+        "prompt": "Could you please _____ the shift report before leaving today?",
         "options": [
           {
             "key": "A",
-            "text": "inside"
+            "text": "to sign"
           },
           {
             "key": "B",
-            "text": "against"
+            "text": "sign"
           },
           {
             "key": "C",
-            "text": "between"
+            "text": "signing"
           },
           {
             "key": "D",
-            "text": "under"
+            "text": "signed"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Preposition 'against' accurately describes the physical laboratory location.",
-          "wrong_A": "Preposition 'inside' expresses incorrect spatial positioning.",
-          "wrong_C": "Preposition 'between' is incompatible with the cabinet layout.",
-          "wrong_D": "Preposition 'under' indicates wrong direction."
+          "correct": "Polite request with modal 'Could you please' is followed by the bare infinitive 'sign'.",
+          "wrong_A": "'to sign' is incorrect; modals do not take 'to'.",
+          "wrong_C": "Participle 'signing' cannot follow modal 'could'.",
+          "wrong_D": "Past tense 'signed' is ungrammatical after modal 'could'."
         },
-        "cz_learning_point": "Laboratory spatial prepositions: 'inside the cabinet' = uvnitř skříně.",
+        "cz_learning_point": "Po zdvořilostní žádosti 'Could you please' následuje vždy základní tvar slovesa (bare infinitive) bez 'to'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       }
     ]
@@ -6855,319 +6855,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing karl fischer water determination: drift rates & titrant factorization.",
     "learning_objectives": [
-      "Master professional Passive Voice in Analytical SOPs in organic API synthesis and QC analysis",
+      "Master professional Passive Voice in Analytical SOPs in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in karl fischer water determination: drift rates & titrant factorization",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-002-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-002-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-002-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-002-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-002-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-002-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-002-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-002-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-002-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-002-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       }
     ]
@@ -7181,319 +7181,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing hplc chromatography mobile phase degassing & baseline drift.",
     "learning_objectives": [
-      "Master professional First & Second Conditionals in organic API synthesis and QC analysis",
+      "Master professional First & Second Conditionals in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in hplc chromatography mobile phase degassing & baseline drift",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-003-Q1",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "fails"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-003-Q2",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "fails"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
           "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-003-Q3",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "fails"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will fail"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_B": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-003-Q4",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "failed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "fails"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_C": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-003-Q5",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "fails"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-003-Q6",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "fails"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-003-Q7",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "failed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "fails"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_C": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-003-Q8",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "fails"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will fail"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_B": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-003-Q9",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "fails"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-003-Q10",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "fails"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       }
     ]
@@ -7833,319 +7833,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing batch reactor crystallization temperature ramps & seed crystal dosing.",
     "learning_objectives": [
-      "Master professional Relative Clauses in Reaction Parameters in organic API synthesis and QC analysis",
+      "Master professional Relative Clauses in Reaction Parameters in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in batch reactor crystallization temperature ramps & seed crystal dosing",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-005-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-005-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-005-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-005-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-005-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-005-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-005-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-005-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-005-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-005-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       }
     ]
@@ -8159,319 +8159,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing recrystallization purification: activated charcoal decoloration steps.",
     "learning_objectives": [
-      "Master professional Passive Voice with Modals in organic API synthesis and QC analysis",
+      "Master professional Passive Voice with Modals in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in recrystallization purification: activated charcoal decoloration steps",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-006-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-006-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-006-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-006-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-006-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-006-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-006-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-006-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-006-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-006-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       }
     ]
@@ -8485,319 +8485,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing buchner funnel vacuum filtration cake washing & solvent pull-through.",
     "learning_objectives": [
-      "Master professional Prepositions of Motion & Direction in organic API synthesis and QC analysis",
+      "Master professional Prepositions of Motion & Direction in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in buchner funnel vacuum filtration cake washing & solvent pull-through",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-007-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-007-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-007-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-007-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-007-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-007-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-007-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-007-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-007-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-007-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       }
     ]
@@ -8811,319 +8811,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing in-process control (ipc) reaction completion testing via tlc plates.",
     "learning_objectives": [
-      "Master professional Temporal Conjunctions (until, as soon as) in organic API synthesis and QC analysis",
+      "Master professional Temporal Conjunctions (until, as soon as) in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in in-process control (ipc) reaction completion testing via tlc plates",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-008-Q1",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "fails"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
         "id": "TAPI-CHEM-B1-008-Q2",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "fails"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
           "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
         "id": "TAPI-CHEM-B1-008-Q3",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "fails"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "will fail"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_B": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
         "id": "TAPI-CHEM-B1-008-Q4",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "failed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "fails"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_C": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
+          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
+          "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
         "id": "TAPI-CHEM-B1-008-Q5",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "fails"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
         "id": "TAPI-CHEM-B1-008-Q6",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "fails"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
         "id": "TAPI-CHEM-B1-008-Q7",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "failed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "fails"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_C": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
         "id": "TAPI-CHEM-B1-008-Q8",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "fails"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "will fail"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_B": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
         "id": "TAPI-CHEM-B1-008-Q9",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "would fail"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "fails"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_B": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       },
       {
         "id": "TAPI-CHEM-B1-008-Q10",
-        "prompt": "If the mobile phase degassing unit _____ during run 4, the HPLC baseline will exhibit excessive noise.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "will fail"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "fails"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "would fail"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "failed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "First conditional if-clause takes Present Simple ('fails') for real physical consequences.",
-          "wrong_A": "Cannot use 'will' in conditional if-clauses.",
-          "wrong_C": "Cannot use 'would' in a real First Conditional.",
-          "wrong_D": "Past tense 'failed' creates an unreal condition, mismatched with 'will exhibit'."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Never use 'will' in the if-clause of analytical troubleshooting (*If the pump will fail*). Use Present Simple: 'If the pump fails'.",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "In-Process Control (IPC) & Out-of-Specification (OOS)"
       }
     ]
@@ -9137,319 +9137,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing gas chromatography carrier gas helium cylinder pressure switches.",
     "learning_objectives": [
-      "Master professional Modals of Deduction & Probability in organic API synthesis and QC analysis",
+      "Master professional Modals of Deduction & Probability in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in gas chromatography carrier gas helium cylinder pressure switches",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-009-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-009-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-009-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-009-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-009-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-009-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-009-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-009-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-009-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-009-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       }
     ]
@@ -9463,319 +9463,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing ph electrode slope drift & calibration buffer solution deviations.",
     "learning_objectives": [
-      "Master professional Reported Speech in QC Logs in organic API synthesis and QC analysis",
+      "Master professional Reported Speech in QC Logs in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in ph electrode slope drift & calibration buffer solution deviations",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-010-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-010-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-010-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-010-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-010-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-010-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-010-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-010-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-010-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-010-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       }
     ]
@@ -9789,319 +9789,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing api vacuum tray dryer drying loss curve verification.",
     "learning_objectives": [
-      "Master professional Cause & Effect Connectors in organic API synthesis and QC analysis",
+      "Master professional Cause & Effect Connectors in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in api vacuum tray dryer drying loss curve verification",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-011-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-011-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-011-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-011-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-011-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-011-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-011-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-011-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-011-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-011-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       }
     ]
@@ -10115,319 +10115,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing hazardous organic solvent segregation: chlorinated vs ethers.",
     "learning_objectives": [
-      "Master professional Categorization Structures & Quantifiers in organic API synthesis and QC analysis",
+      "Master professional Categorization Structures & Quantifiers in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in hazardous organic solvent segregation: chlorinated vs ethers",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-012-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
         "id": "TAPI-CHEM-B1-012-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
         "id": "TAPI-CHEM-B1-012-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
         "id": "TAPI-CHEM-B1-012-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
         "id": "TAPI-CHEM-B1-012-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
         "id": "TAPI-CHEM-B1-012-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
         "id": "TAPI-CHEM-B1-012-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
         "id": "TAPI-CHEM-B1-012-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
         "id": "TAPI-CHEM-B1-012-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       },
       {
         "id": "TAPI-CHEM-B1-012-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Hazardous Reagents, Solvent Recovery & Lab Safety"
       }
     ]
@@ -10441,319 +10441,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing mass spectrometry electrospray ionization (esi) source cleaning.",
     "learning_objectives": [
-      "Master professional Phrasal Verbs in Lab Maintenance in organic API synthesis and QC analysis",
+      "Master professional Phrasal Verbs in Lab Maintenance in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in mass spectrometry electrospray ionization (esi) source cleaning",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-013-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-013-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-013-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-013-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-013-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-013-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-013-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-013-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-013-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-013-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       }
     ]
@@ -11093,319 +11093,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing hplc guard column backpressure increase & replacement trigger.",
     "learning_objectives": [
-      "Master professional Tolerances & Comparative Adjectives in organic API synthesis and QC analysis",
+      "Master professional Tolerances & Comparative Adjectives in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in hplc guard column backpressure increase & replacement trigger",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-015-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-015-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-015-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-015-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-015-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-015-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-015-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-015-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-015-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-015-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       }
     ]
@@ -11419,319 +11419,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing centrifuge solid-liquid separation cake cracking inquests.",
     "learning_objectives": [
-      "Master professional Passive Voice Reporting Forms in organic API synthesis and QC analysis",
+      "Master professional Passive Voice Reporting Forms in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in centrifuge solid-liquid separation cake cracking inquests",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-016-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-016-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-016-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-016-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-016-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-016-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-016-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-016-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-016-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-016-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       }
     ]
@@ -11745,319 +11745,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing uv-vis spectrophotometer quartz cuvette scratch inspection.",
     "learning_objectives": [
-      "Master professional Adverbial Clauses of Contrast in organic API synthesis and QC analysis",
+      "Master professional Adverbial Clauses of Contrast in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in uv-vis spectrophotometer quartz cuvette scratch inspection",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-017-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-017-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-017-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-017-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-017-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-017-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-017-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-017-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-017-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-017-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       }
     ]
@@ -12071,319 +12071,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing synthesis reagent certificate of analysis (coa) verification.",
     "learning_objectives": [
-      "Master professional Obligation Verbs (shall, must, verify) in organic API synthesis and QC analysis",
+      "Master professional Obligation Verbs (shall, must, verify) in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in synthesis reagent certificate of analysis (coa) verification",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-018-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
         "id": "TAPI-CHEM-B1-018-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
         "id": "TAPI-CHEM-B1-018-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
         "id": "TAPI-CHEM-B1-018-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
         "id": "TAPI-CHEM-B1-018-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
         "id": "TAPI-CHEM-B1-018-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
         "id": "TAPI-CHEM-B1-018-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
         "id": "TAPI-CHEM-B1-018-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
         "id": "TAPI-CHEM-B1-018-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       },
       {
         "id": "TAPI-CHEM-B1-018-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Pharmacopeial Compliance (Ph. Eur., USP, JP)"
       }
     ]
@@ -12397,319 +12397,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing fractional distillation column reflux ratio adjustment.",
     "learning_objectives": [
-      "Master professional Purpose Clauses (so that, in order to) in organic API synthesis and QC analysis",
+      "Master professional Purpose Clauses (so that, in order to) in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in fractional distillation column reflux ratio adjustment",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-019-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-019-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-019-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-019-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-019-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-019-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-019-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-019-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-019-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       },
       {
         "id": "TAPI-CHEM-B1-019-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Organic Chemical Synthesis & Batch Reactors"
       }
     ]
@@ -12723,319 +12723,319 @@ Object.assign(window.TEST_REGISTRY, {
     "estimated_time_minutes": 15,
     "description": "Intermediate chemical synthesis and analytical module analyzing analytical balance annual recertification deviation logging.",
     "learning_objectives": [
-      "Master professional Past Unreal Scenarios (could have occurred) in organic API synthesis and QC analysis",
+      "Master professional Past Unreal Scenarios (could have occurred) in pharmaceutical chemistry and QC",
       "Eliminate common Czech interference errors in analytical balance annual recertification deviation logging",
-      "Demonstrate precision in HPLC, Karl Fischer, and pharmacopeial compliance documentation"
+      "Demonstrate precision in analytical testing protocols and pharmacopeial documentation"
     ],
     "questions": [
       {
         "id": "TAPI-CHEM-B1-020-Q1",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "Before the validation auditor arrived inside the certified chemical fume hood, the analytical qc chemist noticed that the high-performance liquid chromatograph (HPLC) _____.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "was equilibrated"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "had been equilibrated"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "has been equilibrated"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "didn't equilibrate"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Past Perfect Passive ('had been equilibrated') expresses an action completed prior to the past event 'arrived'.",
+          "wrong_A": "Past Simple ('was equilibrated') fails to indicate precedence before past 'arrived'.",
+          "wrong_C": "Present Perfect ('has been equilibrated') cannot anchor to a past narrative.",
+          "wrong_D": "Active negative is wrong in voice; technical equipment is acted upon passively."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "V angličtině vyžaduje děj předcházející jinému ději v minulosti předminulý čas (Past Perfect: 'had been...').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-020-Q2",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "If the operating parameter _____ above safe limits, the automated system immediately halts the cycle.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "will rise"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "would rise"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "rises"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "rose"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "First conditional if-clause requires Present Simple ('rises') for real operating conditions.",
+          "wrong_A": "Cannot use future modal 'will' inside the conditional if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' creates an unreal conditional mismatched with present 'halts'."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Zásadní pravidlo: v podmínkové větě po 'if' se nesmí použít 'will' (*If the parameter will rise* je hrubá chyba). Použijte přítomný čas: 'If the parameter rises'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-020-Q3",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The maintenance specialist detected an irregular vibration _____ the equipment was running at maximum speed.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "while"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "during"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "for"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "since"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'While' is a conjunction followed by a full finite clause ('the equipment was running').",
+          "wrong_B": "'During' is a preposition and can only be followed by a noun phrase, never a clause with a verb.",
+          "wrong_C": "'For' expresses duration, not simultaneous background events.",
+          "wrong_D": "'Since' indicates a starting point in time or causation."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Češi často pletou 'during' a 'while'. S celou větou se slovesem se pojí 'while' (while it was running), zatímco se samotným podstatným jménem se pojí 'during' (during the run).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-020-Q4",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "According to Good Laboratory Practice (GLP) statutory standards, the active pharmaceutical ingredient (API) crystallization tank _____ at regular 500-hour operational intervals.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be seeded"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "must seed"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "are must seeded"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "must be seeded"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
+          "correct": "Passive with modal: 'must be seeded' correctly describes the technical maintenance requirement.",
           "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
+          "wrong_B": "Active voice is incorrect; equipment cannot service itself.",
           "wrong_C": "'are must' is completely ungrammatical in English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Technické předpisy (SOP) vyžadují trpný rod se způsobovým slovesem: 'must be inspected' (musí být zkontrolováno).",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-020-Q5",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The engineering department _____ three comprehensive compliance audits since the beginning of this quarter.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "conducted"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "is conducting"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "has conducted"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "conducts"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Time frame indicator 'since the beginning of this quarter' requires Present Perfect ('has conducted').",
+          "wrong_A": "Past Simple cannot co-occur with 'since' connecting past to present.",
+          "wrong_B": "Present Continuous expresses action in progress, not completed tally.",
+          "wrong_D": "Present Simple expresses habitual routines, not accumulated achievements."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Předložka 'since' (od té doby) striktně vyžaduje předpřítomný čas (Present Perfect: 'has conducted'), protože časové období pokračuje do přítomnosti.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-020-Q6",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The parameters were recalibrated _____ the manufacturing line could achieve zero defect tolerance.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "in order"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "so that"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "because of"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "for to"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the line could achieve').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is completely ungrammatical in standard English."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that the line could achieve').",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-020-Q7",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "In the event of an unexpected pressure drop, the emergency system will _____ the main intake manifold.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "shut off to"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "shutting down"
           },
           {
             "key": "C",
-            "text": "are must be rinsed"
+            "text": "shut down of"
           },
           {
             "key": "D",
-            "text": "must be rinsed"
+            "text": "shut down"
           }
         ],
         "correct_key": "D",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_C": "'are must' is completely ungrammatical in English."
+          "correct": "Phrasal verb 'shut down' correctly means to halt or power off an operating mechanical system.",
+          "wrong_A": "'shut off to' is an ungrammatical combination.",
+          "wrong_B": "Participle 'shutting down' cannot follow future auxiliary 'will'.",
+          "wrong_C": "'shut down of' includes an unnecessary, ungrammatical preposition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Frázové sloveso 'shut down' (odstavit / vypnout zařízení). Po pomocném slovesu 'will' následuje základní tvar: 'will shut down'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-020-Q8",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The newly installed sensor, _____ measurement tolerance is within 0.01 mm, was imported from Germany.",
         "options": [
           {
             "key": "A",
-            "text": "must be rinsed"
+            "text": "whose"
           },
           {
             "key": "B",
-            "text": "must to be rinsed"
+            "text": "which"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "of which"
           }
         ],
         "correct_key": "A",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_B": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensor' with its attribute 'measurement tolerance'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'of which' would require different word order ('the measurement tolerance of which')."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož / jejíž tolerance) se v angličtině používá i pro neživé předměty a stroje.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-020-Q9",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The pressure gauge reads zero despite the compressor running, so the main seal _____ cracked.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "must to be"
           },
           {
             "key": "B",
-            "text": "must rinse"
+            "text": "can to be"
           },
           {
             "key": "C",
-            "text": "must be rinsed"
+            "text": "must be"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "is must"
           }
         ],
         "correct_key": "C",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_B": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Must be' expresses logical deduction based on clear physical evidence.",
+          "wrong_A": "'must to be' is ungrammatical.",
+          "wrong_B": "'can to be' is ungrammatical; modals never take 'to'.",
+          "wrong_D": "'is must' is invalid syntax."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be cracked'. Nikdy nepoužívejte *must to be*.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       },
       {
         "id": "TAPI-CHEM-B1-020-Q10",
-        "prompt": "All volumetric glassware _____ with high-purity solvent prior to analytical trace analysis.",
+        "prompt": "The production line cannot resume operation _____ the safety interlock circuit is fully reset.",
         "options": [
           {
             "key": "A",
-            "text": "must to be rinsed"
+            "text": "if"
           },
           {
             "key": "B",
-            "text": "must be rinsed"
+            "text": "unless"
           },
           {
             "key": "C",
-            "text": "must rinse"
+            "text": "provided that"
           },
           {
             "key": "D",
-            "text": "are must be rinsed"
+            "text": "as long as"
           }
         ],
         "correct_key": "B",
         "explanations": {
-          "correct": "Passive construction with modal: 'must be rinsed'.",
-          "wrong_A": "'must to be' is ungrammatical; modal 'must' takes bare infinitive.",
-          "wrong_C": "'must rinse' is active voice; glassware does not rinse itself.",
-          "wrong_D": "'are must' is completely ungrammatical in English."
+          "correct": "'Unless' means 'if not' or 'except when', expressing the mandatory prerequisite for resumption.",
+          "wrong_A": "'if' would produce an illogical contradiction (cannot run IF reset).",
+          "wrong_C": "'provided that' creates the opposite, illogical meaning.",
+          "wrong_D": "'as long as' also creates an illogical condition."
         },
-        "cz_learning_point": "Analytical chemistry SOPs strictly require passive voice with modals: 'must be rinsed' (musí být vypláchnuto).",
+        "cz_learning_point": "'Unless' znamená 'pokud ne' (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the circuit is reset'.",
         "workplace_track": "Analytical Chemistry (HPLC, GC, Spectroscopy)"
       }
     ]
