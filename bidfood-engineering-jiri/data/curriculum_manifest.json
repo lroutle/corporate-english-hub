@@ -798,5 +798,45 @@
     "grammar_focus": "High-Register Executive Visionary Industrial Leadership",
     "estimated_time_minutes": 20,
     "description": "Mastery-tier food processing engineering leadership module examining vice president of engineering keynote: autonomous lights-out food manufacturing plants."
+  },
+  {
+    "test_id": "BID-ENG-SP-001",
+    "title": "Artificial Intelligence in Manufacturing: Predictive Maintenance & Computer Vision",
+    "level": "B1",
+    "category": "specialized",
+    "workplace_track": "Emerging Tech: AI & Industrial Machine Learning",
+    "grammar_focus": "Present Perfect Continuous & Real Conditionals",
+    "estimated_time_minutes": 15,
+    "description": "Specialized smart manufacturing English module analyzing machine learning anomaly detection, computer vision sorting, and edge IoT diagnostics."
+  },
+  {
+    "test_id": "BID-ENG-SP-002",
+    "title": "Automotive Engineering: Turbocharging, EV Battery Thermal Management & Chassis Dynamics",
+    "level": "B1",
+    "category": "specialized",
+    "workplace_track": "Automotive Technology & Car Engineering",
+    "grammar_focus": "Cause & Effect Connectors & Comparative Performance",
+    "estimated_time_minutes": 15,
+    "description": "Specialized automotive engineering module covering internal combustion turbocharging, electric vehicle battery liquid cooling, and suspension tuning."
+  },
+  {
+    "test_id": "BID-ENG-SP-003",
+    "title": "Generative AI, Large Language Models (LLMs) & Autonomous Agentic Workflows",
+    "level": "B2",
+    "category": "specialized",
+    "workplace_track": "Emerging Tech: AI & Industrial Machine Learning",
+    "grammar_focus": "Mandative Subjunctive & High-Register Technical Stance",
+    "estimated_time_minutes": 15,
+    "description": "Advanced artificial intelligence module covering foundation LLMs (Gemini, GPT-4, Claude), multi-head attention mechanisms, context windows, and autonomous agentic loops."
+  },
+  {
+    "test_id": "BID-ENG-SP-004",
+    "title": "Automotive Aerodynamics, Direct-Shift Gearboxes (DSG) & Internal Combustion Optimization",
+    "level": "B2",
+    "category": "specialized",
+    "workplace_track": "Automotive Technology & Car Engineering",
+    "grammar_focus": "Inverted Conditionals & Engineering Rigor",
+    "estimated_time_minutes": 15,
+    "description": "Advanced powertrain and chassis engineering module examining aerodynamic drag coefficients (Cd), dual-clutch transmission electro-hydraulics, and variable valve timing."
   }
 ]

@@ -1,0 +1,327 @@
+{
+  "test_id": "BID-ENG-SP-003",
+  "title": "Generative AI, Large Language Models (LLMs) & Autonomous Agentic Workflows",
+  "level": "B2",
+  "category": "specialized",
+  "workplace_track": "Emerging Tech: AI & Industrial Machine Learning",
+  "estimated_time_minutes": 15,
+  "description": "Advanced artificial intelligence module covering foundation LLMs (Gemini, GPT-4, Claude), multi-head attention mechanisms, context windows, and autonomous agentic loops.",
+  "grammar_focus": "Mandative Subjunctive & High-Register Technical Stance",
+  "learning_objectives": [
+    "Master frontier AI terminology (transformers, self-attention, context windows, RAG, agentic loops, quantization)",
+    "Apply inverted conditionals and mandative subjunctive in enterprise AI governance",
+    "Demonstrate precision when drafting AI deployment policies, privacy guardrails, and latency SLAs"
+  ],
+  "questions": [
+    {
+      "id": "BID-ENG-SP-003-Q1",
+      "prompt": "_____ AI researchers not introduced multi-head self-attention mechanisms in 2017, large language models would have remained computationally intractable.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If"
+        },
+        {
+          "key": "B",
+          "text": "Had"
+        },
+        {
+          "key": "C",
+          "text": "Were"
+        },
+        {
+          "key": "D",
+          "text": "Should"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'Had AI researchers not introduced...' correctly expresses a past counterfactual premise without 'if'.",
+        "wrong_A": "'If' requires the auxiliary 'had' after the subject.",
+        "wrong_C": "'Were' forms a Second Conditional, incompatible with past 'would have remained'.",
+        "wrong_D": "'Should' expresses tentative future conditions."
+      },
+      "cz_learning_point": "Inverze 3. kondicionálu v odborném textu: 'Had researchers not introduced...' = 'Kdyby vědci bývali nezavedli...'. V podmínce se nepoužívá 'if' ani 'would'.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-003-Q2",
+      "prompt": "Under no circumstances _____ autonomous software agents be granted unrestricted delete privileges on live industrial SCADA databases.",
+      "options": [
+        {
+          "key": "A",
+          "text": "agents should"
+        },
+        {
+          "key": "B",
+          "text": "must to agents"
+        },
+        {
+          "key": "C",
+          "text": "should autonomous"
+        },
+        {
+          "key": "D",
+          "text": "shall agents to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Negative introductory phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should autonomous [agents be granted]'.",
+        "wrong_A": "'agents should' lacks the required subject-auxiliary inversion.",
+        "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_D": "'shall... to' is ungrammatical."
+      },
+      "cz_learning_point": "Záporná úvodní fráze 'Under no circumstances' vyžaduje převrácený slovosled (inverzi): 'Under no circumstances should autonomous agents be granted...'.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-003-Q3",
+      "prompt": "If the engineering department had implemented a robust retrieval-augmented generation (RAG) vector database, the enterprise model _____ hallucinations today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not be generating"
+        },
+        {
+          "key": "B",
+          "text": "would not have generated"
+        },
+        {
+          "key": "C",
+          "text": "will not generate"
+        },
+        {
+          "key": "D",
+          "text": "does not generate"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had implemented') with present ongoing result ('today') takes 'would not be generating'.",
+        "wrong_B": "'would not have generated' refers purely to past result, but adverbial 'today' anchors the result to the present.",
+        "wrong_C": "'will not generate' is First Conditional, incompatible with past counterfactual condition.",
+        "wrong_D": "Indicative 'does not generate' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If they had implemented [minulost], it would not be generating [dnes]'.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-003-Q4",
+      "prompt": "Enterprise cybersecurity policies mandate that every generative AI pipeline _____ strict data loss prevention (DLP) sanitization on user prompts.",
+      "options": [
+        {
+          "key": "A",
+          "text": "executes"
+        },
+        {
+          "key": "B",
+          "text": "will execute"
+        },
+        {
+          "key": "C",
+          "text": "must to execute"
+        },
+        {
+          "key": "D",
+          "text": "execute"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Mandative subjunctive after 'mandate that' requires base form 'execute' regardless of 3rd person singular subject.",
+        "wrong_A": "Indicative 'executes' with 3rd person -s violates mandative subjunctive syntax.",
+        "wrong_B": "Future 'will execute' is incorrect after mandative 'mandate that'.",
+        "wrong_C": "'must to' is ungrammatical."
+      },
+      "cz_learning_point": "Subjunktiv po slovesech nařízení a bezpečnostních pravidel (mandate that every pipeline execute): sloveso zůstává v základním tvaru bez -s.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-003-Q5",
+      "prompt": "_____ the foundational model down to 4-bit precision via AWQ quantization, engineers deployed the LLM directly onto local edge server hardware.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quantize"
+        },
+        {
+          "key": "B",
+          "text": "Quantized"
+        },
+        {
+          "key": "C",
+          "text": "Having quantized"
+        },
+        {
+          "key": "D",
+          "text": "Being quantized"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Perfect active participle 'Having quantized' correctly expresses an optimization completed prior to local edge deployment.",
+        "wrong_A": "Base form 'Quantize' cannot function as introductory participle.",
+        "wrong_B": "Past form 'Quantized' without auxiliary is passive, but engineers actively performed the quantization.",
+        "wrong_D": "'Being quantized' expresses present passive, not completed prior action."
+      },
+      "cz_learning_point": "Předpřítomné participium (Having quantized = poté, co kvantizovali...) vyjadřuje děj dokončený před hlavní větou.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-003-Q6",
+      "prompt": "_____ impressive performance on benchmark coding exams, commercial LLMs frequently hallucinate syntax when handling proprietary legacy protocols.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Although"
+        },
+        {
+          "key": "B",
+          "text": "Notwithstanding"
+        },
+        {
+          "key": "C",
+          "text": "Whereas"
+        },
+        {
+          "key": "D",
+          "text": "Even though"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('impressive performance on benchmark coding exams').",
+        "wrong_A": "'Although' is a conjunction and must be followed by a full finite clause.",
+        "wrong_C": "'Whereas' introduces a contrastive clause.",
+        "wrong_D": "'Even though' requires a full clause with subject and verb."
+      },
+      "cz_learning_point": "'Notwithstanding' (navzdory / i přes) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-003-Q7",
+      "prompt": "Deep neural networks with transformer architectures are widely acknowledged _____ natural language processing capabilities over the past decade.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to transform"
+        },
+        {
+          "key": "B",
+          "text": "transforming"
+        },
+        {
+          "key": "C",
+          "text": "to have been transformed"
+        },
+        {
+          "key": "D",
+          "text": "to have transformed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Perfect active infinitive 'to have transformed' correctly attributes a historic completed breakthrough to transformer networks.",
+        "wrong_A": "Present infinitive 'to transform' fails to indicate past completion.",
+        "wrong_B": "Participle 'transforming' cannot follow passive reporting verb 'are acknowledged'.",
+        "wrong_C": "Passive 'to have been transformed' incorrectly treats neural networks as the object rather than the driving agent."
+      },
+      "cz_learning_point": "Vazba 'are acknowledged to have transformed' (uznává se, že transformovaly) vyjadřuje minulý děj pomocí minulého infinitivu.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-003-Q8",
+      "prompt": "Only after fine-tuning the model on specialized manufacturing SOP manuals _____ accurate technical troubleshooting recommendations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did the assistant generate"
+        },
+        {
+          "key": "B",
+          "text": "the assistant generated"
+        },
+        {
+          "key": "C",
+          "text": "generated the assistant"
+        },
+        {
+          "key": "D",
+          "text": "has the assistant generated"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did the assistant generate'.",
+        "wrong_B": "'the assistant generated' lacks required subject-auxiliary inversion.",
+        "wrong_C": "'generated the assistant' is archaic full inversion without auxiliary 'did'.",
+        "wrong_D": "Present perfect conflicts with completed past fine-tuning."
+      },
+      "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled: 'Only after fine-tuning did the assistant generate...'.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-003-Q9",
+      "prompt": "An artificial intelligence model exhibiting an inference latency exceeding eight seconds _____ for high-speed industrial sorting automation.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not suit"
+        },
+        {
+          "key": "B",
+          "text": "should not suit"
+        },
+        {
+          "key": "C",
+          "text": "cannot possibly be suitable"
+        },
+        {
+          "key": "D",
+          "text": "may not suit"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Cannot possibly be suitable' expresses absolute deductive impossibility based on latency constraints.",
+        "wrong_A": "'must not' expresses prohibition or deduction of absence, but lacks impossibility nuance.",
+        "wrong_B": "'should not' expresses moral obligation or advice.",
+        "wrong_D": "'may not' expresses mere uncertainty."
+      },
+      "cz_learning_point": "Vyjádření naprosté nemožnosti: 'cannot possibly be suitable' (v žádném případě nemůže být vhodný pro vysokorychlostní linky).",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-003-Q10",
+      "prompt": "The AI research consortium open-sourced a multi-agent framework, under the terms of _____ commercial enterprises may build autonomous applications.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Formal prepositional relative phrase 'under the terms of which' strictly takes 'which' when modifying a license or framework.",
+        "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+        "wrong_C": "'whose' expresses possession.",
+        "wrong_D": "'whom' refers only to persons."
+      },
+      "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro software a licence používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    }
+  ]
+}

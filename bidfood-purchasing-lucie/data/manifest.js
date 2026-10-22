@@ -798,5 +798,45 @@ window.CURRICULUM_MANIFEST = [
     "grammar_focus": "High-Register Executive Keynote Rhetoric",
     "estimated_time_minutes": 20,
     "description": "Mastery-tier corporate procurement leadership module examining chief procurement officer keynote: global food security & resilient supply networks."
+  },
+  {
+    "test_id": "BID-PUR-SP-001",
+    "title": "Motorcycle Mechanics & Ride Preparation: Pre-Ride Inspection (T-CLOCS) & Controls",
+    "level": "B1",
+    "category": "specialized",
+    "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics",
+    "grammar_focus": "Imperatives, Prepositions & Sequence Connectors",
+    "estimated_time_minutes": 15,
+    "description": "Specialized motorcycle riding English module covering the T-CLOCS pre-ride inspection, friction zone control, and drive chain maintenance."
+  },
+  {
+    "test_id": "BID-PUR-SP-002",
+    "title": "Motorcycle Road Safety, Cornering Physics & Counter-Steering Techniques",
+    "level": "B1",
+    "category": "specialized",
+    "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics",
+    "grammar_focus": "First Conditionals & Modals of Probability",
+    "estimated_time_minutes": 15,
+    "description": "Specialized motorcycle riding dynamics module examining counter-steering physics, corner entry lines, trail braking, and hazard avoidance."
+  },
+  {
+    "test_id": "BID-PUR-SP-003",
+    "title": "Motorcycle Engine Architecture: In-line Fours vs V-Twins vs Parallel Twins & Slipper Clutches",
+    "level": "B2",
+    "category": "specialized",
+    "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics",
+    "grammar_focus": "Complex Passive Constructions & Degrees of Comparison",
+    "estimated_time_minutes": 15,
+    "description": "Advanced motorcycle engineering module examining crankshaft firing orders (180° vs 270°), slipper clutch ramp mechanics, and quickshifter ignition cuts."
+  },
+  {
+    "test_id": "BID-PUR-SP-004",
+    "title": "Motorcycle Touring, Ergonomics & Premium Protective Gear (CE Armor & Airbag Vests)",
+    "level": "B2",
+    "category": "specialized",
+    "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics",
+    "grammar_focus": "Participial Clauses & Evaluative Purchasing Decisions",
+    "estimated_time_minutes": 15,
+    "description": "High-register motorcycle touring English module examining European ECE 22.06 helmet standards, autonomous electronic airbag deployment, and ergonomic aerodynamics."
   }
 ];

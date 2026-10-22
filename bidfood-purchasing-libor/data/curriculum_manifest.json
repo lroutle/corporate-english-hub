@@ -798,5 +798,45 @@
     "grammar_focus": "High-Register Executive Keynote Rhetoric",
     "estimated_time_minutes": 20,
     "description": "Mastery-tier corporate procurement leadership module examining chief procurement officer keynote: global food security & resilient supply networks."
+  },
+  {
+    "test_id": "BID-PUR-SP-001",
+    "title": "Professional Darts: PDC World Championship Rules, 501 Checkout Maths & Oche Etiquette",
+    "level": "B1",
+    "category": "specialized",
+    "workplace_track": "Sports & Leisure: Professional Darts (PDC)",
+    "grammar_focus": "Conditionals & Numerical Precision in Checkouts",
+    "estimated_time_minutes": 15,
+    "description": "Specialized sports English module analyzing PDC tournament rules, 501 tactical checkout math, and oche throwing etiquette."
+  },
+  {
+    "test_id": "BID-PUR-SP-002",
+    "title": "Football Tactics, Premier League Match Analysis & Transfer Market Sourcing",
+    "level": "B1",
+    "category": "specialized",
+    "workplace_track": "Sports & Leisure: Football & Match Analysis",
+    "grammar_focus": "Past Continuous vs Past Simple in Match Commentary",
+    "estimated_time_minutes": 15,
+    "description": "Specialized football English module covering tactical formations, high pressing, VAR offside decisions, and transfer market negotiations."
+  },
+  {
+    "test_id": "BID-PUR-SP-003",
+    "title": "Darts Equipment & Precision Engineering: Tungsten Barrels, Flights & Shaft Aerodynamics",
+    "level": "B2",
+    "category": "specialized",
+    "workplace_track": "Sports & Leisure: Professional Darts (PDC)",
+    "grammar_focus": "Passive Voice & Technical Specifications",
+    "estimated_time_minutes": 15,
+    "description": "Advanced equipment English module examining high-density tungsten metallurgy, flight surface aerodynamics, and custom barrel grip engineering."
+  },
+  {
+    "test_id": "BID-PUR-SP-004",
+    "title": "Football Club Management & European Financial Fair Play (FFP) Regulations",
+    "level": "B2",
+    "category": "specialized",
+    "workplace_track": "Sports & Leisure: Football & Match Analysis",
+    "grammar_focus": "Modals of Deduction & Regulatory Consequence",
+    "estimated_time_minutes": 15,
+    "description": "High-register management English module analyzing UEFA Financial Sustainability Regulations (FSR), player amortization, and commercial broadcasting rights."
   }
 ]

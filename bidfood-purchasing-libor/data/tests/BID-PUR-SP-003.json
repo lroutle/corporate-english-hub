@@ -1,0 +1,327 @@
+{
+  "test_id": "BID-PUR-SP-003",
+  "title": "Darts Equipment & Precision Engineering: Tungsten Barrels, Flights & Shaft Aerodynamics",
+  "level": "B2",
+  "category": "specialized",
+  "workplace_track": "Sports & Leisure: Professional Darts (PDC)",
+  "estimated_time_minutes": 15,
+  "description": "Advanced equipment English module examining high-density tungsten metallurgy, flight surface aerodynamics, and custom barrel grip engineering.",
+  "grammar_focus": "Passive Voice & Technical Specifications",
+  "learning_objectives": [
+    "Master advanced technical jargon in sports engineering (95% tungsten density, knurling, shark fin grips, flight aerodynamics)",
+    "Apply inverted conditionals and negative inversion in technical equipment evaluation",
+    "Demonstrate high-register precision when drafting equipment specifications and tolerances"
+  ],
+  "questions": [
+    {
+      "id": "BID-PUR-SP-003-Q1",
+      "prompt": "_____ the manufacturer not utilized 95% high-density tungsten billets, the dart barrel would have been too bulky for tight grouping.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If"
+        },
+        {
+          "key": "B",
+          "text": "Had"
+        },
+        {
+          "key": "C",
+          "text": "Were"
+        },
+        {
+          "key": "D",
+          "text": "Should"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'Had the manufacturer not utilized...' correctly replaces 'If the manufacturer had not utilized...'.",
+        "wrong_A": "'If' requires the auxiliary 'had' after the subject.",
+        "wrong_C": "'Were' forms a Second Conditional, incompatible with past 'would have been'.",
+        "wrong_D": "'Should' expresses tentative future conditions."
+      },
+      "cz_learning_point": "Inverze 3. kondicionálu: 'Had the manufacturer not utilized...' = 'Kdyby výrobce nepoužil...'. V podmínce se nepoužívá 'if'.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q2",
+      "prompt": "Under no circumstances _____ match players use bent points that cause severe micro-tears in the sisal dartboard fibers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "players should"
+        },
+        {
+          "key": "B",
+          "text": "must to players"
+        },
+        {
+          "key": "C",
+          "text": "should professional"
+        },
+        {
+          "key": "D",
+          "text": "shall players to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Negative introductory phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should professional [players use]'.",
+        "wrong_A": "'players should' lacks the required subject-auxiliary inversion.",
+        "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_D": "'shall... to' is ungrammatical."
+      },
+      "cz_learning_point": "Záporná úvodní fráze 'Under no circumstances' vyžaduje převrácený slovosled (inverzi): 'Under no circumstances should players use...'.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q3",
+      "prompt": "If the champion had tested his barrel grip profile thoroughly during pre-season practice, his release _____ on the oche today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not be slipping"
+        },
+        {
+          "key": "B",
+          "text": "would not have slipped"
+        },
+        {
+          "key": "C",
+          "text": "will not slip"
+        },
+        {
+          "key": "D",
+          "text": "does not slip"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mixed conditional: past unreal action ('had tested') with ongoing present consequence ('today') takes 'would not be slipping'.",
+        "wrong_B": "'would not have slipped' refers purely to past result, but adverbial 'today' anchors consequence to the present.",
+        "wrong_C": "'will not slip' is First Conditional, incompatible with past condition.",
+        "wrong_D": "Indicative 'does not slip' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If he had tested [minulost], it would not be slipping [dnes]'.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q4",
+      "prompt": "PDC tournament guidelines mandate that each competitor _____ their match darts for weight verification prior to the quarter-finals.",
+      "options": [
+        {
+          "key": "A",
+          "text": "submits"
+        },
+        {
+          "key": "B",
+          "text": "will submit"
+        },
+        {
+          "key": "C",
+          "text": "must to submit"
+        },
+        {
+          "key": "D",
+          "text": "submit"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Mandative subjunctive after 'mandate that' requires the base form 'submit' regardless of singular/plural subject.",
+        "wrong_A": "Indicative 'submits' with 3rd person -s violates mandative subjunctive syntax.",
+        "wrong_B": "Future 'will submit' is incorrect after mandative 'mandate that'.",
+        "wrong_C": "'must to' is ungrammatical."
+      },
+      "cz_learning_point": "Subjunktiv po slovesech nařízení (mandate that): sloveso má základní tvar bez koncovky -s: 'mandate that each competitor submit'.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q5",
+      "prompt": "_____ from standard flights to slim aerodynamic shapes, the player recorded significantly higher drag velocity into the board.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Switch"
+        },
+        {
+          "key": "B",
+          "text": "Switched"
+        },
+        {
+          "key": "C",
+          "text": "Having switched"
+        },
+        {
+          "key": "D",
+          "text": "Being switched"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Perfect active participle 'Having switched' correctly expresses an action completed prior to the main clause action 'recorded'.",
+        "wrong_A": "Base verb 'Switch' cannot function as an introductory participle.",
+        "wrong_B": "Past form 'Switched' without auxiliary is passive, but the player actively performed the switch.",
+        "wrong_D": "'Being switched' implies passive voice."
+      },
+      "cz_learning_point": "Předpřítomné participium (Having switched = poté, co přešel na...) vyjadřuje děj, který předcházel ději v hlavní větě.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q6",
+      "prompt": "_____ carbon-composite shafts offer supreme structural rigidity, nylon stems provide greater bounce-out deflection resilience.",
+      "options": [
+        {
+          "key": "A",
+          "text": "In spite of"
+        },
+        {
+          "key": "B",
+          "text": "Although"
+        },
+        {
+          "key": "C",
+          "text": "Notwithstanding"
+        },
+        {
+          "key": "D",
+          "text": "Despite"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Although' is a conjunction followed by a full clause with subject and verb ('carbon-composite shafts offer...').",
+        "wrong_A": "'In spite of' is a preposition and must be followed by a noun phrase or gerund.",
+        "wrong_C": "'Notwithstanding' is followed by a noun phrase.",
+        "wrong_D": "'Despite' is a preposition and cannot be followed directly by a finite clause."
+      },
+      "cz_learning_point": "Spojka 'Although' (ačkoli) se pojí s celou větou s podmětem a slovesem, zatímco předložky jako 'Despite' a 'In spite of' vyžadují podstatné jméno.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q7",
+      "prompt": "High-density sintered tungsten is universally acknowledged _____ the precision tolerances of modern competition darts.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to have revolutionized"
+        },
+        {
+          "key": "B",
+          "text": "revolutionizing"
+        },
+        {
+          "key": "C",
+          "text": "to revolutionize"
+        },
+        {
+          "key": "D",
+          "text": "to have been revolutionized"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Perfect active infinitive 'to have revolutionized' correctly attributes a past completed breakthrough to tungsten metallurgy.",
+        "wrong_B": "Participle 'revolutionizing' cannot follow passive reporting verb 'is acknowledged'.",
+        "wrong_C": "Present infinitive 'to revolutionize' fails to convey past completion.",
+        "wrong_D": "Passive 'to have been revolutionized' incorrectly treats tungsten as the object rather than the agent."
+      },
+      "cz_learning_point": "Vazba 'is acknowledged to have revolutionized' (uznává se, že způsobil revoluci) vyjadřuje minulý děj pomocí minulého infinitivu.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q8",
+      "prompt": "Only after experimenting with multiple shaft lengths _____ the ideal trajectory balance for his throwing rhythm.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did the player discover"
+        },
+        {
+          "key": "B",
+          "text": "the player discovered"
+        },
+        {
+          "key": "C",
+          "text": "discovered the player"
+        },
+        {
+          "key": "D",
+          "text": "has the player discovered"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did the player discover'.",
+        "wrong_B": "'the player discovered' lacks required subject-auxiliary inversion.",
+        "wrong_C": "'discovered the player' is archaic full inversion without auxiliary 'did'.",
+        "wrong_D": "Present perfect conflicts with completed past experimentation."
+      },
+      "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled: 'Only after experimenting did the player discover...'.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q9",
+      "prompt": "A professional player averaging over 105 points across five sets _____ with damaged or unbalanced equipment.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not be playing"
+        },
+        {
+          "key": "B",
+          "text": "should not be playing"
+        },
+        {
+          "key": "C",
+          "text": "cannot possibly be playing"
+        },
+        {
+          "key": "D",
+          "text": "may not be playing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Cannot possibly be playing' expresses absolute deductive impossibility based on world-class performance metrics.",
+        "wrong_A": "'must not' expresses prohibition or deduction of absence, but lacks impossibility nuance.",
+        "wrong_B": "'should not' expresses moral obligation or advice.",
+        "wrong_D": "'may not' expresses mere uncertainty."
+      },
+      "cz_learning_point": "Vyjádření naprosté nemožnosti: 'cannot possibly be playing' (v žádném případě nemůže hrát s poškozeným vybavením).",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q10",
+      "prompt": "Target Darts engineered the patented Swiss Point system, by means of _____ broken points are replaced in seconds using a pocket tool.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whom"
+        },
+        {
+          "key": "D",
+          "text": "where"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Formal prepositional relative phrase 'by means of which' strictly takes 'which' when modifying a mechanical system.",
+        "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+        "wrong_C": "'whom' refers only to persons.",
+        "wrong_D": "'where' refers to physical places."
+      },
+      "cz_learning_point": "Po předložkových vazbách v rozvitých vztažných větách se pro technické systémy používá výhradně 'which': 'by means of which' (pomocí něhož).",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    }
+  ]
+}

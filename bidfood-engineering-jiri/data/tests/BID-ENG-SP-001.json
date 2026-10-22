@@ -1,0 +1,327 @@
+{
+  "test_id": "BID-ENG-SP-001",
+  "title": "Artificial Intelligence in Manufacturing: Predictive Maintenance & Computer Vision",
+  "level": "B1",
+  "category": "specialized",
+  "workplace_track": "Emerging Tech: AI & Industrial Machine Learning",
+  "estimated_time_minutes": 15,
+  "description": "Specialized smart manufacturing English module analyzing machine learning anomaly detection, computer vision sorting, and edge IoT diagnostics.",
+  "grammar_focus": "Present Perfect Continuous & Real Conditionals",
+  "learning_objectives": [
+    "Master industrial AI lexicon (computer vision, anomaly detection, edge computing, acoustic sensors, neural networks)",
+    "Apply conditional logic and duration tenses to automated diagnostic alarms",
+    "Eliminate Czech interference errors when explaining predictive algorithms and sensor telemetry"
+  ],
+  "questions": [
+    {
+      "id": "BID-ENG-SP-001-Q1",
+      "prompt": "Before deploying the neural network onto the food packaging line, computer vision engineers _____ the camera exposure.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to calibrate"
+        },
+        {
+          "key": "B",
+          "text": "must calibrate"
+        },
+        {
+          "key": "C",
+          "text": "is must calibrate"
+        },
+        {
+          "key": "D",
+          "text": "must calibrating"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Modal 'must' is directly followed by the bare infinitive 'calibrate' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modals never take 'to'.",
+        "wrong_C": "'is must' is completely ungrammatical in English.",
+        "wrong_D": "'must' cannot take an '-ing' participle."
+      },
+      "cz_learning_point": "Po způsobovém slovesu 'must' následuje vždy holý infinitiv bez 'to': 'must calibrate' (nikoli *must to calibrate*).",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-001-Q2",
+      "prompt": "If the acoustic edge sensor _____ abnormal high-frequency bearing vibrations, the AI triggers an automated maintenance ticket.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will detect"
+        },
+        {
+          "key": "B",
+          "text": "would detect"
+        },
+        {
+          "key": "C",
+          "text": "detects"
+        },
+        {
+          "key": "D",
+          "text": "detected"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('detects') for automated operational rules.",
+        "wrong_A": "Cannot use future modal 'will' inside an if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'detected' would conflict with present indicative 'triggers'."
+      },
+      "cz_learning_point": "V podmínkových větách s 'if' se nesmí použít 'will' (*If the sensor will detect*). Použijte přítomný čas: 'If the sensor detects'.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-001-Q3",
+      "prompt": "The edge inference device streams raw thermal telemetry to the cloud gateway _____ the ammonia compressor is running at full capacity.",
+      "options": [
+        {
+          "key": "A",
+          "text": "while"
+        },
+        {
+          "key": "B",
+          "text": "during"
+        },
+        {
+          "key": "C",
+          "text": "for"
+        },
+        {
+          "key": "D",
+          "text": "since"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'While' is a conjunction followed by a full continuous clause ('the ammonia compressor is running').",
+        "wrong_B": "'During' is a preposition and must be followed by a noun phrase, not a finite clause.",
+        "wrong_C": "'For' expresses duration of time.",
+        "wrong_D": "'Since' denotes elapsed time from a starting point or causation."
+      },
+      "cz_learning_point": "Spojka 'while' se pojí s celou větou se slovesem (while the compressor is running), zatímco 'during' se pojí pouze s podstatným jménem.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-001-Q4",
+      "prompt": "Factory quality protocols require that machine learning defect models _____ every month against newly annotated edge data.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should retrain"
+        },
+        {
+          "key": "B",
+          "text": "should to be retrained"
+        },
+        {
+          "key": "C",
+          "text": "are should retrained"
+        },
+        {
+          "key": "D",
+          "text": "should be retrained"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive with modal 'should be retrained' correctly describes how models must be updated.",
+        "wrong_A": "Active 'should retrain' implies models retrain themselves.",
+        "wrong_B": "'should to be' is ungrammatical; modal 'should' does not take 'to'.",
+        "wrong_C": "'are should' is invalid syntax."
+      },
+      "cz_learning_point": "Trpný rod se způsobovým slovesem: 'should be retrained' (měly by být přetrénovány). Modely se nepřetrénovávají samy.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-001-Q5",
+      "prompt": "The data science team _____ vibration anomalies on ammonia screw compressor 2 for the past three weeks.",
+      "options": [
+        {
+          "key": "A",
+          "text": "monitors"
+        },
+        {
+          "key": "B",
+          "text": "monitored"
+        },
+        {
+          "key": "C",
+          "text": "has been monitoring"
+        },
+        {
+          "key": "D",
+          "text": "is monitor"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Present Perfect Continuous ('has been monitoring') correctly expresses an ongoing action lasting from the past into the present ('for the past three weeks').",
+        "wrong_A": "Present Simple expresses habitual routines, not ongoing duration.",
+        "wrong_B": "Past Simple implies the monitoring has completely stopped.",
+        "wrong_D": "'is monitor' is ungrammatical."
+      },
+      "cz_learning_point": "Předpřítomný průběhový čas (Present Perfect Continuous: 'has been monitoring') vyjadřuje děj, který začal v minulosti a stále trvá ('for the past three weeks').",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-001-Q6",
+      "prompt": "Sensor readings are pre-processed on localized microcontrollers _____ cloud transmission bandwidth can be minimized.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order"
+        },
+        {
+          "key": "B",
+          "text": "so that"
+        },
+        {
+          "key": "C",
+          "text": "because of"
+        },
+        {
+          "key": "D",
+          "text": "for to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('bandwidth can be minimized').",
+        "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+        "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+        "wrong_D": "'for to' is non-standard and ungrammatical."
+      },
+      "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou se způsobovým slovesem: 'so that bandwidth can be minimized').",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-001-Q7",
+      "prompt": "The high-speed optical sorter will automatically _____ any frozen carton with an illegible or smeared barcode.",
+      "options": [
+        {
+          "key": "A",
+          "text": "weed out to"
+        },
+        {
+          "key": "B",
+          "text": "weeding out"
+        },
+        {
+          "key": "C",
+          "text": "weeded out"
+        },
+        {
+          "key": "D",
+          "text": "weed out"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Phrasal verb 'weed out' (to eliminate or reject defective items) takes base form after future auxiliary 'will'.",
+        "wrong_A": "'weed out to' adds an unnecessary preposition.",
+        "wrong_B": "Participle 'weeding out' cannot follow auxiliary 'will'.",
+        "wrong_C": "Past form 'weeded out' is ungrammatical after auxiliary 'will'."
+      },
+      "cz_learning_point": "Frázové sloveso 'weed out' (vyřadit / vyselektovat vadné kusy). Po pomocném slovesu 'will' následuje základní tvar: 'will weed out'.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-001-Q8",
+      "prompt": "The automated facility relies on smart piezoelectric sensors, _____ sampling frequency exceeds 20 kilohertz.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensors' with its attribute 'sampling frequency'.",
+        "wrong_B": "'which' cannot express possession without 'of'.",
+        "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+        "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
+      },
+      "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jejichž vzorkovací frekvence) se v technické angličtině běžně používá i pro neživé předměty a přístroje.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-001-Q9",
+      "prompt": "Given that the neural network's confidence score exceeds 99.8%, this thermal image anomaly _____ a failing rotor bearing.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be"
+        },
+        {
+          "key": "B",
+          "text": "can to be"
+        },
+        {
+          "key": "C",
+          "text": "must be"
+        },
+        {
+          "key": "D",
+          "text": "is must"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Must be' expresses strong logical deduction based on high mathematical confidence.",
+        "wrong_A": "'must to be' is ungrammatical; modals never take 'to'.",
+        "wrong_B": "'can to be' is ungrammatical in English.",
+        "wrong_D": "'is must' is invalid syntax."
+      },
+      "cz_learning_point": "Logická dedukce (určitě to musí být porucha): 'must be a failing bearing'. Nikdy *must to be*.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    },
+    {
+      "id": "BID-ENG-SP-001-Q10",
+      "prompt": "The robotic packaging cell cannot resume autonomous operation _____ the computer vision safety zone is verified clear.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if"
+        },
+        {
+          "key": "B",
+          "text": "unless"
+        },
+        {
+          "key": "C",
+          "text": "provided that"
+        },
+        {
+          "key": "D",
+          "text": "as long as"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Unless' expresses 'if not' or 'except when', stating the mandatory safety condition for restart.",
+        "wrong_A": "'if' produces an illogical contradiction (cannot run IF verified clear).",
+        "wrong_C": "'provided that' creates an illogical positive condition.",
+        "wrong_D": "'as long as' also creates an illogical condition."
+      },
+      "cz_learning_point": "'Unless' = pokud ne (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the safety zone is verified clear'.",
+      "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+    }
+  ]
+}

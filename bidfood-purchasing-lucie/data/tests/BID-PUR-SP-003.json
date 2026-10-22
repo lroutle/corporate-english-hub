@@ -1,0 +1,327 @@
+{
+  "test_id": "BID-PUR-SP-003",
+  "title": "Motorcycle Engine Architecture: In-line Fours vs V-Twins vs Parallel Twins & Slipper Clutches",
+  "level": "B2",
+  "category": "specialized",
+  "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics",
+  "estimated_time_minutes": 15,
+  "description": "Advanced motorcycle engineering module examining crankshaft firing orders (180° vs 270°), slipper clutch ramp mechanics, and quickshifter ignition cuts.",
+  "grammar_focus": "Complex Passive Constructions & Degrees of Comparison",
+  "learning_objectives": [
+    "Master advanced motorcycle engineering terms (crossplane crankshaft, slipper clutch, bi-directional quickshifter, IMU, ride-by-wire)",
+    "Apply inverted conditionals and complex passive reporting in motorcycle powertrain evaluations",
+    "Demonstrate fluency when drafting comparative engine reviews and mechanical diagnostic reports"
+  ],
+  "questions": [
+    {
+      "id": "BID-PUR-SP-003-Q1",
+      "prompt": "_____ motorcycle manufacturers not adopted 270-degree crossplane crankshafts, modern parallel twins would have lacked charismatic V-twin character.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If"
+        },
+        {
+          "key": "B",
+          "text": "Had"
+        },
+        {
+          "key": "C",
+          "text": "Were"
+        },
+        {
+          "key": "D",
+          "text": "Should"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'Had motorcycle manufacturers not adopted...' expresses a past counterfactual without 'if'.",
+        "wrong_A": "'If' requires the auxiliary 'had' after the subject.",
+        "wrong_C": "'Were' forms a Second Conditional, incompatible with past 'would have lacked'.",
+        "wrong_D": "'Should' expresses tentative future conditions."
+      },
+      "cz_learning_point": "Inverze 3. kondicionálu: 'Had manufacturers not adopted...' = 'Kdyby výrobci nezavedli...'. V podmínce se nepoužívá 'if' ani 'would'.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q2",
+      "prompt": "Under no circumstances _____ riders use passenger car engine oils containing energy-conserving molybdenum additives in wet clutch motorcycles.",
+      "options": [
+        {
+          "key": "A",
+          "text": "riders should"
+        },
+        {
+          "key": "B",
+          "text": "must to riders"
+        },
+        {
+          "key": "C",
+          "text": "should motorcycle"
+        },
+        {
+          "key": "D",
+          "text": "shall riders to"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Negative introductory phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should motorcycle [riders use]'.",
+        "wrong_A": "'riders should' lacks the required subject-auxiliary inversion.",
+        "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_D": "'shall... to' is ungrammatical."
+      },
+      "cz_learning_point": "Záporná úvodní fráze 'Under no circumstances' vyžaduje převrácený slovosled (inverzi): 'Under no circumstances should riders use...'.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q3",
+      "prompt": "If the suspension specialist had dialed in the rebound damping during track setup, the rear tire _____ cold tear patterns today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not be showing"
+        },
+        {
+          "key": "B",
+          "text": "would not have shown"
+        },
+        {
+          "key": "C",
+          "text": "will not show"
+        },
+        {
+          "key": "D",
+          "text": "does not show"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had dialed in') with present ongoing result ('today') takes 'would not be showing'.",
+        "wrong_B": "'would not have shown' refers purely to past result, but adverbial 'today' anchors consequence to the present.",
+        "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+        "wrong_D": "Indicative 'does not show' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If he had dialed in [minulost], it would not be showing [dnes]'.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q4",
+      "prompt": "FIM road racing technical regulations mandate that every competition machine _____ mechanical safety wire locks on oil drain plugs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "utilizes"
+        },
+        {
+          "key": "B",
+          "text": "will utilize"
+        },
+        {
+          "key": "C",
+          "text": "must to utilize"
+        },
+        {
+          "key": "D",
+          "text": "utilize"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Mandative subjunctive after 'mandate that' requires base form 'utilize' regardless of 3rd person singular subject.",
+        "wrong_A": "Indicative 'utilizes' with 3rd person -s violates mandative subjunctive syntax.",
+        "wrong_B": "Future 'will utilize' is incorrect after mandative 'mandate that'.",
+        "wrong_C": "'must to' is ungrammatical."
+      },
+      "cz_learning_point": "Subjunktiv po slovesech předpisů (mandate that every machine utilize): sloveso zůstává v základním tvaru bez -s.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q5",
+      "prompt": "_____ an electronic bi-directional quickshifter, the trackday rider executed seamless full-throttle upshifts without using the clutch lever.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Install"
+        },
+        {
+          "key": "B",
+          "text": "Installed"
+        },
+        {
+          "key": "C",
+          "text": "Having installed"
+        },
+        {
+          "key": "D",
+          "text": "Being installed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Perfect active participle 'Having installed' correctly expresses prior hardware installation leading to subsequent clutchless shifts.",
+        "wrong_A": "Base verb 'Install' cannot function as introductory participle.",
+        "wrong_B": "Past form 'Installed' without auxiliary is passive, but the rider actively installed the quickshifter.",
+        "wrong_D": "'Being installed' expresses present passive, not completed prior action."
+      },
+      "cz_learning_point": "Předpřítomné participium (Having installed = poté, co nainstaloval...) vyjadřuje děj dokončený před hlavní větou.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q6",
+      "prompt": "_____ high-revving in-line four engines deliver ferocious top-end horsepower, low-RPM torque is far more usable on twisty mountain passes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "In spite of"
+        },
+        {
+          "key": "B",
+          "text": "Although"
+        },
+        {
+          "key": "C",
+          "text": "Notwithstanding"
+        },
+        {
+          "key": "D",
+          "text": "Despite"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Although' is a conjunction followed by a full clause with subject and verb ('high-revving in-line four engines deliver...').",
+        "wrong_A": "'In spite of' is a preposition and must be followed by a noun phrase or gerund.",
+        "wrong_C": "'Notwithstanding' is followed by a noun phrase.",
+        "wrong_D": "'Despite' is a preposition and cannot be followed directly by a finite clause."
+      },
+      "cz_learning_point": "Spojka 'Although' (ačkoli) se pojí s celou větou s podmětem a slovesem, zatímco předložky jako 'Despite' a 'In spite of' vyžadují podstatné jméno.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q7",
+      "prompt": "Ride-by-wire electronic throttle mapping is confirmed _____ snatchy low-speed fuel injection responses on modern big-bore motorcycles.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to eliminate"
+        },
+        {
+          "key": "B",
+          "text": "eliminating"
+        },
+        {
+          "key": "C",
+          "text": "to have been eliminated"
+        },
+        {
+          "key": "D",
+          "text": "to have eliminated"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Perfect active infinitive 'to have eliminated' correctly attributes an established technological advance to electronic throttles.",
+        "wrong_A": "Present infinitive 'to eliminate' implies future or ongoing elimination rather than proven technological fact.",
+        "wrong_B": "Participle 'eliminating' cannot follow passive reporting verb 'is confirmed'.",
+        "wrong_C": "Passive 'to have been eliminated' incorrectly treats electronic throttles as the object rather than the driving cause."
+      },
+      "cz_learning_point": "Vazba 'is confirmed to have eliminated' (je potvrzeno, že eliminovalo) vyjadřuje minulý děj pomocí minulého infinitivu.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q8",
+      "prompt": "Only after fitting an inverted cartridge front fork _____ the high-speed chatter under heavy braking into corners.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did the test rider cure"
+        },
+        {
+          "key": "B",
+          "text": "the test rider cured"
+        },
+        {
+          "key": "C",
+          "text": "cured the test rider"
+        },
+        {
+          "key": "D",
+          "text": "has the test rider cured"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did the test rider cure'.",
+        "wrong_B": "'the test rider cured' lacks required subject-auxiliary inversion.",
+        "wrong_C": "'cured the test rider' is archaic full inversion without auxiliary 'did'.",
+        "wrong_D": "Present perfect conflicts with completed past track testing."
+      },
+      "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled: 'Only after fitting a fork did the rider cure...'.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q9",
+      "prompt": "With audible mechanical tapping echoing from the top cylinder head at idle, the valve shims _____ within factory clearance tolerances.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not operate"
+        },
+        {
+          "key": "B",
+          "text": "should not operate"
+        },
+        {
+          "key": "C",
+          "text": "cannot possibly be operating"
+        },
+        {
+          "key": "D",
+          "text": "may not operate"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Cannot possibly be operating' expresses absolute deductive impossibility based on clear valve train noise.",
+        "wrong_A": "'must not' expresses prohibition or deduction of absence.",
+        "wrong_B": "'should not' expresses moral obligation or advice.",
+        "wrong_D": "'may not' expresses mere uncertainty."
+      },
+      "cz_learning_point": "Vyjádření naprosté nemožnosti: 'cannot possibly be operating' (v žádném případě nemohou ventily fungovat v toleranci, když takto klepou).",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-003-Q10",
+      "prompt": "Modern superbikes incorporate a six-axis inertial measurement unit (IMU), in accordance with _____ traction control and slide control intervene.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Formal prepositional relative phrase 'in accordance with which' strictly takes 'which' when modifying an IMU sensor.",
+        "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+        "wrong_C": "'whose' expresses possession.",
+        "wrong_D": "'whom' refers only to persons."
+      },
+      "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro technické senzory používá výhradně 'which': 'in accordance with which' (v souladu s nímž).",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    }
+  ]
+}

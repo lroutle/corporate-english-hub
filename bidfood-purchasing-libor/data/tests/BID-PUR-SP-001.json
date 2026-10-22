@@ -1,0 +1,327 @@
+{
+  "test_id": "BID-PUR-SP-001",
+  "title": "Professional Darts: PDC World Championship Rules, 501 Checkout Maths & Oche Etiquette",
+  "level": "B1",
+  "category": "specialized",
+  "workplace_track": "Sports & Leisure: Professional Darts (PDC)",
+  "estimated_time_minutes": 15,
+  "description": "Specialized sports English module analyzing PDC tournament rules, 501 tactical checkout math, and oche throwing etiquette.",
+  "grammar_focus": "Conditionals & Numerical Precision in Checkouts",
+  "learning_objectives": [
+    "Master professional darts terminology (oche, 501 double-out, checkout routes, bounce-outs)",
+    "Apply modal verbs and conditional structures to game rules and match strategy",
+    "Eliminate Czech interference errors when discussing scores, averages, and tournament play"
+  ],
+  "questions": [
+    {
+      "id": "BID-PUR-SP-001-Q1",
+      "prompt": "In professional 501 darts, a player _____ the leg by hitting a double or the 50-point red bullseye.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to finish"
+        },
+        {
+          "key": "B",
+          "text": "must finish"
+        },
+        {
+          "key": "C",
+          "text": "is must finish"
+        },
+        {
+          "key": "D",
+          "text": "must finishing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Modal verb 'must' is followed directly by the bare infinitive 'finish' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modal verbs never take 'to'.",
+        "wrong_C": "'is must' is completely invalid syntax.",
+        "wrong_D": "'must' cannot be followed by an '-ing' participle."
+      },
+      "cz_learning_point": "Po způsobovém slovesu 'must' následuje vždy holý infinitiv bez 'to': 'must finish' (nikdy *must to finish*).",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q2",
+      "prompt": "If a player _____ a score of 40 remaining, the standard tactical route is throwing at double 20 (tops).",
+      "options": [
+        {
+          "key": "A",
+          "text": "will have"
+        },
+        {
+          "key": "B",
+          "text": "would have"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "had"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('has') for real game scenarios.",
+        "wrong_A": "Cannot use future modal 'will' inside an if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'had' would create an unreal Second Conditional mismatched with present 'is throwing'."
+      },
+      "cz_learning_point": "V podmínkové větě po 'if' se nesmí použít 'will' (*If a player will have*). Použijte přítomný čas: 'If a player has'.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q3",
+      "prompt": "Tournament regulations mandate that players must stand strictly _____ the raised oche during every throw.",
+      "options": [
+        {
+          "key": "A",
+          "text": "behind"
+        },
+        {
+          "key": "B",
+          "text": "into"
+        },
+        {
+          "key": "C",
+          "text": "across to"
+        },
+        {
+          "key": "D",
+          "text": "between of"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'behind' correctly describes the legal standing position relative to the oche throw-line.",
+        "wrong_B": "'into' denotes motion entering inside, not static position.",
+        "wrong_C": "'across to' expresses direction across a gap, not standing stance.",
+        "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
+      },
+      "cz_learning_point": "Předložka 'behind' = za čárou (oche). Dejte pozor na chybnou vazbu *between of*.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q4",
+      "prompt": "According to World Darts Federation specifications, match darts _____ 30.5 cm in total length.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not exceed to"
+        },
+        {
+          "key": "B",
+          "text": "are must not exceed"
+        },
+        {
+          "key": "C",
+          "text": "must not exceeding"
+        },
+        {
+          "key": "D",
+          "text": "must not exceed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Negative modal 'must not' is followed by base form 'exceed' without 'to'.",
+        "wrong_A": "'exceed to' is ungrammatical; 'exceed' is transitive and takes a direct object.",
+        "wrong_B": "'are must' is completely ungrammatical in English.",
+        "wrong_C": "'-ing' participle cannot follow modal 'must not'."
+      },
+      "cz_learning_point": "Způsobové sloveso zákazu: 'must not exceed' (nesmí překročit). Sloveso 'exceed' se nepojí s předložkou 'to'.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q5",
+      "prompt": "Sixteen-year-old Luke Littler _____ the PDC World Darts Championship final on his sensational debut in 2024.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has reached"
+        },
+        {
+          "key": "B",
+          "text": "reaches"
+        },
+        {
+          "key": "C",
+          "text": "reached"
+        },
+        {
+          "key": "D",
+          "text": "was reach"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific completed past time 'in 2024' strictly requires Past Simple 'reached'.",
+        "wrong_A": "Present Perfect 'has reached' cannot be used with a closed past date like 'in 2024'.",
+        "wrong_B": "Present Simple expresses habitual routines, not a historic finished event.",
+        "wrong_D": "'was reach' is ungrammatical syntax."
+      },
+      "cz_learning_point": "S konkrétním letopočtem v minulosti (in 2024) se v angličtině striktně pojí Past Simple ('reached'), nikoli předpřítomný čas.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q6",
+      "prompt": "Michael van Gerwen switched to treble 19 with his third dart _____ he could set up a comfortable double 16.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order"
+        },
+        {
+          "key": "B",
+          "text": "so that"
+        },
+        {
+          "key": "C",
+          "text": "because of"
+        },
+        {
+          "key": "D",
+          "text": "for to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('he could set up').",
+        "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+        "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+        "wrong_D": "'for to' is non-standard and ungrammatical."
+      },
+      "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that he could set up').",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q7",
+      "prompt": "If a dart strikes the steel spider wire and falls to the floor, it _____ as a bounce-out with zero score.",
+      "options": [
+        {
+          "key": "A",
+          "text": "records"
+        },
+        {
+          "key": "B",
+          "text": "is recording"
+        },
+        {
+          "key": "C",
+          "text": "recorded"
+        },
+        {
+          "key": "D",
+          "text": "is recorded"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive voice 'is recorded' correctly expresses how the dart is officially scored by the referee.",
+        "wrong_A": "Active 'records' implies the dart records itself actively.",
+        "wrong_B": "Present Continuous active does not fit the static rule definition.",
+        "wrong_C": "Past tense 'recorded' conflicts with present conditional premise 'strikes'."
+      },
+      "cz_learning_point": "Trpný rod u oficiálních pravidel: 'is recorded' (je započítána jako nula). Šipka se sama nezapisuje.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q8",
+      "prompt": "Spectators and players alike _____ to remain silent while a competitor is on the oche addressing the board.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are expected"
+        },
+        {
+          "key": "B",
+          "text": "expecting"
+        },
+        {
+          "key": "C",
+          "text": "are expect"
+        },
+        {
+          "key": "D",
+          "text": "must to be expected"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Passive construction 'are expected' correctly conveys social and behavioral expectations.",
+        "wrong_B": "Participle alone cannot form a finite predicate.",
+        "wrong_C": "'are expect' is an ungrammatical verb combination.",
+        "wrong_D": "'must to be' is ungrammatical; modal 'must' does not take 'to'."
+      },
+      "cz_learning_point": "Vazba 'are expected to' = očekává se od nich, že... Častá chyba: *are expect* bez koncovky -ed.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q9",
+      "prompt": "Hitting two maximum 180s followed by a 141 checkout _____ the ultimate achievement in modern darts.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be"
+        },
+        {
+          "key": "B",
+          "text": "can to be"
+        },
+        {
+          "key": "C",
+          "text": "must be"
+        },
+        {
+          "key": "D",
+          "text": "is must"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Must be' expresses logical deduction based on the rarity of a 9-dart finish.",
+        "wrong_A": "'must to be' is ungrammatical; modals never take 'to'.",
+        "wrong_B": "'can to be' is ungrammatical in English.",
+        "wrong_D": "'is must' is invalid syntax."
+      },
+      "cz_learning_point": "Logická dedukce (určitě je / musí být): 'must be'. Způsobová slovesa nepřibírají předložku 'to'.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q10",
+      "prompt": "A player cannot claim the leg _____ their final dart lands securely in the required double segment.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if"
+        },
+        {
+          "key": "B",
+          "text": "unless"
+        },
+        {
+          "key": "C",
+          "text": "provided that"
+        },
+        {
+          "key": "D",
+          "text": "as long as"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Unless' means 'except if' or 'if not', expressing the mandatory prerequisite for winning.",
+        "wrong_A": "'if' creates an illogical contradiction (cannot win IF it lands).",
+        "wrong_C": "'provided that' creates an illogical positive condition.",
+        "wrong_D": "'as long as' also creates an illogical condition."
+      },
+      "cz_learning_point": "'Unless' = pokud ne (if not). Po 'unless' už v angličtině nenásleduje další zápor: 'unless their final dart lands...'.",
+      "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+    }
+  ]
+}

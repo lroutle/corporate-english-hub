@@ -1,0 +1,327 @@
+{
+  "test_id": "BID-PUR-SP-004",
+  "title": "Motorcycle Touring, Ergonomics & Premium Protective Gear (CE Armor & Airbag Vests)",
+  "level": "B2",
+  "category": "specialized",
+  "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics",
+  "estimated_time_minutes": 15,
+  "description": "High-register motorcycle touring English module examining European ECE 22.06 helmet standards, autonomous electronic airbag deployment, and ergonomic aerodynamics.",
+  "grammar_focus": "Participial Clauses & Evaluative Purchasing Decisions",
+  "learning_objectives": [
+    "Master protective gear terminology (ECE 22.06 homologation, D3O non-Newtonian armor, electronic airbag vest, Cordura, pannier balance)",
+    "Apply participial clauses and concession structures to technical gear reviews and purchasing decisions",
+    "Demonstrate fluency when debating long-distance touring ergonomics, windscreen aerodynamics, and luggage load distribution"
+  ],
+  "questions": [
+    {
+      "id": "BID-PUR-SP-004-Q1",
+      "prompt": "_____ the long-distance touring rider not worn an autonomous electronic airbag vest, the direct impact with the guardrail would have caused severe fractures.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If"
+        },
+        {
+          "key": "B",
+          "text": "Had"
+        },
+        {
+          "key": "C",
+          "text": "Were"
+        },
+        {
+          "key": "D",
+          "text": "Should"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'Had the touring rider not worn...' correctly expresses a past counterfactual premise without 'if'.",
+        "wrong_A": "'If' requires the auxiliary 'had' after the subject.",
+        "wrong_C": "'Were' forms a Second Conditional, incompatible with past 'would have caused'.",
+        "wrong_D": "'Should' expresses tentative future conditions."
+      },
+      "cz_learning_point": "Inverze 3. kondicionálu: 'Had the rider not worn...' = 'Kdyby jezdec neměl na sobě...'. V podmínce se nepoužívá 'if' ani 'would'.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q2",
+      "prompt": "Rarely _____ standard denim jeans provide adequate slide abrasion resistance beyond two seconds of sliding across high-friction tarmac.",
+      "options": [
+        {
+          "key": "A",
+          "text": "do"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "will"
+        },
+        {
+          "key": "D",
+          "text": "have"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Negative adverb 'Rarely' triggers subject-auxiliary inversion with plural auxiliary 'do': 'Rarely do standard denim jeans provide...'.",
+        "wrong_B": "'is' is singular and cannot agree with plural 'jeans'.",
+        "wrong_C": "'will' changes the sentence to predictive future rather than an established physical fact.",
+        "wrong_D": "'have' would require past participle 'provided'."
+      },
+      "cz_learning_point": "Záporné příslovce 'Rarely' na začátku věty vyžaduje inverzi pomocného slovesa 'do' (množné číslo u jeans) a podmětu: 'Rarely do jeans provide...'.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q3",
+      "prompt": "If the traveler had balanced the pannier weight distribution evenly last night, the motorcycle _____ at highway cruising speeds today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not be weaving"
+        },
+        {
+          "key": "B",
+          "text": "would not have weaved"
+        },
+        {
+          "key": "C",
+          "text": "will not weave"
+        },
+        {
+          "key": "D",
+          "text": "does not weave"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had balanced') with present ongoing result ('today') takes 'would not be weaving'.",
+        "wrong_B": "'would not have weaved' refers purely to past result, but adverbial 'today' anchors consequence to the present.",
+        "wrong_C": "'will not weave' is First Conditional, incompatible with past counterfactual condition.",
+        "wrong_D": "Simple present indicative 'does not weave' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Smíšený kondicionál: minulá příčina spojená s přítomným následkem: 'If he had balanced [minulost], it would not be weaving [dnes]'.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q4",
+      "prompt": "European ECE 22.06 safety regulations mandate that all motorcycle helmet visors _____ high-velocity steel ball penetration without shattering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "withstands"
+        },
+        {
+          "key": "B",
+          "text": "will withstand"
+        },
+        {
+          "key": "C",
+          "text": "must to withstand"
+        },
+        {
+          "key": "D",
+          "text": "withstand"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Mandative subjunctive after 'mandate that' requires base form 'withstand' regardless of plural subject.",
+        "wrong_A": "Indicative 'withstands' with 3rd person -s is ungrammatical with plural 'visors' and violates subjunctive syntax.",
+        "wrong_B": "Future 'will withstand' is incorrect after mandative 'mandate that'.",
+        "wrong_C": "'must to' is ungrammatical."
+      },
+      "cz_learning_point": "Subjunktiv po slovesech předpisů (mandate that helmet visors withstand): sloveso zůstává v základním tvaru bez -s.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q5",
+      "prompt": "_____ the touring windscreen to the optimal aerodynamic height, the rider eliminated fatiguing turbulent helmet buffeting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Adjust"
+        },
+        {
+          "key": "B",
+          "text": "Adjusted"
+        },
+        {
+          "key": "C",
+          "text": "Having adjusted"
+        },
+        {
+          "key": "D",
+          "text": "Being adjusted"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Perfect active participle 'Having adjusted' correctly expresses prior windscreen alignment leading to subsequent quiet cruising.",
+        "wrong_A": "Base verb 'Adjust' cannot function as introductory participle.",
+        "wrong_B": "Past form 'Adjusted' without auxiliary is passive, but the rider actively adjusted the windscreen.",
+        "wrong_D": "'Being adjusted' expresses present passive, not completed prior action."
+      },
+      "cz_learning_point": "Předpřítomné participium (Having adjusted = poté, co seřídil...) vyjadřuje děj dokončený před hlavní větou.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q6",
+      "prompt": "_____ aggressive racing clip-on handlebars offer superior track feedback, upright adventure ergonomics are vastly superior for 800-km riding days.",
+      "options": [
+        {
+          "key": "A",
+          "text": "In spite of"
+        },
+        {
+          "key": "B",
+          "text": "Although"
+        },
+        {
+          "key": "C",
+          "text": "Notwithstanding"
+        },
+        {
+          "key": "D",
+          "text": "Despite"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Although' is a conjunction followed by a full clause with subject and verb ('aggressive racing clip-on handlebars offer...').",
+        "wrong_A": "'In spite of' is a preposition and must be followed by a noun phrase or gerund.",
+        "wrong_C": "'Notwithstanding' is followed by a noun phrase.",
+        "wrong_D": "'Despite' is a preposition and cannot be followed directly by a finite clause."
+      },
+      "cz_learning_point": "Spojka 'Although' (ačkoli) se pojí s celou větou s podmětem a slovesem, zatímco předložky jako 'Despite' a 'In spite of' vyžadují podstatné jméno.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q7",
+      "prompt": "Non-Newtonian D3O smart armor polymer is verified _____ flexible during normal movement while instantly stiffening on sudden impact.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to remain"
+        },
+        {
+          "key": "B",
+          "text": "remaining"
+        },
+        {
+          "key": "C",
+          "text": "to have been remained"
+        },
+        {
+          "key": "D",
+          "text": "to be remaining"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Infinitive 'to remain' correctly expresses the verified physical characteristic of non-Newtonian polymer armor.",
+        "wrong_B": "Participle 'remaining' cannot follow passive reporting verb 'is verified'.",
+        "wrong_C": "'to have been remained' is ungrammatical; 'remain' is intransitive and cannot form a passive.",
+        "wrong_D": "'to be remaining' is unnecessarily continuous."
+      },
+      "cz_learning_point": "Vazba 'is verified to remain flexible' (je ověřeno, že zůstává pružný) vyjadřuje stálou vlastnost materiálu.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q8",
+      "prompt": "Seldom _____ dual-sport 50/50 adventure tires achieve both quiet highway cruising and aggressive muddy trail traction.",
+      "options": [
+        {
+          "key": "A",
+          "text": "do"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "were"
+        },
+        {
+          "key": "D",
+          "text": "have"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Negative adverb 'Seldom' triggers subject-auxiliary inversion with Present Simple auxiliary 'do': 'Seldom do adventure tires achieve...'.",
+        "wrong_B": "'did' is past tense, inappropriate for general physical tire characteristics.",
+        "wrong_C": "'were' would form an ungrammatical passive construction.",
+        "wrong_D": "'have' would require past participle 'achieved'."
+      },
+      "cz_learning_point": "Záporné příslovce 'Seldom' na začátku věty vyžaduje přísnou inverzi: 'Seldom do adventure tires achieve...'.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q9",
+      "prompt": "With both panniers packed heavily above the center of gravity, the motorcycle's high-speed stability _____ compromised.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be"
+        },
+        {
+          "key": "B",
+          "text": "can to be"
+        },
+        {
+          "key": "C",
+          "text": "cannot fail to be"
+        },
+        {
+          "key": "D",
+          "text": "is must"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Cannot fail to be' expresses inevitable, unavoidable consequence based on the laws of physics.",
+        "wrong_A": "'must to be' is ungrammatical; modals never take 'to'.",
+        "wrong_B": "'can to be' is ungrammatical in English.",
+        "wrong_D": "'is must' is invalid syntax."
+      },
+      "cz_learning_point": "Formální vazba vyjadřující nevyhnutelný následek: 'cannot fail to be compromised' (nevyhnutelně musí být narušena).",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q10",
+      "prompt": "High-end adventure motorcycles feature a remote hydraulic preload adjuster, by means of _____ the rider compensates for passenger and luggage weight.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Formal prepositional relative phrase 'by means of which' takes 'which' when modifying a hydraulic adjuster mechanism.",
+        "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+        "wrong_C": "'whose' expresses possession.",
+        "wrong_D": "'whom' refers only to persons."
+      },
+      "cz_learning_point": "Po formálních předložkových vazbách v rozvitých vztažných větách se používá výhradně 'which': 'by means of which' (pomocí něhož).",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    }
+  ]
+}

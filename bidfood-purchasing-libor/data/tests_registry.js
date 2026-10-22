@@ -26079,5 +26079,1313 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Supplier Sourcing & Vendor Relationship Management"
       }
     ]
+  },
+  "BID-PUR-SP-001": {
+    "test_id": "BID-PUR-SP-001",
+    "title": "Professional Darts: PDC World Championship Rules, 501 Checkout Maths & Oche Etiquette",
+    "level": "B1",
+    "category": "specialized",
+    "workplace_track": "Sports & Leisure: Professional Darts (PDC)",
+    "estimated_time_minutes": 15,
+    "description": "Specialized sports English module analyzing PDC tournament rules, 501 tactical checkout math, and oche throwing etiquette.",
+    "grammar_focus": "Conditionals & Numerical Precision in Checkouts",
+    "learning_objectives": [
+      "Master professional darts terminology (oche, 501 double-out, checkout routes, bounce-outs)",
+      "Apply modal verbs and conditional structures to game rules and match strategy",
+      "Eliminate Czech interference errors when discussing scores, averages, and tournament play"
+    ],
+    "questions": [
+      {
+        "id": "BID-PUR-SP-001-Q1",
+        "prompt": "In professional 501 darts, a player _____ the leg by hitting a double or the 50-point red bullseye.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must to finish"
+          },
+          {
+            "key": "B",
+            "text": "must finish"
+          },
+          {
+            "key": "C",
+            "text": "is must finish"
+          },
+          {
+            "key": "D",
+            "text": "must finishing"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Modal verb 'must' is followed directly by the bare infinitive 'finish' without 'to'.",
+          "wrong_A": "'must to' is ungrammatical; modal verbs never take 'to'.",
+          "wrong_C": "'is must' is completely invalid syntax.",
+          "wrong_D": "'must' cannot be followed by an '-ing' participle."
+        },
+        "cz_learning_point": "Po způsobovém slovesu 'must' následuje vždy holý infinitiv bez 'to': 'must finish' (nikdy *must to finish*).",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-001-Q2",
+        "prompt": "If a player _____ a score of 40 remaining, the standard tactical route is throwing at double 20 (tops).",
+        "options": [
+          {
+            "key": "A",
+            "text": "will have"
+          },
+          {
+            "key": "B",
+            "text": "would have"
+          },
+          {
+            "key": "C",
+            "text": "has"
+          },
+          {
+            "key": "D",
+            "text": "had"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "First conditional if-clause requires Present Simple ('has') for real game scenarios.",
+          "wrong_A": "Cannot use future modal 'will' inside an if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'had' would create an unreal Second Conditional mismatched with present 'is throwing'."
+        },
+        "cz_learning_point": "V podmínkové větě po 'if' se nesmí použít 'will' (*If a player will have*). Použijte přítomný čas: 'If a player has'.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-001-Q3",
+        "prompt": "Tournament regulations mandate that players must stand strictly _____ the raised oche during every throw.",
+        "options": [
+          {
+            "key": "A",
+            "text": "behind"
+          },
+          {
+            "key": "B",
+            "text": "into"
+          },
+          {
+            "key": "C",
+            "text": "across to"
+          },
+          {
+            "key": "D",
+            "text": "between of"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Preposition 'behind' correctly describes the legal standing position relative to the oche throw-line.",
+          "wrong_B": "'into' denotes motion entering inside, not static position.",
+          "wrong_C": "'across to' expresses direction across a gap, not standing stance.",
+          "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
+        },
+        "cz_learning_point": "Předložka 'behind' = za čárou (oche). Dejte pozor na chybnou vazbu *between of*.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-001-Q4",
+        "prompt": "According to World Darts Federation specifications, match darts _____ 30.5 cm in total length.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must not exceed to"
+          },
+          {
+            "key": "B",
+            "text": "are must not exceed"
+          },
+          {
+            "key": "C",
+            "text": "must not exceeding"
+          },
+          {
+            "key": "D",
+            "text": "must not exceed"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Negative modal 'must not' is followed by base form 'exceed' without 'to'.",
+          "wrong_A": "'exceed to' is ungrammatical; 'exceed' is transitive and takes a direct object.",
+          "wrong_B": "'are must' is completely ungrammatical in English.",
+          "wrong_C": "'-ing' participle cannot follow modal 'must not'."
+        },
+        "cz_learning_point": "Způsobové sloveso zákazu: 'must not exceed' (nesmí překročit). Sloveso 'exceed' se nepojí s předložkou 'to'.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-001-Q5",
+        "prompt": "Sixteen-year-old Luke Littler _____ the PDC World Darts Championship final on his sensational debut in 2024.",
+        "options": [
+          {
+            "key": "A",
+            "text": "has reached"
+          },
+          {
+            "key": "B",
+            "text": "reaches"
+          },
+          {
+            "key": "C",
+            "text": "reached"
+          },
+          {
+            "key": "D",
+            "text": "was reach"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "Specific completed past time 'in 2024' strictly requires Past Simple 'reached'.",
+          "wrong_A": "Present Perfect 'has reached' cannot be used with a closed past date like 'in 2024'.",
+          "wrong_B": "Present Simple expresses habitual routines, not a historic finished event.",
+          "wrong_D": "'was reach' is ungrammatical syntax."
+        },
+        "cz_learning_point": "S konkrétním letopočtem v minulosti (in 2024) se v angličtině striktně pojí Past Simple ('reached'), nikoli předpřítomný čas.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-001-Q6",
+        "prompt": "Michael van Gerwen switched to treble 19 with his third dart _____ he could set up a comfortable double 16.",
+        "options": [
+          {
+            "key": "A",
+            "text": "in order"
+          },
+          {
+            "key": "B",
+            "text": "so that"
+          },
+          {
+            "key": "C",
+            "text": "because of"
+          },
+          {
+            "key": "D",
+            "text": "for to"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('he could set up').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is non-standard and ungrammatical."
+        },
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou: 'so that he could set up').",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-001-Q7",
+        "prompt": "If a dart strikes the steel spider wire and falls to the floor, it _____ as a bounce-out with zero score.",
+        "options": [
+          {
+            "key": "A",
+            "text": "records"
+          },
+          {
+            "key": "B",
+            "text": "is recording"
+          },
+          {
+            "key": "C",
+            "text": "recorded"
+          },
+          {
+            "key": "D",
+            "text": "is recorded"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Passive voice 'is recorded' correctly expresses how the dart is officially scored by the referee.",
+          "wrong_A": "Active 'records' implies the dart records itself actively.",
+          "wrong_B": "Present Continuous active does not fit the static rule definition.",
+          "wrong_C": "Past tense 'recorded' conflicts with present conditional premise 'strikes'."
+        },
+        "cz_learning_point": "Trpný rod u oficiálních pravidel: 'is recorded' (je započítána jako nula). Šipka se sama nezapisuje.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-001-Q8",
+        "prompt": "Spectators and players alike _____ to remain silent while a competitor is on the oche addressing the board.",
+        "options": [
+          {
+            "key": "A",
+            "text": "are expected"
+          },
+          {
+            "key": "B",
+            "text": "expecting"
+          },
+          {
+            "key": "C",
+            "text": "are expect"
+          },
+          {
+            "key": "D",
+            "text": "must to be expected"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Passive construction 'are expected' correctly conveys social and behavioral expectations.",
+          "wrong_B": "Participle alone cannot form a finite predicate.",
+          "wrong_C": "'are expect' is an ungrammatical verb combination.",
+          "wrong_D": "'must to be' is ungrammatical; modal 'must' does not take 'to'."
+        },
+        "cz_learning_point": "Vazba 'are expected to' = očekává se od nich, že... Častá chyba: *are expect* bez koncovky -ed.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-001-Q9",
+        "prompt": "Hitting two maximum 180s followed by a 141 checkout _____ the ultimate achievement in modern darts.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must to be"
+          },
+          {
+            "key": "B",
+            "text": "can to be"
+          },
+          {
+            "key": "C",
+            "text": "must be"
+          },
+          {
+            "key": "D",
+            "text": "is must"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "'Must be' expresses logical deduction based on the rarity of a 9-dart finish.",
+          "wrong_A": "'must to be' is ungrammatical; modals never take 'to'.",
+          "wrong_B": "'can to be' is ungrammatical in English.",
+          "wrong_D": "'is must' is invalid syntax."
+        },
+        "cz_learning_point": "Logická dedukce (určitě je / musí být): 'must be'. Způsobová slovesa nepřibírají předložku 'to'.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-001-Q10",
+        "prompt": "A player cannot claim the leg _____ their final dart lands securely in the required double segment.",
+        "options": [
+          {
+            "key": "A",
+            "text": "if"
+          },
+          {
+            "key": "B",
+            "text": "unless"
+          },
+          {
+            "key": "C",
+            "text": "provided that"
+          },
+          {
+            "key": "D",
+            "text": "as long as"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "'Unless' means 'except if' or 'if not', expressing the mandatory prerequisite for winning.",
+          "wrong_A": "'if' creates an illogical contradiction (cannot win IF it lands).",
+          "wrong_C": "'provided that' creates an illogical positive condition.",
+          "wrong_D": "'as long as' also creates an illogical condition."
+        },
+        "cz_learning_point": "'Unless' = pokud ne (if not). Po 'unless' už v angličtině nenásleduje další zápor: 'unless their final dart lands...'.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      }
+    ]
+  },
+  "BID-PUR-SP-002": {
+    "test_id": "BID-PUR-SP-002",
+    "title": "Football Tactics, Premier League Match Analysis & Transfer Market Sourcing",
+    "level": "B1",
+    "category": "specialized",
+    "workplace_track": "Sports & Leisure: Football & Match Analysis",
+    "estimated_time_minutes": 15,
+    "description": "Specialized football English module covering tactical formations, high pressing, VAR offside decisions, and transfer market negotiations.",
+    "grammar_focus": "Past Continuous vs Past Simple in Match Commentary",
+    "learning_objectives": [
+      "Master modern football tactical terms (high press, low block, expected goals xG, overlapping full-backs, VAR)",
+      "Apply narrative past tenses (Past Continuous vs Past Simple) in match reporting and commentary",
+      "Eliminate Czech interference errors in sports transfer negotiations and match disputes"
+    ],
+    "questions": [
+      {
+        "id": "BID-PUR-SP-002-Q1",
+        "prompt": "Modern tactical systems require that modern attacking full-backs _____ upfield to provide width in the final third.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must to overlap"
+          },
+          {
+            "key": "B",
+            "text": "must overlap"
+          },
+          {
+            "key": "C",
+            "text": "must overlapping"
+          },
+          {
+            "key": "D",
+            "text": "are must overlap"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Modal 'must' is followed by the bare infinitive 'overlap' without 'to'.",
+          "wrong_A": "'must to' is ungrammatical; modals never take 'to'.",
+          "wrong_C": "'must' cannot take an '-ing' participle.",
+          "wrong_D": "'are must' is invalid verb phrasing."
+        },
+        "cz_learning_point": "Po způsobovém slovesu 'must' následuje základní tvar slovesa: 'must overlap' (nikdy *must to overlap*).",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-002-Q2",
+        "prompt": "If any part of the striker's upper body _____ ahead of the second-last defender, the VAR technology flags offside.",
+        "options": [
+          {
+            "key": "A",
+            "text": "will be"
+          },
+          {
+            "key": "B",
+            "text": "would be"
+          },
+          {
+            "key": "C",
+            "text": "is"
+          },
+          {
+            "key": "D",
+            "text": "was"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "First conditional if-clause takes Present Simple ('is') for real operational match rules.",
+          "wrong_A": "Cannot use future modal 'will' inside an if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'was' would conflict with present indicative 'flags'."
+        },
+        "cz_learning_point": "V podmínkových větách po 'if' se nesmí použít 'will' (*If the body will be*). Použijte přítomný čas: 'If the body is'.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-002-Q3",
+        "prompt": "The goalkeeper made a stunning fingertip save _____ the defense was scrambling to clear the rebound.",
+        "options": [
+          {
+            "key": "A",
+            "text": "while"
+          },
+          {
+            "key": "B",
+            "text": "during"
+          },
+          {
+            "key": "C",
+            "text": "for"
+          },
+          {
+            "key": "D",
+            "text": "since"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "'While' is a conjunction followed by a full continuous clause ('the defense was scrambling').",
+          "wrong_B": "'During' is a preposition and must be followed by a noun phrase, not a clause with a verb.",
+          "wrong_C": "'For' expresses duration of time.",
+          "wrong_D": "'Since' denotes elapsed time from a starting point or causation."
+        },
+        "cz_learning_point": "Spojka 'while' se pojí s celou větou se slovesem (while the defense was scrambling), zatímco 'during' pouze s podstatným jménem.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-002-Q4",
+        "prompt": "According to the player's contract, the €60m buyout clause _____ only during the summer transfer window.",
+        "options": [
+          {
+            "key": "A",
+            "text": "can activate"
+          },
+          {
+            "key": "B",
+            "text": "can to be activated"
+          },
+          {
+            "key": "C",
+            "text": "is can activated"
+          },
+          {
+            "key": "D",
+            "text": "can be activated"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Passive with modal 'can be activated' correctly describes how the buyout clause is triggered.",
+          "wrong_A": "Active 'can activate' is wrong; a clause does not activate itself.",
+          "wrong_B": "'can to be' is ungrammatical; modal 'can' does not take 'to'.",
+          "wrong_C": "'is can' is invalid English syntax."
+        },
+        "cz_learning_point": "Trpný rod se způsobovým slovesem: 'can be activated' (může být aktivována). Doložka se sama neaktivuje.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-002-Q5",
+        "prompt": "Arsenal _____ the opponent in their own penalty box when the decisive counter-attack suddenly developed.",
+        "options": [
+          {
+            "key": "A",
+            "text": "pressed"
+          },
+          {
+            "key": "B",
+            "text": "presses"
+          },
+          {
+            "key": "C",
+            "text": "were pressing"
+          },
+          {
+            "key": "D",
+            "text": "have pressed"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "Past Continuous ('were pressing') describes the ongoing background action interrupted by 'developed'.",
+          "wrong_A": "Past Simple describes single finished events rather than continuous background actions.",
+          "wrong_B": "Present Simple is incorrect in a past narrative.",
+          "wrong_D": "Present Perfect cannot connect to past 'developed'."
+        },
+        "cz_learning_point": "Minulý průběhový čas (Past Continuous: 'were pressing') vyjadřuje probíhající děj v minulosti, do kterého vstoupil jiný jednorázový děj.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-002-Q6",
+        "prompt": "The head coach substituted two central midfielders _____ the team could maintain their high pressing intensity.",
+        "options": [
+          {
+            "key": "A",
+            "text": "in order"
+          },
+          {
+            "key": "B",
+            "text": "so that"
+          },
+          {
+            "key": "C",
+            "text": "because of"
+          },
+          {
+            "key": "D",
+            "text": "for to"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the team could maintain').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is ungrammatical."
+        },
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná podmětem a způsobovým slovesem: 'so that the team could maintain').",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-002-Q7",
+        "prompt": "The aggressive pressing forwards forced the opposing center-back to _____ possession in a dangerous area.",
+        "options": [
+          {
+            "key": "A",
+            "text": "give away to"
+          },
+          {
+            "key": "B",
+            "text": "giving away"
+          },
+          {
+            "key": "C",
+            "text": "gave away"
+          },
+          {
+            "key": "D",
+            "text": "give away"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Verb structure 'force someone to do something' takes the infinitive with 'to' followed by base verb 'give away'.",
+          "wrong_A": "'give away to' is redundant and ungrammatical.",
+          "wrong_B": "Participle 'giving away' is incorrect after 'to'.",
+          "wrong_C": "Past tense 'gave away' cannot follow infinitive 'to'."
+        },
+        "cz_learning_point": "Vazba 'force somebody to do something': 'forced the center-back to give away possession' (ztratit míč / odevzdat míč).",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-002-Q8",
+        "prompt": "The winger missed a golden goalscoring opportunity _____ had an expected goals (xG) rating of 0.88.",
+        "options": [
+          {
+            "key": "A",
+            "text": "which"
+          },
+          {
+            "key": "B",
+            "text": "whose"
+          },
+          {
+            "key": "C",
+            "text": "what"
+          },
+          {
+            "key": "D",
+            "text": "whom"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Relative pronoun 'which' correctly refers back to the antecedent inanimate noun 'opportunity'.",
+          "wrong_B": "'whose' expresses possession.",
+          "wrong_C": "'what' cannot act as a relative pronoun with an explicit antecedent.",
+          "wrong_D": "'whom' refers only to persons in object position."
+        },
+        "cz_learning_point": "Vztažné zájmeno pro věci a situace je 'which' (která měla hodnotu xG 0,88), nikoli *what*.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-002-Q9",
+        "prompt": "Judging by the defender's clear handball inside the box, the referee's decision _____ a penalty kick.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must to be"
+          },
+          {
+            "key": "B",
+            "text": "can to be"
+          },
+          {
+            "key": "C",
+            "text": "must be"
+          },
+          {
+            "key": "D",
+            "text": "is must"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "'Must be' expresses logical deduction based on clear video and visual evidence.",
+          "wrong_A": "'must to be' is ungrammatical; modals never take 'to'.",
+          "wrong_B": "'can to be' is ungrammatical in English.",
+          "wrong_D": "'is must' is invalid syntax."
+        },
+        "cz_learning_point": "Vyjádření jistoty a logické dedukce: 'must be a penalty' (určitě to musí být penalta). Nikdy *must to be*.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-002-Q10",
+        "prompt": "The squad will not qualify for the knockout stage _____ they secure a victory in the final group fixture.",
+        "options": [
+          {
+            "key": "A",
+            "text": "if"
+          },
+          {
+            "key": "B",
+            "text": "unless"
+          },
+          {
+            "key": "C",
+            "text": "provided that"
+          },
+          {
+            "key": "D",
+            "text": "as long as"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "'Unless' expresses 'except if' or 'if not', stating the mandatory condition for qualification.",
+          "wrong_A": "'if' produces an illogical statement (will not qualify IF they win).",
+          "wrong_C": "'provided that' creates an illogical positive condition.",
+          "wrong_D": "'as long as' also creates an illogical condition."
+        },
+        "cz_learning_point": "'Unless' = pokud ne (if not). Po 'unless' už v angličtině nenásleduje další zápor: 'unless they secure a victory'.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      }
+    ]
+  },
+  "BID-PUR-SP-003": {
+    "test_id": "BID-PUR-SP-003",
+    "title": "Darts Equipment & Precision Engineering: Tungsten Barrels, Flights & Shaft Aerodynamics",
+    "level": "B2",
+    "category": "specialized",
+    "workplace_track": "Sports & Leisure: Professional Darts (PDC)",
+    "estimated_time_minutes": 15,
+    "description": "Advanced equipment English module examining high-density tungsten metallurgy, flight surface aerodynamics, and custom barrel grip engineering.",
+    "grammar_focus": "Passive Voice & Technical Specifications",
+    "learning_objectives": [
+      "Master advanced technical jargon in sports engineering (95% tungsten density, knurling, shark fin grips, flight aerodynamics)",
+      "Apply inverted conditionals and negative inversion in technical equipment evaluation",
+      "Demonstrate high-register precision when drafting equipment specifications and tolerances"
+    ],
+    "questions": [
+      {
+        "id": "BID-PUR-SP-003-Q1",
+        "prompt": "_____ the manufacturer not utilized 95% high-density tungsten billets, the dart barrel would have been too bulky for tight grouping.",
+        "options": [
+          {
+            "key": "A",
+            "text": "If"
+          },
+          {
+            "key": "B",
+            "text": "Had"
+          },
+          {
+            "key": "C",
+            "text": "Were"
+          },
+          {
+            "key": "D",
+            "text": "Should"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Inverted Third Conditional 'Had the manufacturer not utilized...' correctly replaces 'If the manufacturer had not utilized...'.",
+          "wrong_A": "'If' requires the auxiliary 'had' after the subject.",
+          "wrong_C": "'Were' forms a Second Conditional, incompatible with past 'would have been'.",
+          "wrong_D": "'Should' expresses tentative future conditions."
+        },
+        "cz_learning_point": "Inverze 3. kondicionálu: 'Had the manufacturer not utilized...' = 'Kdyby výrobce nepoužil...'. V podmínce se nepoužívá 'if'.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-003-Q2",
+        "prompt": "Under no circumstances _____ match players use bent points that cause severe micro-tears in the sisal dartboard fibers.",
+        "options": [
+          {
+            "key": "A",
+            "text": "players should"
+          },
+          {
+            "key": "B",
+            "text": "must to players"
+          },
+          {
+            "key": "C",
+            "text": "should professional"
+          },
+          {
+            "key": "D",
+            "text": "shall players to"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "Negative introductory phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should professional [players use]'.",
+          "wrong_A": "'players should' lacks the required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
+        },
+        "cz_learning_point": "Záporná úvodní fráze 'Under no circumstances' vyžaduje převrácený slovosled (inverzi): 'Under no circumstances should players use...'.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-003-Q3",
+        "prompt": "If the champion had tested his barrel grip profile thoroughly during pre-season practice, his release _____ on the oche today.",
+        "options": [
+          {
+            "key": "A",
+            "text": "would not be slipping"
+          },
+          {
+            "key": "B",
+            "text": "would not have slipped"
+          },
+          {
+            "key": "C",
+            "text": "will not slip"
+          },
+          {
+            "key": "D",
+            "text": "does not slip"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Mixed conditional: past unreal action ('had tested') with ongoing present consequence ('today') takes 'would not be slipping'.",
+          "wrong_B": "'would not have slipped' refers purely to past result, but adverbial 'today' anchors consequence to the present.",
+          "wrong_C": "'will not slip' is First Conditional, incompatible with past condition.",
+          "wrong_D": "Indicative 'does not slip' cannot express hypothetical consequence."
+        },
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If he had tested [minulost], it would not be slipping [dnes]'.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-003-Q4",
+        "prompt": "PDC tournament guidelines mandate that each competitor _____ their match darts for weight verification prior to the quarter-finals.",
+        "options": [
+          {
+            "key": "A",
+            "text": "submits"
+          },
+          {
+            "key": "B",
+            "text": "will submit"
+          },
+          {
+            "key": "C",
+            "text": "must to submit"
+          },
+          {
+            "key": "D",
+            "text": "submit"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Mandative subjunctive after 'mandate that' requires the base form 'submit' regardless of singular/plural subject.",
+          "wrong_A": "Indicative 'submits' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will submit' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
+        },
+        "cz_learning_point": "Subjunktiv po slovesech nařízení (mandate that): sloveso má základní tvar bez koncovky -s: 'mandate that each competitor submit'.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-003-Q5",
+        "prompt": "_____ from standard flights to slim aerodynamic shapes, the player recorded significantly higher drag velocity into the board.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Switch"
+          },
+          {
+            "key": "B",
+            "text": "Switched"
+          },
+          {
+            "key": "C",
+            "text": "Having switched"
+          },
+          {
+            "key": "D",
+            "text": "Being switched"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "Perfect active participle 'Having switched' correctly expresses an action completed prior to the main clause action 'recorded'.",
+          "wrong_A": "Base verb 'Switch' cannot function as an introductory participle.",
+          "wrong_B": "Past form 'Switched' without auxiliary is passive, but the player actively performed the switch.",
+          "wrong_D": "'Being switched' implies passive voice."
+        },
+        "cz_learning_point": "Předpřítomné participium (Having switched = poté, co přešel na...) vyjadřuje děj, který předcházel ději v hlavní větě.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-003-Q6",
+        "prompt": "_____ carbon-composite shafts offer supreme structural rigidity, nylon stems provide greater bounce-out deflection resilience.",
+        "options": [
+          {
+            "key": "A",
+            "text": "In spite of"
+          },
+          {
+            "key": "B",
+            "text": "Although"
+          },
+          {
+            "key": "C",
+            "text": "Notwithstanding"
+          },
+          {
+            "key": "D",
+            "text": "Despite"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "'Although' is a conjunction followed by a full clause with subject and verb ('carbon-composite shafts offer...').",
+          "wrong_A": "'In spite of' is a preposition and must be followed by a noun phrase or gerund.",
+          "wrong_C": "'Notwithstanding' is followed by a noun phrase.",
+          "wrong_D": "'Despite' is a preposition and cannot be followed directly by a finite clause."
+        },
+        "cz_learning_point": "Spojka 'Although' (ačkoli) se pojí s celou větou s podmětem a slovesem, zatímco předložky jako 'Despite' a 'In spite of' vyžadují podstatné jméno.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-003-Q7",
+        "prompt": "High-density sintered tungsten is universally acknowledged _____ the precision tolerances of modern competition darts.",
+        "options": [
+          {
+            "key": "A",
+            "text": "to have revolutionized"
+          },
+          {
+            "key": "B",
+            "text": "revolutionizing"
+          },
+          {
+            "key": "C",
+            "text": "to revolutionize"
+          },
+          {
+            "key": "D",
+            "text": "to have been revolutionized"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Perfect active infinitive 'to have revolutionized' correctly attributes a past completed breakthrough to tungsten metallurgy.",
+          "wrong_B": "Participle 'revolutionizing' cannot follow passive reporting verb 'is acknowledged'.",
+          "wrong_C": "Present infinitive 'to revolutionize' fails to convey past completion.",
+          "wrong_D": "Passive 'to have been revolutionized' incorrectly treats tungsten as the object rather than the agent."
+        },
+        "cz_learning_point": "Vazba 'is acknowledged to have revolutionized' (uznává se, že způsobil revoluci) vyjadřuje minulý děj pomocí minulého infinitivu.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-003-Q8",
+        "prompt": "Only after experimenting with multiple shaft lengths _____ the ideal trajectory balance for his throwing rhythm.",
+        "options": [
+          {
+            "key": "A",
+            "text": "did the player discover"
+          },
+          {
+            "key": "B",
+            "text": "the player discovered"
+          },
+          {
+            "key": "C",
+            "text": "discovered the player"
+          },
+          {
+            "key": "D",
+            "text": "has the player discovered"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did the player discover'.",
+          "wrong_B": "'the player discovered' lacks required subject-auxiliary inversion.",
+          "wrong_C": "'discovered the player' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with completed past experimentation."
+        },
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled: 'Only after experimenting did the player discover...'.",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-003-Q9",
+        "prompt": "A professional player averaging over 105 points across five sets _____ with damaged or unbalanced equipment.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must not be playing"
+          },
+          {
+            "key": "B",
+            "text": "should not be playing"
+          },
+          {
+            "key": "C",
+            "text": "cannot possibly be playing"
+          },
+          {
+            "key": "D",
+            "text": "may not be playing"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "'Cannot possibly be playing' expresses absolute deductive impossibility based on world-class performance metrics.",
+          "wrong_A": "'must not' expresses prohibition or deduction of absence, but lacks impossibility nuance.",
+          "wrong_B": "'should not' expresses moral obligation or advice.",
+          "wrong_D": "'may not' expresses mere uncertainty."
+        },
+        "cz_learning_point": "Vyjádření naprosté nemožnosti: 'cannot possibly be playing' (v žádném případě nemůže hrát s poškozeným vybavením).",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      },
+      {
+        "id": "BID-PUR-SP-003-Q10",
+        "prompt": "Target Darts engineered the patented Swiss Point system, by means of _____ broken points are replaced in seconds using a pocket tool.",
+        "options": [
+          {
+            "key": "A",
+            "text": "that"
+          },
+          {
+            "key": "B",
+            "text": "which"
+          },
+          {
+            "key": "C",
+            "text": "whom"
+          },
+          {
+            "key": "D",
+            "text": "where"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Formal prepositional relative phrase 'by means of which' strictly takes 'which' when modifying a mechanical system.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whom' refers only to persons.",
+          "wrong_D": "'where' refers to physical places."
+        },
+        "cz_learning_point": "Po předložkových vazbách v rozvitých vztažných větách se pro technické systémy používá výhradně 'which': 'by means of which' (pomocí něhož).",
+        "workplace_track": "Sports & Leisure: Professional Darts (PDC)"
+      }
+    ]
+  },
+  "BID-PUR-SP-004": {
+    "test_id": "BID-PUR-SP-004",
+    "title": "Football Club Management & European Financial Fair Play (FFP) Regulations",
+    "level": "B2",
+    "category": "specialized",
+    "workplace_track": "Sports & Leisure: Football & Match Analysis",
+    "estimated_time_minutes": 15,
+    "description": "High-register management English module analyzing UEFA Financial Sustainability Regulations (FSR), player amortization, and commercial broadcasting rights.",
+    "grammar_focus": "Modals of Deduction & Regulatory Consequence",
+    "learning_objectives": [
+      "Master sports finance terminology (transfer fee amortization, PSR thresholds, allowable losses, sell-on clauses)",
+      "Apply formal subjunctive and counterfactual conditionals in regulatory sports governance",
+      "Demonstrate fluency when debating commercial sponsorship compliance and financial penalties"
+    ],
+    "questions": [
+      {
+        "id": "BID-PUR-SP-004-Q1",
+        "prompt": "_____ the football club not amortized the record transfer fee across a long-term contract, they would have breached domestic spending caps.",
+        "options": [
+          {
+            "key": "A",
+            "text": "If"
+          },
+          {
+            "key": "B",
+            "text": "Had"
+          },
+          {
+            "key": "C",
+            "text": "Were"
+          },
+          {
+            "key": "D",
+            "text": "Should"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Inverted Third Conditional 'Had the football club not amortized...' expresses a past counterfactual without 'if'.",
+          "wrong_A": "'If' requires the auxiliary 'had' after the subject.",
+          "wrong_C": "'Were' forms a Second Conditional, incompatible with past 'would have breached'.",
+          "wrong_D": "'Should' expresses tentative future probability."
+        },
+        "cz_learning_point": "Inverze 3. kondicionálu: 'Had the club not amortized...' = 'Kdyby klub nerozpočítal...'. Do podmínky nepatří 'if' ani 'would'.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-004-Q2",
+        "prompt": "Rarely _____ an independent regulatory commission overturn severe points deductions imposed for inflated commercial sponsorships.",
+        "options": [
+          {
+            "key": "A",
+            "text": "does"
+          },
+          {
+            "key": "B",
+            "text": "is"
+          },
+          {
+            "key": "C",
+            "text": "will"
+          },
+          {
+            "key": "D",
+            "text": "has"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Negative adverb 'Rarely' triggers subject-auxiliary inversion with Present Simple auxiliary 'does': 'Rarely does an independent commission overturn...'.",
+          "wrong_B": "'is' cannot serve as auxiliary for base verb 'overturn'.",
+          "wrong_C": "'will' changes the sentence to predictive future rather than habitual truth.",
+          "wrong_D": "'has' would require past participle 'overturned'."
+        },
+        "cz_learning_point": "Záporné příslovce 'Rarely' na začátku věty vyžaduje inverzi pomocného slovesa 'does' a podmětu: 'Rarely does a commission overturn...'.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-004-Q3",
+        "prompt": "If the ownership group had diversified commercial merchandising revenue three years ago, the balance sheet _____ red ink today.",
+        "options": [
+          {
+            "key": "A",
+            "text": "would not be showing"
+          },
+          {
+            "key": "B",
+            "text": "would not have shown"
+          },
+          {
+            "key": "C",
+            "text": "will not show"
+          },
+          {
+            "key": "D",
+            "text": "does not show"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Mixed conditional: past cause ('had diversified') with present ongoing result ('today') takes 'would not be showing'.",
+          "wrong_B": "'would not have shown' refers purely to past result, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Simple present indicative 'does not show' cannot express hypothetical consequence."
+        },
+        "cz_learning_point": "Smíšený kondicionál: minulá příčina spojená s přítomným následkem: 'If they had diversified [minulost], it would not be showing [dnes]'.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-004-Q4",
+        "prompt": "UEFA Financial Sustainability Regulations mandate that every participating club _____ an acceptable squad cost ratio under 70%.",
+        "options": [
+          {
+            "key": "A",
+            "text": "demonstrates"
+          },
+          {
+            "key": "B",
+            "text": "will demonstrate"
+          },
+          {
+            "key": "C",
+            "text": "must to demonstrate"
+          },
+          {
+            "key": "D",
+            "text": "demonstrate"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Mandative subjunctive after 'mandate that' requires base form 'demonstrate' regardless of 3rd person singular subject.",
+          "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
+        },
+        "cz_learning_point": "Subjunktiv po slovesech nařízení (mandate that every club demonstrate): sloveso zůstává v základním tvaru bez -s.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-004-Q5",
+        "prompt": "_____ substantial operational deficits on player wages, the sporting director was compelled to sanction emergency player sales.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Sustain"
+          },
+          {
+            "key": "B",
+            "text": "Sustained"
+          },
+          {
+            "key": "C",
+            "text": "Having sustained"
+          },
+          {
+            "key": "D",
+            "text": "Being sustained"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "Perfect active participle 'Having sustained' correctly expresses prior causal damage leading to subsequent forced sales.",
+          "wrong_A": "Base verb 'Sustain' cannot function as introductory participle.",
+          "wrong_B": "Past form 'Sustained' without auxiliary is passive, but the club actively sustained the deficits.",
+          "wrong_D": "'Being sustained' expresses continuous passive present, not prior completion."
+        },
+        "cz_learning_point": "Předpřítomné participium (Having sustained = poté, co utrpěl...) vyjadřuje příčinu a děj, který předcházel hlavní větě.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-004-Q6",
+        "prompt": "_____ unprecedented television broadcasting income, mid-table clubs find it difficult to compete with sovereign wealth funds.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Although"
+          },
+          {
+            "key": "B",
+            "text": "Notwithstanding"
+          },
+          {
+            "key": "C",
+            "text": "Whereas"
+          },
+          {
+            "key": "D",
+            "text": "Even though"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('unprecedented television broadcasting income').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full finite clause.",
+          "wrong_C": "'Whereas' introduces a contrastive clause.",
+          "wrong_D": "'Even though' requires a full clause with subject and verb."
+        },
+        "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-004-Q7",
+        "prompt": "The newly recruited forward's contract is confirmed _____ an automatic 15% future sell-on clause payable to his academy club.",
+        "options": [
+          {
+            "key": "A",
+            "text": "to incorporate"
+          },
+          {
+            "key": "B",
+            "text": "incorporating"
+          },
+          {
+            "key": "C",
+            "text": "to have incorporated"
+          },
+          {
+            "key": "D",
+            "text": "to be incorporating"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "Perfect active infinitive 'to have incorporated' correctly attributes past contractual drafting to the signed agreement.",
+          "wrong_A": "Present infinitive 'to incorporate' implies future or ongoing inclusion rather than signed legal status.",
+          "wrong_B": "Participle 'incorporating' cannot follow passive reporting verb 'is confirmed'.",
+          "wrong_D": "'to be incorporating' is continuous and non-standard here."
+        },
+        "cz_learning_point": "Vazba 'is confirmed to have incorporated' (je potvrzeno, že obsahovala) vyjadřuje minulý děj pomocí minulého infinitivu.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-004-Q8",
+        "prompt": "Seldom _____ international sports tribunals reduced point deductions without compelling mitigating forensic financial evidence.",
+        "options": [
+          {
+            "key": "A",
+            "text": "have"
+          },
+          {
+            "key": "B",
+            "text": "did"
+          },
+          {
+            "key": "C",
+            "text": "were"
+          },
+          {
+            "key": "D",
+            "text": "had"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Negative adverb 'Seldom' triggers subject-auxiliary inversion with Present Perfect: 'have international sports tribunals reduced...'.",
+          "wrong_B": "'did' would require base verb 'reduce', not past participle 'reduced'.",
+          "wrong_C": "'were' would form an ungrammatical passive construction.",
+          "wrong_D": "'had' is past perfect, inappropriate for general legal precedent."
+        },
+        "cz_learning_point": "Záporné příslovce 'Seldom' na začátku věty vyžaduje přísnou inverzi: 'Seldom have tribunals reduced...'.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-004-Q9",
+        "prompt": "With a reported wage-to-turnover ratio exceeding 110%, the distressed club _____ within statutory financial fair play caps.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must not operate"
+          },
+          {
+            "key": "B",
+            "text": "should not operate"
+          },
+          {
+            "key": "C",
+            "text": "cannot possibly be operating"
+          },
+          {
+            "key": "D",
+            "text": "may not operate"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "'Cannot possibly be operating' expresses conclusive deduction of impossibility based on financial statements.",
+          "wrong_A": "'must not' expresses prohibition or negative expectation.",
+          "wrong_B": "'should not' expresses moral reproach.",
+          "wrong_D": "'may not' expresses mere uncertainty."
+        },
+        "cz_learning_point": "Vyjádření naprosté nemožnosti (v žádném případě nemůže fungovat v mezích limitů): 'cannot possibly be operating'.",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      },
+      {
+        "id": "BID-PUR-SP-004-Q10",
+        "prompt": "The league established strict capital expenditure guidelines, in compliance with _____ all stadium renovations must be pre-funded.",
+        "options": [
+          {
+            "key": "A",
+            "text": "that"
+          },
+          {
+            "key": "B",
+            "text": "which"
+          },
+          {
+            "key": "C",
+            "text": "whose"
+          },
+          {
+            "key": "D",
+            "text": "whom"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Prepositional relative phrase 'in compliance with which' takes 'which' when modifying regulatory guidelines.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whose' expresses possession.",
+          "wrong_D": "'whom' refers only to persons."
+        },
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro předpisy a pravidla používá výhradně 'which': 'in compliance with which' (v souladu s nimiž).",
+        "workplace_track": "Sports & Leisure: Football & Match Analysis"
+      }
+    ]
   }
 });

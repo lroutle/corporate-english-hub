@@ -1,0 +1,327 @@
+{
+  "test_id": "BID-PUR-SP-004",
+  "title": "Football Club Management & European Financial Fair Play (FFP) Regulations",
+  "level": "B2",
+  "category": "specialized",
+  "workplace_track": "Sports & Leisure: Football & Match Analysis",
+  "estimated_time_minutes": 15,
+  "description": "High-register management English module analyzing UEFA Financial Sustainability Regulations (FSR), player amortization, and commercial broadcasting rights.",
+  "grammar_focus": "Modals of Deduction & Regulatory Consequence",
+  "learning_objectives": [
+    "Master sports finance terminology (transfer fee amortization, PSR thresholds, allowable losses, sell-on clauses)",
+    "Apply formal subjunctive and counterfactual conditionals in regulatory sports governance",
+    "Demonstrate fluency when debating commercial sponsorship compliance and financial penalties"
+  ],
+  "questions": [
+    {
+      "id": "BID-PUR-SP-004-Q1",
+      "prompt": "_____ the football club not amortized the record transfer fee across a long-term contract, they would have breached domestic spending caps.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If"
+        },
+        {
+          "key": "B",
+          "text": "Had"
+        },
+        {
+          "key": "C",
+          "text": "Were"
+        },
+        {
+          "key": "D",
+          "text": "Should"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'Had the football club not amortized...' expresses a past counterfactual without 'if'.",
+        "wrong_A": "'If' requires the auxiliary 'had' after the subject.",
+        "wrong_C": "'Were' forms a Second Conditional, incompatible with past 'would have breached'.",
+        "wrong_D": "'Should' expresses tentative future probability."
+      },
+      "cz_learning_point": "Inverze 3. kondicionálu: 'Had the club not amortized...' = 'Kdyby klub nerozpočítal...'. Do podmínky nepatří 'if' ani 'would'.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q2",
+      "prompt": "Rarely _____ an independent regulatory commission overturn severe points deductions imposed for inflated commercial sponsorships.",
+      "options": [
+        {
+          "key": "A",
+          "text": "does"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "will"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Negative adverb 'Rarely' triggers subject-auxiliary inversion with Present Simple auxiliary 'does': 'Rarely does an independent commission overturn...'.",
+        "wrong_B": "'is' cannot serve as auxiliary for base verb 'overturn'.",
+        "wrong_C": "'will' changes the sentence to predictive future rather than habitual truth.",
+        "wrong_D": "'has' would require past participle 'overturned'."
+      },
+      "cz_learning_point": "Záporné příslovce 'Rarely' na začátku věty vyžaduje inverzi pomocného slovesa 'does' a podmětu: 'Rarely does a commission overturn...'.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q3",
+      "prompt": "If the ownership group had diversified commercial merchandising revenue three years ago, the balance sheet _____ red ink today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not be showing"
+        },
+        {
+          "key": "B",
+          "text": "would not have shown"
+        },
+        {
+          "key": "C",
+          "text": "will not show"
+        },
+        {
+          "key": "D",
+          "text": "does not show"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had diversified') with present ongoing result ('today') takes 'would not be showing'.",
+        "wrong_B": "'would not have shown' refers purely to past result, but adverbial 'today' anchors the result to the present.",
+        "wrong_C": "'will not show' is First Conditional, incompatible with past counterfactual condition.",
+        "wrong_D": "Simple present indicative 'does not show' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Smíšený kondicionál: minulá příčina spojená s přítomným následkem: 'If they had diversified [minulost], it would not be showing [dnes]'.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q4",
+      "prompt": "UEFA Financial Sustainability Regulations mandate that every participating club _____ an acceptable squad cost ratio under 70%.",
+      "options": [
+        {
+          "key": "A",
+          "text": "demonstrates"
+        },
+        {
+          "key": "B",
+          "text": "will demonstrate"
+        },
+        {
+          "key": "C",
+          "text": "must to demonstrate"
+        },
+        {
+          "key": "D",
+          "text": "demonstrate"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Mandative subjunctive after 'mandate that' requires base form 'demonstrate' regardless of 3rd person singular subject.",
+        "wrong_A": "Indicative 'demonstrates' with 3rd person -s violates mandative subjunctive syntax.",
+        "wrong_B": "Future 'will demonstrate' is incorrect after mandative 'mandate that'.",
+        "wrong_C": "'must to' is ungrammatical."
+      },
+      "cz_learning_point": "Subjunktiv po slovesech nařízení (mandate that every club demonstrate): sloveso zůstává v základním tvaru bez -s.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q5",
+      "prompt": "_____ substantial operational deficits on player wages, the sporting director was compelled to sanction emergency player sales.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sustain"
+        },
+        {
+          "key": "B",
+          "text": "Sustained"
+        },
+        {
+          "key": "C",
+          "text": "Having sustained"
+        },
+        {
+          "key": "D",
+          "text": "Being sustained"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Perfect active participle 'Having sustained' correctly expresses prior causal damage leading to subsequent forced sales.",
+        "wrong_A": "Base verb 'Sustain' cannot function as introductory participle.",
+        "wrong_B": "Past form 'Sustained' without auxiliary is passive, but the club actively sustained the deficits.",
+        "wrong_D": "'Being sustained' expresses continuous passive present, not prior completion."
+      },
+      "cz_learning_point": "Předpřítomné participium (Having sustained = poté, co utrpěl...) vyjadřuje příčinu a děj, který předcházel hlavní větě.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q6",
+      "prompt": "_____ unprecedented television broadcasting income, mid-table clubs find it difficult to compete with sovereign wealth funds.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Although"
+        },
+        {
+          "key": "B",
+          "text": "Notwithstanding"
+        },
+        {
+          "key": "C",
+          "text": "Whereas"
+        },
+        {
+          "key": "D",
+          "text": "Even though"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('unprecedented television broadcasting income').",
+        "wrong_A": "'Although' is a conjunction and must be followed by a full finite clause.",
+        "wrong_C": "'Whereas' introduces a contrastive clause.",
+        "wrong_D": "'Even though' requires a full clause with subject and verb."
+      },
+      "cz_learning_point": "'Notwithstanding' (navzdory / bez ohledu na) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q7",
+      "prompt": "The newly recruited forward's contract is confirmed _____ an automatic 15% future sell-on clause payable to his academy club.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to incorporate"
+        },
+        {
+          "key": "B",
+          "text": "incorporating"
+        },
+        {
+          "key": "C",
+          "text": "to have incorporated"
+        },
+        {
+          "key": "D",
+          "text": "to be incorporating"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Perfect active infinitive 'to have incorporated' correctly attributes past contractual drafting to the signed agreement.",
+        "wrong_A": "Present infinitive 'to incorporate' implies future or ongoing inclusion rather than signed legal status.",
+        "wrong_B": "Participle 'incorporating' cannot follow passive reporting verb 'is confirmed'.",
+        "wrong_D": "'to be incorporating' is continuous and non-standard here."
+      },
+      "cz_learning_point": "Vazba 'is confirmed to have incorporated' (je potvrzeno, že obsahovala) vyjadřuje minulý děj pomocí minulého infinitivu.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q8",
+      "prompt": "Seldom _____ international sports tribunals reduced point deductions without compelling mitigating forensic financial evidence.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "were"
+        },
+        {
+          "key": "D",
+          "text": "had"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Negative adverb 'Seldom' triggers subject-auxiliary inversion with Present Perfect: 'have international sports tribunals reduced...'.",
+        "wrong_B": "'did' would require base verb 'reduce', not past participle 'reduced'.",
+        "wrong_C": "'were' would form an ungrammatical passive construction.",
+        "wrong_D": "'had' is past perfect, inappropriate for general legal precedent."
+      },
+      "cz_learning_point": "Záporné příslovce 'Seldom' na začátku věty vyžaduje přísnou inverzi: 'Seldom have tribunals reduced...'.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q9",
+      "prompt": "With a reported wage-to-turnover ratio exceeding 110%, the distressed club _____ within statutory financial fair play caps.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not operate"
+        },
+        {
+          "key": "B",
+          "text": "should not operate"
+        },
+        {
+          "key": "C",
+          "text": "cannot possibly be operating"
+        },
+        {
+          "key": "D",
+          "text": "may not operate"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Cannot possibly be operating' expresses conclusive deduction of impossibility based on financial statements.",
+        "wrong_A": "'must not' expresses prohibition or negative expectation.",
+        "wrong_B": "'should not' expresses moral reproach.",
+        "wrong_D": "'may not' expresses mere uncertainty."
+      },
+      "cz_learning_point": "Vyjádření naprosté nemožnosti (v žádném případě nemůže fungovat v mezích limitů): 'cannot possibly be operating'.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-004-Q10",
+      "prompt": "The league established strict capital expenditure guidelines, in compliance with _____ all stadium renovations must be pre-funded.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Prepositional relative phrase 'in compliance with which' takes 'which' when modifying regulatory guidelines.",
+        "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+        "wrong_C": "'whose' expresses possession.",
+        "wrong_D": "'whom' refers only to persons."
+      },
+      "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro předpisy a pravidla používá výhradně 'which': 'in compliance with which' (v souladu s nimiž).",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    }
+  ]
+}

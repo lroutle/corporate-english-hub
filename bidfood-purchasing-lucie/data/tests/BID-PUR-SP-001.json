@@ -1,0 +1,327 @@
+{
+  "test_id": "BID-PUR-SP-001",
+  "title": "Motorcycle Mechanics & Ride Preparation: Pre-Ride Inspection (T-CLOCS) & Controls",
+  "level": "B1",
+  "category": "specialized",
+  "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics",
+  "estimated_time_minutes": 15,
+  "description": "Specialized motorcycle riding English module covering the T-CLOCS pre-ride inspection, friction zone control, and drive chain maintenance.",
+  "grammar_focus": "Imperatives, Prepositions & Sequence Connectors",
+  "learning_objectives": [
+    "Master essential motorcycle mechanics terms (T-CLOCS inspection, friction zone, drive chain slack, brake caliper, tire pressure)",
+    "Apply imperative instructions and prepositions of sequence to pre-ride preparation",
+    "Eliminate Czech interference errors when discussing bike controls, maintenance, and riding safety"
+  ],
+  "questions": [
+    {
+      "id": "BID-PUR-SP-001-Q1",
+      "prompt": "Before heading out on a mountain tour, motorcyclists _____ cold tire pressures using a calibrated pressure gauge.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to check"
+        },
+        {
+          "key": "B",
+          "text": "must check"
+        },
+        {
+          "key": "C",
+          "text": "is must check"
+        },
+        {
+          "key": "D",
+          "text": "must checking"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Modal 'must' is followed directly by the bare infinitive 'check' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modal verbs never take 'to'.",
+        "wrong_C": "'is must' is completely invalid syntax.",
+        "wrong_D": "'must' cannot take an '-ing' participle."
+      },
+      "cz_learning_point": "Po způsobovém slovesu 'must' následuje vždy základní tvar bez 'to': 'must check' (nikdy *must to check*).",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q2",
+      "prompt": "If the rider _____ the clutch lever smoothly within the friction zone, low-speed U-turns remain completely stable.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will feather"
+        },
+        {
+          "key": "B",
+          "text": "would feather"
+        },
+        {
+          "key": "C",
+          "text": "feathers"
+        },
+        {
+          "key": "D",
+          "text": "feathered"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('feathers') for physical riding rules.",
+        "wrong_A": "Cannot use future modal 'will' inside an if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'feathered' would conflict with present indicative 'remain'."
+      },
+      "cz_learning_point": "V podmínkových větách s 'if' se nesmí použít 'will' (*If the rider will feather*). Použijte přítomný čas: 'If the rider feathers'.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q3",
+      "prompt": "It is recommended to apply dedicated motorcycle chain lubricant _____ the chain is still warm after a ride.",
+      "options": [
+        {
+          "key": "A",
+          "text": "while"
+        },
+        {
+          "key": "B",
+          "text": "during"
+        },
+        {
+          "key": "C",
+          "text": "for"
+        },
+        {
+          "key": "D",
+          "text": "since"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'While' is a conjunction followed by a full continuous or linking clause ('the chain is still warm').",
+        "wrong_B": "'During' is a preposition and must be followed by a noun phrase, not a clause with a verb.",
+        "wrong_C": "'For' expresses duration of time.",
+        "wrong_D": "'Since' denotes elapsed time from a starting point or causation."
+      },
+      "cz_learning_point": "Spojka 'while' se pojí s celou větou se slovesem (while the chain is warm), zatímco 'during' se pojí pouze s podstatným jménem.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q4",
+      "prompt": "Motorcycle brake pads _____ immediately if the friction material thickness wears below 1.5 millimeters.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must replace"
+        },
+        {
+          "key": "B",
+          "text": "must to be replaced"
+        },
+        {
+          "key": "C",
+          "text": "is must replaced"
+        },
+        {
+          "key": "D",
+          "text": "must be replaced"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive with modal 'must be replaced' correctly describes safety maintenance requirements.",
+        "wrong_A": "Active 'must replace' implies brake pads replace themselves.",
+        "wrong_B": "'must to be' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_C": "'is must' is invalid syntax."
+      },
+      "cz_learning_point": "Trpný rod se způsobovým slovesem: 'must be replaced' (musí být vyměněny). Brzdové destičky se samy nevyměňují.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q5",
+      "prompt": "The motorcycle workshop technician _____ the drive chain tension and rear wheel alignment yesterday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has adjusted"
+        },
+        {
+          "key": "B",
+          "text": "adjusts"
+        },
+        {
+          "key": "C",
+          "text": "adjusted"
+        },
+        {
+          "key": "D",
+          "text": "is adjusting"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific completed past time indicator 'yesterday' strictly requires Past Simple 'adjusted'.",
+        "wrong_A": "Present Perfect 'has adjusted' cannot accompany finished past time 'yesterday'.",
+        "wrong_B": "Present Simple expresses habitual routines, not yesterday's finished event.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's events."
+      },
+      "cz_learning_point": "S příslovečným určením jako 'yesterday' se v angličtině striktně pojí minulý čas prostý (Past Simple: 'adjusted'), nikoli předpřítomný čas.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q6",
+      "prompt": "Riders accelerate and brake progressively on the first few kilometers _____ motorcycle tires can reach optimal operating temperature.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order"
+        },
+        {
+          "key": "B",
+          "text": "so that"
+        },
+        {
+          "key": "C",
+          "text": "because of"
+        },
+        {
+          "key": "D",
+          "text": "for to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('tires can reach').",
+        "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+        "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+        "wrong_D": "'for to' is non-standard and ungrammatical."
+      },
+      "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná podmětem a způsobovým slovesem: 'so that tires can reach').",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q7",
+      "prompt": "An integrated slipper clutch prevents the rear wheel from _____ when shifting down aggressively into corners.",
+      "options": [
+        {
+          "key": "A",
+          "text": "lock up to"
+        },
+        {
+          "key": "B",
+          "text": "locking up of"
+        },
+        {
+          "key": "C",
+          "text": "lock up"
+        },
+        {
+          "key": "D",
+          "text": "locking up"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Preposition 'from' is followed by the '-ing' gerund form: 'locking up'.",
+        "wrong_A": "'lock up to' is ungrammatical.",
+        "wrong_B": "'locking up of' adds an unnecessary preposition.",
+        "wrong_C": "Base form 'lock up' cannot follow preposition 'from'."
+      },
+      "cz_learning_point": "Po předložkách (jako 'from') následuje v angličtině sloveso s koncovkou -ing: 'prevents the rear wheel from locking up' (zablokování zadního kola).",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q8",
+      "prompt": "The streetfighter motorcycle features an aluminum twin-spar perimeter frame, _____ provides exceptional torsional stiffness.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "whose"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "where"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Relative pronoun 'which' correctly refers back to the antecedent inanimate noun 'frame'.",
+        "wrong_B": "'whose' expresses possession.",
+        "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+        "wrong_D": "'where' refers to physical places."
+      },
+      "cz_learning_point": "Vztažné zájmeno pro věci v doplňovacích větách (oddělených čárkou) je 'which': 'perimeter frame, which provides...' (nikoli *that*).",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q9",
+      "prompt": "If the starter motor turns over briskly but the engine produces no spark whatsoever, the emergency handlebar kill switch _____ activated.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be"
+        },
+        {
+          "key": "B",
+          "text": "can to be"
+        },
+        {
+          "key": "C",
+          "text": "must be"
+        },
+        {
+          "key": "D",
+          "text": "is must"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Must be' expresses logical deduction based on electrical symptoms.",
+        "wrong_A": "'must to be' is ungrammatical; modals never take 'to'.",
+        "wrong_B": "'can to be' is ungrammatical in English.",
+        "wrong_D": "'is must' is invalid syntax."
+      },
+      "cz_learning_point": "Logická dedukce (určitě je / musí být aktivován): 'must be activated'. Způsobová slovesa nepřibírají předložku 'to'.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    },
+    {
+      "id": "BID-PUR-SP-001-Q10",
+      "prompt": "The motorcycle engine will immediately cut out when clicking into first gear _____ the sidestand has been fully retracted.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if"
+        },
+        {
+          "key": "B",
+          "text": "unless"
+        },
+        {
+          "key": "C",
+          "text": "provided that"
+        },
+        {
+          "key": "D",
+          "text": "as long as"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Unless' expresses 'except if' or 'if not', stating the mandatory safety interlock condition.",
+        "wrong_A": "'if' produces an illogical statement (cuts out IF retracted).",
+        "wrong_C": "'provided that' creates an illogical positive condition.",
+        "wrong_D": "'as long as' also creates an illogical condition."
+      },
+      "cz_learning_point": "'Unless' = pokud ne (if not). Po 'unless' už v angličtině nenásleduje další zápor: 'unless the sidestand has been retracted'.",
+      "workplace_track": "Leisure & Mobility: Motorbikes & Riding Dynamics"
+    }
+  ]
+}

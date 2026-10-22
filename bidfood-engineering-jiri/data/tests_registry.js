@@ -26079,5 +26079,1313 @@ Object.assign(window.TEST_REGISTRY, {
         "workplace_track": "Preventative Maintenance, PLC Automation & Breakdown Diagnostics"
       }
     ]
+  },
+  "BID-ENG-SP-001": {
+    "test_id": "BID-ENG-SP-001",
+    "title": "Artificial Intelligence in Manufacturing: Predictive Maintenance & Computer Vision",
+    "level": "B1",
+    "category": "specialized",
+    "workplace_track": "Emerging Tech: AI & Industrial Machine Learning",
+    "estimated_time_minutes": 15,
+    "description": "Specialized smart manufacturing English module analyzing machine learning anomaly detection, computer vision sorting, and edge IoT diagnostics.",
+    "grammar_focus": "Present Perfect Continuous & Real Conditionals",
+    "learning_objectives": [
+      "Master industrial AI lexicon (computer vision, anomaly detection, edge computing, acoustic sensors, neural networks)",
+      "Apply conditional logic and duration tenses to automated diagnostic alarms",
+      "Eliminate Czech interference errors when explaining predictive algorithms and sensor telemetry"
+    ],
+    "questions": [
+      {
+        "id": "BID-ENG-SP-001-Q1",
+        "prompt": "Before deploying the neural network onto the food packaging line, computer vision engineers _____ the camera exposure.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must to calibrate"
+          },
+          {
+            "key": "B",
+            "text": "must calibrate"
+          },
+          {
+            "key": "C",
+            "text": "is must calibrate"
+          },
+          {
+            "key": "D",
+            "text": "must calibrating"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Modal 'must' is directly followed by the bare infinitive 'calibrate' without 'to'.",
+          "wrong_A": "'must to' is ungrammatical; modals never take 'to'.",
+          "wrong_C": "'is must' is completely ungrammatical in English.",
+          "wrong_D": "'must' cannot take an '-ing' participle."
+        },
+        "cz_learning_point": "Po způsobovém slovesu 'must' následuje vždy holý infinitiv bez 'to': 'must calibrate' (nikoli *must to calibrate*).",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-001-Q2",
+        "prompt": "If the acoustic edge sensor _____ abnormal high-frequency bearing vibrations, the AI triggers an automated maintenance ticket.",
+        "options": [
+          {
+            "key": "A",
+            "text": "will detect"
+          },
+          {
+            "key": "B",
+            "text": "would detect"
+          },
+          {
+            "key": "C",
+            "text": "detects"
+          },
+          {
+            "key": "D",
+            "text": "detected"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "First conditional if-clause takes Present Simple ('detects') for automated operational rules.",
+          "wrong_A": "Cannot use future modal 'will' inside an if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'detected' would conflict with present indicative 'triggers'."
+        },
+        "cz_learning_point": "V podmínkových větách s 'if' se nesmí použít 'will' (*If the sensor will detect*). Použijte přítomný čas: 'If the sensor detects'.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-001-Q3",
+        "prompt": "The edge inference device streams raw thermal telemetry to the cloud gateway _____ the ammonia compressor is running at full capacity.",
+        "options": [
+          {
+            "key": "A",
+            "text": "while"
+          },
+          {
+            "key": "B",
+            "text": "during"
+          },
+          {
+            "key": "C",
+            "text": "for"
+          },
+          {
+            "key": "D",
+            "text": "since"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "'While' is a conjunction followed by a full continuous clause ('the ammonia compressor is running').",
+          "wrong_B": "'During' is a preposition and must be followed by a noun phrase, not a finite clause.",
+          "wrong_C": "'For' expresses duration of time.",
+          "wrong_D": "'Since' denotes elapsed time from a starting point or causation."
+        },
+        "cz_learning_point": "Spojka 'while' se pojí s celou větou se slovesem (while the compressor is running), zatímco 'during' se pojí pouze s podstatným jménem.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-001-Q4",
+        "prompt": "Factory quality protocols require that machine learning defect models _____ every month against newly annotated edge data.",
+        "options": [
+          {
+            "key": "A",
+            "text": "should retrain"
+          },
+          {
+            "key": "B",
+            "text": "should to be retrained"
+          },
+          {
+            "key": "C",
+            "text": "are should retrained"
+          },
+          {
+            "key": "D",
+            "text": "should be retrained"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Passive with modal 'should be retrained' correctly describes how models must be updated.",
+          "wrong_A": "Active 'should retrain' implies models retrain themselves.",
+          "wrong_B": "'should to be' is ungrammatical; modal 'should' does not take 'to'.",
+          "wrong_C": "'are should' is invalid syntax."
+        },
+        "cz_learning_point": "Trpný rod se způsobovým slovesem: 'should be retrained' (měly by být přetrénovány). Modely se nepřetrénovávají samy.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-001-Q5",
+        "prompt": "The data science team _____ vibration anomalies on ammonia screw compressor 2 for the past three weeks.",
+        "options": [
+          {
+            "key": "A",
+            "text": "monitors"
+          },
+          {
+            "key": "B",
+            "text": "monitored"
+          },
+          {
+            "key": "C",
+            "text": "has been monitoring"
+          },
+          {
+            "key": "D",
+            "text": "is monitor"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "Present Perfect Continuous ('has been monitoring') correctly expresses an ongoing action lasting from the past into the present ('for the past three weeks').",
+          "wrong_A": "Present Simple expresses habitual routines, not ongoing duration.",
+          "wrong_B": "Past Simple implies the monitoring has completely stopped.",
+          "wrong_D": "'is monitor' is ungrammatical."
+        },
+        "cz_learning_point": "Předpřítomný průběhový čas (Present Perfect Continuous: 'has been monitoring') vyjadřuje děj, který začal v minulosti a stále trvá ('for the past three weeks').",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-001-Q6",
+        "prompt": "Sensor readings are pre-processed on localized microcontrollers _____ cloud transmission bandwidth can be minimized.",
+        "options": [
+          {
+            "key": "A",
+            "text": "in order"
+          },
+          {
+            "key": "B",
+            "text": "so that"
+          },
+          {
+            "key": "C",
+            "text": "because of"
+          },
+          {
+            "key": "D",
+            "text": "for to"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('bandwidth can be minimized').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is non-standard and ungrammatical."
+        },
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná celou větou se způsobovým slovesem: 'so that bandwidth can be minimized').",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-001-Q7",
+        "prompt": "The high-speed optical sorter will automatically _____ any frozen carton with an illegible or smeared barcode.",
+        "options": [
+          {
+            "key": "A",
+            "text": "weed out to"
+          },
+          {
+            "key": "B",
+            "text": "weeding out"
+          },
+          {
+            "key": "C",
+            "text": "weeded out"
+          },
+          {
+            "key": "D",
+            "text": "weed out"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Phrasal verb 'weed out' (to eliminate or reject defective items) takes base form after future auxiliary 'will'.",
+          "wrong_A": "'weed out to' adds an unnecessary preposition.",
+          "wrong_B": "Participle 'weeding out' cannot follow auxiliary 'will'.",
+          "wrong_C": "Past form 'weeded out' is ungrammatical after auxiliary 'will'."
+        },
+        "cz_learning_point": "Frázové sloveso 'weed out' (vyřadit / vyselektovat vadné kusy). Po pomocném slovesu 'will' následuje základní tvar: 'will weed out'.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-001-Q8",
+        "prompt": "The automated facility relies on smart piezoelectric sensors, _____ sampling frequency exceeds 20 kilohertz.",
+        "options": [
+          {
+            "key": "A",
+            "text": "whose"
+          },
+          {
+            "key": "B",
+            "text": "which"
+          },
+          {
+            "key": "C",
+            "text": "that"
+          },
+          {
+            "key": "D",
+            "text": "what"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'sensors' with its attribute 'sampling frequency'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'what' cannot function as a relative pronoun with an explicit antecedent."
+        },
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jejichž vzorkovací frekvence) se v technické angličtině běžně používá i pro neživé předměty a přístroje.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-001-Q9",
+        "prompt": "Given that the neural network's confidence score exceeds 99.8%, this thermal image anomaly _____ a failing rotor bearing.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must to be"
+          },
+          {
+            "key": "B",
+            "text": "can to be"
+          },
+          {
+            "key": "C",
+            "text": "must be"
+          },
+          {
+            "key": "D",
+            "text": "is must"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "'Must be' expresses strong logical deduction based on high mathematical confidence.",
+          "wrong_A": "'must to be' is ungrammatical; modals never take 'to'.",
+          "wrong_B": "'can to be' is ungrammatical in English.",
+          "wrong_D": "'is must' is invalid syntax."
+        },
+        "cz_learning_point": "Logická dedukce (určitě to musí být porucha): 'must be a failing bearing'. Nikdy *must to be*.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-001-Q10",
+        "prompt": "The robotic packaging cell cannot resume autonomous operation _____ the computer vision safety zone is verified clear.",
+        "options": [
+          {
+            "key": "A",
+            "text": "if"
+          },
+          {
+            "key": "B",
+            "text": "unless"
+          },
+          {
+            "key": "C",
+            "text": "provided that"
+          },
+          {
+            "key": "D",
+            "text": "as long as"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "'Unless' expresses 'if not' or 'except when', stating the mandatory safety condition for restart.",
+          "wrong_A": "'if' produces an illogical contradiction (cannot run IF verified clear).",
+          "wrong_C": "'provided that' creates an illogical positive condition.",
+          "wrong_D": "'as long as' also creates an illogical condition."
+        },
+        "cz_learning_point": "'Unless' = pokud ne (if not). Po 'unless' už v anglické větě nenásleduje další zápor: 'unless the safety zone is verified clear'.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      }
+    ]
+  },
+  "BID-ENG-SP-002": {
+    "test_id": "BID-ENG-SP-002",
+    "title": "Automotive Engineering: Turbocharging, EV Battery Thermal Management & Chassis Dynamics",
+    "level": "B1",
+    "category": "specialized",
+    "workplace_track": "Automotive Technology & Car Engineering",
+    "estimated_time_minutes": 15,
+    "description": "Specialized automotive engineering module covering internal combustion turbocharging, electric vehicle battery liquid cooling, and suspension tuning.",
+    "grammar_focus": "Cause & Effect Connectors & Comparative Performance",
+    "learning_objectives": [
+      "Master automotive engineering terminology (twin-scroll turbocharger, EV battery thermal management, regenerative braking, intercooler, anti-roll bars)",
+      "Apply cause-and-effect connectors and conditional rules to automotive diagnostics",
+      "Eliminate Czech interference errors when discussing vehicle performance, torque curves, and maintenance"
+    ],
+    "questions": [
+      {
+        "id": "BID-ENG-SP-002-Q1",
+        "prompt": "After aggressive highway driving, motorists _____ turbocharged engines idle for 60 seconds to circulate oil through hot turbo bearings.",
+        "options": [
+          {
+            "key": "A",
+            "text": "should to let"
+          },
+          {
+            "key": "B",
+            "text": "should let"
+          },
+          {
+            "key": "C",
+            "text": "are should let"
+          },
+          {
+            "key": "D",
+            "text": "should letting"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Modal 'should' is followed directly by the bare infinitive 'let' without 'to'.",
+          "wrong_A": "'should to let' is ungrammatical; modal verbs never take 'to'.",
+          "wrong_C": "'are should' is invalid syntax.",
+          "wrong_D": "'should' cannot take an '-ing' participle."
+        },
+        "cz_learning_point": "Po způsobovém slovesu 'should' následuje vždy základní tvar bez 'to': 'should let' (nikoli *should to let*).",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-002-Q2",
+        "prompt": "If the electric vehicle battery temperature _____ above 45 degrees Celsius, the liquid cooling chiller engages automatically.",
+        "options": [
+          {
+            "key": "A",
+            "text": "will rise"
+          },
+          {
+            "key": "B",
+            "text": "would rise"
+          },
+          {
+            "key": "C",
+            "text": "rises"
+          },
+          {
+            "key": "D",
+            "text": "rose"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "First conditional if-clause takes Present Simple ('rises') for automated thermal management rules.",
+          "wrong_A": "Cannot use future modal 'will' inside an if-clause.",
+          "wrong_B": "Cannot use 'would' in a real First Conditional.",
+          "wrong_D": "Past tense 'rose' would conflict with present indicative 'engages'."
+        },
+        "cz_learning_point": "V podmínkových větách po 'if' se nesmí použít 'will' (*If temperature will rise*). Použijte přítomný čas: 'If temperature rises'.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-002-Q3",
+        "prompt": "During rapid cornering, anti-roll bars resist body lean by transferring torsional stiffness _____ the vehicle chassis.",
+        "options": [
+          {
+            "key": "A",
+            "text": "across"
+          },
+          {
+            "key": "B",
+            "text": "into of"
+          },
+          {
+            "key": "C",
+            "text": "onto to"
+          },
+          {
+            "key": "D",
+            "text": "between of"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "'Across' appropriately describes forces distributed spanning from one side of the chassis to the other.",
+          "wrong_B": "'into of' is an invalid double preposition.",
+          "wrong_C": "'onto to' is an ungrammatical combination.",
+          "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
+        },
+        "cz_learning_point": "Předložka 'across' vyjadřuje přenos torzní tuhosti napříč podvozkem. Vyvarujte se chybné vazby *between of*.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-002-Q4",
+        "prompt": "High-performance DOT 4 brake fluid _____ every two years because hygroscopic moisture absorption lowers its boiling point.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must replace"
+          },
+          {
+            "key": "B",
+            "text": "must to be replaced"
+          },
+          {
+            "key": "C",
+            "text": "is must replaced"
+          },
+          {
+            "key": "D",
+            "text": "must be replaced"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Passive with modal 'must be replaced' correctly conveys vehicle maintenance requirements.",
+          "wrong_A": "Active 'must replace' implies brake fluid replaces itself.",
+          "wrong_B": "'must to be' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_C": "'is must' is invalid syntax."
+        },
+        "cz_learning_point": "Trpný rod se způsobovým slovesem: 'must be replaced' (musí být vyměněna). Brzdová kapalina se sama nevyměňuje.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-002-Q5",
+        "prompt": "The dynamometer technician _____ the electronic control unit (ECU) fuel mapping yesterday to eliminate a low-RPM flat spot.",
+        "options": [
+          {
+            "key": "A",
+            "text": "has remapped"
+          },
+          {
+            "key": "B",
+            "text": "remaps"
+          },
+          {
+            "key": "C",
+            "text": "remapped"
+          },
+          {
+            "key": "D",
+            "text": "is remapping"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "Specific completed past time indicator 'yesterday' strictly requires Past Simple 'remapped'.",
+          "wrong_A": "Present Perfect 'has remapped' cannot accompany finished past time 'yesterday'.",
+          "wrong_B": "Present Simple expresses habitual routines, not yesterday's finished event.",
+          "wrong_D": "Present Continuous describes current actions, not yesterday's events."
+        },
+        "cz_learning_point": "S příslovečným určením jako 'yesterday' se v angličtině striktně pojí minulý čas prostý (Past Simple: 'remapped'), nikoli předpřítomný čas.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-002-Q6",
+        "prompt": "Engineers routed pressurized intake air through a front-mounted intercooler _____ compressed air density could be increased.",
+        "options": [
+          {
+            "key": "A",
+            "text": "in order"
+          },
+          {
+            "key": "B",
+            "text": "so that"
+          },
+          {
+            "key": "C",
+            "text": "because of"
+          },
+          {
+            "key": "D",
+            "text": "for to"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('air density could be increased').",
+          "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+          "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+          "wrong_D": "'for to' is non-standard and ungrammatical."
+        },
+        "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná podmětem a způsobovým slovesem: 'so that air density could be increased').",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-002-Q7",
+        "prompt": "A dual-clutch transmission pre-selects the next gear ratio so it can shift instantly without _____ engine torque.",
+        "options": [
+          {
+            "key": "A",
+            "text": "cut off to"
+          },
+          {
+            "key": "B",
+            "text": "cutting off of"
+          },
+          {
+            "key": "C",
+            "text": "cut off"
+          },
+          {
+            "key": "D",
+            "text": "cutting off"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Preposition 'without' is followed by the '-ing' gerund form: 'cutting off'.",
+          "wrong_A": "'cut off to' is ungrammatical.",
+          "wrong_B": "'cutting off of' adds an unnecessary preposition.",
+          "wrong_C": "Base form 'cut off' cannot follow preposition 'without'."
+        },
+        "cz_learning_point": "Po předložkách (jako 'without') následuje v angličtině sloveso s koncovkou -ing: 'without cutting off engine torque'.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-002-Q8",
+        "prompt": "The sports sedan utilizes a multi-link rear suspension, _____ geometry maintains optimal tire contact patches under hard braking.",
+        "options": [
+          {
+            "key": "A",
+            "text": "whose"
+          },
+          {
+            "key": "B",
+            "text": "which"
+          },
+          {
+            "key": "C",
+            "text": "that"
+          },
+          {
+            "key": "D",
+            "text": "where"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'suspension' with its attribute 'geometry'.",
+          "wrong_B": "'which' cannot express possession without 'of'.",
+          "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+          "wrong_D": "'where' refers to physical places."
+        },
+        "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož geometrie) vyjadřuje přivlastňovací vztah i u technických mechanismů a podvozků.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-002-Q9",
+        "prompt": "Given the sharp metallic whistle from the engine bay accompanied by black exhaust smoke, the turbocharger turbine wheel _____ damaged.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must to be"
+          },
+          {
+            "key": "B",
+            "text": "can to be"
+          },
+          {
+            "key": "C",
+            "text": "must be"
+          },
+          {
+            "key": "D",
+            "text": "is must"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "'Must be' expresses logical deduction based on audible and visual mechanical symptoms.",
+          "wrong_A": "'must to be' is ungrammatical; modals never take 'to'.",
+          "wrong_B": "'can to be' is ungrammatical in English.",
+          "wrong_D": "'is must' is invalid syntax."
+        },
+        "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be damaged'. Způsobová slovesa nepřibírají předložku 'to'.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-002-Q10",
+        "prompt": "The vehicle cannot harness maximum regenerative braking efficiency _____ battery cell state-of-charge is below 90%.",
+        "options": [
+          {
+            "key": "A",
+            "text": "if"
+          },
+          {
+            "key": "B",
+            "text": "unless"
+          },
+          {
+            "key": "C",
+            "text": "provided that"
+          },
+          {
+            "key": "D",
+            "text": "as long as"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "'Unless' expresses 'except if' or 'if not', stating the physical battery prerequisite for regeneration.",
+          "wrong_A": "'if' produces an illogical statement (cannot harness IF below 90%).",
+          "wrong_C": "'provided that' creates an illogical positive condition.",
+          "wrong_D": "'as long as' also creates an illogical condition."
+        },
+        "cz_learning_point": "'Unless' = pokud ne (if not). Po 'unless' už v angličtině nenásleduje další zápor: 'unless battery charge is below 90%'.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      }
+    ]
+  },
+  "BID-ENG-SP-003": {
+    "test_id": "BID-ENG-SP-003",
+    "title": "Generative AI, Large Language Models (LLMs) & Autonomous Agentic Workflows",
+    "level": "B2",
+    "category": "specialized",
+    "workplace_track": "Emerging Tech: AI & Industrial Machine Learning",
+    "estimated_time_minutes": 15,
+    "description": "Advanced artificial intelligence module covering foundation LLMs (Gemini, GPT-4, Claude), multi-head attention mechanisms, context windows, and autonomous agentic loops.",
+    "grammar_focus": "Mandative Subjunctive & High-Register Technical Stance",
+    "learning_objectives": [
+      "Master frontier AI terminology (transformers, self-attention, context windows, RAG, agentic loops, quantization)",
+      "Apply inverted conditionals and mandative subjunctive in enterprise AI governance",
+      "Demonstrate precision when drafting AI deployment policies, privacy guardrails, and latency SLAs"
+    ],
+    "questions": [
+      {
+        "id": "BID-ENG-SP-003-Q1",
+        "prompt": "_____ AI researchers not introduced multi-head self-attention mechanisms in 2017, large language models would have remained computationally intractable.",
+        "options": [
+          {
+            "key": "A",
+            "text": "If"
+          },
+          {
+            "key": "B",
+            "text": "Had"
+          },
+          {
+            "key": "C",
+            "text": "Were"
+          },
+          {
+            "key": "D",
+            "text": "Should"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Inverted Third Conditional 'Had AI researchers not introduced...' correctly expresses a past counterfactual premise without 'if'.",
+          "wrong_A": "'If' requires the auxiliary 'had' after the subject.",
+          "wrong_C": "'Were' forms a Second Conditional, incompatible with past 'would have remained'.",
+          "wrong_D": "'Should' expresses tentative future conditions."
+        },
+        "cz_learning_point": "Inverze 3. kondicionálu v odborném textu: 'Had researchers not introduced...' = 'Kdyby vědci bývali nezavedli...'. V podmínce se nepoužívá 'if' ani 'would'.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-003-Q2",
+        "prompt": "Under no circumstances _____ autonomous software agents be granted unrestricted delete privileges on live industrial SCADA databases.",
+        "options": [
+          {
+            "key": "A",
+            "text": "agents should"
+          },
+          {
+            "key": "B",
+            "text": "must to agents"
+          },
+          {
+            "key": "C",
+            "text": "should autonomous"
+          },
+          {
+            "key": "D",
+            "text": "shall agents to"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "Negative introductory phrase 'Under no circumstances' triggers subject-auxiliary inversion: 'should autonomous [agents be granted]'.",
+          "wrong_A": "'agents should' lacks the required subject-auxiliary inversion.",
+          "wrong_B": "'must to' is ungrammatical; modal 'must' does not take 'to'.",
+          "wrong_D": "'shall... to' is ungrammatical."
+        },
+        "cz_learning_point": "Záporná úvodní fráze 'Under no circumstances' vyžaduje převrácený slovosled (inverzi): 'Under no circumstances should autonomous agents be granted...'.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-003-Q3",
+        "prompt": "If the engineering department had implemented a robust retrieval-augmented generation (RAG) vector database, the enterprise model _____ hallucinations today.",
+        "options": [
+          {
+            "key": "A",
+            "text": "would not be generating"
+          },
+          {
+            "key": "B",
+            "text": "would not have generated"
+          },
+          {
+            "key": "C",
+            "text": "will not generate"
+          },
+          {
+            "key": "D",
+            "text": "does not generate"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Mixed conditional: past cause ('had implemented') with present ongoing result ('today') takes 'would not be generating'.",
+          "wrong_B": "'would not have generated' refers purely to past result, but adverbial 'today' anchors the result to the present.",
+          "wrong_C": "'will not generate' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Indicative 'does not generate' cannot express hypothetical consequence."
+        },
+        "cz_learning_point": "Smíšený kondicionál (Mixed Conditional): minulá příčina spojená s přítomným následkem: 'If they had implemented [minulost], it would not be generating [dnes]'.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-003-Q4",
+        "prompt": "Enterprise cybersecurity policies mandate that every generative AI pipeline _____ strict data loss prevention (DLP) sanitization on user prompts.",
+        "options": [
+          {
+            "key": "A",
+            "text": "executes"
+          },
+          {
+            "key": "B",
+            "text": "will execute"
+          },
+          {
+            "key": "C",
+            "text": "must to execute"
+          },
+          {
+            "key": "D",
+            "text": "execute"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Mandative subjunctive after 'mandate that' requires base form 'execute' regardless of 3rd person singular subject.",
+          "wrong_A": "Indicative 'executes' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will execute' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
+        },
+        "cz_learning_point": "Subjunktiv po slovesech nařízení a bezpečnostních pravidel (mandate that every pipeline execute): sloveso zůstává v základním tvaru bez -s.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-003-Q5",
+        "prompt": "_____ the foundational model down to 4-bit precision via AWQ quantization, engineers deployed the LLM directly onto local edge server hardware.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Quantize"
+          },
+          {
+            "key": "B",
+            "text": "Quantized"
+          },
+          {
+            "key": "C",
+            "text": "Having quantized"
+          },
+          {
+            "key": "D",
+            "text": "Being quantized"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "Perfect active participle 'Having quantized' correctly expresses an optimization completed prior to local edge deployment.",
+          "wrong_A": "Base form 'Quantize' cannot function as introductory participle.",
+          "wrong_B": "Past form 'Quantized' without auxiliary is passive, but engineers actively performed the quantization.",
+          "wrong_D": "'Being quantized' expresses present passive, not completed prior action."
+        },
+        "cz_learning_point": "Předpřítomné participium (Having quantized = poté, co kvantizovali...) vyjadřuje děj dokončený před hlavní větou.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-003-Q6",
+        "prompt": "_____ impressive performance on benchmark coding exams, commercial LLMs frequently hallucinate syntax when handling proprietary legacy protocols.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Although"
+          },
+          {
+            "key": "B",
+            "text": "Notwithstanding"
+          },
+          {
+            "key": "C",
+            "text": "Whereas"
+          },
+          {
+            "key": "D",
+            "text": "Even though"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "'Notwithstanding' is a formal preposition followed by a noun phrase ('impressive performance on benchmark coding exams').",
+          "wrong_A": "'Although' is a conjunction and must be followed by a full finite clause.",
+          "wrong_C": "'Whereas' introduces a contrastive clause.",
+          "wrong_D": "'Even though' requires a full clause with subject and verb."
+        },
+        "cz_learning_point": "'Notwithstanding' (navzdory / i přes) se pojí s podstatným jménem, zatímco spojky jako 'Although' a 'Even though' vyžadují celou větu se slovesem.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-003-Q7",
+        "prompt": "Deep neural networks with transformer architectures are widely acknowledged _____ natural language processing capabilities over the past decade.",
+        "options": [
+          {
+            "key": "A",
+            "text": "to transform"
+          },
+          {
+            "key": "B",
+            "text": "transforming"
+          },
+          {
+            "key": "C",
+            "text": "to have been transformed"
+          },
+          {
+            "key": "D",
+            "text": "to have transformed"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Perfect active infinitive 'to have transformed' correctly attributes a historic completed breakthrough to transformer networks.",
+          "wrong_A": "Present infinitive 'to transform' fails to indicate past completion.",
+          "wrong_B": "Participle 'transforming' cannot follow passive reporting verb 'are acknowledged'.",
+          "wrong_C": "Passive 'to have been transformed' incorrectly treats neural networks as the object rather than the driving agent."
+        },
+        "cz_learning_point": "Vazba 'are acknowledged to have transformed' (uznává se, že transformovaly) vyjadřuje minulý děj pomocí minulého infinitivu.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-003-Q8",
+        "prompt": "Only after fine-tuning the model on specialized manufacturing SOP manuals _____ accurate technical troubleshooting recommendations.",
+        "options": [
+          {
+            "key": "A",
+            "text": "did the assistant generate"
+          },
+          {
+            "key": "B",
+            "text": "the assistant generated"
+          },
+          {
+            "key": "C",
+            "text": "generated the assistant"
+          },
+          {
+            "key": "D",
+            "text": "has the assistant generated"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did the assistant generate'.",
+          "wrong_B": "'the assistant generated' lacks required subject-auxiliary inversion.",
+          "wrong_C": "'generated the assistant' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with completed past fine-tuning."
+        },
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled: 'Only after fine-tuning did the assistant generate...'.",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-003-Q9",
+        "prompt": "An artificial intelligence model exhibiting an inference latency exceeding eight seconds _____ for high-speed industrial sorting automation.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must not suit"
+          },
+          {
+            "key": "B",
+            "text": "should not suit"
+          },
+          {
+            "key": "C",
+            "text": "cannot possibly be suitable"
+          },
+          {
+            "key": "D",
+            "text": "may not suit"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "'Cannot possibly be suitable' expresses absolute deductive impossibility based on latency constraints.",
+          "wrong_A": "'must not' expresses prohibition or deduction of absence, but lacks impossibility nuance.",
+          "wrong_B": "'should not' expresses moral obligation or advice.",
+          "wrong_D": "'may not' expresses mere uncertainty."
+        },
+        "cz_learning_point": "Vyjádření naprosté nemožnosti: 'cannot possibly be suitable' (v žádném případě nemůže být vhodný pro vysokorychlostní linky).",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      },
+      {
+        "id": "BID-ENG-SP-003-Q10",
+        "prompt": "The AI research consortium open-sourced a multi-agent framework, under the terms of _____ commercial enterprises may build autonomous applications.",
+        "options": [
+          {
+            "key": "A",
+            "text": "that"
+          },
+          {
+            "key": "B",
+            "text": "which"
+          },
+          {
+            "key": "C",
+            "text": "whose"
+          },
+          {
+            "key": "D",
+            "text": "whom"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Formal prepositional relative phrase 'under the terms of which' strictly takes 'which' when modifying a license or framework.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whose' expresses possession.",
+          "wrong_D": "'whom' refers only to persons."
+        },
+        "cz_learning_point": "Po předložkách v rozvitých vztažných větách se pro software a licence používá výhradně 'which': 'under the terms of which' (podle jehož podmínek).",
+        "workplace_track": "Emerging Tech: AI & Industrial Machine Learning"
+      }
+    ]
+  },
+  "BID-ENG-SP-004": {
+    "test_id": "BID-ENG-SP-004",
+    "title": "Automotive Aerodynamics, Direct-Shift Gearboxes (DSG) & Internal Combustion Optimization",
+    "level": "B2",
+    "category": "specialized",
+    "workplace_track": "Automotive Technology & Car Engineering",
+    "estimated_time_minutes": 15,
+    "description": "Advanced powertrain and chassis engineering module examining aerodynamic drag coefficients (Cd), dual-clutch transmission electro-hydraulics, and variable valve timing.",
+    "grammar_focus": "Inverted Conditionals & Engineering Rigor",
+    "learning_objectives": [
+      "Master advanced powertrain terminology (dual-mass flywheel, mechatronics valve body, variable valve timing VVT, Atkinson cycle, ground-effect diffuser)",
+      "Apply inverted conditionals and complex passive reporting in automotive mechanical failure analysis",
+      "Demonstrate fluency when drafting dynamometer reports and aerodynamic test evaluations"
+    ],
+    "questions": [
+      {
+        "id": "BID-ENG-SP-004-Q1",
+        "prompt": "_____ automotive aerodynamicists not designed an active underbody venturi tunnel, high-speed aerodynamic downforce would have collapsed.",
+        "options": [
+          {
+            "key": "A",
+            "text": "If"
+          },
+          {
+            "key": "B",
+            "text": "Had"
+          },
+          {
+            "key": "C",
+            "text": "Were"
+          },
+          {
+            "key": "D",
+            "text": "Should"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Inverted Third Conditional 'Had aerodynamicists not designed...' correctly expresses a past counterfactual premise without 'if'.",
+          "wrong_A": "'If' requires the auxiliary 'had' after the subject.",
+          "wrong_C": "'Were' forms a Second Conditional, incompatible with past 'would have collapsed'.",
+          "wrong_D": "'Should' expresses tentative future conditions."
+        },
+        "cz_learning_point": "Inverze 3. kondicionálu v automobilovém vývoji: 'Had aerodynamicists not designed...' = 'Kdyby aerodynamici nenavrhli...'. Do podmínky nepatří 'if'.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-004-Q2",
+        "prompt": "Rarely _____ a dual-mass flywheel suffer torsional spring failure unless the engine operates with persistent cylinder misfiring.",
+        "options": [
+          {
+            "key": "A",
+            "text": "does"
+          },
+          {
+            "key": "B",
+            "text": "is"
+          },
+          {
+            "key": "C",
+            "text": "will"
+          },
+          {
+            "key": "D",
+            "text": "has"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Negative adverb 'Rarely' triggers subject-auxiliary inversion with Present Simple auxiliary 'does': 'Rarely does a dual-mass flywheel suffer...'.",
+          "wrong_B": "'is' cannot serve as auxiliary for base verb 'suffer'.",
+          "wrong_C": "'will' changes the sentence to predictive future rather than engineering fact.",
+          "wrong_D": "'has' would require past participle 'suffered'."
+        },
+        "cz_learning_point": "Záporné příslovce 'Rarely' na začátku věty vyžaduje inverzi pomocného slovesa 'does' a podmětu: 'Rarely does a flywheel suffer...'.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-004-Q3",
+        "prompt": "If the calibration engineer had mapped the variable valve timing (VVT) solenoid correctly last week, the engine _____ rough idle oscillations today.",
+        "options": [
+          {
+            "key": "A",
+            "text": "would not be exhibiting"
+          },
+          {
+            "key": "B",
+            "text": "would not have exhibited"
+          },
+          {
+            "key": "C",
+            "text": "will not exhibit"
+          },
+          {
+            "key": "D",
+            "text": "does not exhibit"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Mixed conditional: past cause ('had mapped') with present ongoing result ('today') takes 'would not be exhibiting'.",
+          "wrong_B": "'would not have exhibited' refers purely to past result, but adverbial 'today' anchors consequence to the present.",
+          "wrong_C": "'will not exhibit' is First Conditional, incompatible with past counterfactual condition.",
+          "wrong_D": "Simple present indicative 'does not exhibit' cannot express hypothetical consequence."
+        },
+        "cz_learning_point": "Smíšený kondicionál: minulá příčina spojená s přítomným následkem: 'If he had mapped [minulost], it would not be exhibiting [dnes]'.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-004-Q4",
+        "prompt": "Automotive emissions homologation regulations mandate that every direct-injection engine _____ strict particulate filter regeneration limits.",
+        "options": [
+          {
+            "key": "A",
+            "text": "satisfies"
+          },
+          {
+            "key": "B",
+            "text": "will satisfy"
+          },
+          {
+            "key": "C",
+            "text": "must to satisfy"
+          },
+          {
+            "key": "D",
+            "text": "satisfy"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Mandative subjunctive after 'mandate that' requires base form 'satisfy' regardless of 3rd person singular subject.",
+          "wrong_A": "Indicative 'satisfies' with 3rd person -s violates mandative subjunctive syntax.",
+          "wrong_B": "Future 'will satisfy' is incorrect after mandative 'mandate that'.",
+          "wrong_C": "'must to' is ungrammatical."
+        },
+        "cz_learning_point": "Subjunktiv po slovesech předpisů (mandate that every engine satisfy): sloveso zůstává v základním tvaru bez -s.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-004-Q5",
+        "prompt": "_____ the dynamic cylinder pressure curves on the test dyno, powertrain specialists adjusted spark timing to prevent pre-ignition.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Analyze"
+          },
+          {
+            "key": "B",
+            "text": "Analyzed"
+          },
+          {
+            "key": "C",
+            "text": "Having analyzed"
+          },
+          {
+            "key": "D",
+            "text": "Being analyzed"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "Perfect active participle 'Having analyzed' correctly expresses prior engineering analysis leading to subsequent calibration.",
+          "wrong_A": "Base verb 'Analyze' cannot function as introductory participle.",
+          "wrong_B": "Past form 'Analyzed' without auxiliary is passive, but specialists actively analyzed the curves.",
+          "wrong_D": "'Being analyzed' expresses continuous passive present, not prior completion."
+        },
+        "cz_learning_point": "Předpřítomné participium (Having analyzed = poté, co analyzovali...) vyjadřuje děj, který předcházel hlavní větě.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-004-Q6",
+        "prompt": "_____ active aerodynamic grille shutters reduce vehicle drag by 6%, cooling demands override aerodynamic efficiency under extreme track loads.",
+        "options": [
+          {
+            "key": "A",
+            "text": "In spite of"
+          },
+          {
+            "key": "B",
+            "text": "Although"
+          },
+          {
+            "key": "C",
+            "text": "Notwithstanding"
+          },
+          {
+            "key": "D",
+            "text": "Despite"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "'Although' is a conjunction followed by a full clause with subject and verb ('active aerodynamic grille shutters reduce...').",
+          "wrong_A": "'In spite of' is a preposition and must be followed by a noun phrase or gerund.",
+          "wrong_C": "'Notwithstanding' is followed by a noun phrase.",
+          "wrong_D": "'Despite' is a preposition and cannot be followed directly by a finite clause."
+        },
+        "cz_learning_point": "Spojka 'Although' (ačkoli) se pojí s celou větou s podmětem a slovesem, zatímco předložky jako 'Despite' a 'In spite of' vyžadují podstatné jméno.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-004-Q7",
+        "prompt": "Direct gasoline fuel injection at 350 bar pressure is confirmed _____ fuel atomization and thermal efficiency across all RPM ranges.",
+        "options": [
+          {
+            "key": "A",
+            "text": "to improve"
+          },
+          {
+            "key": "B",
+            "text": "improving"
+          },
+          {
+            "key": "C",
+            "text": "to have been improved"
+          },
+          {
+            "key": "D",
+            "text": "to have improved"
+          }
+        ],
+        "correct_key": "D",
+        "explanations": {
+          "correct": "Perfect active infinitive 'to have improved' correctly attributes an established technological advance to high-pressure injection.",
+          "wrong_A": "Present infinitive 'to improve' implies ongoing or future improvement rather than proven technological fact.",
+          "wrong_B": "Participle 'improving' cannot follow passive reporting verb 'is confirmed'.",
+          "wrong_C": "Passive 'to have been improved' incorrectly treats high-pressure injection as the object rather than the improving cause."
+        },
+        "cz_learning_point": "Vazba 'is confirmed to have improved' (je potvrzeno, že zlepšilo) vyjadřuje minulý děj pomocí minulého infinitivu.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-004-Q8",
+        "prompt": "Only after running smoke-stream visualization in the full-scale wind tunnel _____ the parasitic turbulent vortex behind the rear spoiler.",
+        "options": [
+          {
+            "key": "A",
+            "text": "did the aerodynamicists detect"
+          },
+          {
+            "key": "B",
+            "text": "the aerodynamicists detected"
+          },
+          {
+            "key": "C",
+            "text": "detected the aerodynamicists"
+          },
+          {
+            "key": "D",
+            "text": "have the aerodynamicists detected"
+          }
+        ],
+        "correct_key": "A",
+        "explanations": {
+          "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did the aerodynamicists detect'.",
+          "wrong_B": "'the aerodynamicists detected' lacks required subject-auxiliary inversion.",
+          "wrong_C": "'detected the aerodynamicists' is archaic full inversion without auxiliary 'did'.",
+          "wrong_D": "Present perfect conflicts with completed past wind-tunnel testing."
+        },
+        "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled: 'Only after running visualization did engineers detect...'.",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-004-Q9",
+        "prompt": "The electro-hydraulic mechatronic unit of the dual-clutch gearbox _____ overheated unless the transmission cooler was completely clogged.",
+        "options": [
+          {
+            "key": "A",
+            "text": "must not have"
+          },
+          {
+            "key": "B",
+            "text": "should not have"
+          },
+          {
+            "key": "C",
+            "text": "cannot possibly have"
+          },
+          {
+            "key": "D",
+            "text": "may not have"
+          }
+        ],
+        "correct_key": "C",
+        "explanations": {
+          "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past mechanical event.",
+          "wrong_A": "'must not have' expresses negative deduction without impossibility nuance.",
+          "wrong_B": "'should not have' expresses unmet expectation or advice.",
+          "wrong_D": "'may not have' expresses mere uncertainty."
+        },
+        "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have overheated' (rozhodně se nemohla přehřát, ledaže by chladič byl zcela ucpaný).",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      },
+      {
+        "id": "BID-ENG-SP-004-Q10",
+        "prompt": "Track-focused performance sports cars utilize a dry-sump lubrication system, by virtue of _____ centrifugal oil starvation is prevented in high-G turns.",
+        "options": [
+          {
+            "key": "A",
+            "text": "that"
+          },
+          {
+            "key": "B",
+            "text": "which"
+          },
+          {
+            "key": "C",
+            "text": "whose"
+          },
+          {
+            "key": "D",
+            "text": "whom"
+          }
+        ],
+        "correct_key": "B",
+        "explanations": {
+          "correct": "Formal prepositional relative phrase 'by virtue of which' strictly takes 'which' when modifying an engineering system.",
+          "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+          "wrong_C": "'whose' expresses possession.",
+          "wrong_D": "'whom' refers only to persons."
+        },
+        "cz_learning_point": "Po formálních předložkových vazbách v rozvitých vztažných větách se používá výhradně 'which': 'by virtue of which' (na základě čehož / čímž).",
+        "workplace_track": "Automotive Technology & Car Engineering"
+      }
+    ]
   }
 });

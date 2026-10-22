@@ -1,0 +1,327 @@
+{
+  "test_id": "BID-ENG-SP-002",
+  "title": "Automotive Engineering: Turbocharging, EV Battery Thermal Management & Chassis Dynamics",
+  "level": "B1",
+  "category": "specialized",
+  "workplace_track": "Automotive Technology & Car Engineering",
+  "estimated_time_minutes": 15,
+  "description": "Specialized automotive engineering module covering internal combustion turbocharging, electric vehicle battery liquid cooling, and suspension tuning.",
+  "grammar_focus": "Cause & Effect Connectors & Comparative Performance",
+  "learning_objectives": [
+    "Master automotive engineering terminology (twin-scroll turbocharger, EV battery thermal management, regenerative braking, intercooler, anti-roll bars)",
+    "Apply cause-and-effect connectors and conditional rules to automotive diagnostics",
+    "Eliminate Czech interference errors when discussing vehicle performance, torque curves, and maintenance"
+  ],
+  "questions": [
+    {
+      "id": "BID-ENG-SP-002-Q1",
+      "prompt": "After aggressive highway driving, motorists _____ turbocharged engines idle for 60 seconds to circulate oil through hot turbo bearings.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should to let"
+        },
+        {
+          "key": "B",
+          "text": "should let"
+        },
+        {
+          "key": "C",
+          "text": "are should let"
+        },
+        {
+          "key": "D",
+          "text": "should letting"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Modal 'should' is followed directly by the bare infinitive 'let' without 'to'.",
+        "wrong_A": "'should to let' is ungrammatical; modal verbs never take 'to'.",
+        "wrong_C": "'are should' is invalid syntax.",
+        "wrong_D": "'should' cannot take an '-ing' participle."
+      },
+      "cz_learning_point": "Po způsobovém slovesu 'should' následuje vždy základní tvar bez 'to': 'should let' (nikoli *should to let*).",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-002-Q2",
+      "prompt": "If the electric vehicle battery temperature _____ above 45 degrees Celsius, the liquid cooling chiller engages automatically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will rise"
+        },
+        {
+          "key": "B",
+          "text": "would rise"
+        },
+        {
+          "key": "C",
+          "text": "rises"
+        },
+        {
+          "key": "D",
+          "text": "rose"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('rises') for automated thermal management rules.",
+        "wrong_A": "Cannot use future modal 'will' inside an if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'rose' would conflict with present indicative 'engages'."
+      },
+      "cz_learning_point": "V podmínkových větách po 'if' se nesmí použít 'will' (*If temperature will rise*). Použijte přítomný čas: 'If temperature rises'.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-002-Q3",
+      "prompt": "During rapid cornering, anti-roll bars resist body lean by transferring torsional stiffness _____ the vehicle chassis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "across"
+        },
+        {
+          "key": "B",
+          "text": "into of"
+        },
+        {
+          "key": "C",
+          "text": "onto to"
+        },
+        {
+          "key": "D",
+          "text": "between of"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Across' appropriately describes forces distributed spanning from one side of the chassis to the other.",
+        "wrong_B": "'into of' is an invalid double preposition.",
+        "wrong_C": "'onto to' is an ungrammatical combination.",
+        "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
+      },
+      "cz_learning_point": "Předložka 'across' vyjadřuje přenos torzní tuhosti napříč podvozkem. Vyvarujte se chybné vazby *between of*.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-002-Q4",
+      "prompt": "High-performance DOT 4 brake fluid _____ every two years because hygroscopic moisture absorption lowers its boiling point.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must replace"
+        },
+        {
+          "key": "B",
+          "text": "must to be replaced"
+        },
+        {
+          "key": "C",
+          "text": "is must replaced"
+        },
+        {
+          "key": "D",
+          "text": "must be replaced"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive with modal 'must be replaced' correctly conveys vehicle maintenance requirements.",
+        "wrong_A": "Active 'must replace' implies brake fluid replaces itself.",
+        "wrong_B": "'must to be' is ungrammatical; modal 'must' does not take 'to'.",
+        "wrong_C": "'is must' is invalid syntax."
+      },
+      "cz_learning_point": "Trpný rod se způsobovým slovesem: 'must be replaced' (musí být vyměněna). Brzdová kapalina se sama nevyměňuje.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-002-Q5",
+      "prompt": "The dynamometer technician _____ the electronic control unit (ECU) fuel mapping yesterday to eliminate a low-RPM flat spot.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has remapped"
+        },
+        {
+          "key": "B",
+          "text": "remaps"
+        },
+        {
+          "key": "C",
+          "text": "remapped"
+        },
+        {
+          "key": "D",
+          "text": "is remapping"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Specific completed past time indicator 'yesterday' strictly requires Past Simple 'remapped'.",
+        "wrong_A": "Present Perfect 'has remapped' cannot accompany finished past time 'yesterday'.",
+        "wrong_B": "Present Simple expresses habitual routines, not yesterday's finished event.",
+        "wrong_D": "Present Continuous describes current actions, not yesterday's events."
+      },
+      "cz_learning_point": "S příslovečným určením jako 'yesterday' se v angličtině striktně pojí minulý čas prostý (Past Simple: 'remapped'), nikoli předpřítomný čas.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-002-Q6",
+      "prompt": "Engineers routed pressurized intake air through a front-mounted intercooler _____ compressed air density could be increased.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order"
+        },
+        {
+          "key": "B",
+          "text": "so that"
+        },
+        {
+          "key": "C",
+          "text": "because of"
+        },
+        {
+          "key": "D",
+          "text": "for to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('air density could be increased').",
+        "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+        "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+        "wrong_D": "'for to' is non-standard and ungrammatical."
+      },
+      "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná podmětem a způsobovým slovesem: 'so that air density could be increased').",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-002-Q7",
+      "prompt": "A dual-clutch transmission pre-selects the next gear ratio so it can shift instantly without _____ engine torque.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cut off to"
+        },
+        {
+          "key": "B",
+          "text": "cutting off of"
+        },
+        {
+          "key": "C",
+          "text": "cut off"
+        },
+        {
+          "key": "D",
+          "text": "cutting off"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Preposition 'without' is followed by the '-ing' gerund form: 'cutting off'.",
+        "wrong_A": "'cut off to' is ungrammatical.",
+        "wrong_B": "'cutting off of' adds an unnecessary preposition.",
+        "wrong_C": "Base form 'cut off' cannot follow preposition 'without'."
+      },
+      "cz_learning_point": "Po předložkách (jako 'without') následuje v angličtině sloveso s koncovkou -ing: 'without cutting off engine torque'.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-002-Q8",
+      "prompt": "The sports sedan utilizes a multi-link rear suspension, _____ geometry maintains optimal tire contact patches under hard braking.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "where"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Possessive relative pronoun 'whose' correctly links the antecedent 'suspension' with its attribute 'geometry'.",
+        "wrong_B": "'which' cannot express possession without 'of'.",
+        "wrong_C": "'that' cannot be used in non-defining relative clauses set off by commas.",
+        "wrong_D": "'where' refers to physical places."
+      },
+      "cz_learning_point": "Přivlastňovací vztažné zájmeno 'whose' (jehož geometrie) vyjadřuje přivlastňovací vztah i u technických mechanismů a podvozků.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-002-Q9",
+      "prompt": "Given the sharp metallic whistle from the engine bay accompanied by black exhaust smoke, the turbocharger turbine wheel _____ damaged.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be"
+        },
+        {
+          "key": "B",
+          "text": "can to be"
+        },
+        {
+          "key": "C",
+          "text": "must be"
+        },
+        {
+          "key": "D",
+          "text": "is must"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Must be' expresses logical deduction based on audible and visual mechanical symptoms.",
+        "wrong_A": "'must to be' is ungrammatical; modals never take 'to'.",
+        "wrong_B": "'can to be' is ungrammatical in English.",
+        "wrong_D": "'is must' is invalid syntax."
+      },
+      "cz_learning_point": "Logická dedukce (určitě je / musí být poškozeno): 'must be damaged'. Způsobová slovesa nepřibírají předložku 'to'.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-002-Q10",
+      "prompt": "The vehicle cannot harness maximum regenerative braking efficiency _____ battery cell state-of-charge is below 90%.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if"
+        },
+        {
+          "key": "B",
+          "text": "unless"
+        },
+        {
+          "key": "C",
+          "text": "provided that"
+        },
+        {
+          "key": "D",
+          "text": "as long as"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Unless' expresses 'except if' or 'if not', stating the physical battery prerequisite for regeneration.",
+        "wrong_A": "'if' produces an illogical statement (cannot harness IF below 90%).",
+        "wrong_C": "'provided that' creates an illogical positive condition.",
+        "wrong_D": "'as long as' also creates an illogical condition."
+      },
+      "cz_learning_point": "'Unless' = pokud ne (if not). Po 'unless' už v angličtině nenásleduje další zápor: 'unless battery charge is below 90%'.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    }
+  ]
+}

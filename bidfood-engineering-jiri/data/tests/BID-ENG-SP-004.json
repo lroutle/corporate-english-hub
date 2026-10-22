@@ -1,0 +1,327 @@
+{
+  "test_id": "BID-ENG-SP-004",
+  "title": "Automotive Aerodynamics, Direct-Shift Gearboxes (DSG) & Internal Combustion Optimization",
+  "level": "B2",
+  "category": "specialized",
+  "workplace_track": "Automotive Technology & Car Engineering",
+  "estimated_time_minutes": 15,
+  "description": "Advanced powertrain and chassis engineering module examining aerodynamic drag coefficients (Cd), dual-clutch transmission electro-hydraulics, and variable valve timing.",
+  "grammar_focus": "Inverted Conditionals & Engineering Rigor",
+  "learning_objectives": [
+    "Master advanced powertrain terminology (dual-mass flywheel, mechatronics valve body, variable valve timing VVT, Atkinson cycle, ground-effect diffuser)",
+    "Apply inverted conditionals and complex passive reporting in automotive mechanical failure analysis",
+    "Demonstrate fluency when drafting dynamometer reports and aerodynamic test evaluations"
+  ],
+  "questions": [
+    {
+      "id": "BID-ENG-SP-004-Q1",
+      "prompt": "_____ automotive aerodynamicists not designed an active underbody venturi tunnel, high-speed aerodynamic downforce would have collapsed.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If"
+        },
+        {
+          "key": "B",
+          "text": "Had"
+        },
+        {
+          "key": "C",
+          "text": "Were"
+        },
+        {
+          "key": "D",
+          "text": "Should"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Inverted Third Conditional 'Had aerodynamicists not designed...' correctly expresses a past counterfactual premise without 'if'.",
+        "wrong_A": "'If' requires the auxiliary 'had' after the subject.",
+        "wrong_C": "'Were' forms a Second Conditional, incompatible with past 'would have collapsed'.",
+        "wrong_D": "'Should' expresses tentative future conditions."
+      },
+      "cz_learning_point": "Inverze 3. kondicionálu v automobilovém vývoji: 'Had aerodynamicists not designed...' = 'Kdyby aerodynamici nenavrhli...'. Do podmínky nepatří 'if'.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-004-Q2",
+      "prompt": "Rarely _____ a dual-mass flywheel suffer torsional spring failure unless the engine operates with persistent cylinder misfiring.",
+      "options": [
+        {
+          "key": "A",
+          "text": "does"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "will"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Negative adverb 'Rarely' triggers subject-auxiliary inversion with Present Simple auxiliary 'does': 'Rarely does a dual-mass flywheel suffer...'.",
+        "wrong_B": "'is' cannot serve as auxiliary for base verb 'suffer'.",
+        "wrong_C": "'will' changes the sentence to predictive future rather than engineering fact.",
+        "wrong_D": "'has' would require past participle 'suffered'."
+      },
+      "cz_learning_point": "Záporné příslovce 'Rarely' na začátku věty vyžaduje inverzi pomocného slovesa 'does' a podmětu: 'Rarely does a flywheel suffer...'.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-004-Q3",
+      "prompt": "If the calibration engineer had mapped the variable valve timing (VVT) solenoid correctly last week, the engine _____ rough idle oscillations today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not be exhibiting"
+        },
+        {
+          "key": "B",
+          "text": "would not have exhibited"
+        },
+        {
+          "key": "C",
+          "text": "will not exhibit"
+        },
+        {
+          "key": "D",
+          "text": "does not exhibit"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mixed conditional: past cause ('had mapped') with present ongoing result ('today') takes 'would not be exhibiting'.",
+        "wrong_B": "'would not have exhibited' refers purely to past result, but adverbial 'today' anchors consequence to the present.",
+        "wrong_C": "'will not exhibit' is First Conditional, incompatible with past counterfactual condition.",
+        "wrong_D": "Simple present indicative 'does not exhibit' cannot express hypothetical consequence."
+      },
+      "cz_learning_point": "Smíšený kondicionál: minulá příčina spojená s přítomným následkem: 'If he had mapped [minulost], it would not be exhibiting [dnes]'.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-004-Q4",
+      "prompt": "Automotive emissions homologation regulations mandate that every direct-injection engine _____ strict particulate filter regeneration limits.",
+      "options": [
+        {
+          "key": "A",
+          "text": "satisfies"
+        },
+        {
+          "key": "B",
+          "text": "will satisfy"
+        },
+        {
+          "key": "C",
+          "text": "must to satisfy"
+        },
+        {
+          "key": "D",
+          "text": "satisfy"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Mandative subjunctive after 'mandate that' requires base form 'satisfy' regardless of 3rd person singular subject.",
+        "wrong_A": "Indicative 'satisfies' with 3rd person -s violates mandative subjunctive syntax.",
+        "wrong_B": "Future 'will satisfy' is incorrect after mandative 'mandate that'.",
+        "wrong_C": "'must to' is ungrammatical."
+      },
+      "cz_learning_point": "Subjunktiv po slovesech předpisů (mandate that every engine satisfy): sloveso zůstává v základním tvaru bez -s.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-004-Q5",
+      "prompt": "_____ the dynamic cylinder pressure curves on the test dyno, powertrain specialists adjusted spark timing to prevent pre-ignition.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Analyze"
+        },
+        {
+          "key": "B",
+          "text": "Analyzed"
+        },
+        {
+          "key": "C",
+          "text": "Having analyzed"
+        },
+        {
+          "key": "D",
+          "text": "Being analyzed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Perfect active participle 'Having analyzed' correctly expresses prior engineering analysis leading to subsequent calibration.",
+        "wrong_A": "Base verb 'Analyze' cannot function as introductory participle.",
+        "wrong_B": "Past form 'Analyzed' without auxiliary is passive, but specialists actively analyzed the curves.",
+        "wrong_D": "'Being analyzed' expresses continuous passive present, not prior completion."
+      },
+      "cz_learning_point": "Předpřítomné participium (Having analyzed = poté, co analyzovali...) vyjadřuje děj, který předcházel hlavní větě.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-004-Q6",
+      "prompt": "_____ active aerodynamic grille shutters reduce vehicle drag by 6%, cooling demands override aerodynamic efficiency under extreme track loads.",
+      "options": [
+        {
+          "key": "A",
+          "text": "In spite of"
+        },
+        {
+          "key": "B",
+          "text": "Although"
+        },
+        {
+          "key": "C",
+          "text": "Notwithstanding"
+        },
+        {
+          "key": "D",
+          "text": "Despite"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Although' is a conjunction followed by a full clause with subject and verb ('active aerodynamic grille shutters reduce...').",
+        "wrong_A": "'In spite of' is a preposition and must be followed by a noun phrase or gerund.",
+        "wrong_C": "'Notwithstanding' is followed by a noun phrase.",
+        "wrong_D": "'Despite' is a preposition and cannot be followed directly by a finite clause."
+      },
+      "cz_learning_point": "Spojka 'Although' (ačkoli) se pojí s celou větou s podmětem a slovesem, zatímco předložky jako 'Despite' a 'In spite of' vyžadují podstatné jméno.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-004-Q7",
+      "prompt": "Direct gasoline fuel injection at 350 bar pressure is confirmed _____ fuel atomization and thermal efficiency across all RPM ranges.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to improve"
+        },
+        {
+          "key": "B",
+          "text": "improving"
+        },
+        {
+          "key": "C",
+          "text": "to have been improved"
+        },
+        {
+          "key": "D",
+          "text": "to have improved"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Perfect active infinitive 'to have improved' correctly attributes an established technological advance to high-pressure injection.",
+        "wrong_A": "Present infinitive 'to improve' implies ongoing or future improvement rather than proven technological fact.",
+        "wrong_B": "Participle 'improving' cannot follow passive reporting verb 'is confirmed'.",
+        "wrong_C": "Passive 'to have been improved' incorrectly treats high-pressure injection as the object rather than the improving cause."
+      },
+      "cz_learning_point": "Vazba 'is confirmed to have improved' (je potvrzeno, že zlepšilo) vyjadřuje minulý děj pomocí minulého infinitivu.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-004-Q8",
+      "prompt": "Only after running smoke-stream visualization in the full-scale wind tunnel _____ the parasitic turbulent vortex behind the rear spoiler.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did the aerodynamicists detect"
+        },
+        {
+          "key": "B",
+          "text": "the aerodynamicists detected"
+        },
+        {
+          "key": "C",
+          "text": "detected the aerodynamicists"
+        },
+        {
+          "key": "D",
+          "text": "have the aerodynamicists detected"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Limiting introductory phrase 'Only after...' triggers subject-auxiliary inversion with Past Simple: 'did the aerodynamicists detect'.",
+        "wrong_B": "'the aerodynamicists detected' lacks required subject-auxiliary inversion.",
+        "wrong_C": "'detected the aerodynamicists' is archaic full inversion without auxiliary 'did'.",
+        "wrong_D": "Present perfect conflicts with completed past wind-tunnel testing."
+      },
+      "cz_learning_point": "Zdůrazňující úvodní vazba 'Only after...' vyžaduje inverzní slovosled: 'Only after running visualization did engineers detect...'.",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-004-Q9",
+      "prompt": "The electro-hydraulic mechatronic unit of the dual-clutch gearbox _____ overheated unless the transmission cooler was completely clogged.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not have"
+        },
+        {
+          "key": "B",
+          "text": "should not have"
+        },
+        {
+          "key": "C",
+          "text": "cannot possibly have"
+        },
+        {
+          "key": "D",
+          "text": "may not have"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Cannot possibly have' expresses conclusive deduction of impossibility regarding a past mechanical event.",
+        "wrong_A": "'must not have' expresses negative deduction without impossibility nuance.",
+        "wrong_B": "'should not have' expresses unmet expectation or advice.",
+        "wrong_D": "'may not have' expresses mere uncertainty."
+      },
+      "cz_learning_point": "Vyjádření naprosté nemožnosti v minulosti: 'cannot possibly have overheated' (rozhodně se nemohla přehřát, ledaže by chladič byl zcela ucpaný).",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    },
+    {
+      "id": "BID-ENG-SP-004-Q10",
+      "prompt": "Track-focused performance sports cars utilize a dry-sump lubrication system, by virtue of _____ centrifugal oil starvation is prevented in high-G turns.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Formal prepositional relative phrase 'by virtue of which' strictly takes 'which' when modifying an engineering system.",
+        "wrong_A": "'that' cannot follow a preposition in formal relative clauses.",
+        "wrong_C": "'whose' expresses possession.",
+        "wrong_D": "'whom' refers only to persons."
+      },
+      "cz_learning_point": "Po formálních předložkových vazbách v rozvitých vztažných větách se používá výhradně 'which': 'by virtue of which' (na základě čehož / čímž).",
+      "workplace_track": "Automotive Technology & Car Engineering"
+    }
+  ]
+}

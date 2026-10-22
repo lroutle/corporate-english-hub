@@ -1,0 +1,327 @@
+{
+  "test_id": "BID-PUR-SP-002",
+  "title": "Football Tactics, Premier League Match Analysis & Transfer Market Sourcing",
+  "level": "B1",
+  "category": "specialized",
+  "workplace_track": "Sports & Leisure: Football & Match Analysis",
+  "estimated_time_minutes": 15,
+  "description": "Specialized football English module covering tactical formations, high pressing, VAR offside decisions, and transfer market negotiations.",
+  "grammar_focus": "Past Continuous vs Past Simple in Match Commentary",
+  "learning_objectives": [
+    "Master modern football tactical terms (high press, low block, expected goals xG, overlapping full-backs, VAR)",
+    "Apply narrative past tenses (Past Continuous vs Past Simple) in match reporting and commentary",
+    "Eliminate Czech interference errors in sports transfer negotiations and match disputes"
+  ],
+  "questions": [
+    {
+      "id": "BID-PUR-SP-002-Q1",
+      "prompt": "Modern tactical systems require that modern attacking full-backs _____ upfield to provide width in the final third.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to overlap"
+        },
+        {
+          "key": "B",
+          "text": "must overlap"
+        },
+        {
+          "key": "C",
+          "text": "must overlapping"
+        },
+        {
+          "key": "D",
+          "text": "are must overlap"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Modal 'must' is followed by the bare infinitive 'overlap' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modals never take 'to'.",
+        "wrong_C": "'must' cannot take an '-ing' participle.",
+        "wrong_D": "'are must' is invalid verb phrasing."
+      },
+      "cz_learning_point": "Po způsobovém slovesu 'must' následuje základní tvar slovesa: 'must overlap' (nikdy *must to overlap*).",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-002-Q2",
+      "prompt": "If any part of the striker's upper body _____ ahead of the second-last defender, the VAR technology flags offside.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will be"
+        },
+        {
+          "key": "B",
+          "text": "would be"
+        },
+        {
+          "key": "C",
+          "text": "is"
+        },
+        {
+          "key": "D",
+          "text": "was"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause takes Present Simple ('is') for real operational match rules.",
+        "wrong_A": "Cannot use future modal 'will' inside an if-clause.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional.",
+        "wrong_D": "Past tense 'was' would conflict with present indicative 'flags'."
+      },
+      "cz_learning_point": "V podmínkových větách po 'if' se nesmí použít 'will' (*If the body will be*). Použijte přítomný čas: 'If the body is'.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-002-Q3",
+      "prompt": "The goalkeeper made a stunning fingertip save _____ the defense was scrambling to clear the rebound.",
+      "options": [
+        {
+          "key": "A",
+          "text": "while"
+        },
+        {
+          "key": "B",
+          "text": "during"
+        },
+        {
+          "key": "C",
+          "text": "for"
+        },
+        {
+          "key": "D",
+          "text": "since"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'While' is a conjunction followed by a full continuous clause ('the defense was scrambling').",
+        "wrong_B": "'During' is a preposition and must be followed by a noun phrase, not a clause with a verb.",
+        "wrong_C": "'For' expresses duration of time.",
+        "wrong_D": "'Since' denotes elapsed time from a starting point or causation."
+      },
+      "cz_learning_point": "Spojka 'while' se pojí s celou větou se slovesem (while the defense was scrambling), zatímco 'during' pouze s podstatným jménem.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-002-Q4",
+      "prompt": "According to the player's contract, the €60m buyout clause _____ only during the summer transfer window.",
+      "options": [
+        {
+          "key": "A",
+          "text": "can activate"
+        },
+        {
+          "key": "B",
+          "text": "can to be activated"
+        },
+        {
+          "key": "C",
+          "text": "is can activated"
+        },
+        {
+          "key": "D",
+          "text": "can be activated"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Passive with modal 'can be activated' correctly describes how the buyout clause is triggered.",
+        "wrong_A": "Active 'can activate' is wrong; a clause does not activate itself.",
+        "wrong_B": "'can to be' is ungrammatical; modal 'can' does not take 'to'.",
+        "wrong_C": "'is can' is invalid English syntax."
+      },
+      "cz_learning_point": "Trpný rod se způsobovým slovesem: 'can be activated' (může být aktivována). Doložka se sama neaktivuje.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-002-Q5",
+      "prompt": "Arsenal _____ the opponent in their own penalty box when the decisive counter-attack suddenly developed.",
+      "options": [
+        {
+          "key": "A",
+          "text": "pressed"
+        },
+        {
+          "key": "B",
+          "text": "presses"
+        },
+        {
+          "key": "C",
+          "text": "were pressing"
+        },
+        {
+          "key": "D",
+          "text": "have pressed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Continuous ('were pressing') describes the ongoing background action interrupted by 'developed'.",
+        "wrong_A": "Past Simple describes single finished events rather than continuous background actions.",
+        "wrong_B": "Present Simple is incorrect in a past narrative.",
+        "wrong_D": "Present Perfect cannot connect to past 'developed'."
+      },
+      "cz_learning_point": "Minulý průběhový čas (Past Continuous: 'were pressing') vyjadřuje probíhající děj v minulosti, do kterého vstoupil jiný jednorázový děj.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-002-Q6",
+      "prompt": "The head coach substituted two central midfielders _____ the team could maintain their high pressing intensity.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order"
+        },
+        {
+          "key": "B",
+          "text": "so that"
+        },
+        {
+          "key": "C",
+          "text": "because of"
+        },
+        {
+          "key": "D",
+          "text": "for to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'So that' is a conjunction of purpose followed by a subject and modal verb clause ('the team could maintain').",
+        "wrong_A": "'in order' requires 'to' + infinitive or 'that' + clause.",
+        "wrong_C": "'because of' is followed by a noun phrase, not a clause with a finite verb.",
+        "wrong_D": "'for to' is ungrammatical."
+      },
+      "cz_learning_point": "Účelová spojka 'so that' = aby (následovaná podmětem a způsobovým slovesem: 'so that the team could maintain').",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-002-Q7",
+      "prompt": "The aggressive pressing forwards forced the opposing center-back to _____ possession in a dangerous area.",
+      "options": [
+        {
+          "key": "A",
+          "text": "give away to"
+        },
+        {
+          "key": "B",
+          "text": "giving away"
+        },
+        {
+          "key": "C",
+          "text": "gave away"
+        },
+        {
+          "key": "D",
+          "text": "give away"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Verb structure 'force someone to do something' takes the infinitive with 'to' followed by base verb 'give away'.",
+        "wrong_A": "'give away to' is redundant and ungrammatical.",
+        "wrong_B": "Participle 'giving away' is incorrect after 'to'.",
+        "wrong_C": "Past tense 'gave away' cannot follow infinitive 'to'."
+      },
+      "cz_learning_point": "Vazba 'force somebody to do something': 'forced the center-back to give away possession' (ztratit míč / odevzdat míč).",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-002-Q8",
+      "prompt": "The winger missed a golden goalscoring opportunity _____ had an expected goals (xG) rating of 0.88.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "whose"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Relative pronoun 'which' correctly refers back to the antecedent inanimate noun 'opportunity'.",
+        "wrong_B": "'whose' expresses possession.",
+        "wrong_C": "'what' cannot act as a relative pronoun with an explicit antecedent.",
+        "wrong_D": "'whom' refers only to persons in object position."
+      },
+      "cz_learning_point": "Vztažné zájmeno pro věci a situace je 'which' (která měla hodnotu xG 0,88), nikoli *what*.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-002-Q9",
+      "prompt": "Judging by the defender's clear handball inside the box, the referee's decision _____ a penalty kick.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to be"
+        },
+        {
+          "key": "B",
+          "text": "can to be"
+        },
+        {
+          "key": "C",
+          "text": "must be"
+        },
+        {
+          "key": "D",
+          "text": "is must"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Must be' expresses logical deduction based on clear video and visual evidence.",
+        "wrong_A": "'must to be' is ungrammatical; modals never take 'to'.",
+        "wrong_B": "'can to be' is ungrammatical in English.",
+        "wrong_D": "'is must' is invalid syntax."
+      },
+      "cz_learning_point": "Vyjádření jistoty a logické dedukce: 'must be a penalty' (určitě to musí být penalta). Nikdy *must to be*.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    },
+    {
+      "id": "BID-PUR-SP-002-Q10",
+      "prompt": "The squad will not qualify for the knockout stage _____ they secure a victory in the final group fixture.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if"
+        },
+        {
+          "key": "B",
+          "text": "unless"
+        },
+        {
+          "key": "C",
+          "text": "provided that"
+        },
+        {
+          "key": "D",
+          "text": "as long as"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Unless' expresses 'except if' or 'if not', stating the mandatory condition for qualification.",
+        "wrong_A": "'if' produces an illogical statement (will not qualify IF they win).",
+        "wrong_C": "'provided that' creates an illogical positive condition.",
+        "wrong_D": "'as long as' also creates an illogical condition."
+      },
+      "cz_learning_point": "'Unless' = pokud ne (if not). Po 'unless' už v angličtině nenásleduje další zápor: 'unless they secure a victory'.",
+      "workplace_track": "Sports & Leisure: Football & Match Analysis"
+    }
+  ]
+}

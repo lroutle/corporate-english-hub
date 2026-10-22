@@ -71,12 +71,14 @@
   <div class="main-layout">
     <section class="hero-banner">
       <h1>Bidfood Process Engineering Assessment Hub — Jiří Lorenčík</h1>
-      <p>Dedicated assessment portal for Ing. Jiří Lorenčík (Plant Process Engineering & Automation) covering cold-chain logistics, international supplier communication, and GxP food industry standards.</p>
+      <p>Dedicated assessment portal for Ing. Jiří Lorenčík (Plant Process Engineering & Automation) covering food plant engineering and ammonia refrigeration, plus dedicated specialized modules on Artificial Intelligence & Industrial Machine Learning, Turbocharging, and Automotive Engineering.</p>
       <div class="hero-stats-grid">
         <div class="hero-stat-card"><div class="hero-stat-number" id="stat-total-modules">0</div><div class="hero-stat-label">Total Modules</div></div>
         <div class="hero-stat-card"><div class="hero-stat-number" id="stat-a2-modules">0</div><div class="hero-stat-label">A2 Foundation Tier</div></div>
         <div class="hero-stat-card"><div class="hero-stat-number" id="stat-b1-b2-modules">0</div><div class="hero-stat-label">B1 & B2 Core</div></div>
         <div class="hero-stat-card"><div class="hero-stat-number" id="stat-c1-modules">0</div><div class="hero-stat-label">C1 Advanced Tier</div></div>
+        <div class="hero-stat-card"><div class="hero-stat-number" id="stat-sp-modules">0</div><div class="hero-stat-label">AI & Car Tech</div></div>
+        <div class="hero-stat-card"><div class="hero-stat-number" id="stat-sp-modules">0</div><div class="hero-stat-label">AI & Car Tech</div></div>
         <div class="hero-stat-card"><div class="hero-stat-number" id="stat-user-completed">0</div><div class="hero-stat-label">Completed by You</div></div>
       </div>
     </section>
@@ -98,6 +100,7 @@
         <button class="filter-chip" data-filter-type="level" data-filter-val="B1">Tier 1: B1 Operational</button>
         <button class="filter-chip" data-filter-type="level" data-filter-val="B2">Tier 2: B2 Advanced</button>
         <button class="filter-chip" data-filter-type="level" data-filter-val="C1">Tier 3: C1 Advanced</button>
+        <button class="filter-chip" data-filter-type="level" data-filter-val="specialized">🤖 AI News & Car Topics (Specialized)</button>
       </div>
 
       <div class="filter-chips-row" id="track-chips-container">
@@ -150,6 +153,8 @@
       document.getElementById('stat-a2-modules').textContent = allModules.filter(m => m.level === 'A2').length;
       document.getElementById('stat-b1-b2-modules').textContent = allModules.filter(m => m.level === 'B1' || m.level === 'B2').length;
       document.getElementById('stat-c1-modules').textContent = allModules.filter(m => m.level === 'C1').length;
+      document.getElementById('stat-sp-modules').textContent = allModules.filter(m => m.category === 'specialized').length;
+      document.getElementById('stat-sp-modules').textContent = allModules.filter(m => m.category === 'specialized').length;
 
       let completed = 0;
       allModules.forEach(m => {
@@ -201,7 +206,10 @@
     function renderModules() {
       const grid = document.getElementById('modules-grid');
       const filtered = allModules.filter(m => {
-        if (currentLevelFilter !== 'all' && m.level !== currentLevelFilter) return false;
+        if (currentLevelFilter !== 'all') {
+          if (currentLevelFilter === 'specialized' && m.category !== 'specialized') return false;
+          if (currentLevelFilter !== 'specialized' && m.level !== currentLevelFilter) return false;
+        }
         if (currentTrackFilter !== 'all' && m.workplace_track !== currentTrackFilter) return false;
         if (searchQuery) {
           const corpus = `${m.test_id} ${m.title} ${m.description} ${m.grammar_focus || ''} ${m.workplace_track}`.toLowerCase();
