@@ -29,7 +29,8 @@ SUITES = [
     ("tapi-chemistry-mazur", "Tapi_Chemistry_Mazur_Suite"),
     ("bidfood-purchasing-libor", "Bidfood_Purchasing_Libor_Suite"),
     ("bidfood-purchasing-lucie", "Bidfood_Purchasing_Lucie_Suite"),
-    ("bidfood-engineering-jiri", "Bidfood_Engineering_Jiri_Suite")
+    ("bidfood-engineering-jiri", "Bidfood_Engineering_Jiri_Suite"),
+    ("alinvest-packaging-vojtech", "AL_INVEST_Packaging_Vojtech_Suite")
 ]
 
 STUDENT_README = """========================================================================

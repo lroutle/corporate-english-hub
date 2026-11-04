@@ -1,0 +1,327 @@
+{
+  "test_id": "AL-PKG-SP-002",
+  "title": "UEFA Champions League Officiating: VAR Protocols, Handballs & Offside Technology",
+  "level": "B2",
+  "category": "specialized",
+  "workplace_track": "World Sports: Match Officiating & VAR Technology",
+  "estimated_time_minutes": 15,
+  "description": "Advanced sports English module investigating VAR intervention thresholds, semi-automated offside technology (SAOT), unnatural silhouette handball rules, and on-field review (OFR) communication.",
+  "grammar_focus": "Past Modals of Deduction & Forensic Review",
+  "learning_objectives": [
+    "Master IFAB Laws of the Game terminology (clear and obvious error, on-field review, unnatural silhouette, subjective decision)",
+    "Apply past modals of deduction (must have, couldn't have, should have) to contentious refereeing replays",
+    "Demonstrate precision in forensic video review dialogue and match official protocols"
+  ],
+  "questions": [
+    {
+      "id": "AL-PKG-SP-002-Q1",
+      "prompt": "The VAR room _____ intervened on the soft penalty call because the on-field decision did not constitute a 'clear and obvious error'.",
+      "options": [
+        {
+          "key": "A",
+          "text": "couldn't have"
+        },
+        {
+          "key": "B",
+          "text": "must not to have"
+        },
+        {
+          "key": "C",
+          "text": "shouldn't of"
+        },
+        {
+          "key": "D",
+          "text": "might not have to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Negative past modal 'couldn't have' correctly expresses lack of regulatory authority under strict IFAB protocol.",
+        "wrong_B": "'must not to have' is ungrammatical syntax.",
+        "wrong_C": "'shouldn't of' is a common colloquial spelling mistake for 'shouldn't have'.",
+        "wrong_D": "'might not have to' distorts the meaning of retrospective protocol compliance."
+      },
+      "cz_learning_point": "Pro vyjádření nemožnosti nebo nepřípustnosti v minulosti použijte 'couldn't have + příčestí': 'couldn't have intervened'.",
+      "workplace_track": "World Sports: Match Officiating & VAR Technology"
+    },
+    {
+      "id": "AL-PKG-SP-002-Q2",
+      "prompt": "If the defender _____ his arm tucked firmly against his torso, the referee would not have penalized him for handball.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had kept"
+        },
+        {
+          "key": "B",
+          "text": "would have kept"
+        },
+        {
+          "key": "C",
+          "text": "kept"
+        },
+        {
+          "key": "D",
+          "text": "has kept"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Third conditional requires Past Perfect ('had kept') in the if-clause to discuss an unreal past incident.",
+        "wrong_B": "Cannot use 'would have' inside the condition if-clause.",
+        "wrong_C": "Past Simple 'kept' forms a Second Conditional, which mismatches past result 'would not have penalized'.",
+        "wrong_D": "Present Perfect 'has kept' cannot be used in counterfactual past conditions."
+      },
+      "cz_learning_point": "Třetí kondicionál (minulá nereálná situace) vyžaduje v 'if' větě předminulý čas: 'If the defender had kept... he would not have...'.",
+      "workplace_track": "World Sports: Match Officiating & VAR Technology"
+    },
+    {
+      "id": "AL-PKG-SP-002-Q3",
+      "prompt": "It _____ by UEFA officiating directors that semi-automated offside technology virtually eliminates human optical error.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is widely acknowledged"
+        },
+        {
+          "key": "B",
+          "text": "widely acknowledges"
+        },
+        {
+          "key": "C",
+          "text": "is widely acknowledging"
+        },
+        {
+          "key": "D",
+          "text": "has widely acknowledge"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Passive reporting structure 'It is widely acknowledged that...' establishes authoritative executive consensus.",
+        "wrong_B": "Active voice lacks a human subject.",
+        "wrong_C": "Continuous form fails to express an established institutional stance.",
+        "wrong_D": "'has widely acknowledge' lacks past participle '-ed'."
+      },
+      "cz_learning_point": "Formální pasivní vazba 'It is widely acknowledged that...' (Všeobecně se uznává, že...) je typická pro oficiální protokoly.",
+      "workplace_track": "World Sports: Match Officiating & VAR Technology"
+    },
+    {
+      "id": "AL-PKG-SP-002-Q4",
+      "prompt": "Under IFAB regulations, the match referee _____ carry out an on-field review (OFR) for any subjective red-card incident.",
+      "options": [
+        {
+          "key": "A",
+          "text": "shall"
+        },
+        {
+          "key": "B",
+          "text": "might"
+        },
+        {
+          "key": "C",
+          "text": "ought"
+        },
+        {
+          "key": "D",
+          "text": "is able to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Deontic modal 'shall' denotes mandatory regulatory obligation in official sports governing rules.",
+        "wrong_B": "'might' denotes weak possibility rather than mandatory directive.",
+        "wrong_C": "'ought' requires 'to' ('ought to') and conveys moral recommendation rather than strict statute.",
+        "wrong_D": "'is able to' denotes physical capability, not legal obligation."
+      },
+      "cz_learning_point": "V oficiálních pravidlech IFAB a předpisech UEFA vyjadřuje závaznou povinnost právní způsobové sloveso 'shall' (musí / je povinen).",
+      "workplace_track": "World Sports: Match Officiating & VAR Technology"
+    },
+    {
+      "id": "AL-PKG-SP-002-Q5",
+      "prompt": "Rarely _____ a referee overturn an on-field offside ruling without consulting the synchronized calibrated crosshair freeze-frame.",
+      "options": [
+        {
+          "key": "A",
+          "text": "does"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "will"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Inversion after negative adverbial 'Rarely' requires auxiliary 'does' before subject 'a referee'.",
+        "wrong_B": "'is' cannot invert with dynamic bare verb 'overturn'.",
+        "wrong_C": "'will' creates an unnatural predictive statement rather than habitual officiating standard.",
+        "wrong_D": "'has' requires past participle 'overturned'."
+      },
+      "cz_learning_point": "Po záporných a omezujících příslovcích na začátku věty (Rarely, Seldom, Never) dochází k inverzi (pomocné sloveso + podmět): 'Rarely does a referee overturn...'.",
+      "workplace_track": "World Sports: Match Officiating & VAR Technology"
+    },
+    {
+      "id": "AL-PKG-SP-002-Q6",
+      "prompt": "If the attacker _____ offside during the early phase of the build-up, the winning goal would stand on the scoreboard right now.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had not strayed"
+        },
+        {
+          "key": "B",
+          "text": "did not stray"
+        },
+        {
+          "key": "C",
+          "text": "would not stray"
+        },
+        {
+          "key": "D",
+          "text": "has not strayed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mixed conditional requires Past Perfect ('had not strayed') in the if-clause with present result ('would stand right now').",
+        "wrong_B": "'did not stray' is Simple Past, failing to denote past completion before present match outcome.",
+        "wrong_C": "Cannot place 'would' inside an if-clause.",
+        "wrong_D": "Present Perfect cannot express counterfactual past hypotheses."
+      },
+      "cz_learning_point": "Smíšený kondicionál (minulá akce s následkem v přítomnosti) vyžaduje v 'if' větě předminulý čas: 'If the attacker had not strayed... the goal would stand now'.",
+      "workplace_track": "World Sports: Match Officiating & VAR Technology"
+    },
+    {
+      "id": "AL-PKG-SP-002-Q7",
+      "prompt": "The UEFA Chief of Refereeing recommended that referees _____ yellow cards immediately to players demonstrating excessive dissent.",
+      "options": [
+        {
+          "key": "A",
+          "text": "issue"
+        },
+        {
+          "key": "B",
+          "text": "issued"
+        },
+        {
+          "key": "C",
+          "text": "will issue"
+        },
+        {
+          "key": "D",
+          "text": "are issuing"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Subjunctive mood after verbs of recommendation ('recommended that referees issue') takes the base form.",
+        "wrong_B": "Indicative past 'issued' is informal in formal regulatory mandates.",
+        "wrong_C": "'will issue' is incorrect in formal subjunctive clauses.",
+        "wrong_D": "Continuous 'are issuing' violates formal directive syntax."
+      },
+      "cz_learning_point": "Po slovesech doporučení a nařízení (recommend, demand, require that) se ve formální angličtině používá konjunktiv (base form): 'recommended that referees issue'.",
+      "workplace_track": "World Sports: Match Officiating & VAR Technology"
+    },
+    {
+      "id": "AL-PKG-SP-002-Q8",
+      "prompt": "It was the defender's unnatural body silhouette _____ convinced the match official to award the stoppage-time spot kick.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "what"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "which that"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Cleft sentence structure 'It was [X] that [verb]' emphasizes the decisive factor.",
+        "wrong_B": "'what' is a common Czenglish error (*It was X what convinced*).",
+        "wrong_C": "'whose' is possessive and cannot link a nominal clause here.",
+        "wrong_D": "'which that' is redundant and ungrammatical."
+      },
+      "cz_learning_point": "Vytýkací věta (cleft sentence) pro zdůraznění příčiny vyžaduje vazbu 'It was [something] that...': 'It was the silhouette that convinced the official' (nikoli *what*).",
+      "workplace_track": "World Sports: Match Officiating & VAR Technology"
+    },
+    {
+      "id": "AL-PKG-SP-002-Q9",
+      "prompt": "_____ the multi-angle synchronized ultra-slow-motion footage, the lead official signaled for an offside restart.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Having reviewed"
+        },
+        {
+          "key": "B",
+          "text": "Reviewed"
+        },
+        {
+          "key": "C",
+          "text": "Reviewing of"
+        },
+        {
+          "key": "D",
+          "text": "After to review"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Perfect participle clause 'Having reviewed' concisely indicates that the video assessment was completed before the whistle.",
+        "wrong_B": "Past participle 'Reviewed' would make the official the recipient of the review.",
+        "wrong_C": "'Reviewing of' is ungrammatical syntax.",
+        "wrong_D": "'After to review' is completely incorrect phrasing."
+      },
+      "cz_learning_point": "Minulé příčestí (perfect participle) 'Having reviewed...' (Poté, co přezkoumal záznam...) vyjadřuje ukončený předcházející děj.",
+      "workplace_track": "World Sports: Match Officiating & VAR Technology"
+    },
+    {
+      "id": "AL-PKG-SP-002-Q10",
+      "prompt": "The disciplinary committee sanctioned the manager _____ accordance with Law 5 of the IFAB regulations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "under of"
+        },
+        {
+          "key": "D",
+          "text": "with to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Fixed prepositional phrase is 'in accordance with' (v souladu s).",
+        "wrong_B": "'on accordance' is an incorrect preposition.",
+        "wrong_C": "'under of' is an invalid hybrid preposition.",
+        "wrong_D": "'with to' is completely ungrammatical."
+      },
+      "cz_learning_point": "Ustálená formální právní předložková vazba je 'in accordance with' (v souladu s pravidly).",
+      "workplace_track": "World Sports: Match Officiating & VAR Technology"
+    }
+  ]
+}

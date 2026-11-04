@@ -1,0 +1,328 @@
+{
+  "test_id": "AL-PKG-SP-001",
+  "title": "Modern Football Tactics: High Pressing Structures, Counter-Pressing & Rest Defense",
+  "level": "B1",
+  "category": "specialized",
+  "workplace_track": "World Sports: Professional Football Tactics",
+  "estimated_time_minutes": 15,
+  "description": "Specialized sports English module analyzing high-pressing triggers, aggressive counter-pressing traps, rest defense structures, and transitional play.",
+  "grammar_focus": "Conditionals & Tactical Modals",
+  "learning_objectives": [
+    "Master advanced football coaching and tactical terminology (pressing triggers, compact block, half-spaces, rest defense, transition)",
+    "Apply conditional structures and modal verbs to real match-play decisions and tactical instructions",
+    "Eliminate Czech interference errors when discussing game phases, match statistics, and tactical adjustments"
+  ],
+  "questions": [
+    {
+      "id": "AL-PKG-SP-001-Q1",
+      "prompt": "When the opposing goalkeeper plays a short pass to the centre-back, our front line _____ the ball carrier immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must to press"
+        },
+        {
+          "key": "B",
+          "text": "must press"
+        },
+        {
+          "key": "C",
+          "text": "is must press"
+        },
+        {
+          "key": "D",
+          "text": "must pressing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Modal verb 'must' is followed directly by the bare infinitive 'press' without 'to'.",
+        "wrong_A": "'must to' is ungrammatical; modal verbs never take 'to'.",
+        "wrong_C": "'is must' is completely invalid English syntax.",
+        "wrong_D": "'must' cannot take a present participle with '-ing'."
+      },
+      "cz_learning_point": "Po způsoboém slovesu 'must' následuje vždy holý infinitiv bez 'to': 'must press' (nikoli *must to press*).",
+      "workplace_track": "World Sports: Professional Football Tactics"
+    },
+    {
+      "id": "AL-PKG-SP-001-Q2",
+      "prompt": "If the opposing full-back _____ backwards towards his goalkeeper, our wingers will step up and initiate the pressing trap.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will pass"
+        },
+        {
+          "key": "B",
+          "text": "passes"
+        },
+        {
+          "key": "C",
+          "text": "would pass"
+        },
+        {
+          "key": "D",
+          "text": "passed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('passes') to describe a realistic tactical trigger.",
+        "wrong_A": "Cannot use future modal 'will' inside an if-clause in standard English.",
+        "wrong_B": "'would pass' forms an unreal conditional, which does not match future 'will step up'.",
+        "wrong_D": "Past tense 'passed' requires 'would' in the main clause (Second Conditional).",
+        "wrong_C": "Option C is incorrect in this technical context."
+      },
+      "cz_learning_point": "V podmínkové větě po 'if' se nesmí použít 'will' (*If the full-back will pass*). Správně je přítomný čas: 'If the full-back passes'.",
+      "workplace_track": "World Sports: Professional Football Tactics"
+    },
+    {
+      "id": "AL-PKG-SP-001-Q3",
+      "prompt": "If our defenders _____ deeper into a compact low block, the opponent would find it much harder to exploit spaces behind.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sat"
+        },
+        {
+          "key": "B",
+          "text": "sit"
+        },
+        {
+          "key": "C",
+          "text": "will sit"
+        },
+        {
+          "key": "D",
+          "text": "have sat"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Second conditional requires Past Simple ('sat') to match hypothetical 'would find' in the main clause.",
+        "wrong_B": "'sit' is Present Simple and would require 'will find' in the result clause.",
+        "wrong_C": "Cannot use 'will sit' inside an if-clause.",
+        "wrong_D": "'have sat' creates a mismatched tense with conditional 'would find'."
+      },
+      "cz_learning_point": "Druhý kondicionál (hypotéza v přítomnosti) vyžaduje v 'if' větě minulý čas prostý: 'If our defenders sat... they would find...'.",
+      "workplace_track": "World Sports: Professional Football Tactics"
+    },
+    {
+      "id": "AL-PKG-SP-001-Q4",
+      "prompt": "During the second half, the central midfield pairing _____ laterally across the pitch to close down passing lanes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is shifting"
+        },
+        {
+          "key": "B",
+          "text": "are shift"
+        },
+        {
+          "key": "C",
+          "text": "is shift"
+        },
+        {
+          "key": "D",
+          "text": "shifting"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Present Continuous 'is shifting' correctly describes an active, ongoing tactical movement during the match.",
+        "wrong_B": "'are shift' is ungrammatical; continuous tense requires '-ing'.",
+        "wrong_C": "'is shift' lacks the participle ending.",
+        "wrong_D": "Participle 'shifting' alone cannot act as a complete predicate without auxiliary 'is'."
+      },
+      "cz_learning_point": "Průběhový přítomný čas vyžaduje pomocné sloveso 'is/are' + tvar na -ing: 'is shifting laterally'.",
+      "workplace_track": "World Sports: Professional Football Tactics"
+    },
+    {
+      "id": "AL-PKG-SP-001-Q5",
+      "prompt": "The attacking playmaker made a sharp diagonal run _____ the half-space to receive the through ball.",
+      "options": [
+        {
+          "key": "A",
+          "text": "into"
+        },
+        {
+          "key": "B",
+          "text": "in to"
+        },
+        {
+          "key": "C",
+          "text": "onto of"
+        },
+        {
+          "key": "D",
+          "text": "between of"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'into' denotes movement from outside into a specific tactical zone (the half-space).",
+        "wrong_B": "'in to' as two words is incorrect for directional movement into a spatial area.",
+        "wrong_C": "'onto of' is an invalid double preposition.",
+        "wrong_D": "'between of' is ungrammatical; 'between' does not take 'of'."
+      },
+      "cz_learning_point": "Pohyb dovnitř prostoru vyjadřuje předložka 'into': 'run into the half-space'.",
+      "workplace_track": "World Sports: Professional Football Tactics"
+    },
+    {
+      "id": "AL-PKG-SP-001-Q6",
+      "prompt": "The visiting team's midfield _____ by a coordinated counter-pressing wave within three seconds of losing the ball.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was dispossessed"
+        },
+        {
+          "key": "B",
+          "text": "were dispossess"
+        },
+        {
+          "key": "C",
+          "text": "dispossessed"
+        },
+        {
+          "key": "D",
+          "text": "has dispossessed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Passive Voice 'was dispossessed' correctly conveys that the midfield suffered the turnover from the pressing wave.",
+        "wrong_B": "'were dispossess' lacks the past participle '-ed'.",
+        "wrong_C": "Active voice 'dispossessed' incorrectly implies the midfield won the ball themselves.",
+        "wrong_D": "'has dispossessed' is active and present, failing to match passive past context."
+      },
+      "cz_learning_point": "Trpný rod v minulém čase vyžaduje 'was/were' + minulé příčestí: 'was dispossessed' (byl obrán o míč).",
+      "workplace_track": "World Sports: Professional Football Tactics"
+    },
+    {
+      "id": "AL-PKG-SP-001-Q7",
+      "prompt": "The defensive midfielder looks completely exhausted; he _____ over 12 kilometres during the 90 minutes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must have run"
+        },
+        {
+          "key": "B",
+          "text": "must to run"
+        },
+        {
+          "key": "C",
+          "text": "should have run"
+        },
+        {
+          "key": "D",
+          "text": "could run"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Past modal of deduction 'must have run' expresses logical certainty based on present visible evidence.",
+        "wrong_B": "'must to run' is ungrammatical.",
+        "wrong_C": "'should have run' implies criticism or unfulfilled obligation rather than logical deduction.",
+        "wrong_D": "'could run' refers to general ability or hypothetical possibility, not deduction about past effort."
+      },
+      "cz_learning_point": "Logický úsudek o minulosti na základě důkazů vyjadřuje 'must have + příčestí': 'must have run' (určitě naběhal).",
+      "workplace_track": "World Sports: Professional Football Tactics"
+    },
+    {
+      "id": "AL-PKG-SP-001-Q8",
+      "prompt": "The home team recorded significantly _____ ball possession than the away side in the first half.",
+      "options": [
+        {
+          "key": "A",
+          "text": "higher"
+        },
+        {
+          "key": "B",
+          "text": "more high"
+        },
+        {
+          "key": "C",
+          "text": "highest"
+        },
+        {
+          "key": "D",
+          "text": "as high"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "One-syllable adjective 'high' takes comparative suffix '-er': 'higher'.",
+        "wrong_B": "'more high' is ungrammatical for single-syllable adjectives.",
+        "wrong_C": "'highest' is a superlative and requires 'the'.",
+        "wrong_D": "'as high' requires 'as' ('as high as'), not 'than'."
+      },
+      "cz_learning_point": "Jednoslabičná přídavná jména tvoří 2. stupeň koncovkou -er: 'higher possession than', nikoli *more high*.",
+      "workplace_track": "World Sports: Professional Football Tactics"
+    },
+    {
+      "id": "AL-PKG-SP-001-Q9",
+      "prompt": "When executing a rapid counter-attack: _____, win the second ball; next, play forward; finally, attack the penalty box.",
+      "options": [
+        {
+          "key": "A",
+          "text": "First"
+        },
+        {
+          "key": "B",
+          "text": "At first"
+        },
+        {
+          "key": "C",
+          "text": "Firstly of"
+        },
+        {
+          "key": "D",
+          "text": "At the first"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Sequence marker 'First' introduces the primary step in a sequential tactical drill.",
+        "wrong_B": "'At first' means 'initially' (contrasting with later change of mind), not chronological step one.",
+        "wrong_C": "'Firstly of' is completely ungrammatical.",
+        "wrong_D": "'At the first' is incorrect in sequence enumeration."
+      },
+      "cz_learning_point": "Pro první krok v posloupnosti použijte 'First' nebo 'Firstly', nikoli *At first* (které znamená 'zpočátku, nejprve ale pak jinak').",
+      "workplace_track": "World Sports: Professional Football Tactics"
+    },
+    {
+      "id": "AL-PKG-SP-001-Q10",
+      "prompt": "Coach to winger: 'Could you please _____ back and double up against their overlapping full-back?'",
+      "options": [
+        {
+          "key": "A",
+          "text": "track"
+        },
+        {
+          "key": "B",
+          "text": "to track"
+        },
+        {
+          "key": "C",
+          "text": "tracking"
+        },
+        {
+          "key": "D",
+          "text": "tracked"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Polite request with modal 'Could you please' requires the bare infinitive 'track'.",
+        "wrong_B": "'to track' is incorrect because modal auxiliaries do not take 'to'.",
+        "wrong_C": "Participle 'tracking' cannot follow modal 'could'.",
+        "wrong_D": "Past tense 'tracked' is ungrammatical after modal 'could'."
+      },
+      "cz_learning_point": "Po zdvořilé žádosti 'Could you please' následuje vždy základní tvar slovesa (bare infinitive): 'Could you please track back?'.",
+      "workplace_track": "World Sports: Professional Football Tactics"
+    }
+  ]
+}

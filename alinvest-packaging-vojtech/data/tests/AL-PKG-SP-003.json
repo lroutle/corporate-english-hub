@@ -1,0 +1,327 @@
+{
+  "test_id": "AL-PKG-SP-003",
+  "title": "Advanced Football Analytics: Expected Goals (xG), Expected Threat (xT) & Passing Networks",
+  "level": "B2",
+  "category": "specialized",
+  "workplace_track": "World Sports: Modern Football Analytics & Data Science",
+  "estimated_time_minutes": 15,
+  "description": "Data science and analytics module evaluating metric modeling (xG, xA, post-shot xG), progressive carries, pitch control models, and tactical recruitment scouting reports.",
+  "grammar_focus": "Comparatives, Quantifiers & Data Precision",
+  "learning_objectives": [
+    "Master modern football analytics nomenclature (understat, shot quality, non-penalty xG, progressive passes per 90, PPDA)",
+    "Construct complex comparative structures, data-driven hypotheses, and statistical interpretations",
+    "Avoid Czenglish errors when explaining performance regression, probability models, and scouting benchmarks"
+  ],
+  "questions": [
+    {
+      "id": "AL-PKG-SP-003-Q1",
+      "prompt": "The closer an attacker takes a shot to the center of the goal, _____ the calculated Expected Goals (xG) value becomes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the higher"
+        },
+        {
+          "key": "B",
+          "text": "higher"
+        },
+        {
+          "key": "C",
+          "text": "the more high"
+        },
+        {
+          "key": "D",
+          "text": "more high"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Proportional comparative structure requires 'the closer..., the higher...'.",
+        "wrong_B": "'higher' without 'the' does not form a correlative comparative.",
+        "wrong_C": "'the more high' is ungrammatical for single-syllable adjectives.",
+        "wrong_D": "'more high' is incorrect syntax."
+      },
+      "cz_learning_point": "Úměrné porovnání (čím..., tím...) vyžaduje tvar 'the + komparativ..., the + komparativ': 'the closer..., the higher...'.",
+      "workplace_track": "World Sports: Modern Football Analytics & Data Science"
+    },
+    {
+      "id": "AL-PKG-SP-003-Q2",
+      "prompt": "The scouting department discovered that the winger generates _____ progressive passes per 90 minutes than any other player in the division.",
+      "options": [
+        {
+          "key": "A",
+          "text": "far more"
+        },
+        {
+          "key": "B",
+          "text": "far much"
+        },
+        {
+          "key": "C",
+          "text": "very more"
+        },
+        {
+          "key": "D",
+          "text": "many more of"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Far more' correctly modifies comparative quantifier 'more' for countable plural nouns (passes).",
+        "wrong_B": "'much' cannot modify countable plural 'passes'.",
+        "wrong_C": "'very more' is a classic Czenglish error (*velmi více*); use 'far more' or 'much more'.",
+        "wrong_D": "'many more of' is redundant before the direct noun."
+      },
+      "cz_learning_point": "Stupňování s 'more' se zesiluje pomocí 'far more' nebo 'much more' (nikdy *very more*).",
+      "workplace_track": "World Sports: Modern Football Analytics & Data Science"
+    },
+    {
+      "id": "AL-PKG-SP-003-Q3",
+      "prompt": "The forward's sudden scoring drought is primarily attributable _____ negative variance and unsustainable finishing overperformance earlier in the campaign.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to"
+        },
+        {
+          "key": "B",
+          "text": "for"
+        },
+        {
+          "key": "C",
+          "text": "at"
+        },
+        {
+          "key": "D",
+          "text": "with"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Adjective 'attributable' strictly takes dependent preposition 'to' (attributable to).",
+        "wrong_B": "'attributable for' is ungrammatical in analytical prose.",
+        "wrong_C": "'attributable at' is incorrect.",
+        "wrong_D": "'attributable with' is incorrect usage."
+      },
+      "cz_learning_point": "Přídavné jméno 'attributable' (přičitatelný) se váže výhradně s předložkou 'to': 'attributable to variance'.",
+      "workplace_track": "World Sports: Modern Football Analytics & Data Science"
+    },
+    {
+      "id": "AL-PKG-SP-003-Q4",
+      "prompt": "Had the technical director consulted the post-shot xG metrics earlier, he _____ the goalkeeper's underlying shot-stopping decline.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would have noticed"
+        },
+        {
+          "key": "B",
+          "text": "would notice"
+        },
+        {
+          "key": "C",
+          "text": "had noticed"
+        },
+        {
+          "key": "D",
+          "text": "will have noticed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Inverted third conditional ('Had the director consulted...') requires 'would have noticed' in the result clause.",
+        "wrong_B": "'would notice' forms a Second Conditional mismatch.",
+        "wrong_C": "'had noticed' lacks conditional modal 'would'.",
+        "wrong_D": "'will have noticed' is a future perfect form."
+      },
+      "cz_learning_point": "Invertovaný 3. kondicionál bez 'if' ('Had he consulted...') vyžaduje v hlavní větě 'would have + minulé příčestí': 'would have noticed'.",
+      "workplace_track": "World Sports: Modern Football Analytics & Data Science"
+    },
+    {
+      "id": "AL-PKG-SP-003-Q5",
+      "prompt": "The 21-year-old defensive midfielder, _____ passes per defensive action (PPDA) rank in the 99th percentile, fits our aggressive pressing philosophy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose"
+        },
+        {
+          "key": "B",
+          "text": "whom"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "that"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Relative possessive determiner 'whose' modifies the noun phrase 'passes per defensive action'.",
+        "wrong_B": "'whom' is an object pronoun, not a possessive modifier.",
+        "wrong_C": "'which' cannot indicate possession for an individual player.",
+        "wrong_D": "'that' cannot be used in non-defining relative clauses set off by commas."
+      },
+      "cz_learning_point": "Přivlastňovací vztažné zájmeno je 'whose' (jehož metriky PPDA se řadí na 99. percentil). V přístavkových větách s čárkami se nesmí použít *that*.",
+      "workplace_track": "World Sports: Modern Football Analytics & Data Science"
+    },
+    {
+      "id": "AL-PKG-SP-003-Q6",
+      "prompt": "_____ their 2.8 Expected Goals tally, the home side failed to convert their territorial dominance into three points.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Notwithstanding"
+        },
+        {
+          "key": "B",
+          "text": "Although"
+        },
+        {
+          "key": "C",
+          "text": "Even though"
+        },
+        {
+          "key": "D",
+          "text": "In spite"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'Notwithstanding' directly precedes the noun phrase 'their 2.8 Expected Goals tally'.",
+        "wrong_B": "'Although' is a conjunction requiring a full clause with subject and finite verb.",
+        "wrong_C": "'Even though' is a conjunction requiring a full subordinate clause.",
+        "wrong_D": "'In spite' requires 'of' ('In spite of')."
+      },
+      "cz_learning_point": "Předložka 'Notwithstanding' (nehledě na / navzdory) se pojí přímo s podstatným jménem. Spojky *Although* a *Even though* vyžadují celou větu se slovesem.",
+      "workplace_track": "World Sports: Modern Football Analytics & Data Science"
+    },
+    {
+      "id": "AL-PKG-SP-003-Q7",
+      "prompt": "By _____ tracking data from positional optical cameras, analysts can model real-time pitch control across all 22 players.",
+      "options": [
+        {
+          "key": "A",
+          "text": "evaluating"
+        },
+        {
+          "key": "B",
+          "text": "evaluate"
+        },
+        {
+          "key": "C",
+          "text": "evaluated"
+        },
+        {
+          "key": "D",
+          "text": "to evaluate"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Prepositions ('By') must be followed by a gerund ('evaluating').",
+        "wrong_B": "Base verb 'evaluate' cannot directly follow preposition 'By'.",
+        "wrong_C": "Past participle 'evaluated' is ungrammatical here.",
+        "wrong_D": "Infinitive 'to evaluate' cannot follow a preposition."
+      },
+      "cz_learning_point": "Po předložkách (by, for, without, after) má sloveso vždy tvar gerundia s koncovkou -ing: 'By evaluating tracking data'.",
+      "workplace_track": "World Sports: Modern Football Analytics & Data Science"
+    },
+    {
+      "id": "AL-PKG-SP-003-Q8",
+      "prompt": "The data analyst delivered a presentation highlighting the _____ correlation between progressive passes and high xG chance creation.",
+      "options": [
+        {
+          "key": "A",
+          "text": "statistically significant"
+        },
+        {
+          "key": "B",
+          "text": "statistically significance"
+        },
+        {
+          "key": "C",
+          "text": "statistical significantly"
+        },
+        {
+          "key": "D",
+          "text": "statistic significant"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Adverb 'statistically' correctly modifies the participial adjective 'significant'.",
+        "wrong_B": "'significance' is a noun and cannot modify 'correlation'.",
+        "wrong_C": "'statistical significantly' reverses adverb and adjective positions.",
+        "wrong_D": "'statistic significant' is invalid phrasing."
+      },
+      "cz_learning_point": "Příslovce rozvíjí přídavné jméno: 'statistically significant correlation' (statisticky významná korelace).",
+      "workplace_track": "World Sports: Modern Football Analytics & Data Science"
+    },
+    {
+      "id": "AL-PKG-SP-003-Q9",
+      "prompt": "Given their extraordinarily high defensive line, the champions _____ conceding chances on rapid transitions if their counter-press fails.",
+      "options": [
+        {
+          "key": "A",
+          "text": "risk"
+        },
+        {
+          "key": "B",
+          "text": "are risk to"
+        },
+        {
+          "key": "C",
+          "text": "risk to"
+        },
+        {
+          "key": "D",
+          "text": "risking of"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Verb 'risk' takes a gerund directly: 'risk conceding chances'.",
+        "wrong_B": "'are risk to' is completely ungrammatical in English.",
+        "wrong_C": "Verb 'risk' cannot take an infinitive with 'to'.",
+        "wrong_D": "'risking of' is invalid syntax."
+      },
+      "cz_learning_point": "Sloveso 'risk' se pojí přímo s gerundiem bez předložky: 'risk conceding' (riskují obdržení šancí), nikdy *risk to concede*.",
+      "workplace_track": "World Sports: Modern Football Analytics & Data Science"
+    },
+    {
+      "id": "AL-PKG-SP-003-Q10",
+      "prompt": "The striker's shot chart demonstrates that 85% of his attempts originate from _____ the penalty box.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inside"
+        },
+        {
+          "key": "B",
+          "text": "inside of to"
+        },
+        {
+          "key": "C",
+          "text": "into of"
+        },
+        {
+          "key": "D",
+          "text": "in to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'inside' denotes static location within the enclosed 18-yard penalty box.",
+        "wrong_B": "'inside of to' is an ungrammatical pile-up of prepositions.",
+        "wrong_C": "'into of' is completely invalid English.",
+        "wrong_D": "'in to' denotes direction rather than static origin."
+      },
+      "cz_learning_point": "Pro vyjádření polohy uvnitř pokutového území použijte 'inside the penalty box' (uvnitř vápna).",
+      "workplace_track": "World Sports: Modern Football Analytics & Data Science"
+    }
+  ]
+}

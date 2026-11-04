@@ -372,6 +372,24 @@ DOMAIN_BANKS = {
         "locations": ["inside the central ammonia engine room", "along the automated food processing conveyor", "at the CIP sanitation chemical dosing station", "in the high-bay blast freezing warehouse"],
         "standards": ["EN 378 safety requirements for refrigerating systems", "IFS Food technical hygiene criteria", "EHEDG hygienic equipment design guidelines", "ATEX Directive 2014/34/EU for explosive atmospheres"],
         "adverbs": ["hygienically", "safely", "efficiently", "reliably", "automatically"]
+    },
+    "alinvest_pkg": {
+        "items": [
+            ("the high-speed aluminium foil slitting and rewinding line", "maintain web tension at 120 N to prevent edge tearing", "calibrate optical inline web edge guides every shift", "calibrated"),
+            ("the optical laser pinhole detection scanner", "detect microscopic micro-perforations down to 10 microns", "verify sensor sensitivity against certified calibration plates", "inspected"),
+            ("the solvent-based heat-seal lacquer gravure coating station", "apply dry coat weight of 6.5 g/m2 uniformly across the aluminium web", "check gravure cylinder cells for lacquer clogging", "serviced"),
+            ("the multi-layer triplex foil lamination nip roller", "press aluminium foil against polyethylene film at 180 degrees Celsius", "measure bond peel strength on the tensile testing rig", "tested"),
+            ("the dyne test pen wetting tension surface energy analyzer", "confirm aluminium surface wettability above 38 dynes/cm", "store test pens in sealed containers away from heat", "verified"),
+            ("the continuous air-flotation coil annealing furnace", "relieve internal mechanical stresses at 320 degrees Celsius for 4 hours", "monitor thermal thermocouple probes across all 4 heating zones", "monitored"),
+            ("the pneumatic heat-seal burst and blister peel strength tester", "apply 2.5 bar pressure to evaluate seal hermetic integrity", "replace worn silicone sealing jaws before daily production runs", "maintained"),
+            ("the water vapor transmission rate (WVTR) electrolytic test cell", "measure barrier moisture permeation under 90% relative humidity", "purge test chamber with dry nitrogen carrier gas", "purged"),
+            ("the cold-formable blister aluminium foil press die", "draw blister pockets without micro-cracking or gauge necking", "inspect forming plug clearances and lubricating oil film", "aligned"),
+            ("the inline eddy-current metal thickness gauge", "measure foil nominal gauge within plus-minus 0.5 microns", "zero the sensor against pure aluminium reference shims", "zeroed")
+        ],
+        "operators": ["The quality assurance engineer", "The packaging division inspector", "The foil converting line supervisor", "The lamination line technician", "The slitting machine operator"],
+        "locations": ["inside the Břidličná cleanroom converting hall", "at the foil coating and lacquering station", "in the packaging quality control laboratory", "along the high-speed slitting line"],
+        "standards": ["BRCGS Global Standard for Packaging Materials Issue 6", "ISO 9001 quality management procedures", "DIN 55530 aluminium barrier film standards", "FDA Title 21 food contact material compliance regulations"],
+        "adverbs": ["rigorously", "accurately", "systematically", "precisely", "meticulously"]
     }
 }
 

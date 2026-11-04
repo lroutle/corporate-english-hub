@@ -16,7 +16,8 @@ suites = [
     "tapi-chemistry-mazur",
     "bidfood-purchasing-libor",
     "bidfood-purchasing-lucie",
-    "bidfood-engineering-jiri"
+    "bidfood-engineering-jiri",
+    "alinvest-packaging-vojtech"
 ]
 
 print("=== REPETITION AUDIT ACROSS SUITES ===")
