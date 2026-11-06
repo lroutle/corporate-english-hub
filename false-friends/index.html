@@ -1211,11 +1211,7 @@
     }
 ];
 
-    // Merge New Pairs into Master Database
-    FALSE_FRIENDS_DATA.push(...ADDITIONAL_PAIRS);
 
-    // Merge New Questions into Quiz
-    QUIZ_QUESTIONS.push(...ADDITIONAL_QUIZ);
 
     const FALSE_FRIENDS_DATA = [
       {
@@ -1580,6 +1576,11 @@
       }
     ];
 
+    // Merge New Pairs into Master Database (52 Total)
+    if (typeof ADDITIONAL_PAIRS !== 'undefined') {
+      FALSE_FRIENDS_DATA.push(...ADDITIONAL_PAIRS);
+    }
+
     // 25 Diagnostic Quiz Items
     const QUIZ_QUESTIONS = [
       {
@@ -1808,6 +1809,11 @@
         explanation: "✓ Schedule lateness is a 'delay'. A 'defect' is a physical flaw in a manufactured product."
       }
     ];
+
+    // Merge New Questions into Quiz (30 Total)
+    if (typeof ADDITIONAL_QUIZ !== 'undefined') {
+      QUIZ_QUESTIONS.push(...ADDITIONAL_QUIZ);
+    }
 
     // Rendering Engine
     function renderCards(filter = 'all', query = '') {
