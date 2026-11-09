@@ -409,6 +409,123 @@
       .cards-grid { grid-template-columns: 1fr; }
     }
   
+    
+    /* ⚖️ Directness Spectrum & Diplomatic Politeness Simulator Styles */
+    .direct-mode-btn {
+      background: #f1f5f9;
+      border: 1px solid var(--border);
+      color: #334155;
+      font-size: 0.88rem;
+      font-weight: 700;
+      padding: 10px 18px;
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .direct-mode-btn:hover {
+      background: #e2e8f0;
+      color: var(--primary-dark);
+    }
+    .direct-mode-btn.active {
+      background: #1e1b4b;
+      color: #ffffff;
+      border-color: #1e1b4b;
+      box-shadow: 0 2px 4px rgba(30, 27, 75, 0.25);
+    }
+
+    .direct-card {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      box-shadow: var(--shadow-sm);
+      transition: all 0.2s ease;
+    }
+    .direct-card:hover {
+      border-color: #6366f1;
+      box-shadow: var(--shadow-md);
+    }
+
+    .spectrum-level-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.76rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      letter-spacing: 0.5px;
+    }
+    .level-1-pill { background: #fee2e2; color: #b91c1c; border: 1px solid #fca5a5; }
+    .level-2-pill { background: #e0f2fe; color: #0369a1; border: 1px solid #bae6fd; }
+    .level-3-pill { background: #dcfce7; color: #15803d; border: 1px solid #86efac; }
+    .level-4-pill { background: #f3e8ff; color: #6b21a8; border: 1px solid #d8b4fe; }
+
+    /* Range Slider Styling */
+    .spectrum-slider-wrap {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 24px;
+      box-shadow: var(--shadow-sm);
+      margin-bottom: 24px;
+    }
+    .range-slider {
+      width: 100%;
+      height: 10px;
+      border-radius: 5px;
+      background: linear-gradient(to right, #ef4444 0%, #38bdf8 33%, #22c55e 66%, #a855f7 100%);
+      outline: none;
+      -webkit-appearance: none;
+      margin: 16px 0;
+      cursor: pointer;
+    }
+    .range-slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      background: #1e1b4b;
+      border: 3px solid #ffffff;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+      cursor: pointer;
+      transition: transform 0.15s ease;
+    }
+    .range-slider::-webkit-slider-thumb:hover {
+      transform: scale(1.15);
+    }
+
+    /* Cushion Constructor */
+    .cushion-token {
+      background: #f8fafc;
+      border: 1.5px solid #cbd5e1;
+      padding: 10px 14px;
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: #334155;
+      transition: all 0.2s ease;
+      text-align: left;
+    }
+    .cushion-token:hover {
+      border-color: #6366f1;
+      background: #f5f3ff;
+      color: #4338ca;
+    }
+    .cushion-token.selected {
+      background: #e0e7ff;
+      border-color: #4f46e5;
+      color: #3730a3;
+      font-weight: 700;
+      box-shadow: 0 1px 3px rgba(79, 70, 229, 0.2);
+    }
+
     /* TikTok Corporate Translator Styles */
     .corp-mode-btn {
       background: #f1f5f9;
@@ -577,6 +694,7 @@
     <!-- Tabs Navigation (All Pure English Topics) -->
     <div class="nav-tabs">
       <button class="tab-btn active" onclick="showTab('tab-corporate', this)">📱 Corporate Translator (TikTok Edition)</button>
+      <button class="tab-btn" onclick="showTab('tab-directness', this)">⚖️ Directness & Diplomacy Simulator</button>
       <button class="tab-btn" onclick="showTab('tab-subtext', this)">🇬🇧 British Subtext (14)</button>
       <button class="tab-btn" onclick="showTab('tab-spelling', this)">🔤 Spelling Chaos & "OUGH"</button>
       <button class="tab-btn" onclick="showTab('tab-eggcorns', this)">🥚 Eggcorns & Malapropisms</button>
@@ -690,6 +808,232 @@
           </div>
           <div style="display: flex; flex-direction: column; gap: 18px;" id="corp-quiz-list">
             <!-- Injected via JavaScript -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+    <!-- ================= ⚖️ DIRECTNESS SPECTRUM & DIPLOMATIC POLITENESS SIMULATOR ================= -->
+    <div id="tab-directness" style="display: none;">
+      <div class="section-desc" style="background: linear-gradient(135deg, #eef2ff 0%, #e0e7ff 100%); border-left: 6px solid #4338ca;">
+        <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:12px;">
+          <div>
+            <h2 style="color: #312e81; font-size: 1.6rem; display: flex; align-items: center; gap: 10px;">
+              ⚖️ The Directness Spectrum & Diplomatic Politeness Simulator
+            </h2>
+            <p style="color: #3730a3; font-size: 0.98rem; max-width: 860px; margin-top: 6px;">
+              Central European engineering communication is refreshingly direct, honest, and fact-focused (<em>"This calculation is wrong"</em>, <em>"Your deadline is impossible"</em>). In Anglo-American and international executive circles, however, unbuffered facts can sound confrontational, hostile, or defensive. Master the art of <strong>diplomatic cushioning</strong>: holding your ground 100% while keeping communication collaborative, elegant, and persuasive.
+            </p>
+          </div>
+          <span style="background: #4338ca; color: #fff; font-size: 0.78rem; font-weight: 800; padding: 4px 12px; border-radius: 9999px; text-transform: uppercase; letter-spacing: 0.5px;">
+            Executive Soft Skills
+          </span>
+        </div>
+      </div>
+
+      <!-- Mode Selector Pills -->
+      <div style="display: flex; gap: 10px; margin-bottom: 22px; flex-wrap: wrap;">
+        <button class="direct-mode-btn active" id="btn-direct-spectrum" onclick="switchDirectMode('spectrum')">
+          🎚️ Mode 1: The 4-Tier Directness Dial (Interactive Slider)
+        </button>
+        <button class="direct-mode-btn" id="btn-direct-constructor" onclick="switchDirectMode('constructor')">
+          🏗️ Mode 2: The 3-Step "Diplomatic Cushion Constructor"
+        </button>
+        <button class="direct-mode-btn" id="btn-direct-scenarios" onclick="switchDirectMode('scenarios')">
+          🎯 Mode 3: Executive Scenarios Challenge (10 Situations)
+        </button>
+        <button class="direct-mode-btn" id="btn-direct-guide" onclick="switchDirectMode('guide')">
+          📖 Mode 4: The Cultural Survival Field Guide
+        </button>
+      </div>
+
+      <!-- ================= MODE 1: THE 4-TIER SPECTRUM DIAL ================= -->
+      <div id="direct-view-spectrum">
+        <div class="spectrum-slider-wrap">
+          <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+            <div>
+              <div style="font-size: 0.82rem; font-weight: 700; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px;">
+                Interactive Directness Dial
+              </div>
+              <h3 style="font-size: 1.25rem; font-weight: 800; color: #0f172a; margin-top: 2px;" id="spectrum-level-title">
+                Level 3: Diplomatic Executive Buffer (Recommended Sweet Spot)
+              </h3>
+            </div>
+            <span id="spectrum-badge" class="spectrum-level-pill level-3-pill">
+              Level 3: Executive Diplomat
+            </span>
+          </div>
+
+          <p style="color: #475569; font-size: 0.92rem; margin-top: 8px;" id="spectrum-level-desc">
+            The ideal standard for international emails and meetings: firm boundaries softened with modal verbs, polite minimizers, and collaborative inquiry.
+          </p>
+
+          <input type="range" min="1" max="4" value="3" class="range-slider" id="directness-slider" oninput="updateSpectrumSlider(this.value)">
+
+          <div style="display: flex; justify-content: space-between; font-size: 0.78rem; font-weight: 700; color: #64748b; margin-top: 4px;">
+            <span style="color: #b91c1c;">1. 💥 Brutal / Direct Fact</span>
+            <span style="color: #0284c7;">2. ⚖️ Business Neutral</span>
+            <span style="color: #16a34a;">3. 🎩 Diplomatic Executive</span>
+            <span style="color: #7c3aed;">4. ☕ Nuclear British Irony</span>
+          </div>
+        </div>
+
+        <div class="cards-grid" id="spectrum-cards-grid" style="grid-template-columns: repeat(auto-fit, minmax(360px, 1fr)); gap: 18px;">
+          <!-- Injected via JavaScript -->
+        </div>
+      </div>
+
+      <!-- ================= MODE 2: CUSHION CONSTRUCTOR ================= -->
+      <div id="direct-view-constructor" style="display: none;">
+        <div class="spectrum-slider-wrap">
+          <h3 style="font-size: 1.25rem; font-weight: 800; color: #0f172a; display: flex; align-items: center; gap: 8px;">
+            🏗️ The 3-Step "Diplomatic Cushion Constructor"
+          </h3>
+          <p style="color: #475569; font-size: 0.92rem; margin-top: 6px;">
+            Click one ingredient from each column to build an executive-grade diplomatic sentence. Watch how combining a <strong>Soft Opener</strong>, a <strong>Modal Cushion</strong>, and a <strong>Collaborative Minimizer</strong> instantly turns potential conflict into productive teamwork.
+          </p>
+
+          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-top: 20px;">
+            <!-- Step 1 -->
+            <div>
+              <div style="font-size: 0.8rem; font-weight: 800; color: #4338ca; text-transform: uppercase; margin-bottom: 8px; display: flex; align-items: center; gap: 6px;">
+                <span style="background: #e0e7ff; width: 22px; height: 22px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%;">1</span>
+                Step 1: Soft Opener
+              </div>
+              <div style="display: flex; flex-direction: column; gap: 8px;" id="cushion-step-1">
+                <!-- Injected via JS -->
+              </div>
+            </div>
+
+            <!-- Step 2 -->
+            <div>
+              <div style="font-size: 0.8rem; font-weight: 800; color: #0284c7; text-transform: uppercase; margin-bottom: 8px; display: flex; align-items: center; gap: 6px;">
+                <span style="background: #e0f2fe; width: 22px; height: 22px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%;">2</span>
+                Step 2: Modal Cushion
+              </div>
+              <div style="display: flex; flex-direction: column; gap: 8px;" id="cushion-step-2">
+                <!-- Injected via JS -->
+              </div>
+            </div>
+
+            <!-- Step 3 -->
+            <div>
+              <div style="font-size: 0.8rem; font-weight: 800; color: #15803d; text-transform: uppercase; margin-bottom: 8px; display: flex; align-items: center; gap: 6px;">
+                <span style="background: #dcfce7; width: 22px; height: 22px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%;">3</span>
+                Step 3: Minimizer & Collaborative Pivot
+              </div>
+              <div style="display: flex; flex-direction: column; gap: 8px;" id="cushion-step-3">
+                <!-- Injected via JS -->
+              </div>
+            </div>
+          </div>
+
+          <!-- Dynamic Output Card -->
+          <div style="margin-top: 24px; background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); color: #ffffff; padding: 22px; border-radius: var(--radius-md); box-shadow: var(--shadow-md);">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+              <span style="font-size: 0.78rem; font-weight: 800; text-transform: uppercase; color: #a5b4fc; letter-spacing: 0.5px;">
+                Your Constructed Executive Buffer
+              </span>
+              <span style="background: #22c55e; color: #ffffff; font-size: 0.74rem; font-weight: 800; padding: 3px 10px; border-radius: 9999px;">
+                Diplomacy Rating: 100%
+              </span>
+            </div>
+            <div id="cushion-live-output" style="font-size: 1.15rem; font-weight: 700; line-height: 1.45; color: #f8fafc; min-height: 54px; display: flex; align-items: center;">
+              "I wonder if we could perhaps look into a slight discrepancy in the figures so we're completely aligned?"
+            </div>
+            <div style="margin-top: 12px; font-size: 0.85rem; color: #c7d2fe; border-top: 1px solid rgba(255,255,255,0.15); padding-top: 10px;" id="cushion-breakdown">
+              💡 <strong>Why this works:</strong> The conditional opener removes accusation, the modal softens the command into a proposal, and the minimizer reduces defensive pushback.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ================= MODE 3: SCENARIOS CHALLENGE ================= -->
+      <div id="direct-view-scenarios" style="display: none;">
+        <div class="spectrum-slider-wrap">
+          <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
+            <div>
+              <h3 style="font-size: 1.25rem; font-weight: 800; color: #0f172a;">
+                🎯 Diplomatic Executive Challenge (10 Real-World Scenarios)
+              </h3>
+              <p style="color: #475569; font-size: 0.92rem; margin-top: 4px;">
+                Choose the formulation that protects your team's boundaries and standards without escalating tension or sounding confrontational.
+              </p>
+            </div>
+            <div id="direct-quiz-score-badge" style="background: #1e1b4b; color: #fff; font-weight: 800; font-size: 0.9rem; padding: 6px 16px; border-radius: 9999px;">
+              Score: 0 / 10
+            </div>
+          </div>
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 18px;" id="direct-scenarios-list">
+          <!-- Injected via JavaScript -->
+        </div>
+      </div>
+
+      <!-- ================= MODE 4: CULTURAL FIELD GUIDE ================= -->
+      <div id="direct-view-guide" style="display: none;">
+        <div class="spectrum-slider-wrap">
+          <h3 style="font-size: 1.25rem; font-weight: 800; color: #0f172a; margin-bottom: 6px;">
+            📖 The Cross-Cultural Diplomatic Field Guide
+          </h3>
+          <p style="color: #475569; font-size: 0.92rem; margin-bottom: 20px;">
+            Key linguistic differences between Central European direct fact delivery and Anglo-Saxon executive buffering:
+          </p>
+
+          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 18px;">
+            <div class="direct-card" style="border-left: 5px solid #ef4444;">
+              <h4 style="font-size: 1.05rem; font-weight: 800; color: #b91c1c; margin-bottom: 8px;">
+                1. ⚠️ The "Why?" Accusation Trap
+              </h4>
+              <p style="font-size: 0.88rem; color: #334155; line-height: 1.45;">
+                In Czech, <em>"Proč jste to udělali?"</em> is a standard, neutral inquiry for information. In English, asking <em>"Why did you do that?"</em> sounds like an aggressive police interrogation.
+              </p>
+              <div style="margin-top: 12px; background: #fef2f2; padding: 10px 12px; border-radius: var(--radius-sm); font-size: 0.85rem;">
+                <span style="color: #dc2626; font-weight: 700;">❌ Avoid:</span> "Why did you change the tolerance on drawing 4?"<br>
+                <span style="color: #16a34a; font-weight: 700;">✅ Executive:</span> "Could you walk me through the rationale behind adjusting the tolerance on drawing 4?"
+              </div>
+            </div>
+
+            <div class="direct-card" style="border-left: 5px solid #f59e0b;">
+              <h4 style="font-size: 1.05rem; font-weight: 800; color: #b45309; margin-bottom: 8px;">
+                2. 🛑 The "Must" Imperative Problem
+              </h4>
+              <p style="font-size: 0.88rem; color: #334155; line-height: 1.45;">
+                Czech speakers frequently translate <em>"Musíme / Musíte"</em> directly to <em>"We must / You must"</em>. In international business, <em>"must"</em> is reserved for life safety regulations or statutory law. Between peers, it sounds like an authoritarian order.
+              </p>
+              <div style="margin-top: 12px; background: #fffbeb; padding: 10px 12px; border-radius: var(--radius-sm); font-size: 0.85rem;">
+                <span style="color: #d97706; font-weight: 700;">❌ Avoid:</span> "You must provide the certificate by noon."<br>
+                <span style="color: #16a34a; font-weight: 700;">✅ Executive:</span> "Could you ensure the certificate is sent over by noon?" or "We'll need that certificate by noon to keep dispatch on schedule."
+              </div>
+            </div>
+
+            <div class="direct-card" style="border-left: 5px solid #3b82f6;">
+              <h4 style="font-size: 1.05rem; font-weight: 800; color: #1d4ed8; margin-bottom: 8px;">
+                3. 🔄 The "Yes, And..." Pivot (Never "No, but...")
+              </h4>
+              <p style="font-size: 0.88rem; color: #334155; line-height: 1.45;">
+                Saying <em>"No, that won't work"</em> triggers immediate defensiveness and ego battles in boardroom meetings. Executive negotiators acknowledge the intent first, then pivot to constraints.
+              </p>
+              <div style="margin-top: 12px; background: #eff6ff; padding: 10px 12px; border-radius: var(--radius-sm); font-size: 0.85rem;">
+                <span style="color: #2563eb; font-weight: 700;">❌ Avoid:</span> "No, that's impossible with our furnace capacity."<br>
+                <span style="color: #16a34a; font-weight: 700;">✅ Executive:</span> "That's an interesting approach; to make it viable with our current furnace capacity, we'd just need to re-sequence the annealing run."
+              </div>
+            </div>
+
+            <div class="direct-card" style="border-left: 5px solid #10b981;">
+              <h4 style="font-size: 1.05rem; font-weight: 800; color: #047857; margin-bottom: 8px;">
+                4. 🛡️ The Minimizers Arsenal (Shock Absorbers)
+              </h4>
+              <p style="font-size: 0.88rem; color: #334155; line-height: 1.45;">
+                Anglo-Saxon communication uses linguistic shock absorbers called <strong>minimizers</strong> to shrink the emotional weight of bad news or disagreement.
+              </p>
+              <div style="margin-top: 12px; background: #ecfdf5; padding: 10px 12px; border-radius: var(--radius-sm); font-size: 0.85rem;">
+                <strong>Key Minimizers:</strong> <em>slightly, a bit, rather, somewhat, a minor hurdle, a touch, for a moment</em>.<br>
+                <strong>Example:</strong> "We have a problem" ➔ "We've hit a slight snag on the delivery timeline."
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -2035,17 +2379,642 @@
       renderCorpCards();
     });
 
-    function showTab(tabId, btn) {
-      const tabs = ['tab-corporate', 'tab-subtext', 'tab-spelling', 'tab-eggcorns', 'tab-contronyms', 'tab-phrasals', 'tab-animals', 'tab-headlines'];
-      tabs.forEach(t => {
-        const el = document.getElementById(t);
-        if (el) el.style.display = (t === tabId) ? 'block' : 'none';
+    
+    // ================= ⚖️ DIRECTNESS SIMULATOR DATA & LOGIC =================
+    const DIRECTNESS_DATA = [
+      {
+        topic: "Technical Data & Flawed Calculations",
+        badge: "Engineering & QA",
+        level1: {
+          text: "\"Your calculation is wrong.\"",
+          sub: "Central European Direct: 100% factual, but triggers instant defensive pride and friction."
+        },
+        level2: {
+          text: "\"There appears to be an error in the calculation.\"",
+          sub: "Standard Business Neutral: Removes personal blame by using passive phrasing."
+        },
+        level3: {
+          text: "\"I wonder if we might just double-check those baseline figures together?\"",
+          sub: "Diplomatic Executive: Highly collaborative, uses 'I wonder if' and 'together' to solve without confrontation."
+        },
+        level4: {
+          text: "\"That is certainly a very courageous and inventive mathematical model!\"",
+          sub: "Nuclear British Irony: Translation: It's completely wrong, and you should be embarrassed."
+        }
+      },
+      {
+        topic: "Rejecting an Impossible Deadline",
+        badge: "Project Management",
+        level1: {
+          text: "\"This deadline is impossible. We can't do it.\"",
+          sub: "Central European Direct: Completely honest, but sounds uncooperative and obstructive."
+        },
+        level2: {
+          text: "\"We cannot meet this deadline with our current production schedule.\"",
+          sub: "Standard Business Neutral: Explains the operational cause plainly."
+        },
+        level3: {
+          text: "\"I'm a little concerned that timeline might prove rather tight given our current commitments; could we explore an alternative schedule?\"",
+          sub: "Diplomatic Executive: Uses minimizers ('a little', 'rather tight') while offering a constructive way forward."
+        },
+        level4: {
+          text: "\"That is an admirably ambitious timeline you've mapped out!\"",
+          sub: "Nuclear British Irony: Translation: There is zero percent chance this happens on time."
+        }
+      },
+      {
+        topic: "Disagreeing in a Boardroom Meeting",
+        badge: "Executive Leadership",
+        level1: {
+          text: "\"I don't agree with you at all.\"",
+          sub: "Central European Direct: Clear and sincere, but halts discussion with a blunt wall."
+        },
+        level2: {
+          text: "\"I see this from a different perspective.\"",
+          sub: "Standard Business Neutral: Professional acknowledgment of divergent viewpoints."
+        },
+        level3: {
+          text: "\"To be completely transparent, I wonder if there might be another angle worth considering before we finalize this?\"",
+          sub: "Diplomatic Executive: Invites the room to think together without invalidating the other speaker."
+        },
+        level4: {
+          text: "\"With the greatest respect, that is one rather fascinating interpretation of the market data.\"",
+          sub: "Nuclear British Irony: Translation: That is completely wrong and defies basic logic."
+        }
+      },
+      {
+        topic: "Refusing Out-of-Scope Demands",
+        badge: "Sales & Contracts",
+        level1: {
+          text: "\"That wasn't in the contract. We're not doing it.\"",
+          sub: "Central European Direct: Legally accurate, but destroys client goodwill instantly."
+        },
+        level2: {
+          text: "\"This request falls outside the agreed scope of work.\"",
+          sub: "Standard Business Neutral: Formal and legally sound."
+        },
+        level3: {
+          text: "\"We'd be delighted to accommodate that; shall we discuss an addendum to adjust the timeline and budget accordingly?\"",
+          sub: "Diplomatic Executive: Says 'Yes, at a price' rather than a blunt 'No', maintaining commercial power."
+        },
+        level4: {
+          text: "\"I admire your boundless ambition for this project, though perhaps we should master the initial deliverables first.\"",
+          sub: "Nuclear British Irony: Translation: Stop asking for free extras."
+        }
+      },
+      {
+        topic: "Critiquing Poor Workmanship / Tolerances",
+        badge: "Manufacturing & Supply",
+        level1: {
+          text: "\"The surface finish is awful and fails quality check.\"",
+          sub: "Central European Direct: Factual, but puts the supplier or operator on the defensive."
+        },
+        level2: {
+          text: "\"The parts do not meet the specified tolerance threshold.\"",
+          sub: "Standard Business Neutral: References objective specifications."
+        },
+        level3: {
+          text: "\"It appears there's a slight variance between these sample batches and our master CAD tolerances; could we review the tooling settings?\"",
+          sub: "Diplomatic Executive: Frames the defect as a 'slight variance' and pivots immediately to the root-cause tooling."
+        },
+        level4: {
+          text: "\"Well, that finish certainly has an awful lot of unique individual character!\"",
+          sub: "Nuclear British Irony: Translation: It's ruined and scrap metal."
+        }
+      },
+      {
+        topic: "Unclear or Chaotic Instructions",
+        badge: "Operations",
+        level1: {
+          text: "\"Your email makes no sense.\"",
+          sub: "Central European Direct: Honest, but attacks the sender's competence."
+        },
+        level2: {
+          text: "\"The instructions provided are not clear to our team.\"",
+          sub: "Standard Business Neutral: Shifts the focus to team understanding."
+        },
+        level3: {
+          text: "\"Could you help me understand the core priorities here so we ensure our execution is 100% aligned with your vision?\"",
+          sub: "Diplomatic Executive: Flatters the sender's 'vision' while politely forcing them to clarify their mess."
+        },
+        level4: {
+          text: "\"That brief is wonderfully open to creative artistic interpretation.\"",
+          sub: "Nuclear British Irony: Translation: It's completely incomprehensible."
+        }
+      },
+      {
+        topic: "Rejecting Weekend / Overtime Work",
+        badge: "Workplace Boundaries",
+        level1: {
+          text: "\"I am not working on Saturday.\"",
+          sub: "Central European Direct: Honest personal boundary, but can sound harsh."
+        },
+        level2: {
+          text: "\"I am unavailable for weekend assignments.\"",
+          sub: "Standard Business Neutral: Direct and formal."
+        },
+        level3: {
+          text: "\"I'll be fully off-grid this weekend, but I'll make this my very first priority first thing Monday morning.\"",
+          sub: "Diplomatic Executive: Firm boundary combined with proactive reassurance for Monday."
+        },
+        level4: {
+          text: "\"My calendar has rather firmly decided that Saturday belongs to my family, as I'm sure you'll appreciate.\"",
+          sub: "Nuclear British Irony: Translation: Do not dare message me this weekend."
+        }
+      },
+      {
+        topic: "Customer Blaming You for Their Error",
+        badge: "Customer Support",
+        level1: {
+          text: "\"It's your fault, not ours. You didn't read the manual.\"",
+          sub: "Central European Direct: 100% true, but infuriates the paying customer."
+        },
+        level2: {
+          text: "\"The issue occurred due to customer operating error outside manual guidelines.\"",
+          sub: "Standard Business Neutral: Factual diagnostic summary."
+        },
+        level3: {
+          text: "\"It appears the machinery was operated outside the recommended parameters outlined in Chapter 3; shall we walk through the setup procedure together?\"",
+          sub: "Diplomatic Executive: Points to documentation without blaming, then offers guidance."
+        },
+        level4: {
+          text: "\"Operating the unit upside-down was certainly a spirited and novel experiment!\"",
+          sub: "Nuclear British Irony: Translation: You did something totally ridiculous."
+        }
+      }
+    ];
+
+    const CUSHION_DATA = {
+      step1: [
+        { text: "I wonder if...", desc: "Gently introduces a thought without imposing authority." },
+        { text: "It seems there might be...", desc: "Softens reality by presenting it as an observation." },
+        { text: "To be completely transparent...", desc: "Signals honesty and trust before a difficult truth." },
+        { text: "Correct me if I'm mistaken, but...", desc: "Demonstrates humility while drawing attention to an error." },
+        { text: "I'm a little concerned that...", desc: "Frames a technical flaw as caring personal concern." }
+      ],
+      step2: [
+        { text: "...we could perhaps look into...", desc: "Conditional modal 'could perhaps' invites collaboration." },
+        { text: "...it would be prudent to re-examine...", desc: "'Prudent' appeals to shared professional caution." },
+        { text: "...we might want to double-check...", desc: "'Might want to' transforms an order into a suggestion." },
+        { text: "...it may be worth considering...", desc: "'Worth considering' leaves room for mutual dignity." },
+        { text: "...we might benefit from aligning on...", desc: "Focuses on mutual benefit rather than fixing a failure." }
+      ],
+      step3: [
+        { text: "...a slight discrepancy in the figures so we're completely aligned.", desc: "Uses 'slight discrepancy' as a minimizer." },
+        { text: "...a minor adjustment to the schedule to protect our delivery buffer.", desc: "Replaces 'we're late' with 'protecting our buffer'." },
+        { text: "...our baseline assumptions before presenting to executive leadership.", desc: "Unites the team against external scrutiny." },
+        { text: "...an alternative tooling approach that minimizes thermal distortion.", desc: "Focuses purely on the technical solution." },
+        { text: "...the scope parameters together to avoid any downstream surprises.", desc: "Frames constraint as protection against risk." }
+      ]
+    };
+
+    let selectedCushion = [0, 0, 0];
+
+    const DIRECT_SCENARIOS = [
+      {
+        scenario: "You notice the client's CAD drawing has dimensional tolerances that are physically impossible to mill without thermal distortion.",
+        raw: "What you want to say: 'Your tolerances are impossible and your engineers don't understand metal heat.'",
+        options: [
+          {
+            text: "A) Your tolerances violate physical laws. Please redraw this properly or we will cancel the order.",
+            type: "bad",
+            fb: "❌ Too blunt & aggressive. Triggers defensive ego battles and insults their engineering team."
+          },
+          {
+            text: "B) We are so sorry to bother you, but maybe we are not good enough to mill this. We apologize for our shortcomings.",
+            type: "bad",
+            fb: "❌ Overly spineless & submissive. Destroys your plant's technical credibility and damages your reputation."
+          },
+          {
+            text: "C) It seems there might be a slight variance with thermal expansion at these tight tolerances; could we explore adjusting the radii by 0.05 mm to guarantee structural integrity?",
+            type: "good",
+            fb: "✅ Master Diplomatic Buffer! Uses 'slight variance' (minimizer), conditional 'could we explore' (modal cushion), and grounds the request in guaranteeing their structural integrity."
+          }
+        ]
+      },
+      {
+        scenario: "A key OEM customer demands a 48-hour delivery on cold-rolled aluminium foil that takes a minimum of 6 days to convert and anneal.",
+        raw: "What you want to say: 'Are you crazy? Our furnaces take 4 days just to anneal. No way.'",
+        options: [
+          {
+            text: "A) That is completely impossible. Learn our manufacturing lead times before making ridiculous demands.",
+            type: "bad",
+            fb: "❌ Brutal & confrontational. Destroys customer goodwill and risks losing the corporate account."
+          },
+          {
+            text: "B) We'd be delighted to help expedite this; given our mandatory 4-day metallurgical annealing cycle, the earliest we can guarantee zero-defect coil is Tuesday. Shall we dispatch a partial batch first?",
+            type: "good",
+            fb: "✅ Master Diplomatic Buffer! Acknowledges the urgency ('delighted to help'), clearly explains the physical metallurgy constraint, and immediately provides a proactive solution (partial shipment)."
+          },
+          {
+            text: "C) Okay, we will try to work day and night without sleep and hope the furnace doesn't explode.",
+            type: "bad",
+            fb: "❌ Unprofessional & reckless. Promises something you cannot deliver and sets your team up for catastrophic failure."
+          }
+        ]
+      },
+      {
+        scenario: "In an executive strategy meeting, the commercial director proposes a 20% discount that completely wipes out your operational margin.",
+        raw: "What you want to say: 'That is the stupidest idea I've ever heard. We'll lose money on every truck.'",
+        options: [
+          {
+            text: "A) That pricing structure is totally suicidal and proves you know nothing about unit costs.",
+            type: "bad",
+            fb: "❌ Too aggressive. Making personal attacks in a boardroom meeting alienates leadership."
+          },
+          {
+            text: "B) To be completely transparent, I wonder if we might run the net margin numbers together? A 20% discount would put our contribution margin underwater given current raw material surcharges.",
+            type: "good",
+            fb: "✅ Master Diplomatic Buffer! Soft opener ('To be completely transparent'), collaborative inquiry ('run the numbers together'), and factual objective constraint."
+          },
+          {
+            text: "C) Yes, whatever you say boss, we love losing company money.",
+            type: "bad",
+            fb: "❌ Sarcastic and toxic. Sarcasm in English meetings is viewed as unprofessional cynicism."
+          }
+        ]
+      },
+      {
+        scenario: "A food packaging client files a formal complaint claiming your foil lids tore, but laboratory tests prove their sealing machine heat jaws were running 40°C too hot.",
+        raw: "What you want to say: 'Your technicians burned the foil because they didn't calibrate their machine. Stop blaming us.'",
+        options: [
+          {
+            text: "A) Our thermal analysis indicates the sealing jaws were operating at 220°C, compared to the certified 180°C threshold. Shall we arrange a joint calibration call to help your team optimize the heat profile?",
+            type: "good",
+            fb: "✅ Master Diplomatic Buffer! Presents objective laboratory facts ('Our thermal analysis indicates') without personal accusation, then offers technical support."
+          },
+          {
+            text: "B) Your claim is rejected. Read your own operator manual and train your staff properly.",
+            type: "bad",
+            fb: "❌ Overly blunt. Even if factually correct, this alienates the client's purchasing department."
+          },
+          {
+            text: "C) We are terribly sorry, we will replace all 100,000 lids for free and pay you damages.",
+            type: "bad",
+            fb: "❌ Spineless surrender. Admits liability when the defect was 100% on the customer's side."
+          }
+        ]
+      },
+      {
+        scenario: "A subcontractor's progress report is 2 weeks late and fails to include the mandatory tensile strength test certificates.",
+        raw: "What you want to say: 'Where is the report? You are 2 weeks late and you forgot the test data again.'",
+        options: [
+          {
+            text: "A) You have violated contract Section 4. Send the test certificates now or you are fired.",
+            type: "bad",
+            fb: "❌ Overly aggressive legalistic threat before seeking basic operational clarity."
+          },
+          {
+            text: "B) I hope you are having a wonderful day! Take your time, whenever you feel like sending certificates is fine.",
+            type: "bad",
+            fb: "❌ Spineless. Fails to enforce critical engineering quality gates."
+          },
+          {
+            text: "C) Following up on our project milestones, we'll need the final validation report including the tensile certificates by Thursday to sign off the release. Could you confirm when that data will be uploaded?",
+            type: "good",
+            fb: "✅ Master Diplomatic Buffer! Anchors to 'project milestones', clearly states the operational requirement and deadline ('by Thursday to sign off release'), and ends with a polite request for confirmation."
+          }
+        ]
+      },
+      {
+        scenario: "A critical chemical supplier sends an email announcing an immediate, unbudgeted 18% price increase effective next week.",
+        raw: "What you want to say: 'No chance. We have a signed agreement. Get lost with your 18%.'",
+        options: [
+          {
+            text: "A) We are shocked by this price notification; given that our annual supply contract specifies 60-day notice for index adjustments, could we schedule a call to review the raw material drivers behind this?",
+            type: "good",
+            fb: "✅ Master Diplomatic Buffer! Firm on contract terms ('60-day notice requirement'), but professional and constructive ('schedule a call to review drivers')."
+          },
+          {
+            text: "B) You are greedy thieves and we will never buy from you again.",
+            type: "bad",
+            fb: "❌ Unprofessional emotional outburst that shuts down negotiation leverage."
+          },
+          {
+            text: "C) Sure, we will pay whatever you want, prices are going up everywhere.",
+            type: "bad",
+            fb: "❌ Surrenders procurement leverage without verifying cost breakdowns."
+          }
+        ]
+      },
+      {
+        scenario: "An overseas account manager calls you at 7:30 PM on a Friday asking you to prepare an emergency cost calculation by Saturday noon.",
+        raw: "What you want to say: 'It is Friday night. I am having a beer with my family. Goodbye.'",
+        options: [
+          {
+            text: "A) Don't ever call me after 5 PM. It's against the law.",
+            type: "bad",
+            fb: "❌ Excessively aggressive response to a colleague or client."
+          },
+          {
+            text: "B) I am fully committed with family commitments over the weekend; I will make this my first priority on Monday morning and have the validated calculation in your inbox by 10 AM CET.",
+            type: "good",
+            fb: "✅ Master Diplomatic Buffer! Protects personal boundaries firmly without apologizing, and commits to a specific, high-priority delivery time Monday morning."
+          },
+          {
+            text: "C) Okay, I will cancel my anniversary dinner and stay up all night working on it.",
+            type: "bad",
+            fb: "❌ Toxic martyr syndrome that leads to burnout and sets an unsustainable precedent."
+          }
+        ]
+      },
+      {
+        scenario: "An external auditor claims during an opening meeting that your plant's scrap rate calculation is fundamentally inaccurate.",
+        raw: "What you want to say: 'You don't understand our slitting line. Our calculation is 100% correct.'",
+        options: [
+          {
+            text: "A) You don't know what you are talking about. You have never worked in an aluminium plant.",
+            type: "bad",
+            fb: "❌ Combative and defensive. Immediately turns an audit into an adversarial fight."
+          },
+          {
+            text: "B) I appreciate you flagging that; would it be helpful to walk through our real-time yield tracking at the slitting station so you can see how edge-trim recovery is accounted for?",
+            type: "good",
+            fb: "✅ Master Diplomatic Buffer! Acknowledges the auditor's concern politely ('appreciate you flagging that') and invites them to inspect empirical station data."
+          },
+          {
+            text: "C) We are so sorry. Our plant is terrible and our numbers are all wrong.",
+            type: "bad",
+            fb: "❌ Unjustified concession that creates audit non-conformities where none existed."
+          }
+        ]
+      },
+      {
+        scenario: "Another department head asks your team to manually re-enter 400 shipment dispatch codes because their ERP import failed.",
+        raw: "What you want to say: 'That is your department's job, not ours. Fix your own database.'",
+        options: [
+          {
+            text: "A) That's not my job. Figure it out yourself.",
+            type: "bad",
+            fb: "❌ Blunt refusal that creates permanent cross-departmental friction."
+          },
+          {
+            text: "B) I understand the ERP glitch created a major bottleneck; however, our coordinators are at 100% capacity preparing this week's audit. Would it make sense to contact IT to run a automated batch script instead?",
+            type: "good",
+            fb: "✅ Master Diplomatic Buffer! Empathizes with the bottleneck, states team capacity objectively, and proposes a smarter automated IT solution."
+          },
+          {
+            text: "C) We will gladly do all your administrative data entry while our own core tasks suffer.",
+            type: "bad",
+            fb: "❌ Fails to protect your department's core responsibilities and deadlines."
+          }
+        ]
+      },
+      {
+        scenario: "A foreign quality auditor demands copies of proprietary lacquering chemical formulations that are protected by strict corporate trade secrets.",
+        raw: "What you want to say: 'Are you out of your mind? That's secret. I will never show you.'",
+        options: [
+          {
+            text: "A) That's none of your business. Stop spying on our company secrets.",
+            type: "bad",
+            fb: "❌ Hostile and defensive. Raises auditor suspicion that something dangerous is being hidden."
+          },
+          {
+            text: "B) While proprietary chemical CAS formulations are strictly protected under corporate IP policy, we can provide the full third-party REACH and FDA food-contact migration compliance certificates. Will that satisfy the audit scope?",
+            type: "good",
+            fb: "✅ Master Diplomatic Buffer! Cites corporate IP policy neutrally, provides the compliant certified alternative, and politely asks if it meets the audit scope."
+          },
+          {
+            text: "C) Here is the secret recipe file, please don't share it with anyone.",
+            type: "bad",
+            fb: "❌ Critical breach of intellectual property and employment confidentiality contracts."
+          }
+        ]
+      }
+    ];
+
+    let directScenarioScore = 0;
+    let directAnsweredScenarios = new Set();
+
+    function switchDirectMode(mode) {
+      ['spectrum', 'constructor', 'scenarios', 'guide'].forEach(m => {
+        const v = document.getElementById(`direct-view-${m}`);
+        const b = document.getElementById(`btn-direct-${m}`);
+        if (v) v.style.display = (m === mode) ? 'block' : 'none';
+        if (b) b.classList.toggle('active', m === mode);
+      });
+      if (mode === 'spectrum') renderSpectrumCards(document.getElementById('directness-slider').value);
+      if (mode === 'constructor') renderCushionTokens();
+      if (mode === 'scenarios') renderDirectScenarios();
+    }
+
+    function updateSpectrumSlider(val) {
+      const titles = {
+        '1': 'Level 1: Central European Direct / Raw Fact',
+        '2': 'Level 2: Standard Business Neutral',
+        '3': 'Level 3: Diplomatic Executive Buffer (Recommended Sweet Spot)',
+        '4': 'Level 4: Nuclear British Irony / Extreme Understatement'
+      };
+      const descs = {
+        '1': 'Zero diplomatic cushioning. Raw, blunt truth. 100% factual in engineering culture, but frequently interpreted as aggressive or confrontational by Anglo-American partners.',
+        '2': 'Removes personal blame by using passive phrasing and objective terms. Professional, formal, and widely accepted in European business.',
+        '3': 'The international executive sweet spot: firm on boundaries and standards, softened with modal verbs, minimizers, and collaborative problem-solving.',
+        '4': 'Extreme British politeness and understated irony. The speaker sounds delightfully pleasant, but the subtext is devastatingly critical.'
+      };
+      const pillClasses = {
+        '1': 'spectrum-level-pill level-1-pill',
+        '2': 'spectrum-level-pill level-2-pill',
+        '3': 'spectrum-level-pill level-3-pill',
+        '4': 'spectrum-level-pill level-4-pill'
+      };
+      const pillTexts = {
+        '1': 'Level 1: Raw Fact',
+        '2': 'Level 2: Business Neutral',
+        '3': 'Level 3: Executive Diplomat',
+        '4': 'Level 4: Nuclear Irony'
+      };
+
+      document.getElementById('spectrum-level-title').innerText = titles[val];
+      document.getElementById('spectrum-level-desc').innerText = descs[val];
+      const badge = document.getElementById('spectrum-badge');
+      badge.className = pillClasses[val];
+      badge.innerText = pillTexts[val];
+
+      renderSpectrumCards(val);
+    }
+
+    function renderSpectrumCards(level) {
+      const grid = document.getElementById('spectrum-cards-grid');
+      if (!grid) return;
+
+      const levelKey = `level${level}`;
+      const borderColors = { '1': '#ef4444', '2': '#38bdf8', '3': '#22c55e', '4': '#a855f7' };
+      const levelLabels = {
+        '1': 'Level 1: Brutal Direct',
+        '2': 'Level 2: Business Neutral',
+        '3': 'Level 3: Executive Buffer',
+        '4': 'Level 4: Nuclear Irony'
+      };
+
+      grid.innerHTML = DIRECTNESS_DATA.map((item, idx) => {
+        const lvl = item[levelKey];
+        return `
+          <div class="direct-card" style="border-top: 4px solid ${borderColors[level]};">
+            <div>
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 8px;">
+                <span style="font-size: 0.72rem; font-weight: 800; background: #f1f5f9; color: #475569; padding: 2px 8px; border-radius: 4px; text-transform: uppercase;">
+                  ${item.badge}
+                </span>
+                <span style="font-size: 0.72rem; font-weight: 700; color: ${borderColors[level]};">
+                  ${levelLabels[level]}
+                </span>
+              </div>
+              <h4 style="font-size: 1.02rem; font-weight: 800; color: #0f172a; margin-bottom: 10px;">
+                ${idx + 1}. ${item.topic}
+              </h4>
+              <div style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 14px; border-radius: var(--radius-md); font-size: 1.05rem; font-weight: 700; color: #1e293b; line-height: 1.4;">
+                ${lvl.text}
+              </div>
+            </div>
+            <div style="margin-top: 12px; font-size: 0.84rem; color: #64748b; line-height: 1.45; border-top: 1px dashed #e2e8f0; padding-top: 10px;">
+              💡 <em>${lvl.sub}</em>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function renderCushionTokens() {
+      ['1', '2', '3'].forEach(stepNum => {
+        const container = document.getElementById(`cushion-step-${stepNum}`);
+        if (!container) return;
+        const key = `step${stepNum}`;
+        const items = CUSHION_DATA[key];
+        const selectedIdx = selectedCushion[parseInt(stepNum) - 1];
+
+        container.innerHTML = items.map((item, idx) => `
+          <div class="cushion-token ${idx === selectedIdx ? 'selected' : ''}" onclick="selectCushionPart(${stepNum}, ${idx})">
+            <div>${item.text}</div>
+            <div style="font-size: 0.75rem; color: #64748b; margin-top: 2px; font-weight: normal;">${item.desc}</div>
+          </div>
+        `).join('');
+      });
+      updateCushionOutput();
+    }
+
+    function selectCushionPart(step, idx) {
+      selectedCushion[step - 1] = idx;
+      renderCushionTokens();
+    }
+
+    function updateCushionOutput() {
+      const part1 = CUSHION_DATA.step1[selectedCushion[0]].text;
+      const part2 = CUSHION_DATA.step2[selectedCushion[1]].text;
+      const part3 = CUSHION_DATA.step3[selectedCushion[2]].text;
+
+      const sentence = `"${part1} ${part2.replace('...', '')} ${part3.replace('...', '')}"`;
+      const outEl = document.getElementById('cushion-live-output');
+      if (outEl) outEl.innerText = sentence;
+    }
+
+    function renderDirectScenarios() {
+      const container = document.getElementById('direct-scenarios-list');
+      if (!container) return;
+
+      container.innerHTML = DIRECT_SCENARIOS.map((item, sIdx) => `
+        <div class="direct-card" id="scenario-card-${sIdx}">
+          <div>
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 8px;">
+              <span style="font-size: 0.76rem; font-weight: 800; background: #e0e7ff; color: #3730a3; padding: 2px 10px; border-radius: 9999px; text-transform: uppercase;">
+                Scenario ${sIdx + 1} of 10
+              </span>
+              <span id="scenario-status-${sIdx}" style="font-size: 0.78rem; font-weight: 700; color: #64748b;">
+                Pending response
+              </span>
+            </div>
+            <h4 style="font-size: 1.05rem; font-weight: 800; color: #0f172a; margin-bottom: 6px; line-height: 1.4;">
+              ${item.scenario}
+            </h4>
+            <div style="background: #fef2f2; border-left: 4px solid #ef4444; padding: 10px 14px; border-radius: 4px; font-size: 0.88rem; color: #991b1b; font-weight: 600; margin-bottom: 16px;">
+              💭 ${item.raw}
+            </div>
+
+            <div style="display: flex; flex-direction: column; gap: 10px;">
+              ${item.options.map((opt, oIdx) => `
+                <button class="cushion-token" id="scen-btn-${sIdx}-${oIdx}" onclick="answerDirectScenario(${sIdx}, ${oIdx})" style="text-align: left; padding: 12px 16px; font-size: 0.92rem;">
+                  ${opt.text}
+                </button>
+              `).join('')}
+            </div>
+
+            <div id="scen-fb-${sIdx}" style="display: none; margin-top: 14px; padding: 14px; border-radius: var(--radius-md); font-size: 0.88rem; line-height: 1.45;"></div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function answerDirectScenario(sIdx, oIdx) {
+      if (directAnsweredScenarios.has(sIdx)) return;
+      directAnsweredScenarios.add(sIdx);
+
+      const scenario = DIRECT_SCENARIOS[sIdx];
+      const selected = scenario.options[oIdx];
+      const fbBox = document.getElementById(`scen-fb-${sIdx}`);
+      const statusBadge = document.getElementById(`scenario-status-${sIdx}`);
+
+      // Disable buttons
+      scenario.options.forEach((opt, idx) => {
+        const btn = document.getElementById(`scen-btn-${sIdx}-${idx}`);
+        if (btn) btn.disabled = true;
       });
 
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
+      const selectedBtn = document.getElementById(`scen-btn-${sIdx}-${oIdx}`);
+
+      if (selected.type === 'good') {
+        directScenarioScore++;
+        if (selectedBtn) {
+          selectedBtn.style.background = '#dcfce7';
+          selectedBtn.style.borderColor = '#16a34a';
+          selectedBtn.style.color = '#14532d';
+          selectedBtn.style.fontWeight = '700';
+        }
+        if (fbBox) {
+          fbBox.style.display = 'block';
+          fbBox.style.background = '#ecfdf5';
+          fbBox.style.border = '1px solid #6ee7b7';
+          fbBox.style.color = '#065f46';
+          fbBox.innerHTML = selected.fb;
+        }
+        if (statusBadge) {
+          statusBadge.innerText = '✓ Master Diplomat';
+          statusBadge.style.color = '#16a34a';
+        }
+      } else {
+        if (selectedBtn) {
+          selectedBtn.style.background = '#fee2e2';
+          selectedBtn.style.borderColor = '#dc2626';
+          selectedBtn.style.color = '#7f1d1d';
+        }
+        // Highlight good answer
+        scenario.options.forEach((opt, idx) => {
+          if (opt.type === 'good') {
+            const goodBtn = document.getElementById(`scen-btn-${sIdx}-${idx}`);
+            if (goodBtn) {
+              goodBtn.style.background = '#dcfce7';
+              goodBtn.style.borderColor = '#16a34a';
+              goodBtn.style.color = '#14532d';
+              goodBtn.style.fontWeight = '700';
+            }
+          }
+        });
+        if (fbBox) {
+          fbBox.style.display = 'block';
+          fbBox.style.background = '#fef2f2';
+          fbBox.style.border = '1px solid #fca5a5';
+          fbBox.style.color = '#991b1b';
+          fbBox.innerHTML = selected.fb;
+        }
+        if (statusBadge) {
+          statusBadge.innerText = '✗ Sub-optimal';
+          statusBadge.style.color = '#dc2626';
+        }
+      }
+
+      document.getElementById('direct-quiz-score-badge').innerText = `Score: ${directScenarioScore} / 10`;
     }
-      const tabs = ['tab-subtext', 'tab-spelling', 'tab-eggcorns', 'tab-contronyms', 'tab-phrasals', 'tab-animals', 'tab-headlines'];
+
+    function showTab(tabId, btn) {
+      const tabs = ['tab-corporate', 'tab-directness', 'tab-subtext', 'tab-spelling', 'tab-eggcorns', 'tab-contronyms', 'tab-phrasals', 'tab-animals', 'tab-headlines'];
       tabs.forEach(t => {
         const el = document.getElementById(t);
         if (el) el.style.display = (t === tabId) ? 'block' : 'none';
