@@ -896,15 +896,49 @@
         </div>
       </div>
 
-      <!-- ================= MODE 3: SIGN-OFF TEMPERATURE GAUGE ================= -->
+      <!-- ================= MODE 3: EMAIL TEMPERATURE GAUGE ================= -->
       <div id="corp-view-gauge" style="display: none;">
-        <div style="background: #ffffff; border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 22px; margin-bottom: 24px;">
-          <h3 style="font-size: 1.25rem; font-weight: 800; color: #1e293b; margin-bottom: 6px;">
-            ✉️ The Email Sign-Off Temperature Gauge: Passive-Aggression Calibration
-          </h3>
-          <p style="color: var(--text-muted); font-size: 0.92rem;">
-            In English email correspondence, the closing sign-off is a finely tuned emotional barometer. Here is how native speakers decode what your sign-off actually signals:
-          </p>
+        <div style="background: linear-gradient(135deg, #f8fafc 0%, #ede9fe 100%); border: 1px solid var(--border); border-left: 6px solid #7c3aed; border-radius: var(--radius-lg); padding: 24px; margin-bottom: 22px;">
+          <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:12px;">
+            <div>
+              <h3 style="font-size: 1.3rem; font-weight: 800; color: #1e1b4b; margin-bottom: 6px; display: flex; align-items: center; gap: 8px;">
+                🌡️ Email Temperature Gauge: Openers &amp; Sign-Offs (Cold ↔ Warm)
+              </h3>
+              <p style="color: #475569; font-size: 0.94rem; max-width: 900px; margin-top: 4px;">
+                In international business email correspondence, how you open and close an email is a finely tuned emotional barometer. Native speakers instantly decode whether an email is warm and collaborative, strictly neutral, chilly, or sub-zero hostile.
+              </p>
+            </div>
+            <span style="background: #7c3aed; color: #fff; font-size: 0.75rem; font-weight: 800; padding: 4px 14px; border-radius: 9999px; text-transform: uppercase; letter-spacing: 0.5px;" id="gauge-count-badge">
+              29 Emotional Calibrations
+            </span>
+          </div>
+
+          <!-- Type Filter Tabs (Openers vs Closings vs All) -->
+          <div style="display: flex; gap: 10px; margin-top: 18px; flex-wrap: wrap;">
+            <button class="gauge-type-btn active" id="btn-gtype-all" onclick="filterGaugeType('all', this)">
+              🔥 All Calibrations (29)
+            </button>
+            <button class="gauge-type-btn" id="btn-gtype-openers" onclick="filterGaugeType('opener', this)">
+              👋 Email Openers &amp; Greetings (14)
+            </button>
+            <button class="gauge-type-btn" id="btn-gtype-closings" onclick="filterGaugeType('closing', this)">
+              ✉️ Email Closings &amp; Sign-Offs (15)
+            </button>
+          </div>
+
+          <!-- Controls: Search & Temperature Chips -->
+          <div style="margin-top: 16px; display: flex; flex-direction: column; gap: 10px;">
+            <input type="text" id="gauge-search" class="search-input" placeholder="🔍 Search opener or sign-off (e.g. per my previous email, warm regards, best, see attached, govern)..." oninput="filterGaugeSearch(this.value)">
+
+            <div style="display: flex; gap: 8px; flex-wrap: wrap;" id="gauge-temp-chips">
+              <button class="filter-chip active" onclick="filterGaugeTemp('all', this)">All Temperatures</button>
+              <button class="filter-chip" onclick="filterGaugeTemp('subzero', this)">🧊 Sub-Zero &amp; Hostile (-20°C)</button>
+              <button class="filter-chip" onclick="filterGaugeTemp('chilly', this)">❄️ Chilly &amp; Stern (0°C – 10°C)</button>
+              <button class="filter-chip" onclick="filterGaugeTemp('neutral', this)">⚖️ Business Neutral (15°C – 20°C)</button>
+              <button class="filter-chip" onclick="filterGaugeTemp('warm', this)">☀️ Warm &amp; Cordial (25°C – 30°C)</button>
+              <button class="filter-chip" onclick="filterGaugeTemp('boiling', this)">🔥 Boiling / Enthusiastic (35°C+)</button>
+            </div>
+          </div>
         </div>
 
         <div style="display: flex; flex-direction: column; gap: 14px; margin-bottom: 40px;" id="gauge-container">
