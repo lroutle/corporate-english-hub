@@ -654,6 +654,65 @@
     }
 
     /* Gauge Card */
+    
+    /* Full-width Mode 1 & Gauge Enhancements */
+    .corp-card-fullwidth {
+      width: 100%;
+      box-sizing: border-box;
+    }
+    .corp-card-inner {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 24px;
+      align-items: stretch;
+      width: 100%;
+    }
+    @media (max-width: 860px) {
+      .corp-card-inner {
+        grid-template-columns: 1fr;
+        gap: 14px;
+      }
+    }
+
+    .gauge-type-btn {
+      background: #ffffff;
+      border: 1.5px solid #cbd5e1;
+      color: #334155;
+      font-size: 0.85rem;
+      font-weight: 700;
+      padding: 8px 16px;
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .gauge-type-btn:hover {
+      background: #f1f5f9;
+      border-color: #94a3b8;
+    }
+    .gauge-type-btn.active {
+      background: #7c3aed;
+      color: #ffffff;
+      border-color: #7c3aed;
+      box-shadow: 0 2px 4px rgba(124, 58, 237, 0.25);
+    }
+
+    .gauge-temp-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.74rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      letter-spacing: 0.5px;
+    }
+    .temp-subzero { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+    .temp-chilly { background: #f1f5f9; color: #334155; border: 1px solid #cbd5e1; }
+    .temp-neutral { background: #e0f2fe; color: #0369a1; border: 1px solid #bae6fd; }
+    .temp-warm { background: #dcfce7; color: #15803d; border: 1px solid #86efac; }
+    .temp-boiling { background: #fef3c7; color: #92400e; border: 1px solid #fde68a; }
+
     .gauge-row {
       background: #ffffff;
       border: 1px solid var(--border);
@@ -665,7 +724,66 @@
       box-shadow: var(--shadow-sm);
     }
     @media (max-width: 680px) {
-      .gauge-row { flex-direction: column; align-items: flex-start; gap: 8px; }
+      
+    /* Full-width Mode 1 & Gauge Enhancements */
+    .corp-card-fullwidth {
+      width: 100%;
+      box-sizing: border-box;
+    }
+    .corp-card-inner {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 24px;
+      align-items: stretch;
+      width: 100%;
+    }
+    @media (max-width: 860px) {
+      .corp-card-inner {
+        grid-template-columns: 1fr;
+        gap: 14px;
+      }
+    }
+
+    .gauge-type-btn {
+      background: #ffffff;
+      border: 1.5px solid #cbd5e1;
+      color: #334155;
+      font-size: 0.85rem;
+      font-weight: 700;
+      padding: 8px 16px;
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .gauge-type-btn:hover {
+      background: #f1f5f9;
+      border-color: #94a3b8;
+    }
+    .gauge-type-btn.active {
+      background: #7c3aed;
+      color: #ffffff;
+      border-color: #7c3aed;
+      box-shadow: 0 2px 4px rgba(124, 58, 237, 0.25);
+    }
+
+    .gauge-temp-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.74rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      letter-spacing: 0.5px;
+    }
+    .temp-subzero { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+    .temp-chilly { background: #f1f5f9; color: #334155; border: 1px solid #cbd5e1; }
+    .temp-neutral { background: #e0f2fe; color: #0369a1; border: 1px solid #bae6fd; }
+    .temp-warm { background: #dcfce7; color: #15803d; border: 1px solid #86efac; }
+    .temp-boiling { background: #fef3c7; color: #92400e; border: 1px solid #fde68a; }
+
+    .gauge-row { flex-direction: column; align-items: flex-start; gap: 8px; }
     }
 
   </style>
@@ -736,7 +854,7 @@
           🛡️ Mode 2: Raw Emotion → Corporate Shield ("How Do I Say Politely...?")
         </button>
         <button class="corp-mode-btn" id="btn-mode-gauge" onclick="switchCorpMode('gauge')">
-          ✉️ Mode 3: Email Sign-Off Temperature Gauge
+          🌡️ Mode 3: Email Temperature Gauge (Openers &amp; Sign-Offs)
         </button>
         <button class="corp-mode-btn" id="btn-mode-quiz" onclick="switchCorpMode('quiz')">
           🎯 Mode 4: Boardroom Decoder Mini-Quiz
@@ -757,7 +875,7 @@
           </div>
         </div>
 
-        <div id="corp-cards-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 18px; margin-bottom: 40px;">
+        <div id="corp-cards-grid" style="display: flex; flex-direction: column; gap: 16px; margin-bottom: 40px; width: 100%;">
           <!-- Injected via JavaScript -->
         </div>
       </div>
@@ -2066,50 +2184,359 @@
         "trick": "The airtight 'prior personal commitments' shield. No one can ask what they are without violating HR boundaries."
     }
 ];
-    const SIGN_OFF_DATA = [
-    {
-        "sign": "Warm regards,",
-        "temp": "🟢 Warm / Friendly (Level 1)",
-        "meaning": "I actually like you and enjoy working together.",
-        "vibe": "Genuine warmth. Rare in high-pressure finance or legal."
-    },
-    {
-        "sign": "Best regards,",
-        "temp": "🟡 Neutral / Professional (Level 2)",
-        "meaning": "Standard business baseline. Everything is fine.",
-        "vibe": "The white dress shirt of email closings. Cannot go wrong."
-    },
-    {
-        "sign": "Best,",
-        "temp": "🟠 Rushed / Executive (Level 3)",
-        "meaning": "I am busy, self-important, and typing from an iPhone between flights.",
-        "vibe": "Slightly brusque, but harmless. Standard Silicon Valley."
-    },
-    {
-        "sign": "Regards,",
-        "temp": "🔴 Cold War / Hostile (Level 4)",
-        "meaning": "You have severely tested my patience. We are on the brink of conflict.",
-        "vibe": "The loss of 'Best' is intentional. This is a verbal slap."
-    },
-    {
-        "sign": "Thanks in advance,",
-        "temp": "🚨 Mandatory Compliance (Level 5)",
-        "meaning": "You do not have a choice. I have already assumed you will do this.",
-        "vibe": "Preemptive psychological leverage. Closes any room for refusal."
-    },
-    {
-        "sign": "[No sign-off, just a first name]",
-        "temp": "💀 Silent Rage (Level 6)",
-        "meaning": "Pure seething corporate fury. I cannot even bring myself to type a courteous word.",
-        "vibe": "The digital equivalent of a death glare across a conference table."
-    },
-    {
-        "sign": "Govern yourself accordingly,",
-        "temp": "⚖️ Nuclear Legal Action (Level 7)",
-        "meaning": "My attorneys are actively drafting the litigation filing. See you in court.",
-        "vibe": "Official legal warfare. Only seen right before an injunction."
-    }
+    // Master Email Temperature Gauge Data (29 items: Openers & Closings)
+    const EMAIL_GAUGE_DATA = [
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "[No greeting — jumps directly into command or critique]",
+    "example": "See attached. This needs to be redone before 2 PM.",
+    "level": "subzero",
+    "temp": "🧊 Sub-Zero (-20°C)",
+    "temp_label": "Absolute Freeze",
+    "meaning": "I have zero personal respect or time for social niceties. Obey this immediately.",
+    "vibe": "Pure executive intimidation or extreme anger. Total absence of human courtesy.",
+    "advice": "Only acceptable in high-stakes military or triage operations; otherwise perceived as deeply toxic."
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "Per my previous email below,",
+    "example": "Per my previous email below, as already noted on Tuesday...",
+    "level": "subzero",
+    "temp": "🧊 Sub-Zero (-15°C)",
+    "temp_label": "Hostile Weapon",
+    "meaning": "Can you actually read, or do you take pleasure in wasting my time and energy?",
+    "vibe": "The nuclear corporate weapon. Proves in writing that you previously failed to pay attention.",
+    "advice": "Avoid unless you are deliberately escalating a documented failure with CC'd managers."
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "For the avoidance of doubt,",
+    "example": "For the avoidance of doubt, our engineering team never authorized this change.",
+    "level": "subzero",
+    "temp": "🧊 Sub-Zero (-10°C)",
+    "temp_label": "Legal Shield",
+    "meaning": "I am establishing a legal paper trail because I believe you will lie or claim ignorance later.",
+    "vibe": "Pre-litigation defensiveness. Signals complete breakdown of professional trust.",
+    "advice": "Reserve strictly for formal contract disputes or compliance warnings."
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "I am writing to formally place on record...",
+    "example": "I am writing to formally place on record our non-acceptance of this batch.",
+    "level": "subzero",
+    "temp": "🧊 Sub-Zero (-15°C)",
+    "temp_label": "Nuclear Formal",
+    "meaning": "HR, Legal, and executive leadership are blind-copied. You are in serious trouble.",
+    "vibe": "Disciplinary or regulatory paper trail. Panic-inducing for the recipient.",
+    "advice": "Use only when formal grievance or contractual default processes have officially begun."
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "Following up on this. / Any update on this?",
+    "example": "Following up on this. It has now been 4 days.",
+    "level": "chilly",
+    "temp": "❄️ Chilly (5°C)",
+    "temp_label": "Impatient Pressure",
+    "meaning": "You missed the promised deadline and I am tapping my foot impatiently.",
+    "vibe": "Pure task pressure. Strips out all warmth to signal that lateness is unacceptable.",
+    "advice": "Effective when chasing overdue vendors, but soften with 'Hi [Name]' for internal colleagues."
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "Please advise.",
+    "example": "The delivery is rejected at customs. Please advise.",
+    "level": "chilly",
+    "temp": "❄️ Chilly (5°C)",
+    "temp_label": "Hot Potato",
+    "meaning": "You made a mess or dropped the ball. How do you intend to clean this up?",
+    "vibe": "Dumps total responsibility back on your desk with zero assistance or empathy.",
+    "advice": "Often perceived as abrupt and dismissive. Better: 'What would you recommend as our next step?'"
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "To whom it may concern,",
+    "example": "To whom it may concern, I am writing regarding your invoice #402...",
+    "level": "chilly",
+    "temp": "❄️ Chilly (8°C)",
+    "temp_label": "Bureaucratic Void",
+    "meaning": "I couldn't be bothered to research who runs this department, and I expect generic bureaucracy.",
+    "vibe": "Cold, impersonal, robotic distance.",
+    "advice": "Avoid at all costs in modern sales or engineering. Find a real name on LinkedIn or company directories."
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "Dear Sir/Madam,",
+    "example": "Dear Sir/Madam, Please find our company profile attached.",
+    "level": "chilly",
+    "temp": "❄️ Chilly (10°C)",
+    "temp_label": "Victorian Stiffness",
+    "meaning": "I am writing a 19th-century formal letter to an anonymous legal entity.",
+    "vibe": "Extremely stiff, archaic, and distant.",
+    "advice": "Acceptable only in formal bank tender submissions or visa/embassy communications."
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "Hi [Name], I hope this email finds you well.",
+    "example": "Hi Petr, I hope this email finds you well. Regarding the slitting parameters...",
+    "level": "neutral",
+    "temp": "⚖️ Neutral (18°C)",
+    "temp_label": "Corporate Standard",
+    "meaning": "Standard professional ritual. We both know it's a polite template, but it prevents friction.",
+    "vibe": "The crisp white shirt of email openings. Universally accepted and completely safe.",
+    "advice": "The go-to default for initial client contacts, cold emails, and cross-departmental coordination."
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "Good morning [Name], / Good afternoon [Name],",
+    "example": "Good morning Thomas, Please find the updated coil batch report attached.",
+    "level": "neutral",
+    "temp": "⚖️ Neutral (17°C)",
+    "temp_label": "Polite & Respectful",
+    "meaning": "Proper, traditional workplace greeting acknowledging the working day.",
+    "vibe": "Slightly more dignified than 'Hi', popular across manufacturing, banking, and senior engineering.",
+    "advice": "Great when writing to German, Swiss, Austrian, or senior British executives."
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "Dear [Name],",
+    "example": "Dear Dr. Weber, Thank you for sharing your audit schedule.",
+    "level": "neutral",
+    "temp": "⚖️ Neutral (16°C)",
+    "temp_label": "Formal Respect",
+    "meaning": "I respect your seniority or our formal business relationship.",
+    "vibe": "Professional, dignified distance without artificial chumminess.",
+    "advice": "Standard for formal quotations, contracts, audit responses, and senior directors."
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "Hi [Name]! Hope you had a great weekend / Hope your week is off to a good start!",
+    "example": "Hi Sarah! Hope you had a wonderful weekend. Quick question regarding Friday's test...",
+    "level": "warm",
+    "temp": "☀️ Warm (26°C)",
+    "temp_label": "Cordial Rapport",
+    "meaning": "I see you as a valued fellow human being and genuinely enjoy our working partnership.",
+    "vibe": "Energetic and friendly. The exclamation mark signals positive goodwill and approachability.",
+    "advice": "Ideal for established client relationships, team members, and trusted suppliers."
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "Great catching up earlier / Thanks for taking the time to speak today,",
+    "example": "Great catching up earlier today, Marcus. As promised, here is the revised pricing summary...",
+    "level": "warm",
+    "temp": "☀️ Warm (28°C)",
+    "temp_label": "Collaborative Momentum",
+    "meaning": "I appreciated our call and want to keep this productive energy moving forward.",
+    "vibe": "High relational trust. Validates the personal connection before diving into action items.",
+    "advice": "The gold standard follow-up after an RFQ meeting, sales pitch, or project review."
+  },
+  {
+    "type": "opener",
+    "type_label": "👋 Email Opener",
+    "phrase": "Happy Friday [Name]! 🎉 / Hope you're surviving the week!",
+    "example": "Happy Friday Elena! 🎉 Just wanted to close the loop on the packaging sign-off before the weekend.",
+    "level": "boiling",
+    "temp": "🔥 Boiling (38°C)",
+    "temp_label": "Friday Camaraderie",
+    "meaning": "We survived another intense week together; let's wrap this up and enjoy the weekend!",
+    "vibe": "High warmth, casual solidarity, and genuine peer goodwill.",
+    "advice": "Wonderful for close colleagues and friendly long-term partners; avoid in tense dispute negotiations."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Govern yourself accordingly,",
+    "example": "Our legal team has been instructed. Govern yourself accordingly,",
+    "level": "subzero",
+    "temp": "🧊 Sub-Zero (-20°C)",
+    "temp_label": "Nuclear Litigation",
+    "meaning": "Our attorneys are drafting the court filing. See you in litigation.",
+    "vibe": "Final legal warning. Precedes formal injunctions or contract termination.",
+    "advice": "Never use unless instructed by corporate legal counsel."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "[No sign-off, just a first name or initial]",
+    "example": "Redo it. \n\nP.",
+    "level": "subzero",
+    "temp": "🧊 Sub-Zero (-18°C)",
+    "temp_label": "Silent Fury",
+    "meaning": "I am so thoroughly disgusted that I refuse to type even one polite syllable.",
+    "vibe": "Digital death stare. The absence of a sign-off is a loud, deliberate statement.",
+    "advice": "Signals immediate crisis; schedule a face-to-face call immediately to defuse."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Regards,",
+    "example": "The shipment must depart as scheduled. \n\nRegards,",
+    "level": "subzero",
+    "temp": "🧊 Sub-Zero (-12°C)",
+    "temp_label": "Cold War Cut",
+    "meaning": "I have deliberately stripped away 'Best' or 'Warm'. You are currently on probation with me.",
+    "vibe": "The calculated corporate verbal slap. Short, icy, and sharp.",
+    "advice": "The go-to passive-aggressive sign-off when an email thread has deteriorated."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Respectfully,",
+    "example": "We maintain our original technical position. \n\nRespectfully,",
+    "level": "subzero",
+    "temp": "🧊 Sub-Zero (-8°C)",
+    "temp_label": "Formal Dissension",
+    "meaning": "I violently disagree with your decision, but organizational rank compels me to salute.",
+    "vibe": "Military/hierarchical tension. Formally polite, substantively oppositional.",
+    "advice": "Common in government, military contractors, and heavily hierarchical boards."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Your prompt attention to this matter is required,",
+    "example": "Your prompt attention to this matter is required,",
+    "level": "subzero",
+    "temp": "🧊 Sub-Zero (-10°C)",
+    "temp_label": "Executive Ultimatum",
+    "meaning": "Drop everything you are doing and resolve this before the end of the day.",
+    "vibe": "Zero pleasantry, pure coercive authority.",
+    "advice": "Use only for critical safety hazards, emergency plant stoppages, or overdue legal notices."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Thanks in advance,",
+    "example": "Please upload the revised CAD files by 4 PM today. \n\nThanks in advance,",
+    "level": "chilly",
+    "temp": "❄️ Chilly (6°C)",
+    "temp_label": "Presumptive Coercion",
+    "meaning": "You do not have a choice. I have already assumed compliance and closed the door on negotiation.",
+    "vibe": "Preemptive psychological leverage. Closes any room for refusal.",
+    "advice": "Common, but frequently irritates recipients who feel forced into unpaid labor."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Awaiting your response,",
+    "example": "We cannot proceed until you confirm the tolerances. \n\nAwaiting your response,",
+    "level": "chilly",
+    "temp": "❄️ Chilly (4°C)",
+    "temp_label": "Ticking Clock",
+    "meaning": "The ball is squarely in your court and the clock is running down against you.",
+    "vibe": "Heavy pressure. Signals impatience and refusal to accept delays.",
+    "advice": "Useful when suppliers are dragging their feet, but harsh for sensitive client relations."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Best,",
+    "example": "Talk soon. \n\nBest,",
+    "level": "chilly",
+    "temp": "❄️ Chilly (10°C)",
+    "temp_label": "Silicon Valley Brush-Off",
+    "meaning": "I am an ultra-busy executive typing one-handed on an iPhone while boarding a flight.",
+    "vibe": "Harmlessly abrupt, slightly self-important, minimal effort.",
+    "advice": "Very common in the US tech sector; can feel slightly dismissive to Central European partners."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Best regards,",
+    "example": "Looking forward to our meeting next Tuesday. \n\nBest regards,",
+    "level": "neutral",
+    "temp": "⚖️ Neutral (18°C)",
+    "temp_label": "The Gold Standard",
+    "meaning": "Standard, impeccable business courtesy. Everything is running smoothly.",
+    "vibe": "The universally respected corporate baseline. Cannot be misinterpreted.",
+    "advice": "Safe for 95% of all business situations worldwide."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Kind regards,",
+    "example": "Please let me know if you need any additional samples. \n\nKind regards,",
+    "level": "neutral",
+    "temp": "⚖️ Neutral (19°C)",
+    "temp_label": "Commonwealth Polish",
+    "meaning": "Polite, considerate, and professional.",
+    "vibe": "The default in the UK, Australia, New Zealand, and South Africa. A touch softer than 'Best regards'.",
+    "advice": "Outstanding choice when dealing with British or Commonwealth partners."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Sincerely, / Yours sincerely,",
+    "example": "Please find our signed contract attached. \n\nSincerely,",
+    "level": "neutral",
+    "temp": "⚖️ Neutral (16°C)",
+    "temp_label": "Traditional Formal",
+    "meaning": "Formal, classic written correspondence.",
+    "vibe": "Official and ceremonial. Rarely used in day-to-day internal emails.",
+    "advice": "Perfect for formal tender letters, contract submissions, and job offer negotiations."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Warm regards,",
+    "example": "It was wonderful collaborating with your team this quarter. \n\nWarm regards,",
+    "level": "warm",
+    "temp": "☀️ Warm (27°C)",
+    "temp_label": "Genuine Rapport",
+    "meaning": "I genuinely like you as a person and truly enjoy working with you.",
+    "vibe": "Authentic warmth. Transcends purely transactional communication.",
+    "advice": "Ideal for trusted clients, long-term partners, and valued suppliers."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Many thanks, / Thanks again for all your help,",
+    "example": "Thanks again for expediting the slitting run on such short notice! \n\nMany thanks,",
+    "level": "warm",
+    "temp": "☀️ Warm (28°C)",
+    "temp_label": "Heartfelt Gratitude",
+    "meaning": "I recognize the extra effort you put into this deliverable.",
+    "vibe": "Highly appreciative and collaborative.",
+    "advice": "Excellent for building durable cross-departmental goodwill."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Cheers,",
+    "example": "See you at the gate tomorrow morning. \n\nCheers,",
+    "level": "warm",
+    "temp": "☀️ Warm (29°C)",
+    "temp_label": "Casual Commonwealth",
+    "meaning": "We are peers and mates. Zero corporate stiffness.",
+    "vibe": "Extremely casual British/Australian sign-off.",
+    "advice": "Great for daily working chats with UK/Commonwealth peers; avoid in solemn legal matters."
+  },
+  {
+    "type": "closing",
+    "type_label": "✉️ Email Sign-Off",
+    "phrase": "Have a fantastic weekend! 🎉",
+    "example": "That wraps up our Q3 audit! Have a fantastic weekend! 🎉",
+    "level": "boiling",
+    "temp": "🔥 Boiling (38°C)",
+    "temp_label": "Pure Weekend Joy",
+    "meaning": "Let's close our laptops, forget corporate stress, and celebrate the weekend!",
+    "vibe": "High energy, warm, human, and celebratory.",
+    "advice": "Perfect for Friday afternoon sign-offs across all friendly business relations."
+  }
 ];
+    const SIGN_OFF_DATA = EMAIL_GAUGE_DATA.filter(item => item.type === 'closing');
+
     const BOARDROOM_QUIZ_DATA = [
     {
         "q": "1. In the middle of your presentation, the Vice President interrupts: 'Let's take this offline.' What does she really mean?",
@@ -2247,29 +2674,42 @@
       });
 
       if (filtered.length === 0) {
-        grid.innerHTML = '<div style="grid-column:1/-1; padding:30px; text-align:center; color:#64748b;">No corporate phrases matched your search.</div>';
+        grid.innerHTML = '<div style="padding:40px; text-align:center; color:#64748b; background:#f8fafc; border-radius:8px; border:1px dashed #cbd5e1;">No corporate phrases matched your search.</div>';
         return;
       }
 
       grid.innerHTML = filtered.map(item => `
-        <article class="corp-card">
-          <div>
-            <div style="display:flex; justify-content:space-between; align-items:center;">
-              <span style="font-size:0.75rem; font-weight:700; color:#6b21a8; background:#f3e8ff; padding:2px 8px; border-radius:4px;">
-                ${item.category_label}
-              </span>
-              <span class="corp-meter-badge meter-${item.meter_class}">
-                ${item.meter_val}/10 ${item.meter}
-              </span>
+        <article class="corp-card corp-card-fullwidth">
+          <div class="corp-card-inner">
+            <div class="corp-card-col-left">
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 10px; flex-wrap:wrap; gap:8px;">
+                <span style="font-size:0.75rem; font-weight:700; color:#6b21a8; background:#f3e8ff; padding:3px 10px; border-radius:9999px;">
+                  ${item.category_label}
+                </span>
+                <span class="corp-meter-badge meter-${item.meter_class}">
+                  ${item.meter_val}/10 ${item.meter}
+                </span>
+              </div>
+              <div class="corp-phrase-label" style="font-size: 0.76rem; font-weight: 800; text-transform: uppercase; color: #64748b; letter-spacing: 0.5px; margin-bottom: 4px;">
+                👔 Corporate Polish:
+              </div>
+              <div class="corp-phrase-text" style="font-size:1.24rem; font-weight:800; color:#1e1b4b; line-height:1.35; margin: 0 0 10px 0;">
+                “${item.phrase}”
+              </div>
+              <div class="corp-context-note" style="margin-top: 10px; font-size: 0.88rem; color: #475569; background: #f8fafc; padding: 10px 14px; border-radius: var(--radius-sm); border-left: 3px solid #cbd5e1;">
+                💡 <strong>Workplace Context:</strong> ${item.context}
+              </div>
             </div>
-            <div class="corp-phrase-text">“${item.phrase}”</div>
-            <div class="corp-real-box">
-              <div class="corp-real-label">💥 What Native Speakers Actually Mean:</div>
-              <div><strong>“${item.real}”</strong></div>
+            <div class="corp-card-col-right" style="display: flex;">
+              <div class="corp-real-box" style="flex: 1; display: flex; flex-direction: column; justify-content: center; margin-top: 0; padding: 18px 22px; border-left: 5px solid #ef4444; background: #fef2f2; border-radius: 0 8px 8px 0;">
+                <div class="corp-real-label" style="font-size: 0.76rem; font-weight: 800; color: #dc2626; text-transform: uppercase; margin-bottom: 6px; letter-spacing: 0.5px;">
+                  💥 What Native Speakers Actually Mean:
+                </div>
+                <div style="font-size: 1.15rem; font-weight: 800; color: #991b1b; line-height: 1.45;">
+                  “${item.real}”
+                </div>
+              </div>
             </div>
-          </div>
-          <div class="corp-context-note">
-            💡 ${item.context}
           </div>
         </article>
       `).join('');
@@ -2306,19 +2746,94 @@
       if (el) el.classList.toggle('open');
     }
 
+    let currentGaugeType = 'all';
+    let currentGaugeTemp = 'all';
+    let currentGaugeQuery = '';
+
+    function filterGaugeType(type, btn) {
+      currentGaugeType = type;
+      document.querySelectorAll('.gauge-type-btn').forEach(b => b.classList.remove('active'));
+      if (btn) btn.classList.add('active');
+      renderGaugeRows();
+    }
+
+    function filterGaugeTemp(temp, btn) {
+      currentGaugeTemp = temp;
+      document.querySelectorAll('#gauge-temp-chips .filter-chip').forEach(b => b.classList.remove('active'));
+      if (btn) btn.classList.add('active');
+      renderGaugeRows();
+    }
+
+    function filterGaugeSearch(val) {
+      currentGaugeQuery = val.toLowerCase().trim();
+      renderGaugeRows();
+    }
+
     function renderGaugeRows() {
       const c = document.getElementById('gauge-container');
-      if (!c || c.children.length > 0) return;
+      if (!c) return;
 
-      c.innerHTML = SIGN_OFF_DATA.map(item => `
+      const filtered = EMAIL_GAUGE_DATA.filter(item => {
+        if (currentGaugeType !== 'all' && item.type !== currentGaugeType) return false;
+        if (currentGaugeTemp !== 'all' && item.level !== currentGaugeTemp) return false;
+        if (currentGaugeQuery) {
+          const haystack = `${item.phrase} ${item.example} ${item.meaning} ${item.vibe} ${item.advice}`.toLowerCase();
+          if (!haystack.includes(currentGaugeQuery)) return false;
+        }
+        return true;
+      });
+
+      const badge = document.getElementById('gauge-count-badge');
+      if (badge) badge.innerText = `${filtered.length} of ${EMAIL_GAUGE_DATA.length} Calibrations`;
+
+      if (filtered.length === 0) {
+        c.innerHTML = '<div style="padding:40px; text-align:center; color:#64748b; background:#f8fafc; border-radius:8px; border:1px dashed #cbd5e1;">No email openers or closings matched your filter.</div>';
+        return;
+      }
+
+      const tempBadgeClasses = {
+        'subzero': 'gauge-temp-badge temp-subzero',
+        'chilly': 'gauge-temp-badge temp-chilly',
+        'neutral': 'gauge-temp-badge temp-neutral',
+        'warm': 'gauge-temp-badge temp-warm',
+        'boiling': 'gauge-temp-badge temp-boiling'
+      };
+
+      const typeBadgeStyles = {
+        'opener': 'background: #e0e7ff; color: #3730a3;',
+        'closing': 'background: #fdf2f8; color: #9d174d;'
+      };
+
+      c.innerHTML = filtered.map(item => `
         <div class="gauge-row">
-          <div style="min-width:180px;">
-            <strong style="font-size:1.15rem; color:#1e1b4b; font-family:monospace;">“${item.sign}”</strong>
-            <div style="font-size:0.78rem; font-weight:700; margin-top:4px;">${item.temp}</div>
+          <div>
+            <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px; flex-wrap:wrap;">
+              <span style="font-size:0.72rem; font-weight:800; padding:2px 8px; border-radius:4px; text-transform:uppercase; ${typeBadgeStyles[item.type] || ''}">
+                ${item.type_label}
+              </span>
+              <span class="${tempBadgeClasses[item.level] || 'gauge-temp-badge temp-neutral'}">
+                ${item.temp}
+              </span>
+            </div>
+            <strong style="font-size:1.18rem; color:#1e1b4b; font-family:monospace; display:block; line-height:1.35; margin-bottom:6px;">
+              “${item.phrase}”
+            </strong>
+            <div style="font-size:0.78rem; font-weight:700; color:#64748b;">
+              Level: ${item.temp_label}
+            </div>
+            ${item.example ? `<div style="font-size:0.8rem; color:#64748b; margin-top:8px; background:#f8fafc; padding:6px 10px; border-radius:4px; border-left:2px solid #cbd5e1; font-style:italic;">Example: “${item.example}”</div>` : ''}
           </div>
-          <div style="flex:1;">
-            <div style="font-size:0.95rem; font-weight:700; color:#0f172a;">${item.meaning}</div>
-            <div style="font-size:0.82rem; color:#64748b; margin-top:2px; font-style:italic;">${item.vibe}</div>
+          <div>
+            <div style="font-size:0.75rem; font-weight:800; text-transform:uppercase; color:#b91c1c; letter-spacing:0.5px;">
+              💥 What It Actually Signals:
+            </div>
+            <div style="font-size:1.05rem; font-weight:700; color:#0f172a; margin-top:2px; line-height:1.4;">
+              ${item.meaning}
+            </div>
+            <div style="font-size:0.85rem; color:#475569; margin-top:8px; line-height:1.45;">
+              💡 <strong>Workplace Vibe:</strong> ${item.vibe}
+            </div>
+            ${item.advice ? `<div style="font-size:0.84rem; color:#047857; margin-top:6px; background:#ecfdf5; padding:6px 10px; border-radius:4px; border-left:3px solid #10b981;">🛡️ <strong>Executive Advice:</strong> ${item.advice}</div>` : ''}
           </div>
         </div>
       `).join('');
@@ -2377,6 +2892,10 @@
     // Auto-init Corporate cards on load
     document.addEventListener('DOMContentLoaded', () => {
       renderCorpCards();
+      if (typeof renderGaugeRows === 'function') renderGaugeRows();
+      if (typeof renderSpectrumCards === 'function') renderSpectrumCards(3);
+      if (typeof renderCushionTokens === 'function') renderCushionTokens();
+      if (typeof renderDirectScenarios === 'function') renderDirectScenarios();
     });
 
     
