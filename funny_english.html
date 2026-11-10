@@ -818,7 +818,7 @@
       <button class="tab-btn" onclick="showTab('tab-eggcorns', this)">🥚 Eggcorns & Malapropisms</button>
       <button class="tab-btn" onclick="showTab('tab-contronyms', this)">🤯 Contronyms (12)</button>
       <button class="tab-btn" onclick="showTab('tab-phrasals', this)">⚡ Phrasal Verb Madness</button>
-      <button class="tab-btn" onclick="showTab('tab-animals', this)">🐝 Bizarre Collective Nouns (16)</button>
+      <button class="tab-btn" onclick="showTab('tab-animals', this)">🐝 Collective Nouns Quiz (16)</button>
       <button class="tab-btn" onclick="showTab('tab-headlines', this)">📰 Ambiguous Headlines (12)</button>
     </div>
 
@@ -1654,54 +1654,97 @@
 
     <!-- ============================================================== -->
     <!-- TAB 6: BIZARRE COLLECTIVE NOUNS -->
+        <!-- ============================================================== -->
+    <!-- TAB 7: ABSURD COLLECTIVE NOUNS QUIZ (TERMS OF VENERY) -->
     <!-- ============================================================== -->
     <div id="tab-animals" style="display: none;">
-      <div class="section-desc">
-        <h2>🐝 Absurd Collective Nouns: Medieval "Terms of Venery"</h2>
-        <p>
-          In 1486, Dame Juliana Berners published <em>The Book of Saint Albans</em>, creating competitive aristocratic group names for animals. Many of these strange poetic inventions are still officially recognized in the English dictionary:
-        </p>
+      <div class="section-desc" style="background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%); border-left: 6px solid #d97706;">
+        <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:12px;">
+          <div>
+            <h2 style="color: #92400e; font-size: 1.55rem; display: flex; align-items: center; gap: 8px;">
+              🐝 Absurd Collective Nouns: Medieval "Terms of Venery" Quiz
+            </h2>
+            <p style="color: #78350f; font-size: 0.95rem; max-width: 900px; margin-top: 4px;">
+              In 1486, Dame Juliana Berners published <em>The Book of Saint Albans</em>, introducing aristocratic hunting ("venery") group names for animals. Many of these bizarre, poetic, and witty inventions are still recognized in the English dictionary. Can you master all 16 medieval collective nouns?
+            </p>
+          </div>
+          <span style="background: #d97706; color: #fff; font-size: 0.75rem; font-weight: 800; padding: 4px 12px; border-radius: 9999px; text-transform: uppercase;">
+            16 Questions
+          </span>
+        </div>
+
+        <!-- Controls: Score Tracker, Reset, and Study Guide Toggle -->
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 18px; flex-wrap: wrap; gap: 12px; border-top: 1px solid rgba(217, 119, 6, 0.2); padding-top: 14px;">
+          <div style="display: flex; align-items: center; gap: 12px;">
+            <div id="venery-score-badge" style="background: #92400e; color: #ffffff; font-weight: 800; font-size: 0.92rem; padding: 6px 16px; border-radius: 9999px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
+              Score: 0 / 16
+            </div>
+            <button class="filter-chip" onclick="resetVeneryQuiz()" style="border: 1px solid #d97706; color: #92400e; background: #ffffff;">
+              🔄 Reset Quiz
+            </button>
+          </div>
+          <button class="filter-chip active" id="btn-toggle-venery-guide" onclick="toggleVeneryStudyGuide()" style="background: #d97706; color: #ffffff; border-color: #d97706;">
+            📖 Toggle Study Sheet (16 Flashcards)
+          </button>
+        </div>
       </div>
 
-      <div class="cards-grid">
-        <div class="info-card">
-          <span class="card-badge badge-purple">🐦 Birds of Prey & Song</span>
-          <ul style="list-style: none; font-size: 0.95rem; line-height: 1.8;">
-            <li>• A <strong>murder</strong> of crows</li>
-            <li>• A <strong>parliament</strong> of owls</li>
-            <li>• An <strong>unkindness</strong> of ravens</li>
-            <li>• A <strong>flamboyance</strong> of flamingos</li>
-            <li>• An <strong>ostentation</strong> of peacocks</li>
-          </ul>
-        </div>
+      <!-- Collapsible Study Sheet -->
+      <div id="venery-study-guide" style="display: none; margin-bottom: 28px;">
+        <div class="cards-grid">
+          <div class="info-card">
+            <span class="card-badge badge-purple">🐦 Birds of Prey &amp; Song</span>
+            <ul style="list-style: none; font-size: 0.95rem; line-height: 1.8; margin-top: 8px;">
+              <li>• A <strong>murder</strong> of crows</li>
+              <li>• A <strong>parliament</strong> of owls</li>
+              <li>• An <strong>unkindness</strong> of ravens</li>
+              <li>• A <strong>flamboyance</strong> of flamingos</li>
+              <li>• An <strong>ostentation</strong> of peacocks</li>
+            </ul>
+          </div>
 
-        <div class="info-card">
-          <span class="card-badge badge-amber">🦁 Mammals & Predators</span>
-          <ul style="list-style: none; font-size: 0.95rem; line-height: 1.8;">
-            <li>• A <strong>crash</strong> of rhinoceroses</li>
-            <li>• A <strong>pride</strong> of lions</li>
-            <li>• A <strong>cackle</strong> of hyenas</li>
-            <li>• A <strong>bloat</strong> of hippopotamuses</li>
-            <li>• A <strong>shrewdness</strong> of apes</li>
-          </ul>
-        </div>
+          <div class="info-card">
+            <span class="card-badge badge-amber">🦁 Mammals &amp; Predators</span>
+            <ul style="list-style: none; font-size: 0.95rem; line-height: 1.8; margin-top: 8px;">
+              <li>• A <strong>crash</strong> of rhinoceroses</li>
+              <li>• A <strong>pride</strong> of lions</li>
+              <li>• A <strong>cackle</strong> of hyenas</li>
+              <li>• A <strong>bloat</strong> of hippopotamuses</li>
+              <li>• A <strong>shrewdness</strong> of apes</li>
+            </ul>
+          </div>
 
-        <div class="info-card">
-          <span class="card-badge badge-teal">🐼 The Comical & Weird</span>
-          <ul style="list-style: none; font-size: 0.95rem; line-height: 1.8;">
-            <li>• An <strong>embarrassment</strong> of pandas</li>
-            <li>• A <strong>conspiracy</strong> of lemurs</li>
-            <li>• A <strong>prickle</strong> of porcupines</li>
-            <li>• A <strong>business</strong> of ferrets</li>
-            <li>• A <strong>wisdom</strong> of wombats</li>
-            <li>• A <strong>tower</strong> of giraffes</li>
-          </ul>
+          <div class="info-card">
+            <span class="card-badge badge-teal">🐼 The Comical &amp; Weird</span>
+            <ul style="list-style: none; font-size: 0.95rem; line-height: 1.8; margin-top: 8px;">
+              <li>• An <strong>embarrassment</strong> of pandas</li>
+              <li>• A <strong>conspiracy</strong> of lemurs</li>
+              <li>• A <strong>prickle</strong> of porcupines</li>
+              <li>• A <strong>business</strong> of ferrets</li>
+              <li>• A <strong>wisdom</strong> of wombats</li>
+              <li>• A <strong>tower</strong> of giraffes</li>
+            </ul>
+          </div>
         </div>
+      </div>
+
+      <!-- Quiz Questions Container -->
+      <div id="venery-quiz-container" style="display: flex; flex-direction: column; gap: 14px;">
+        <!-- Injected via JavaScript -->
+      </div>
+
+      <!-- Final Celebration Card (shown when 16 answered) -->
+      <div id="venery-results-card" style="display: none; margin-top: 24px; background: linear-gradient(135deg, #78350f 0%, #451a03 100%); color: #ffffff; padding: 26px; border-radius: var(--radius-lg); text-align: center; box-shadow: var(--shadow-md);">
+        <h3 style="font-size: 1.5rem; font-weight: 800; margin-bottom: 8px;" id="venery-results-title">
+          🏹 Medieval Hunt Evaluation
+        </h3>
+        <p style="font-size: 1.05rem; color: #fde68a; margin-bottom: 16px;" id="venery-results-desc"></p>
+        <button class="filter-chip" onclick="resetVeneryQuiz()" style="background: #f59e0b; color: #ffffff; font-weight: 800; padding: 10px 22px; font-size: 0.92rem; border: none; cursor: pointer;">
+          🔄 Retake the Venery Quiz
+        </button>
       </div>
     </div>
 
-    <!-- ============================================================== -->
-    <!-- TAB 7: AMBIGUOUS HEADLINES -->
     <!-- ============================================================== -->
     <div id="tab-headlines" style="display: none;">
       <div class="section-desc">
@@ -2930,6 +2973,7 @@
       if (typeof renderSpectrumCards === 'function') renderSpectrumCards(3);
       if (typeof renderCushionTokens === 'function') renderCushionTokens();
       if (typeof renderDirectScenarios === 'function') renderDirectScenarios();
+      if (typeof renderVeneryQuiz === 'function') renderVeneryQuiz();
     });
 
     
@@ -3566,6 +3610,547 @@
       document.getElementById('direct-quiz-score-badge').innerText = `Score: ${directScenarioScore} / 10`;
     }
 
+    
+    // ================= 🐝 VENERY COLLECTIVE NOUNS QUIZ =================
+    const VENERY_QUIZ_DATA = [
+  {
+    "num": 1,
+    "emoji": "🐦",
+    "animal": "Crows",
+    "q": "In 15th-century English hunting lore, what is the official collective noun for a gathering of crows?",
+    "options": [
+      {
+        "text": "A) cartel",
+        "correct": false
+      },
+      {
+        "text": "B) murder",
+        "correct": true
+      },
+      {
+        "text": "C) gossip",
+        "correct": false
+      },
+      {
+        "text": "D) conspiracy",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A murder of crows! Originating in the medieval Book of Saint Albans, folk superstition associated scavengers with battlefields and omens of death."
+  },
+  {
+    "num": 2,
+    "emoji": "🦉",
+    "animal": "Owls",
+    "q": "If you stumble upon a midnight gathering of owls in an ancient woodland, you are looking at a...",
+    "options": [
+      {
+        "text": "A) parliament",
+        "correct": true
+      },
+      {
+        "text": "B) council",
+        "correct": false
+      },
+      {
+        "text": "C) senate",
+        "correct": false
+      },
+      {
+        "text": "D) synod",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A parliament of owls! Inspired by C.S. Lewis and medieval folklore that viewed owls as wise, solemn lawmakers deliberating under the moonlight."
+  },
+  {
+    "num": 3,
+    "emoji": "🦅",
+    "animal": "Ravens",
+    "q": "What is the classic collective term for ravens, dating back to 1486?",
+    "options": [
+      {
+        "text": "A) treachery",
+        "correct": false
+      },
+      {
+        "text": "B) unkindness",
+        "correct": true
+      },
+      {
+        "text": "C) malice",
+        "correct": false
+      },
+      {
+        "text": "D) darkness",
+        "correct": false
+      }
+    ],
+    "fb": "✓ An unkindness of ravens! Medieval peasants believed ravens were cruel parents that pushed their offspring out of the nest before they could fly."
+  },
+  {
+    "num": 4,
+    "emoji": "🦩",
+    "animal": "Flamingos",
+    "q": "When hundreds of pink flamingos wade together in a tropical lagoon, English officially calls them a...",
+    "options": [
+      {
+        "text": "A) carnival",
+        "correct": false
+      },
+      {
+        "text": "B) flamboyance",
+        "correct": true
+      },
+      {
+        "text": "C) masquerade",
+        "correct": false
+      },
+      {
+        "text": "D) dazzle",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A flamboyance of flamingos! Perfectly captures their vibrant, showy pink plumage and coordinated courtship dances."
+  },
+  {
+    "num": 5,
+    "emoji": "🦏",
+    "animal": "Rhinoceroses",
+    "q": "A heavy-armored group of rhinoceroses running together is termed a...",
+    "options": [
+      {
+        "text": "A) smash",
+        "correct": false
+      },
+      {
+        "text": "B) crash",
+        "correct": true
+      },
+      {
+        "text": "C) thunder",
+        "correct": false
+      },
+      {
+        "text": "D) battering",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A crash of rhinoceroses! Coined because when nearly blind, 2-tonne rhinos run at 50 km/h, they crash directly through trees and brush."
+  },
+  {
+    "num": 6,
+    "emoji": "🦛",
+    "animal": "Hippopotamuses",
+    "q": "A herd of hippopotamuses wallowing in a muddy riverbank is poetically known as a...",
+    "options": [
+      {
+        "text": "A) bloat",
+        "correct": true
+      },
+      {
+        "text": "B) bulk",
+        "correct": false
+      },
+      {
+        "text": "C) basin",
+        "correct": false
+      },
+      {
+        "text": "D) barrel",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A bloat of hippopotamuses! References their massive, barrel-shaped, bloated bodies resting in shallow African waters."
+  },
+  {
+    "num": 7,
+    "emoji": "🐕",
+    "animal": "Hyenas",
+    "q": "A pack of spotted hyenas prowling the savannah is officially called a...",
+    "options": [
+      {
+        "text": "A) giggle",
+        "correct": false
+      },
+      {
+        "text": "B) cackle",
+        "correct": true
+      },
+      {
+        "text": "C) sneer",
+        "correct": false
+      },
+      {
+        "text": "D) scoff",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A cackle of hyenas! Named after their eerie, human-like maniacal vocalizations during social feeding frenzies."
+  },
+  {
+    "num": 8,
+    "emoji": "🐼",
+    "animal": "Pandas",
+    "q": "What wonderfully endearing collective noun describes a group of giant pandas?",
+    "options": [
+      {
+        "text": "A) tumble",
+        "correct": false
+      },
+      {
+        "text": "B) embarrassment",
+        "correct": true
+      },
+      {
+        "text": "C) nap",
+        "correct": false
+      },
+      {
+        "text": "D) bamboozle",
+        "correct": false
+      }
+    ],
+    "fb": "✓ An embarrassment of pandas! Coined to celebrate their notoriously goofy, uncoordinated somersaults and bumbling nature."
+  },
+  {
+    "num": 9,
+    "emoji": "🦡",
+    "animal": "Ferrets",
+    "q": "If you keep multiple pet ferrets together in an enclosure, you officially own a...",
+    "options": [
+      {
+        "text": "A) mischief",
+        "correct": false
+      },
+      {
+        "text": "B) business",
+        "correct": true
+      },
+      {
+        "text": "C) hustle",
+        "correct": false
+      },
+      {
+        "text": "D) scramble",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A business of ferrets! Derives from the Middle English word 'besynes' (busyness/restless activity), describing their hyperactive scurrying."
+  },
+  {
+    "num": 10,
+    "emoji": "🐒",
+    "animal": "Lemurs",
+    "q": "A troop of ring-tailed lemurs huddled together in Madagascar is known as a...",
+    "options": [
+      {
+        "text": "A) conspiracy",
+        "correct": true
+      },
+      {
+        "text": "B) syndicate",
+        "correct": false
+      },
+      {
+        "text": "C) secret",
+        "correct": false
+      },
+      {
+        "text": "D) whisper",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A conspiracy of lemurs! Named because their bright reflective eyes and quiet huddles make them look like plotters in a dark political intrigue."
+  },
+  {
+    "num": 11,
+    "emoji": "🦔",
+    "animal": "Porcupines",
+    "q": "What is the unmistakably descriptive group name for porcupines?",
+    "options": [
+      {
+        "text": "A) needle",
+        "correct": false
+      },
+      {
+        "text": "B) prickle",
+        "correct": true
+      },
+      {
+        "text": "C) barb",
+        "correct": false
+      },
+      {
+        "text": "D) quill",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A prickle of porcupines! An onomatopoeic medieval delight describing their coat of 30,000 defensive barbed quills."
+  },
+  {
+    "num": 12,
+    "emoji": "🦒",
+    "animal": "Giraffes",
+    "q": "What iconic architectural term describes a tall group of giraffes walking across the plains?",
+    "options": [
+      {
+        "text": "A) steeple",
+        "correct": false
+      },
+      {
+        "text": "B) tower",
+        "correct": true
+      },
+      {
+        "text": "C) monument",
+        "correct": false
+      },
+      {
+        "text": "D) column",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A tower of giraffes! Coined because adult giraffes stand over 5.5 meters tall, resembling moving watchtowers across the horizon."
+  },
+  {
+    "num": 13,
+    "emoji": "🦚",
+    "animal": "Peacocks",
+    "q": "When male peacocks gather and strut displaying their iridescent train feathers, they form an...",
+    "options": [
+      {
+        "text": "A) extravagance",
+        "correct": false
+      },
+      {
+        "text": "B) ostentation",
+        "correct": true
+      },
+      {
+        "text": "C) arrogance",
+        "correct": false
+      },
+      {
+        "text": "D) elegance",
+        "correct": false
+      }
+    ],
+    "fb": "✓ An ostentation of peacocks! From Latin 'ostentare' (to display/show off), mocking their extreme aristocratic vanity."
+  },
+  {
+    "num": 14,
+    "emoji": "🦍",
+    "animal": "Apes",
+    "q": "Medieval hunters in 1486 granted a group of apes which cunning collective noun?",
+    "options": [
+      {
+        "text": "A) cunning",
+        "correct": false
+      },
+      {
+        "text": "B) shrewdness",
+        "correct": true
+      },
+      {
+        "text": "C) wisdom",
+        "correct": false
+      },
+      {
+        "text": "D) mischief",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A shrewdness of apes! In Middle English, 'shrewd' meant mischievous or clever at scheming, reflecting their human-like wit."
+  },
+  {
+    "num": 15,
+    "emoji": "🦁",
+    "animal": "Lions",
+    "q": "One of the few medieval venery terms that became completely mainstream in everyday modern English is a...",
+    "options": [
+      {
+        "text": "A) reign",
+        "correct": false
+      },
+      {
+        "text": "B) pride",
+        "correct": true
+      },
+      {
+        "text": "C) majesty",
+        "correct": false
+      },
+      {
+        "text": "D) dominion",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A pride of lions! Medieval heraldry revered the lion as the king of beasts, associating their family groups with noble dignity and pride."
+  },
+  {
+    "num": 16,
+    "emoji": "🐻",
+    "animal": "Wombats",
+    "q": "What philosophical collective noun is reserved for Australia's stocky, burrowing wombats?",
+    "options": [
+      {
+        "text": "A) ponder",
+        "correct": false
+      },
+      {
+        "text": "B) wisdom",
+        "correct": true
+      },
+      {
+        "text": "C) contemplation",
+        "correct": false
+      },
+      {
+        "text": "D) trundle",
+        "correct": false
+      }
+    ],
+    "fb": "✓ A wisdom of wombats! Despite their heavy, slow-moving waddle, folklore awarded them the group title of ancient, stoic philosophers."
+  }
+];
+    let veneryScore = 0;
+    let veneryAnswered = new Set();
+
+    function renderVeneryQuiz() {
+      const c = document.getElementById('venery-quiz-container');
+      if (!c) return;
+
+      c.innerHTML = VENERY_QUIZ_DATA.map((item, qIdx) => `
+        <div class="quiz-question-card" id="vq-card-${qIdx}">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
+            <span style="font-size:0.75rem; font-weight:800; background:#fef3c7; color:#92400e; padding:2px 10px; border-radius:9999px; text-transform:uppercase;">
+              Question ${item.num} of 16 • ${item.emoji} ${item.animal}
+            </span>
+            <span id="vq-status-${qIdx}" style="font-size:0.78rem; font-weight:700; color:#64748b;">
+              Pending
+            </span>
+          </div>
+          <div class="question-prompt" style="font-size:1.06rem; font-weight:700; color:#1e1b4b; line-height:1.4;">
+            ${item.q}
+          </div>
+          <div class="opt-grid">
+            ${item.options.map((opt, oIdx) => `
+              <button class="opt-btn" id="vq-btn-${qIdx}-${oIdx}" onclick="checkVeneryAnswer(${qIdx}, ${oIdx})">
+                ${opt.text}
+              </button>
+            `).join('')}
+          </div>
+          <div class="feedback-note" id="vq-fb-${qIdx}" style="margin-top:12px; font-size:0.9rem; line-height:1.45;">
+            ${item.fb}
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function checkVeneryAnswer(qIdx, oIdx) {
+      if (veneryAnswered.has(qIdx)) return;
+      veneryAnswered.add(qIdx);
+
+      const qItem = VENERY_QUIZ_DATA[qIdx];
+      const selected = qItem.options[oIdx];
+      const parentCard = document.getElementById(`vq-card-${qIdx}`);
+      const statusBadge = document.getElementById(`vq-status-${qIdx}`);
+      const fbBox = document.getElementById(`vq-fb-${qIdx}`);
+
+      // Disable all buttons in question
+      qItem.options.forEach((opt, idx) => {
+        const btn = document.getElementById(`vq-btn-${qIdx}-${idx}`);
+        if (btn) btn.disabled = true;
+      });
+
+      const selectedBtn = document.getElementById(`vq-btn-${qIdx}-${oIdx}`);
+
+      if (selected.correct) {
+        veneryScore++;
+        if (selectedBtn) selectedBtn.classList.add('is-correct');
+        if (parentCard) parentCard.classList.add('correct');
+        if (statusBadge) {
+          statusBadge.innerText = '✓ Correct';
+          statusBadge.style.color = '#15803d';
+        }
+        if (fbBox) fbBox.className = 'feedback-note show fb-ok';
+      } else {
+        if (selectedBtn) selectedBtn.classList.add('is-wrong');
+        if (parentCard) parentCard.classList.add('wrong');
+        // Highlight correct option
+        qItem.options.forEach((opt, idx) => {
+          if (opt.correct) {
+            const correctBtn = document.getElementById(`vq-btn-${qIdx}-${idx}`);
+            if (correctBtn) correctBtn.classList.add('highlight-correct');
+          }
+        });
+        if (statusBadge) {
+          statusBadge.innerText = '✗ Incorrect';
+          statusBadge.style.color = '#b91c1c';
+        }
+        if (fbBox) fbBox.className = 'feedback-note show fb-bad';
+      }
+
+      // Update score display
+      const badge = document.getElementById('venery-score-badge');
+      if (badge) badge.innerText = `Score: ${veneryScore} / 16`;
+
+      // Check for completion
+      if (veneryAnswered.size === VENERY_QUIZ_DATA.length) {
+        showVeneryResults();
+      }
+    }
+
+    function showVeneryResults() {
+      const resCard = document.getElementById('venery-results-card');
+      const title = document.getElementById('venery-results-title');
+      const desc = document.getElementById('venery-results-desc');
+      if (!resCard) return;
+
+      let rank = '';
+      if (veneryScore >= 15) {
+        rank = '👑 Grandmaster of the Royal Hunt (Dame Juliana\'s Chosen Scholar)';
+      } else if (veneryScore >= 12) {
+        rank = '🏹 Chief Falconer of the English Realm';
+      } else if (veneryScore >= 8) {
+        rank = '🐎 Knowledgeable Forest Squire';
+      } else {
+        rank = '🦆 Confused Peasant Wandering in Sherwood Forest';
+      }
+
+      if (title) title.innerText = `${rank} • ${veneryScore} / 16 Correct`;
+      if (desc) desc.innerText = `You have completed the 1486 Terms of Venery Challenge. You scored ${veneryScore} out of 16 (${Math.round(veneryScore / 16 * 100)}%).`;
+      resCard.style.display = 'block';
+      resCard.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+
+    function resetVeneryQuiz() {
+      veneryScore = 0;
+      veneryAnswered.clear();
+      const badge = document.getElementById('venery-score-badge');
+      if (badge) badge.innerText = 'Score: 0 / 16';
+
+      const resCard = document.getElementById('venery-results-card');
+      if (resCard) resCard.style.display = 'none';
+
+      renderVeneryQuiz();
+    }
+
+    function toggleVeneryStudyGuide() {
+      const guide = document.getElementById('venery-study-guide');
+      const btn = document.getElementById('btn-toggle-venery-guide');
+      if (!guide) return;
+
+      if (guide.style.display === 'none') {
+        guide.style.display = 'block';
+        if (btn) btn.innerText = '▲ Hide Study Sheet';
+      } else {
+        guide.style.display = 'none';
+        if (btn) btn.innerText = '📖 Toggle Study Sheet (16 Flashcards)';
+      }
+    }
+
     function showTab(tabId, btn) {
       const tabs = ['tab-corporate', 'tab-directness', 'tab-subtext', 'tab-spelling', 'tab-eggcorns', 'tab-contronyms', 'tab-phrasals', 'tab-animals', 'tab-headlines'];
       tabs.forEach(t => {
@@ -3575,6 +4160,10 @@
 
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
+      if (tabId === 'tab-animals' && typeof renderVeneryQuiz === 'function') {
+        const c = document.getElementById('venery-quiz-container');
+        if (c && c.children.length === 0) renderVeneryQuiz();
+      }
     }
 
     function checkSubtext(btn, isCorrect, fbId) {
