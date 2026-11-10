@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Corporate Translator: Modes 1 & 2 Executive Cheat Sheet</title>
+  <style>
+    @page {
+      size: A4 portrait;
+      margin: 8mm 10mm;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: #0f172a;
+      background: #ffffff;
+      font-size: 8.5pt;
+      line-height: 1.25;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    
+    .page-container {
+      width: 100%;
+      height: 281mm; /* Strict A4 page height minus margins */
+      max-height: 281mm;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      page-break-after: always;
+      break-after: page;
+      position: relative;
+    }
+    .page-container:last-child {
+      page-break-after: avoid;
+      break-after: avoid;
+    }
+
+    /* Header */
+    .header-bar {
+      background: linear-gradient(135deg, #4338ca 0%, #6d28d9 100%);
+      color: #ffffff;
+      padding: 6px 12px;
+      border-radius: 4px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 6px;
+    }
+    .header-title {
+      font-size: 11pt;
+      font-weight: 800;
+      letter-spacing: -0.2px;
+    }
+    .header-subtitle {
+      font-size: 8pt;
+      color: #e0e7ff;
+      margin-top: 1px;
+    }
+    .header-badge {
+      background: rgba(255, 255, 255, 0.2);
+      border: 1px solid rgba(255, 255, 255, 0.35);
+      color: #ffffff;
+      font-size: 7pt;
+      font-weight: 800;
+      padding: 2px 8px;
+      border-radius: 9999px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* Table */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 8pt;
+    }
+    th {
+      background: #f1f5f9;
+      color: #334155;
+      font-weight: 800;
+      text-transform: uppercase;
+      font-size: 7pt;
+      letter-spacing: 0.4px;
+      padding: 4px 6px;
+      border: 1px solid #cbd5e1;
+      text-align: left;
+    }
+    td {
+      padding: 4px 6px;
+      border: 1px solid #e2e8f0;
+      vertical-align: top;
+      line-height: 1.25;
+    }
+    tr:nth-child(even) td {
+      background: #f8fafc;
+    }
+
+    .td-num {
+      width: 18px;
+      text-align: center;
+      font-weight: 800;
+      color: #64748b;
+      font-size: 7.5pt;
+      padding: 4px 2px;
+    }
+    .td-meta {
+      width: 82px;
+    }
+    .td-phrase {
+      width: 44%;
+    }
+    .td-real {
+      width: 44%;
+      background: #fff1f2 !important;
+    }
+    .context-sub {
+      font-size: 7pt;
+      color: #475569;
+      margin-top: 2px;
+      line-height: 1.2;
+    }
+    .real-text {
+      font-weight: 700;
+      color: #991b1b;
+      display: block;
+      line-height: 1.25;
+    }
+
+    /* Badges */
+    .badge {
+      display: inline-block;
+      font-size: 6.5pt;
+      font-weight: 800;
+      padding: 1px 4px;
+      border-radius: 3px;
+      margin-top: 2px;
+    }
+    .badge-mild { background: #dcfce7; color: #166534; }
+    .badge-spicy { background: #fef3c7; color: #92400e; }
+    .badge-hostile { background: #fee2e2; color: #991b1b; }
+    .badge-nuclear { background: #fce7f3; color: #9d174d; }
+    .cat-tag {
+      font-size: 6.5pt;
+      font-weight: 700;
+      color: #475569;
+      display: block;
+      line-height: 1.1;
+    }
+
+    /* Mode 2 Table Styles */
+    .td-raw {
+      width: 28%;
+      background: #fef2f2 !important;
+      color: #991b1b;
+    }
+    .raw-label {
+      font-size: 6.5pt;
+      font-weight: 800;
+      text-transform: uppercase;
+      color: #dc2626;
+      margin-bottom: 1px;
+    }
+    .td-shield {
+      width: 40%;
+      background: #f0fdf4 !important;
+      color: #14532d;
+    }
+    .shield-label {
+      font-size: 6.5pt;
+      font-weight: 800;
+      text-transform: uppercase;
+      color: #16a34a;
+      margin-bottom: 1px;
+    }
+    .td-trick {
+      width: 30%;
+    }
+    .trick-text {
+      font-size: 7.2pt;
+      color: #334155;
+      line-height: 1.2;
+    }
+
+    /* Footer */
+    .footer-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid #cbd5e1;
+      padding-top: 3px;
+      margin-top: 4px;
+      font-size: 6.5pt;
+      color: #64748b;
+      font-weight: 600;
+    }
+
+    /* Screen-only Print Bar */
+    @media screen {
+      body {
+        background: #cbd5e1;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+      }
+      .print-btn-bar {
+        position: sticky;
+        top: 10px;
+        z-index: 9999;
+        background: #1e1b4b;
+        color: #ffffff;
+        padding: 12px 24px;
+        border-radius: 9999px;
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+      }
+      .btn-print {
+        background: #22c55e;
+        color: #ffffff;
+        border: none;
+        padding: 8px 18px;
+        border-radius: 9999px;
+        font-weight: 800;
+        cursor: pointer;
+        font-size: 0.9rem;
+      }
+      .page-container {
+        background: #ffffff;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        border-radius: 4px;
+        padding: 8mm 10mm;
+        width: 210mm;
+        height: 297mm;
+        max-height: 297mm;
+      }
+    }
+    @media print {
+      .print-btn-bar {
+        display: none !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="print-btn-bar">
+    <span>📄 <strong>Corporate Translator Cheat Sheet</strong> (Modes 1 &amp; 2 • Exactly 3 A4 Pages)</span>
+    <button class="btn-print" onclick="window.print()">🖨️ Print / Save to PDF</button>
+  </div>
+
+  <!-- ==================== PAGE 1: MODE 1 (PART 1) ==================== -->
+  <section class="page-container">
+    <div>
+      <div class="header-bar">
+        <div>
+          <div class="header-title">📱 The Corporate Translator: Executive Survival Cheat Sheet</div>
+          <div class="header-subtitle">Mode 1: Corporate Speak ↔ Honest English (Setting Boundaries &amp; Passive-Aggressive Fire)</div>
+        </div>
+        <div class="header-badge">Page 1 of 3 • Mode 1 (Part 1)</div>
+      </div>
+
+      <table>
+        <thead>
+          <tr>
+            <th style="width: 18px;">#</th>
+            <th style="width: 82px;">Category / Heat</th>
+            <th style="width: 44%;">👔 Corporate Polish (What Was Said)</th>
+            <th style="width: 44%;">💥 Savage Translation (What It Actually Means)</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+        <tr>
+          <td class="td-num">1</td>
+          <td class="td-meta"><span class='cat-tag'>🛑 Setting Boundaries</span><br><span class='badge badge-spicy'>6/10</span></td>
+          <td class="td-phrase">
+            <strong>“I encourage you to take the initiative on this.”</strong>
+            <div class="context-sub">💡 Used when a colleague asks you how to do something that is literally their job description.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“Do not ask me to hold your hand through basic tasks.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">2</td>
+          <td class="td-meta"><span class='cat-tag'>🛑 Setting Boundaries</span><br><span class='badge badge-mild'>5/10</span></td>
+          <td class="td-phrase">
+            <strong>“I trust your judgment on this matter.”</strong>
+            <div class="context-sub">💡 A polite way to refuse getting pulled into someone else's decision-making risk.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“I do not care. Stop emailing me for permission to make minor routine decisions.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">3</td>
+          <td class="td-meta"><span class='cat-tag'>🛑 Setting Boundaries</span><br><span class='badge badge-hostile'>8/10</span></td>
+          <td class="td-phrase">
+            <strong>“Please feel free to take the lead on running with that.”</strong>
+            <div class="context-sub">💡 The classic punishment for volunteering an unprompted suggestion in front of management.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“You brought up this annoying, unnecessary idea in the meeting, so now you suffer the workload.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">4</td>
+          <td class="td-meta"><span class='cat-tag'>🛑 Setting Boundaries</span><br><span class='badge badge-spicy'>7/10</span></td>
+          <td class="td-phrase">
+            <strong>“Let's divide and conquer.”</strong>
+            <div class="context-sub">💡 Sounds collaborative, but almost always results in asymmetric workload distribution.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“I will do the easy 5-minute part; you get the miserable 6-hour spreadsheet disaster.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">5</td>
+          <td class="td-meta"><span class='cat-tag'>🛑 Setting Boundaries</span><br><span class='badge badge-spicy'>6.5/10</span></td>
+          <td class="td-phrase">
+            <strong>“I have limited bandwidth at the moment.”</strong>
+            <div class="context-sub">💡 Borrowing computer networking terminology ('bandwidth') to sound technical instead of admitting you refuse to do extra work.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“I am not doing this. Go away and leave me alone.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">6</td>
+          <td class="td-meta"><span class='cat-tag'>🛑 Setting Boundaries</span><br><span class='badge badge-hostile'>8.5/10</span></td>
+          <td class="td-phrase">
+            <strong>“I will let you run with this.”</strong>
+            <div class="context-sub">💡 A classic middle-management move to delegate risk while preserving upside.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“If this succeeds, I'll take credit; if it crashes catastrophically, it is 100% on you.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">7</td>
+          <td class="td-meta"><span class='cat-tag'>🛑 Setting Boundaries</span><br><span class='badge badge-mild'>4/10</span></td>
+          <td class="td-phrase">
+            <strong>“Let me re-route you to [Colleague].”</strong>
+            <div class="context-sub">💡 The professional hot-potato toss to prevent unwanted projects landing in your inbox.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“This is completely not my problem. Go bother someone else.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">8</td>
+          <td class="td-meta"><span class='cat-tag'>⚔️ Passive-Aggressive Fire</span><br><span class='badge badge-nuclear'>9.5/10</span></td>
+          <td class="td-phrase">
+            <strong>“Per my previous email...”</strong>
+            <div class="context-sub">💡 The absolute king of corporate hostility. Used when you already answered their exact question in writing.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“Can you actually read, or should I record an audio book for you?”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">9</td>
+          <td class="td-meta"><span class='cat-tag'>⚔️ Passive-Aggressive Fire</span><br><span class='badge badge-hostile'>7.5/10</span></td>
+          <td class="td-phrase">
+            <strong>“As per our discussion earlier today...”</strong>
+            <div class="context-sub">💡 Creating a paper trail right after a verbal meeting to lock the other person into their commitments.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“I am putting this in writing immediately so you cannot lie about it later.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">10</td>
+          <td class="td-meta"><span class='cat-tag'>⚔️ Passive-Aggressive Fire</span><br><span class='badge badge-nuclear'>10/10</span></td>
+          <td class="td-phrase">
+            <strong>“Correct me if I'm wrong, but...”</strong>
+            <div class="context-sub">💡 Never used when someone is actually uncertain. Always introduces undeniable proof of someone's blunder.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“I know with 100% certainty that I am right, and I am about to publicly humiliate you with receipts.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">11</td>
+          <td class="td-meta"><span class='cat-tag'>⚔️ Passive-Aggressive Fire</span><br><span class='badge badge-hostile'>9/10</span></td>
+          <td class="td-phrase">
+            <strong>“Help me understand your thought process here...”</strong>
+            <div class="context-sub">💡 Disguises total disbelief and contempt behind a veneer of empathetic coaching.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“What on earth were you thinking? This makes zero logical sense.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">12</td>
+          <td class="td-meta"><span class='cat-tag'>⚔️ Passive-Aggressive Fire</span><br><span class='badge badge-spicy'>6.5/10</span></td>
+          <td class="td-phrase">
+            <strong>“Just circling back on this.”</strong>
+            <div class="context-sub">💡 The polite reminder that will progressively escalate every 48 hours until you reply.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“You have been ignoring me for a week and I haven't forgotten.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">13</td>
+          <td class="td-meta"><span class='cat-tag'>⚔️ Passive-Aggressive Fire</span><br><span class='badge badge-spicy'>7/10</span></td>
+          <td class="td-phrase">
+            <strong>“Any updates on this?”</strong>
+            <div class="context-sub">💡 The 4-word email that triggers instant anxiety across office cubicles worldwide.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“Why isn't this done yet? Stop stalling.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">14</td>
+          <td class="td-meta"><span class='cat-tag'>⚔️ Passive-Aggressive Fire</span><br><span class='badge badge-hostile'>8/10</span></td>
+          <td class="td-phrase">
+            <strong>“Going forward, let's ensure we align on...”</strong>
+            <div class="context-sub">💡 The executive reprimand disguised as collaborative forward-looking strategy.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“Never make that stupid mistake ever again.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">15</td>
+          <td class="td-meta"><span class='cat-tag'>⚔️ Passive-Aggressive Fire</span><br><span class='badge badge-spicy'>7.5/10</span></td>
+          <td class="td-phrase">
+            <strong>“There appears to be a slight disconnect.”</strong>
+            <div class="context-sub">💡 Using the minimizer 'slight disconnect' to downplay a total operational catastrophe.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“You have completely misunderstood everything from day one.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">16</td>
+          <td class="td-meta"><span class='cat-tag'>⚔️ Passive-Aggressive Fire</span><br><span class='badge badge-hostile'>8.5/10</span></td>
+          <td class="td-phrase">
+            <strong>“Thanks for pointing that out!”</strong>
+            <div class="context-sub">💡 The exclamation mark weaponized as a smile while grinding your teeth.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“Nobody asked you, nobody cares, and you just wasted everybody's time with a minor pedantic detail.”</span>
+          </td>
+        </tr>
+        
+        </tbody>
+      </table>
+    </div>
+
+    <div class="footer-bar">
+      <span>Corporate English Hub • Mode 1: The Savage Decoder</span>
+      <span>Confidential &amp; Executive Training Material • tatra-sales-english-2026.web.app</span>
+      <span>Page 1 of 3</span>
+    </div>
+  </section>
+
+  <!-- ==================== PAGE 2: MODE 1 (PART 2) ==================== -->
+  <section class="page-container">
+    <div>
+      <div class="header-bar">
+        <div>
+          <div class="header-title">📱 The Corporate Translator: Executive Survival Cheat Sheet</div>
+          <div class="header-subtitle">Mode 1: Corporate Speak ↔ Honest English (Meeting Escapes &amp; Executive Jargon)</div>
+        </div>
+        <div class="header-badge">Page 2 of 3 • Mode 1 (Part 2)</div>
+      </div>
+
+      <table>
+        <thead>
+          <tr>
+            <th style="width: 18px;">#</th>
+            <th style="width: 82px;">Category / Heat</th>
+            <th style="width: 44%;">👔 Corporate Polish (What Was Said)</th>
+            <th style="width: 44%;">💥 Savage Translation (What It Actually Means)</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+        <tr>
+          <td class="td-num">1</td>
+          <td class="td-meta"><span class='cat-tag'>☕ Meeting Escapes</span><br><span class='badge badge-hostile'>8/10</span></td>
+          <td class="td-phrase">
+            <strong>“Let's take this offline.”</strong>
+            <div class="context-sub">💡 Used to shut down a rabbit hole or sensitive dispute during a large group presentation.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“Shut up immediately. You are embarrassing our department in front of the VP / client.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">2</td>
+          <td class="td-meta"><span class='cat-tag'>☕ Meeting Escapes</span><br><span class='badge badge-spicy'>7/10</span></td>
+          <td class="td-phrase">
+            <strong>“Let's put a pin in that.”</strong>
+            <div class="context-sub">💡 A polite execution of an idea without having to bluntly say 'no'.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“We will never speak of this idea again for the rest of human history.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">3</td>
+          <td class="td-meta"><span class='cat-tag'>☕ Meeting Escapes</span><br><span class='badge badge-spicy'>7/10</span></td>
+          <td class="td-phrase">
+            <strong>“Let's table this for now.”</strong>
+            <div class="context-sub">💡 In US business, 'tabling' something means postponing or killing it (contrasting with UK where it means discussing it now).</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“This idea is dead and buried. Moving on.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">4</td>
+          <td class="td-meta"><span class='cat-tag'>☕ Meeting Escapes</span><br><span class='badge badge-mild'>2/10</span></td>
+          <td class="td-phrase">
+            <strong>“I'll give you 10 minutes of your day back!”</strong>
+            <div class="context-sub">💡 Framed as a benevolent philanthropic gift of time to attendees.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“I am desperately trying to escape this pointless meeting before someone asks another question.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">5</td>
+          <td class="td-meta"><span class='cat-tag'>☕ Meeting Escapes</span><br><span class='badge badge-hostile'>8.5/10</span></td>
+          <td class="td-phrase">
+            <strong>“Let's hop on a quick 5-minute call.”</strong>
+            <div class="context-sub">💡 The '5-minute call' that has never, in corporate history, lasted less than 30 minutes.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“I refuse to type two sentences, so I am going to hijack 35 minutes of your afternoon.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">6</td>
+          <td class="td-meta"><span class='cat-tag'>☕ Meeting Escapes</span><br><span class='badge badge-mild'>1/10</span></td>
+          <td class="td-phrase">
+            <strong>“Can everyone see my screen?”</strong>
+            <div class="context-sub">💡 The mandatory opening ritual of every Microsoft Teams and Zoom call on Earth.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“Please validate that technology is working so I don't talk to an empty void for 15 minutes.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">7</td>
+          <td class="td-meta"><span class='cat-tag'>☕ Meeting Escapes</span><br><span class='badge badge-mild'>1/10</span></td>
+          <td class="td-phrase">
+            <strong>“I think you're on mute.”</strong>
+            <div class="context-sub">💡 The universal phrase of the remote working era.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“You have been mouthing words to yourself like a goldfish for two whole minutes.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">8</td>
+          <td class="td-meta"><span class='cat-tag'>👔 Executive Jargon</span><br><span class='badge badge-nuclear'>9/10</span></td>
+          <td class="td-phrase">
+            <strong>“We need to do more with less this quarter.”</strong>
+            <div class="context-sub">💡 Executive speak for cost-cutting while demanding the exact same or higher output.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“We fired three people, and now you have their workload with zero pay increase.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">9</td>
+          <td class="td-meta"><span class='cat-tag'>👔 Executive Jargon</span><br><span class='badge badge-nuclear'>10/10</span></td>
+          <td class="td-phrase">
+            <strong>“We are like a family here.”</strong>
+            <div class="context-sub">💡 The single biggest red flag in corporate recruiting and HR culture.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“We expect unpaid overtime, weekend Slack replies, and emotional guilt trips.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">10</td>
+          <td class="td-meta"><span class='cat-tag'>👔 Executive Jargon</span><br><span class='badge badge-hostile'>8.5/10</span></td>
+          <td class="td-phrase">
+            <strong>“It's a fast-paced, dynamic environment.”</strong>
+            <div class="context-sub">💡 Job description translation for zero structure, zero onboarding, and constant panic.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“It is complete chaos, nothing is documented, and everyone is permanently overwhelmed.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">11</td>
+          <td class="td-meta"><span class='cat-tag'>👔 Executive Jargon</span><br><span class='badge badge-hostile'>8/10</span></td>
+          <td class="td-phrase">
+            <strong>“A great learning and growth opportunity!”</strong>
+            <div class="context-sub">💡 Used to convince junior employees to take on thankless tasks without additional pay.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“A miserable, unglamorous assignment that everyone senior successfully dodged.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">12</td>
+          <td class="td-meta"><span class='cat-tag'>👔 Executive Jargon</span><br><span class='badge badge-spicy'>7/10</span></td>
+          <td class="td-phrase">
+            <strong>“Competitive salary package.”</strong>
+            <div class="context-sub">💡 Means the salary is competing with your monthly rent and barely winning.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“Completely average pay, but we have free tap water and fruit in the kitchen on Wednesdays.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">13</td>
+          <td class="td-meta"><span class='cat-tag'>👔 Executive Jargon</span><br><span class='badge badge-hostile'>8.5/10</span></td>
+          <td class="td-phrase">
+            <strong>“We are executing a strategic pivot.”</strong>
+            <div class="context-sub">💡 Rebranding an expensive failure as an intentional agile maneuver.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“Our previous 9-month plan failed catastrophically and leadership is panicking.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">14</td>
+          <td class="td-meta"><span class='cat-tag'>👔 Executive Jargon</span><br><span class='badge badge-nuclear'>9.5/10</span></td>
+          <td class="td-phrase">
+            <strong>“Streamlining operational efficiencies.”</strong>
+            <div class="context-sub">💡 The universal corporate euphemism for headcount reduction.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“Mass layoffs are imminent. Update your LinkedIn profile tonight.”</span>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">15</td>
+          <td class="td-meta"><span class='cat-tag'>👔 Executive Jargon</span><br><span class='badge badge-spicy'>7.5/10</span></td>
+          <td class="td-phrase">
+            <strong>“Let's look at the optics of this.”</strong>
+            <div class="context-sub">💡 Prioritizing public relations and vanity metrics over actual operational reality.</div>
+          </td>
+          <td class="td-real">
+            <span class="real-text">“It doesn't matter if this works or is true; how does it look on LinkedIn and to the board?”</span>
+          </td>
+        </tr>
+        
+        </tbody>
+      </table>
+
+      <!-- Executive Pro-Tip Box -->
+      <div style="margin-top: 6px; background: #f5f3ff; border: 1px solid #c4b5fd; border-left: 4px solid #7c3aed; padding: 6px 10px; border-radius: 4px; font-size: 7.5pt; color: #4c1d95; line-height: 1.25;">
+        <strong>💡 Master Principle of Corporate Decoding:</strong> When an English-speaking colleague or manager uses hyper-polite corporate formulas (<em>"Correct me if I'm wrong"</em>, <em>"Per my previous email"</em>, <em>"Let's take this offline"</em>), they are rarely being polite. They are applying social pressure, establishing a legal paper trail, or shielding their time. Always decode the subtext before formulating your response.
+      </div>
+    </div>
+
+    <div class="footer-bar">
+      <span>Corporate English Hub • Mode 1: The Savage Decoder</span>
+      <span>Confidential &amp; Executive Training Material • tatra-sales-english-2026.web.app</span>
+      <span>Page 2 of 3</span>
+    </div>
+  </section>
+
+  <!-- ==================== PAGE 3: MODE 2 (SHIELD GENERATOR) ==================== -->
+  <section class="page-container">
+    <div>
+      <div class="header-bar" style="background: linear-gradient(135deg, #0f766e 0%, #0369a1 100%);">
+        <div>
+          <div class="header-title">🛡️ The Corporate Shield Generator: Self-Defense Handbook</div>
+          <div class="header-subtitle">Mode 2: Raw Human Frustration → Bulletproof HR-Approved Corporate Shields (15 Scenarios)</div>
+        </div>
+        <div class="header-badge" style="background: rgba(255,255,255,0.25);">Page 3 of 3 • Mode 2 Complete</div>
+      </div>
+
+      <table>
+        <thead>
+          <tr>
+            <th style="width: 18px;">#</th>
+            <th style="width: 28%;">🤬 What You Want to Say (Raw)</th>
+            <th style="width: 40%;">🛡️ Bulletproof Corporate Shield</th>
+            <th style="width: 30%;">🧠 The Psychological Tactic &amp; Why It Works</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+        <tr>
+          <td class="td-num">1</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“I already told you this last week and you clearly didn't read it.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“Re-attaching the timeline shared on Tuesday for ease of reference.”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 By re-attaching the exact previous email with the timestamp visible, you prove they ignored you without using aggressive words.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">2</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“Stop giving me impossible deadlines.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“To ensure this meets our quality standards, could you help clarify the priority order among current deliverables?”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 Forces the requester to confront reality: if they want task B done, task A will have to wait.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">3</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“That is 100% not my job.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“That falls outside of my current scope of responsibilities, but I can direct you to the team best equipped to handle that.”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 Establishes a firm professional boundary while still appearing helpful by providing a redirect.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">4</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“I am not working this weekend.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“I will be disconnected from email over the weekend, but will prioritize this first thing Monday morning.”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 States disconnection as an established fact rather than a negotiation or an apology.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">5</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“You're paying me for engineering, not manual administrative data entry.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“To maximize ROI on my technical bandwidth, let's explore automating or delegating these manual entries.”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 Frames your refusal in financial terms that executives love: 'Return on Investment (ROI) of my expensive time'.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">6</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“Stop emailing me at 9 PM on a Friday.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“Please note my standard working hours are 8am–5pm CET. I will review this upon my return to the office.”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 Neutral, firm boundary setting that reminds the sender of professional boundaries.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">7</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“I don't care at all. Just pick whatever.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“I defer to your operational expertise on this matter.”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 Flutters their ego ('your expertise') while absolving you of all decision-making effort.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">8</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“That is the dumbest proposal I have ever heard.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“That is certainly an interesting perspective; however, given our current strategic priorities, let's keep that on the backburner for now.”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 Labels it 'interesting' before quietly pushing it into the corporate abyss where ideas go to die.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">9</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“You messed this up, don't try to blame me.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“As flagged in my risk assessment email dated October 14th, this outcome was anticipated if the recommended mitigation steps were not taken.”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 The ultimate corporate 'receipt'. Citing an exact date and email eliminates any possibility of scapegoating.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">10</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“Stop micromanaging me and let me do my work.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“I have full visibility on this deliverable and will provide comprehensive updates during our scheduled weekly sync.”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 Politely communicates: 'Stop checking in on me every 2 hours; you will hear from me on Friday'.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">11</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“I have no idea what you are talking about.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“Could you provide additional background context to help me better understand the overarching objective?”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 Instead of admitting confusion, you subtly imply their explanation was disorganized and incomplete.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">12</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“That sounds like a 'you' problem, not a 'me' problem.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“I recommend liaising directly with your department lead to align on internal resource allocation.”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 Kicks the ball entirely into their court without a shred of hostility.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">13</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“Did you really think I wouldn't notice you didn't do it?”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“Just following up to ensure this critical deliverable hasn't slipped through the cracks.”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 Provides a face-saving exit ('slipped through the cracks') while letting them know you caught them.</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">14</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“I am completely burned out and taking a day off.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“I will be taking a personal day to recharge and will return with full capacity on Tuesday.”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 Normalizes mental health and energy management as a business asset ('return with full capacity').</div>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="td-num">15</td>
+          <td class="td-raw">
+            <div class="raw-label">🤬 Raw Thought:</div>
+            <strong>“I am not coming to your voluntary team-building event.”</strong>
+          </td>
+          <td class="td-shield">
+            <div class="shield-label">🛡️ Corporate Shield:</div>
+            <strong>“Unfortunately, I have prior personal commitments and will be unable to attend, but hope everyone has a fantastic time!”</strong>
+          </td>
+          <td class="td-trick">
+            <div class="trick-text">🧠 The airtight 'prior personal commitments' shield. No one can ask what they are without violating HR boundaries.</div>
+          </td>
+        </tr>
+        
+        </tbody>
+      </table>
+    </div>
+
+    <div class="footer-bar">
+      <span>Corporate English Hub • Mode 2: The Corporate Shield Generator</span>
+      <span>Confidential &amp; Executive Training Material • tatra-sales-english-2026.web.app</span>
+      <span>Page 3 of 3</span>
+    </div>
+  </section>
+
+</body>
+</html>
