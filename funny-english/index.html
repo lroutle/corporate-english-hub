@@ -4171,13 +4171,33 @@
         if (el) el.style.display = (t === tabId) ? 'block' : 'none';
       });
 
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
+      document.querySelectorAll('.tab-btn').forEach(b => {
+        const onclickAttr = b.getAttribute('onclick') || '';
+        b.classList.toggle('active', onclickAttr.includes(`'${tabId}'`));
+      });
+      if (btn) btn.classList.add('active');
       if (tabId === 'tab-animals' && typeof renderVeneryQuiz === 'function') {
         const c = document.getElementById('venery-quiz-container');
         if (c && c.children.length === 0) renderVeneryQuiz();
       }
     }
+
+    function applyHashNavigation() {
+      const rawHash = (window.location.hash || '').replace(/^#/, '').trim();
+      if (!rawHash) return;
+      const validTabs = ['tab-corporate', 'tab-directness', 'tab-subtext', 'tab-spelling', 'tab-eggcorns', 'tab-contronyms', 'tab-phrasals', 'tab-animals', 'tab-headlines'];
+      if (validTabs.includes(rawHash)) {
+        showTab(rawHash);
+      } else if (rawHash.startsWith('corp-')) {
+        showTab('tab-corporate');
+        const subMode = rawHash.replace('corp-', '');
+        if (['savage', 'shield', 'gauge', 'quiz'].includes(subMode) && typeof switchCorpView === 'function') {
+          switchCorpView(subMode);
+        }
+      }
+    }
+    window.addEventListener('hashchange', applyHashNavigation);
+    document.addEventListener('DOMContentLoaded', applyHashNavigation);
 
     function checkSubtext(btn, isCorrect, fbId) {
       const parentCard = btn.closest('.quiz-question-card');

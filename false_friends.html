@@ -2115,6 +2115,15 @@
     renderCards();
     renderMatrix();
     renderQuiz();
+
+    function applyFFHashNavigation() {
+      const rawHash = (window.location.hash || '').replace(/^#/, '').replace(/^tab-/, '').trim();
+      if (['tutorial', 'horror', 'quiz', 'table'].includes(rawHash)) {
+        switchTab(rawHash);
+      }
+    }
+    window.addEventListener('hashchange', applyFFHashNavigation);
+    applyFFHashNavigation();
   </script>
 </body>
 </html>
