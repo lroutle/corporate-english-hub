@@ -1,0 +1,1013 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Executive Communication, Data & Pronunciation Hub | Universal Business English</title>
+  <style>
+    :root {
+      --navy: #0f172a;
+      --slate: #1e293b;
+      --primary: #2563eb;
+      --primary-dark: #1d4ed8;
+      --accent-purple: #7c3aed;
+      --accent-emerald: #059669;
+      --accent-amber: #d97706;
+      --accent-rose: #e11d48;
+      --bg: #f8fafc;
+      --card: #ffffff;
+      --border: #e2e8f0;
+      --text: #0f172a;
+      --muted: #64748b;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+      --shadow: 0 4px 10px -2px rgba(0,0,0,0.08);
+      --font: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: var(--font); background: var(--bg); color: var(--text); line-height: 1.55; min-height: 100vh; display: flex; flex-direction: column; }
+
+    /* Hero Header */
+    .hero {
+      background: linear-gradient(135deg, #0b1528 0%, #1e293b 60%, #1e3a8a 100%);
+      color: #fff;
+      padding: 28px 24px 22px;
+      border-bottom: 4px solid #38bdf8;
+    }
+    .hero-inner { max-width: 1240px; margin: 0 auto; }
+    .hero-top { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 14px; }
+    .hero-badge {
+      display: inline-flex; align-items: center; gap: 6px;
+      background: rgba(56, 189, 248, 0.18); border: 1px solid rgba(56, 189, 248, 0.4);
+      color: #7dd3fc; padding: 4px 12px; border-radius: 9999px;
+      font-size: 0.76rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;
+      margin-bottom: 8px;
+    }
+    .hero h1 { font-size: 1.85rem; font-weight: 800; letter-spacing: -0.02em; }
+    .hero p { color: #cbd5e1; font-size: 0.94rem; margin-top: 4px; max-width: 780px; }
+    .back-link {
+      color: #e2e8f0; text-decoration: none; font-size: 0.82rem; font-weight: 700;
+      background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2);
+      padding: 8px 14px; border-radius: 8px; transition: all 0.2s;
+    }
+    .back-link:hover { background: rgba(255,255,255,0.2); }
+
+    /* Primary 5-Tab Bar */
+    .tab-bar {
+      background: #fff;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 800;
+      box-shadow: var(--shadow-sm);
+    }
+    .tab-bar-inner {
+      max-width: 1240px; margin: 0 auto; padding: 10px 20px;
+      display: flex; gap: 8px; flex-wrap: wrap;
+    }
+    .tab-btn {
+      background: #f1f5f9; border: 1px solid #cbd5e1; color: #334155;
+      padding: 9px 15px; border-radius: 9px; font-size: 0.84rem; font-weight: 700;
+      cursor: pointer; font-family: inherit; transition: all 0.18s;
+      display: inline-flex; align-items: center; gap: 7px;
+    }
+    .tab-btn:hover { background: #e2e8f0; color: #0f172a; }
+    .tab-btn.active {
+      background: var(--navy); color: #fff; border-color: var(--navy);
+      box-shadow: 0 2px 6px rgba(15,23,42,0.2);
+    }
+
+    /* Main Container */
+    .main-wrap { max-width: 1240px; margin: 24px auto 48px; padding: 0 20px; flex: 1; width: 100%; }
+    .tab-panel { display: none; animation: fadeIn 0.2s ease; }
+    .tab-panel.active { display: block; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+
+    /* Section Banner */
+    .section-banner {
+      background: #fff; border: 1px solid var(--border); border-left: 5px solid var(--primary);
+      border-radius: 12px; padding: 18px 22px; margin-bottom: 20px; box-shadow: var(--shadow-sm);
+      display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;
+    }
+    .section-banner h2 { font-size: 1.35rem; font-weight: 800; color: var(--navy); }
+    .section-banner p { font-size: 0.9rem; color: var(--muted); margin-top: 3px; max-width: 820px; }
+
+    /* Sub-mode Pills */
+    .submode-bar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
+    .sub-btn {
+      background: #fff; border: 1.5px solid #cbd5e1; color: #334155;
+      padding: 8px 15px; border-radius: 9999px; font-size: 0.82rem; font-weight: 700;
+      cursor: pointer; font-family: inherit; transition: all 0.15s;
+    }
+    .sub-btn:hover { border-color: var(--primary); color: var(--primary); }
+    .sub-btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+
+    /* Cards & Grids */
+    .grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 480px), 1fr)); gap: 18px; }
+    .grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr)); gap: 16px; }
+    .card {
+      background: #fff; border: 1px solid var(--border); border-radius: 12px;
+      padding: 18px 20px; box-shadow: var(--shadow-sm);
+    }
+    .tag {
+      display: inline-block; font-size: 0.72rem; font-weight: 800; text-transform: uppercase;
+      padding: 3px 9px; border-radius: 9999px; letter-spacing: 0.4px;
+    }
+    .tag-blue { background: #dbeafe; color: #1e40af; }
+    .tag-red { background: #fee2e2; color: #991b1b; }
+    .tag-green { background: #d1fae5; color: #065f46; }
+    .tag-amber { background: #fef3c7; color: #92400e; }
+    .tag-purple { background: #ede9fe; color: #5b21b6; }
+
+    /* UK vs US Clash Boxes */
+    .clash-split {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 12px;
+    }
+    .clash-box {
+      padding: 11px 13px; border-radius: 8px; font-size: 0.86rem;
+    }
+    .clash-uk { background: #eff6ff; border-left: 3px solid #2563eb; }
+    .clash-us { background: #fef2f2; border-left: 3px solid #dc2626; }
+    .clash-advice {
+      margin-top: 10px; padding: 9px 12px; border-radius: 7px;
+      background: #ecfdf5; border-left: 3px solid #059669; font-size: 0.83rem; color: #065f46;
+    }
+
+    /* KPI Spin Simulator */
+    .spin-tabs { display: flex; gap: 6px; margin: 12px 0; flex-wrap: wrap; }
+    .spin-btn {
+      padding: 6px 12px; border-radius: 6px; border: 1px solid #cbd5e1;
+      background: #f8fafc; font-size: 0.78rem; font-weight: 700; cursor: pointer; font-family: inherit;
+    }
+    .spin-btn.active-panic { background: #fee2e2; border-color: #ef4444; color: #991b1b; }
+    .spin-btn.active-neutral { background: #fef3c7; border-color: #f59e0b; color: #92400e; }
+    .spin-btn.active-exec { background: #d1fae5; border-color: #10b981; color: #065f46; }
+    .spin-output {
+      padding: 13px 15px; border-radius: 8px; background: #f8fafc; border: 1px solid #e2e8f0;
+      font-size: 0.92rem; line-height: 1.5; min-height: 76px;
+    }
+
+    /* Audio Pronunciation Buttons */
+    .audio-row { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+    .btn-speak {
+      display: inline-flex; align-items: center; gap: 5px;
+      padding: 6px 12px; border-radius: 6px; border: 1px solid #cbd5e1;
+      background: #f1f5f9; color: #0f172a; font-size: 0.78rem; font-weight: 700;
+      cursor: pointer; font-family: inherit; transition: all 0.15s;
+    }
+    .btn-speak:hover { background: #dbeafe; border-color: #2563eb; color: #1e40af; }
+    .phonetic-pill {
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      background: #fef3c7; color: #92400e; padding: 3px 9px; border-radius: 5px;
+      font-size: 0.84rem; font-weight: 700;
+    }
+
+    /* BLUF Waffle Cutter */
+    .bluf-compare { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 12px; }
+    .bluf-before { background: #fef2f2; border: 1px solid #fecaca; border-radius: 9px; padding: 14px; font-size: 0.87rem; color: #7f1d1d; }
+    .bluf-after { background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: 9px; padding: 14px; font-size: 0.89rem; color: #064e3b; display: none; }
+    .bluf-after.shown { display: block; animation: fadeIn 0.25s ease; }
+    .btn-trim {
+      margin-top: 10px; padding: 8px 14px; border-radius: 7px; border: none;
+      background: var(--accent-emerald); color: #fff; font-weight: 700; font-size: 0.82rem;
+      cursor: pointer; font-family: inherit;
+    }
+    .btn-trim:hover { opacity: 0.92; }
+
+    /* Quiz Styling */
+    .quiz-bar {
+      background: #fff; border: 1px solid var(--border); border-radius: 10px;
+      padding: 12px 18px; margin-bottom: 16px; display: flex; justify-content: space-between;
+      align-items: center; flex-wrap: wrap; gap: 10px;
+    }
+    .score-pill {
+      background: #dbeafe; color: #1e40af; padding: 5px 14px; border-radius: 9999px;
+      font-weight: 800; font-size: 0.86rem;
+    }
+    .quiz-card {
+      background: #fff; border: 1px solid var(--border); border-radius: 11px;
+      padding: 16px 20px; margin-bottom: 14px; box-shadow: var(--shadow-sm);
+    }
+    .quiz-card.correct { border-left: 5px solid #10b981; }
+    .quiz-card.wrong { border-left: 5px solid #ef4444; }
+    .quiz-q { font-size: 0.98rem; font-weight: 700; color: var(--navy); margin-bottom: 11px; }
+    .opt-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 9px; }
+    .opt-btn {
+      text-align: left; padding: 10px 14px; border-radius: 8px;
+      border: 1.5px solid #cbd5e1; background: #f8fafc; color: #1e293b;
+      font-size: 0.86rem; font-weight: 600; cursor: pointer; font-family: inherit;
+      transition: all 0.15s;
+    }
+    .opt-btn:hover:not(:disabled) { border-color: var(--primary); background: #eff6ff; }
+    .opt-btn:disabled { cursor: default; }
+    .opt-btn.is-correct { background: #dcfce7; border-color: #16a34a; color: #14532d; font-weight: 800; }
+    .opt-btn.is-wrong { background: #fee2e2; border-color: #dc2626; color: #7f1d1d; }
+    .opt-btn.reveal-correct { background: #d1fae5; border-color: #059669; color: #065f46; font-weight: 700; }
+    .quiz-fb {
+      display: none; margin-top: 10px; padding: 9px 13px; border-radius: 7px; font-size: 0.85rem;
+    }
+    .quiz-fb.show { display: block; }
+    .quiz-fb.ok { background: #dcfce7; color: #14532d; }
+    .quiz-fb.bad { background: #fee2e2; color: #7f1d1d; }
+
+    /* Table */
+    .clean-table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: var(--shadow-sm); font-size: 0.87rem; }
+    .clean-table th { background: #f1f5f9; color: #475569; text-align: left; padding: 10px 14px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.4px; }
+    .clean-table td { padding: 11px 14px; border-top: 1px solid #f1f5f9; vertical-align: top; }
+    .clean-table tr:hover td { background: #f8fafc; }
+
+    /* Timeline Selector */
+    .timeline-box {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 10px; margin-bottom: 18px;
+    }
+    .tl-card {
+      background: #fff; border: 2px solid #e2e8f0; border-radius: 10px; padding: 14px;
+      cursor: pointer; transition: all 0.15s; text-align: left; font-family: inherit;
+    }
+    .tl-card:hover { border-color: var(--primary); }
+    .tl-card.active { border-color: var(--primary); background: #eff6ff; }
+
+    .footer { background: #fff; border-top: 1px solid var(--border); padding: 18px; text-align: center; color: var(--muted); font-size: 0.82rem; }
+
+    @media (max-width: 768px) {
+      .clash-split, .bluf-compare { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="hero-top">
+        <div>
+          <span class="hero-badge">💼 Universal Business English • Pure English Toolkit</span>
+          <h1>Executive Communication, Data & Pronunciation Hub</h1>
+          <p>5 high-impact interactive modules for international professionals: Euro-English & UK/US Traps, KPI & Data Storytelling, Corporate Pronunciation with Live Audio, BLUF Executive Summaries, and Business Tense Accountability.</p>
+        </div>
+        <a href="../index.html" class="back-link">← Assessor Cockpit</a>
+      </div>
+    </div>
+  </header>
+
+  <nav class="tab-bar" role="tablist">
+    <div class="tab-bar-inner">
+      <button class="tab-btn active" onclick="showMainTab('tab-euro', this)">🌍 Lost in Euro-English</button>
+      <button class="tab-btn" onclick="showMainTab('tab-kpi', this)">📊 Numbers & KPI Storytelling</button>
+      <button class="tab-btn" onclick="showMainTab('tab-pron', this)">🔊 Pronunciation Minefield</button>
+      <button class="tab-btn" onclick="showMainTab('tab-bluf', this)">🧠 Say It in 30s (BLUF)</button>
+      <button class="tab-btn" onclick="showMainTab('tab-tense', this)">⏱️ Tense Time-Machine</button>
+    </div>
+  </nav>
+
+  <main class="main-wrap">
+
+    <!-- ==================== TAB 1: LOST IN EURO-ENGLISH ==================== -->
+    <section id="tab-euro" class="tab-panel active">
+      <div class="section-banner" style="border-left-color: #2563eb;">
+        <div>
+          <h2>🌍 Lost in Euro-English: UK vs. US vs. International Supplier Traps</h2>
+          <p>When a British director says <em>"Let's table that proposal"</em>, they mean <strong>discuss it right now</strong>. When an American director says it, they mean <strong>cancel/shelve it</strong>. Decode transatlantic clashes and continental Euro-English habits.</p>
+        </div>
+      </div>
+
+      <div class="submode-bar">
+        <button class="sub-btn active" onclick="switchSub('euro', 'clashes', this)">🇬🇧🇺🇸 UK vs. US Boardroom Clashes (12)</button>
+        <button class="sub-btn" onclick="switchSub('euro', 'supplier', this)">🇪🇺 Euro-English Supplier Decoder (12)</button>
+        <button class="sub-btn" onclick="switchSub('euro', 'quiz', this)">🎯 International Traps Quiz (12)</button>
+      </div>
+
+      <div id="euro-clashes" class="grid-2"></div>
+      <div id="euro-supplier" style="display:none;"></div>
+      <div id="euro-quiz" style="display:none;">
+        <div class="quiz-bar">
+          <strong>🎯 International Misunderstanding Diagnostic</strong>
+          <div>
+            <span class="score-pill" id="euro-score">Score: 0 / 12</span>
+            <button class="btn-speak" style="margin-left:8px;" onclick="resetQuiz('euro')">↺ Reset</button>
+          </div>
+        </div>
+        <div id="euro-quiz-list"></div>
+      </div>
+    </section>
+
+    <!-- ==================== TAB 2: NUMBERS & KPI STORYTELLING ==================== -->
+    <section id="tab-kpi" class="tab-panel">
+      <div class="section-banner" style="border-left-color: #059669;">
+        <div>
+          <h2>📊 Numbers That Lie & Graphs That Persuade: Executive Data Storytelling</h2>
+          <p>Stop saying <em>"the number went up/down."</em> Master boardroom trend verbs, reframe ugly KPI drops without lying, and pronounce decimals, tolerances, and millions with zero hesitation.</p>
+        </div>
+      </div>
+
+      <div class="submode-bar">
+        <button class="sub-btn active" onclick="switchSub('kpi', 'spin', this)">🎛️ Bad-News KPI Spin Simulator (6)</button>
+        <button class="sub-btn" onclick="switchSub('kpi', 'verbs', this)">📈 Trend Verb Calibrator</button>
+        <button class="sub-btn" onclick="switchSub('kpi', 'spoken', this)">🔢 Spoken Numbers & Tolerances Quiz (10)</button>
+      </div>
+
+      <div id="kpi-spin" class="grid-2"></div>
+      <div id="kpi-verbs" style="display:none;"></div>
+      <div id="kpi-spoken" style="display:none;">
+        <div class="quiz-bar">
+          <strong>🔢 Spoken Numbers, Ratios & Tolerances Challenge</strong>
+          <div>
+            <span class="score-pill" id="kpi-score">Score: 0 / 10</span>
+            <button class="btn-speak" style="margin-left:8px;" onclick="resetQuiz('kpi')">↺ Reset</button>
+          </div>
+        </div>
+        <div id="kpi-quiz-list"></div>
+      </div>
+    </section>
+
+    <!-- ==================== TAB 3: PRONUNCIATION MINEFIELD ==================== -->
+    <section id="tab-pron" class="tab-panel">
+      <div class="section-banner" style="border-left-color: #7c3aed;">
+        <div>
+          <h2>🔊 The Corporate Pronunciation Minefield (Live UK & US Audio)</h2>
+          <p>Click <strong>🇬🇧 UK</strong> or <strong>🇺🇸 US</strong> on any card to hear native pronunciation via your browser's speech engine. Master silent letters, technical words, noun/verb stress shifts, and dangerous near-homophones.</p>
+        </div>
+      </div>
+
+      <div class="submode-bar">
+        <button class="sub-btn active" onclick="switchSub('pron', 'silent', this)">🔇 Silent Letters & Tech Words (18)</button>
+        <button class="sub-btn" onclick="switchSub('pron', 'stress', this)">⚡ Noun vs. Verb Stress Shifts (10)</button>
+        <button class="sub-btn" onclick="switchSub('pron', 'homophones', this)">🎭 Near-Homophones Quiz (12)</button>
+      </div>
+
+      <div id="pron-silent" class="grid-3"></div>
+      <div id="pron-stress" class="grid-2" style="display:none;"></div>
+      <div id="pron-homophones" style="display:none;">
+        <div class="quiz-bar">
+          <strong>🎭 Dangerous Near-Homophones Diagnostic</strong>
+          <div>
+            <span class="score-pill" id="pron-score">Score: 0 / 12</span>
+            <button class="btn-speak" style="margin-left:8px;" onclick="resetQuiz('pron')">↺ Reset</button>
+          </div>
+        </div>
+        <div id="pron-quiz-list"></div>
+      </div>
+    </section>
+
+    <!-- ==================== TAB 4: SAY IT IN 30 SECONDS (BLUF) ==================== -->
+    <section id="tab-bluf" class="tab-panel">
+      <div class="section-banner" style="border-left-color: #d97706;">
+        <div>
+          <h2>🧠 "Say It in 30 Seconds" — Executive Summary & Waffle Cutter (BLUF)</h2>
+          <p><strong>BLUF = Bottom Line Up Front.</strong> Busy directors stop reading after line 2. Practice cutting bloated 80-word emails and rambling updates into crisp 20-word executive takeaways.</p>
+        </div>
+      </div>
+
+      <div class="submode-bar">
+        <button class="sub-btn active" onclick="switchSub('bluf', 'cutter', this)">✂️ Interactive Waffle Cutter (8)</button>
+        <button class="sub-btn" onclick="switchSub('bluf', 'fillers', this)">🗡️ Filler-Phrase Assassin (16)</button>
+        <button class="sub-btn" onclick="switchSub('bluf', 'quiz', this)">🎯 Pick the Sharpest BLUF Opener (8)</button>
+      </div>
+
+      <div id="bluf-cutter"></div>
+      <div id="bluf-fillers" style="display:none;"></div>
+      <div id="bluf-quiz" style="display:none;">
+        <div class="quiz-bar">
+          <strong>🎯 BLUF Executive Opener Quiz</strong>
+          <div>
+            <span class="score-pill" id="bluf-score">Score: 0 / 8</span>
+            <button class="btn-speak" style="margin-left:8px;" onclick="resetQuiz('bluf')">↺ Reset</button>
+          </div>
+        </div>
+        <div id="bluf-quiz-list"></div>
+      </div>
+    </section>
+
+    <!-- ==================== TAB 5: BUSINESS TENSE TIME-MACHINE ==================== -->
+    <section id="tab-tense" class="tab-panel">
+      <div class="section-banner" style="border-left-color: #e11d48;">
+        <div>
+          <h2>⏱️ Business Tense Time-Machine: Accountability in Status Updates</h2>
+          <p>In boardroom English, tense isn't just grammar—it signals <strong>ownership, urgency, and whether a problem is solved or still burning</strong>.</p>
+        </div>
+      </div>
+
+      <div class="submode-bar">
+        <button class="sub-btn active" onclick="switchSub('tense', 'contrast', this)">⚖️ Accountability Contrast Pairs (10)</button>
+        <button class="sub-btn" onclick="switchSub('tense', 'timeline', this)">🧭 Interactive Tense Timeline</button>
+        <button class="sub-btn" onclick="switchSub('tense', 'quiz', this)">🎯 Status-Meeting Tense Quiz (12)</button>
+      </div>
+
+      <div id="tense-contrast" class="grid-2"></div>
+      <div id="tense-timeline" style="display:none;"></div>
+      <div id="tense-quiz" style="display:none;">
+        <div class="quiz-bar">
+          <strong>🎯 Status-Meeting Tense Diagnostic</strong>
+          <div>
+            <span class="score-pill" id="tense-score">Score: 0 / 12</span>
+            <button class="btn-speak" style="margin-left:8px;" onclick="resetQuiz('tense')">↺ Reset</button>
+          </div>
+        </div>
+        <div id="tense-quiz-list"></div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <strong>Executive Communication, Data & Pronunciation Hub</strong> • Pure English Universal Toolkit
+  </footer>
+
+  <script>
+    // ==================== AUDIO SPEECH HELPER ====================
+    function speakText(text, lang) {
+      if (!('speechSynthesis' in window)) {
+        alert('Speech synthesis is not supported in this browser.');
+        return;
+      }
+      window.speechSynthesis.cancel();
+      const u = new SpeechSynthesisUtterance(text);
+      u.lang = lang || 'en-GB';
+      u.rate = 0.92;
+      const voices = window.speechSynthesis.getVoices();
+      const match = voices.find(v => v.lang && v.lang.toLowerCase().startsWith((lang || 'en-GB').toLowerCase()));
+      if (match) u.voice = match;
+      window.speechSynthesis.speak(u);
+    }
+
+    // ==================== DATA: TAB 1 EURO-ENGLISH ====================
+    const UK_US_CLASHES = [
+      { phrase: "Let's table the proposal.", risk: "CRITICAL OPPOSITE", uk: "Put it ON the table to discuss RIGHT NOW.", us: "Put it OFF the table—postpone or cancel it indefinitely.", advice: "Say 'Let's put this on today's agenda' or 'Let's defer this to next week' so nobody misreads your intent." },
+      { phrase: "The results are quite good.", risk: "TONE TRAP", uk: "Mild disappointment ('fairly okay, nothing special').", us: "Genuine praise ('very good, impressive').", advice: "Avoid 'quite' in performance reviews—use 'solid', 'strong', or 'below target'." },
+      { phrase: "We hold a bi-weekly review.", risk: "SCHEDULE CHAOS", uk: "Usually means TWICE per week (or ambiguous).", us: "Usually means EVERY TWO weeks.", advice: "Never use 'bi-weekly' in contracts or invites. Say 'every two weeks' or 'twice a week'." },
+      { phrase: "The director will join momentarily.", risk: "DURATION TRAP", uk: "She will join FOR A BRIEF MOMENT only.", us: "She will join IN A MOMENT (very soon).", advice: "Say 'in two minutes' or 'for a quick five-minute update'." },
+      { phrase: "Meet on the first floor.", risk: "BUILDING CONFUSION", uk: "One level ABOVE street level (European style).", us: "Street / ground level.", advice: "Specify 'ground floor (Level 0)' or 'Level 1' in visitor instructions." },
+      { phrase: "Deadline: 04/07/2026", risk: "DELIVERY DISASTER", uk: "4 July 2026 (DD/MM/YYYY).", us: "April 7, 2026 (MM/DD/YYYY).", advice: "Always write the month as letters in international emails: '7 Apr 2026' or ISO '2026-04-07'." },
+      { phrase: "We need a new pricing scheme.", risk: "REPUTATION TRAP", uk: "Neutral word for an official plan or program.", us: "Sounds shady, deceptive, or illegal ('a pyramid scheme').", advice: "Use 'pricing structure', 'program', or 'framework' with US clients." },
+      { phrase: "That presentation bombed.", risk: "MEANING SHIFT", uk: "Can mean 'failed badly' (though 'went a bomb' means huge success!).", us: "Always means a complete disaster.", advice: "Stick to 'landed well' or 'missed the mark'." },
+      { phrase: "We'll deliver in a fortnight.", risk: "BLANK STARE", uk: "Standard business word for 14 days (2 weeks).", us: "Rarely used; many Americans think it's a video game or medieval word.", advice: "Say 'in two weeks' or give the exact calendar date." },
+      { phrase: "The quote is on the slate.", risk: "OPPOSITE VERB", uk: "To 'slate' someone means to fiercely criticize them.", us: "'Slated for Q3' means scheduled/planned for Q3.", advice: "Use 'scheduled for' instead of 'slated for' in mixed UK/US calls." },
+      { phrase: "I'm on holiday next week.", risk: "CALENDAR TRAP", uk: "Annual personal leave / time off.", us: "A public/national holiday (Americans say 'on vacation' or 'on PTO').", advice: "Say 'out of office (OOO) on annual leave' for universal clarity." },
+      { phrase: "Check the pavement outside Dock 2.", risk: "SAFETY TRAP", uk: "The pedestrian sidewalk.", us: "The asphalt road surface where trucks drive.", advice: "Use 'pedestrian walkway' or 'loading apron' in safety audits." }
+    ];
+
+    const EURO_SUPPLIER_DECODER = [
+      { euro: "Please send the report until Friday.", heard: "Keep sending it continuously non-stop until Friday arrives.", native: "Please send the report BY Friday.", origin: "German 'bis' / Czech 'do'" },
+      { euro: "We will make a meeting next week.", heard: "Sounds slightly unnatural ('construct a meeting').", native: "We will HOLD / SCHEDULE a meeting next week.", origin: "German 'machen' / Czech 'udělat'" },
+      { euro: "What is the actual price?", heard: "Sounds like you think the previous price was fake or a lie.", native: "What is the CURRENT price?", origin: "Pan-European 'aktuell / aktuální'" },
+      { euro: "I will control the shipment.", heard: "Sounds like you want power/authority over the truck.", native: "I will CHECK / INSPECT the shipment.", origin: "Pan-European 'kontrollieren / kontrolovat'" },
+      { euro: "Can we use the beamer?", heard: "Native speakers think you mean a BMW car ('Beemer')!", native: "Can we use the PROJECTOR?", origin: "German/Dutch/Czech 'Beamer'" },
+      { euro: "Call me on my handy.", heard: "Native speakers have no idea what noun 'handy' is.", native: "Call me on my MOBILE (UK) / CELL PHONE (US).", origin: "German 'Handy'" },
+      { euro: "I am in home office today.", heard: "In the UK, the 'Home Office' is the Ministry of the Interior!", native: "I am WORKING FROM HOME (WFH) today.", origin: "DACH / Central Europe" },
+      { euro: "We become the invoice tomorrow.", heard: "Sounds like you are transforming into a piece of paper.", native: "We will RECEIVE the invoice tomorrow.", origin: "German 'bekommen'" },
+      { euro: "It is not so optimal.", heard: "Sounds awkwardly hedged or overly technical.", native: "It is not ideal / It is suboptimal.", origin: "Continental Euro-English" },
+      { euro: "Let's check the know-how.", heard: "Understandable, though slightly dated in modern UK/US tech.", native: "Let's review our technical expertise / IP.", origin: "European corporate loanword" },
+      { euro: "We have a public viewing for the match.", heard: "In US/UK English, a 'public viewing' is an open-casket funeral!", native: "We have a WATCH PARTY / big-screen screening.", origin: "German 'Public Viewing'" },
+      { euro: "Please wear a smoking to the gala.", heard: "Sounds bizarre—smoking is a verb/habit.", native: "Please wear a TUXEDO (US) / DINNER JACKET (UK).", origin: "Continental 'Smoking'" }
+    ];
+
+    const EURO_QUIZ = [
+      { q: "1. Your US client says: 'Let's table the discount discussion for now.' What do they mean?", opts: [{t:"A) Discuss the discount right now", c:false},{t:"B) Postpone or shelve the discount discussion", c:true},{t:"C) Write the discount into a spreadsheet table", c:false}], fb: "In US English, 'table a topic' means to shelve/postpone it. In UK English, it means to bring it forward for immediate discussion." },
+      { q: "2. Which email sentence gives the clearest international deadline?", opts: [{t:"A) Please reply until 04/07/2026.", c:false},{t:"B) Please reply by 7 April 2026.", c:true},{t:"C) Please reply in a fortnight.", c:false}], fb: "'By' sets a deadline (not 'until'), and writing the month in letters prevents the US/UK 04/07 confusion." },
+      { q: "3. A British VP reviews your prototype and says: 'It's quite good.' How should you read that?", opts: [{t:"A) They are thrilled and ready to sign", c:false},{t:"B) They are lukewarm and expect improvements", c:true},{t:"C) They think it is legally non-compliant", c:false}], fb: "In British understatement, 'quite good' usually signals mild disappointment—average, not impressive." },
+      { q: "4. You are presenting to a US board. Which word should you AVOID when describing your loyalty discount plan?", opts: [{t:"A) program", c:false},{t:"B) structure", c:false},{t:"C) scheme", c:true}], fb: "In US English, 'scheme' carries a negative connotation of fraud or manipulation. Use 'program' or 'structure'." },
+      { q: "5. A German supplier writes: 'I am in the Home Office on Thursday.' Why might a British reader smile?", opts: [{t:"A) In the UK, the Home Office is the government Ministry of the Interior", c:true},{t:"B) In the UK, 'office' only means a factory warehouse", c:false},{t:"C) In the UK, Thursday is always a bank holiday", c:false}], fb: "Native speakers say 'working from home (WFH)' rather than 'in home office'." },
+      { q: "6. Which phrase is completely unambiguous for a meeting that happens every 14 days?", opts: [{t:"A) bi-weekly", c:false},{t:"B) every two weeks", c:true},{t:"C) semi-monthly", c:false}], fb: "'Bi-weekly' causes endless confusion because people disagree on whether it means twice a week or every two weeks." },
+      { q: "7. A colleague asks to borrow the 'beamer' before a client pitch. What should you say in natural English?", opts: [{t:"A) projector", c:true},{t:"B) screen-caster", c:false},{t:"C) spotlight", c:false}], fb: "To native English speakers, a 'Beemer' is a BMW car. The presentation device is a 'projector'." },
+      { q: "8. Your American host says: 'The CEO will be with us momentarily.' What does that mean?", opts: [{t:"A) She will arrive very soon", c:true},{t:"B) She can only stay for 30 seconds", c:false},{t:"C) She has cancelled the meeting", c:false}], fb: "In US English, 'momentarily' means 'in a moment (very soon)'. In traditional UK English, it means 'for a brief moment'." },
+      { q: "9. An Austrian partner invites UK guests to a 'public viewing' of the Champions League final. What is the native term?", opts: [{t:"A) open gallery", c:false},{t:"B) watch party", c:true},{t:"C) street cinema", c:false}], fb: "In English, a 'public viewing' refers to paying respects at a funeral! Use 'watch party' or 'big-screen screening'." },
+      { q: "10. Fix the Euro-English sentence: 'We need to make a decision until Monday.'", opts: [{t:"A) We need to do a decision until Monday.", c:false},{t:"B) We need to make a decision by Monday.", c:true},{t:"C) We need to take a decision until Monday.", c:false}], fb: "Use 'make a decision' + 'by Monday' for deadlines." },
+      { q: "11. A UK safety manual says: 'Keep pedestrians on the pavement.' What does 'pavement' mean in the UK?", opts: [{t:"A) The pedestrian sidewalk", c:true},{t:"B) The asphalt truck lane", c:false},{t:"C) The warehouse floor", c:false}], fb: "UK 'pavement' = US 'sidewalk'. US 'pavement' = the paved road surface where vehicles drive." },
+      { q: "12. Fix the Euro-English phrase: 'Could you please control the actual stock levels?'", opts: [{t:"A) Could you please check the current stock levels?", c:true},{t:"B) Could you please govern the real stock levels?", c:false},{t:"C) Could you please audit the actualized stock levels?", c:false}], fb: "'Check/verify' replaces 'control', and 'current' replaces 'actual'." }
+    ];
+
+    // ==================== DATA: TAB 2 NUMBERS & KPIs ====================
+    const KPI_SPIN_DATA = [
+      {
+        metric: "Q3 On-Time Delivery dropped from 97.4% to 93.1% (-4.3 percentage points)",
+        badge: "Logistics & Supply Chain",
+        panic: "“Our delivery performance collapsed this quarter. We missed over 4% of shipments and customers are furious.”",
+        neutral: "“On-time delivery declined by 4.3 percentage points in Q3 to 93.1%, primarily driven by port congestion in August.”",
+        exec: "“Despite temporary August freight bottlenecks that softened Q3 OTD to 93.1%, recovery measures have already restored September dispatch reliability to 96.8%.”"
+      },
+      {
+        metric: "Production scrap rate rose from 1.2% to 2.1% on Line 4",
+        badge: "Manufacturing & Quality",
+        panic: "“Line 4 is producing almost double the scrap and we are throwing away tons of raw material every shift.”",
+        neutral: "“Scrap on Line 4 increased by 0.9 percentage points to 2.1% following the new supplier coil changeover.”",
+        exec: "“During the initial ramp-up of the new raw-material batch, Line 4 experienced a contained 0.9 percentage-point variance in yield; parameter tuning is underway to return below the 1.2% baseline by Friday.”"
+      },
+      {
+        metric: "Raw material cost increased by 11.5% YoY",
+        badge: "Procurement & Finance",
+        panic: "“Supplier prices exploded by over 11% and our entire annual budget is completely blown.”",
+        neutral: "“Year-on-year input costs rose 11.5% due to energy surcharges and aluminum spot-market volatility.”",
+        exec: "“While market-wide commodity headwinds pushed input costs up 11.5% YoY, our multi-supplier hedging strategy kept us 3.2 points below the European industry index.”"
+      },
+      {
+        metric: "IT system experienced 47 minutes of unplanned ERP downtime",
+        badge: "IT & Operations",
+        panic: "“SAP crashed for nearly an hour and the whole factory couldn't print labels or ship anything.”",
+        neutral: "“The ERP cluster recorded 47 minutes of unplanned downtime on Tuesday morning during a database failover.”",
+        exec: "“Following a brief 47-minute ERP interruption, our failover protocol preserved 100% data integrity and full production resumed with zero lost orders; a permanent patch is scheduled for Sunday's maintenance window.”"
+      },
+      {
+        metric: "Q2 Export Revenue was flat at €4.8M (0.2% growth vs 6% target)",
+        badge: "Sales & Commercial",
+        panic: "“Sales completely stalled and we missed our 6% growth target by a mile.”",
+        neutral: "“Export revenue plateaued at €4.8M in Q2, finishing 5.8 percentage points below our initial growth forecast.”",
+        exec: "“Export revenue held resilient at €4.8M amid a contracting regional market; three delayed defense tenders worth €1.4M have shifted into the Q3 pipeline.”"
+      },
+      {
+        metric: "Employee overtime hours rose 18% in October",
+        badge: "Plant Management",
+        panic: "“Everyone is burned out and overtime costs jumped 18% because scheduling is a mess.”",
+        neutral: "“Plant overtime rose 18% month-on-month in October to cover peak seasonal volume.”",
+        exec: "“We strategically deployed an 18% flexible overtime buffer in October to capture €320K in rush orders without delaying core contract commitments.”"
+      }
+    ];
+
+    const TREND_VERBS = [
+      { dir: "📈 Upward (Gentle)", neutral: "rose slightly, edged up, inched higher, ticked up", dramatic: "—", exec: "gained modest momentum, trended favorably" },
+      { dir: "🚀 Upward (Sharp)", neutral: "increased sharply, jumped, climbed", dramatic: "skyrocketed, surged, soared, rocketed", exec: "accelerated strongly, outperformed baseline" },
+      { dir: "📉 Downward (Gentle)", neutral: "dipped, slipped, eased, declined slightly", dramatic: "—", exec: "softened marginally, experienced mild pressure" },
+      { dir: "💥 Downward (Sharp)", neutral: "fell steeply, dropped sharply, contracted", dramatic: "plummeted, plunged, cratered, nosedived", exec: "faced acute headwinds, saw a pronounced contraction" },
+      { dir: "➖ Flat / Stable", neutral: "remained flat, held steady, plateaued, leveled off", dramatic: "stagnated, flatlined, stalled", exec: "stabilized, demonstrated resilience, consolidated" },
+      { dir: "〰️ Volatile / Recovery", neutral: "fluctuated, varied, bounced back, recovered", dramatic: "whipsawed, oscillated wildly", exec: "rebounded, normalized, returned to target corridor" }
+    ];
+
+    const KPI_QUIZ = [
+      { q: "1. How do you pronounce the engineering tolerance '0.05 mm' naturally in English?", opts: [{t:"A) zero comma zero five millimeters", c:false},{t:"B) zero point zero five millimeters", c:true},{t:"C) zero dot oh-five millimeters", c:false}], fb: "English uses 'point' (never 'comma') for decimals: 'zero point zero five' or 'nought point oh five' (UK)." },
+      { q: "2. If scrap increases from 2% to 4%, which statement is mathematically accurate?", opts: [{t:"A) Scrap rose by 2 percentage points (a 100% relative increase)", c:true},{t:"B) Scrap rose by 2% relative to last month", c:false},{t:"C) Scrap rose by 200 percentage points", c:false}], fb: "Going from 2% to 4% is a +2 percentage-point rise, which doubles the rate (+100% relative increase). Confusing % and percentage points is a classic boardroom mistake." },
+      { q: "3. How do you read the figure '€1.45M' aloud in a presentation?", opts: [{t:"A) one point forty-five million euros", c:false},{t:"B) one point four five million euros", c:true},{t:"C) one comma four five millions euro", c:false}], fb: "Read digits after a decimal point individually ('four five', not 'forty-five'), and keep 'million' singular." },
+      { q: "4. How do you pronounce the symbol '±0.02 mm'?", opts: [{t:"A) plus or minus zero point zero two millimeters", c:true},{t:"B) more or less zero comma zero two millimeters", c:false},{t:"C) between plus and minus two hundredths", c:false}], fb: "Read ± cleanly as 'plus or minus'." },
+      { q: "5. What does '1,250' mean in English technical documentation?", opts: [{t:"A) One point two five", c:false},{t:"B) One thousand two hundred and fifty", c:true},{t:"C) Twelve point fifty", c:false}], fb: "English uses commas as thousands separators (1,250) and dots as decimal points (1.250)—the exact opposite of Czech/German." },
+      { q: "6. How do you say the mixing ratio '3:1' in a lab or plant briefing?", opts: [{t:"A) three to one", c:true},{t:"B) three divided by one", c:false},{t:"C) three dots one", c:false}], fb: "Ratios are always spoken as 'X to Y' ('a three-to-one ratio')." },
+      { q: "7. Which verb sounds most calm and executive for a minor 0.6% dip in revenue?", opts: [{t:"A) cratered", c:false},{t:"B) plummeted", c:false},{t:"C) softened", c:true}], fb: "'Softened' or 'dipped slightly' keeps the room calm; 'plummeted' or 'cratered' triggers panic." },
+      { q: "8. How do you pronounce the year '2026' in natural business English?", opts: [{t:"A) twenty twenty-six", c:true},{t:"B) two zero two six", c:false},{t:"C) second thousand twenty-six", c:false}], fb: "'Twenty twenty-six' (or 'two thousand and twenty-six') is standard in spoken English." },
+      { q: "9. What does 'YoY' stand for on a financial slide?", opts: [{t:"A) Yield over Yield", c:false},{t:"B) Year-over-Year", c:true},{t:"C) Yearly Operating Yield", c:false}], fb: "YoY = Year-over-Year (comparing Q3 2026 against Q3 2025). MoM = Month-over-Month." },
+      { q: "10. Which phrase describes a metric that stopped growing and stayed flat at a high level?", opts: [{t:"A) It plateaued", c:true},{t:"B) It plunged", c:false},{t:"C) It whipsawed", c:false}], fb: "'Plateaued' (pronounced PLA-tohd) means rising and then leveling off flat." }
+    ];
+
+    // ==================== DATA: TAB 3 PRONUNCIATION ====================
+    const SILENT_TECH_WORDS = [
+      { w: "Receipt", cheat: "ri-SEET", trap: "Silent P! Never say 'ri-seept'.", ex: "Please attach the hotel receipt to your expense claim." },
+      { w: "Debt", cheat: "DET", trap: "Silent B! Never say 'debt' with a B.", ex: "The subsidiary cleared its short-term debt." },
+      { w: "Subtle", cheat: "SUT-uhl", trap: "Silent B! Not 'sub-tle'.", ex: "There is a subtle difference in surface roughness." },
+      { w: "Gauge", cheat: "GAYJ", trap: "Rhymes with 'page', NOT 'gowj'!", ex: "Check the pressure gauge before opening the valve." },
+      { w: "Chassis", cheat: "SHAS-ee (UK) / CHAS-ee (US)", trap: "Silent final S! Never say 'chas-is'.", ex: "The central backbone tube chassis absorbs torsional stress." },
+      { w: "Archive", cheat: "AR-kyv", trap: "Hard K sound ('kyv'), not 'ar-cheev'.", ex: "We store batch records in the GMP archive for ten years." },
+      { w: "Hierarchy", cheat: "HY-uh-rar-kee", trap: "Starts with 'HIGH', not 'hee-er-ar-kee'.", ex: "Escalate P1 tickets through the support hierarchy." },
+      { w: "Colleague", cheat: "KOL-eeg", trap: "Ends in '-eeg', NOT 'kol-ij' (college).", ex: "My colleague from procurement will join at 2 PM." },
+      { w: "Queue", cheat: "KYOO", trap: "Four silent letters! Pronounced identically to the letter 'Q'.", ex: "Three trucks are waiting in the loading queue." },
+      { w: "Mortgage", cheat: "MOR-gij", trap: "Silent T! Never pronounce the T.", ex: "Interest rates raised commercial mortgage costs." },
+      { w: "Schedule", cheat: "SHED-yool (UK) / SKED-jool (US)", trap: "Both UK and US forms are correct—just pick one cleanly.", ex: "We are two days ahead of the production schedule." },
+      { w: "Prototype", cheat: "PROH-toh-typ", trap: "Stress on first syllable, long 'O' and long 'I'.", ex: "The aluminum prototype passed the drop test." },
+      { w: "Hydraulic", cheat: "hy-DRAW-lik", trap: "Starts with 'HIGH', stress on DRAW.", ex: "Inspect the hydraulic hoses for micro-leaks." },
+      { w: "Pneumatic", cheat: "nyoo-MAT-ik", trap: "Silent P! Starts with N sound.", ex: "The pneumatic actuator switches in 40 milliseconds." },
+      { w: "Maintenance", cheat: "MAYN-tuh-nuhns", trap: "NOT 'main-TAIN-ance'—middle syllable shrinks to 'tuh'.", ex: "Preventive maintenance runs every Sunday night." },
+      { w: "Procurement", cheat: "proh-KYOOR-muhnt", trap: "Stress on KYOOR.", ex: "Strategic procurement locked in Q4 pricing." },
+      { w: "Guarantee", cheat: "ga-ruhn-TEE", trap: "Silent U, stress on final TEE.", ex: "We guarantee 99.5% uptime under the SLA." },
+      { w: "Paradigm", cheat: "PA-ruh-dym", trap: "Silent G! Ends in 'dime'.", ex: "AI vision inspection created a new quality paradigm." }
+    ];
+
+    const STRESS_PAIRS = [
+      { word: "Project", noun: "PRO-ject (a planned piece of work)", verb: "pro-JECT (to forecast or throw onto a screen)", exN: "The foil line PRO-ject launches in May.", exV: "We pro-JECT a 6% growth rate in Q4." },
+      { word: "Record", noun: "RE-cord (a logged document or best mark)", verb: "re-CORD (to capture audio/data)", exN: "Keep a written RE-cord of every deviation.", exV: "Let's re-CORD the meeting for absent staff." },
+      { word: "Contract", noun: "CON-tract (a legal agreement)", verb: "con-TRACT (to shrink or catch)", exN: "Both parties signed the supply CON-tract.", exV: "Metal parts con-TRACT in sub-zero cold." },
+      { word: "Present", noun: "PRE-sent (a gift or the current time)", verb: "pre-SENT (to deliver a talk/slides)", exN: "At PRE-sent, capacity is at 94%.", exV: "I will pre-SENT the Q3 audit on Tuesday." },
+      { word: "Increase", noun: "IN-crease (a rise in amount)", verb: "in-CREASE (to make larger)", exN: "There was a 4% IN-crease in freight costs.", exV: "We plan to in-CREASE line speed by 10%." },
+      { word: "Export", noun: "EX-port (goods shipped abroad)", verb: "ex-PORT (to sell/ship abroad)", exN: "Defense vehicles are our top EX-port.", exV: "We ex-PORT chilled dairy to six countries." },
+      { word: "Import", noun: "IM-port (goods brought in)", verb: "im-PORT (to bring in from abroad)", exN: "Raw aluminum IM-ports face new tariffs.", exV: "We im-PORT specialty reagents from Basel." },
+      { word: "Progress", noun: "PRO-gress (forward movement)", verb: "pro-GRESS (to move forward)", exN: "We made strong PRO-gress on the 8D report.", exV: "How will the validation pro-GRESS next week?" },
+      { word: "Update", noun: "UP-date (new status info)", verb: "up-DATE (to bring up to date)", exN: "Thanks for the quick status UP-date.", exV: "Please up-DATE the ERP inventory table." },
+      { word: "Permit", noun: "PER-mit (an official license)", verb: "per-MIT (to allow)", exN: "You need a hot-work PER-mit for welding.", exV: "Safety rules do not per-MIT open footwear." }
+    ];
+
+    const PRON_QUIZ = [
+      { q: "1. Which word means a set of connected software tools or a luxury hotel room (pronounced 'SWEET')?", opts: [{t:"A) suit", c:false},{t:"B) suite", c:true},{t:"C) sweat", c:false}], fb: "'Suite' is pronounced identically to 'sweet' (Microsoft Office Suite, executive suite). 'Suit' (SOOT) is business attire." },
+      { q: "2. 'If we don't tighten the bolts, the bracket will become _______.'", opts: [{t:"A) lose", c:false},{t:"B) loose", c:true},{t:"C) loss", c:false}], fb: "'Loose' (rhymes with goose) = not tight. 'Lose' (rhymes with choose) = fail to keep." },
+      { q: "3. 'The port strike will directly _______ our Q4 delivery lead times.'", opts: [{t:"A) affect", c:true},{t:"B) effect", c:false},{t:"C) infect", c:false}], fb: "'Affect' is normally the verb (to influence). 'Effect' is normally the noun (the result)." },
+      { q: "4. 'My _______ from the Brno plant will join the call at 10 AM.'", opts: [{t:"A) college", c:false},{t:"B) colleague", c:true},{t:"C) collage", c:false}], fb: "'Colleague' (KOL-eeg) = coworker. 'College' (KOL-ij) = university/school." },
+      { q: "5. 'Could you give me some _______ on how to structure the tender?'", opts: [{t:"A) advise", c:false},{t:"B) advice", c:true},{t:"C) advert", c:false}], fb: "'Advice' (ends in S sound) is the uncountable noun. 'Advise' (ends in Z sound) is the verb." },
+      { q: "6. 'All office _______ (pens, paper, folders) must be ordered through SAP.'", opts: [{t:"A) stationary", c:false},{t:"B) stationery", c:true},{t:"C) sanctuary", c:false}], fb: "'Stationery' with an E = envelopes/paper. 'Stationary' with an A = standing still, not moving." },
+      { q: "7. 'Only authorized _______ are allowed inside the cleanroom.'", opts: [{t:"A) personal", c:false},{t:"B) personnel", c:true},{t:"C) persona", c:false}], fb: "'Personnel' (per-suh-NEL) = staff/employees. 'Personal' (PER-suh-nuhl) = private." },
+      { q: "8. 'This new cooling module will _______ our existing chiller range nicely.'", opts: [{t:"A) compliment", c:false},{t:"B) complement", c:true},{t:"C) implement", c:false}], fb: "'Complement' (with E) = completes/enhances something. 'Compliment' (with I) = praise." },
+      { q: "9. 'I _______ whether the supplier received our revised CAD drawing.'", opts: [{t:"A) wander", c:false},{t:"B) wonder", c:true},{t:"C) ponder", c:false}], fb: "'Wonder' = think/ask oneself. 'Wander' = walk around aimlessly." },
+      { q: "10. Which word has a SILENT 'P'?", opts: [{t:"A) prototype", c:false},{t:"B) pneumatic", c:true},{t:"C) procurement", c:false}], fb: "'Pneumatic' (nyoo-MAT-ik) and 'receipt' (ri-SEET) both have a silent P." },
+      { q: "11. Where is the word stress in the NOUN form: 'We signed the supply _______'?", opts: [{t:"A) CON-tract", c:true},{t:"B) con-TRACT", c:false},{t:"C) equal stress", c:false}], fb: "Two-syllable noun/verb pairs stress the FIRST syllable for the noun (CON-tract) and the SECOND for the verb (con-TRACT)." },
+      { q: "12. How is the word 'gauge' pronounced?", opts: [{t:"A) Rhymes with 'page' (GAYJ)", c:true},{t:"B) Rhymes with 'couch' (GOWJ)", c:false},{t:"C) Rhymes with 'huge' (GYOOJ)", c:false}], fb: "'Gauge' is always pronounced GAYJ—rhyming with 'page' and 'stage'." }
+    ];
+
+    // ==================== DATA: TAB 4 BLUF WAFFLE CUTTER ====================
+    const BLUF_CASES = [
+      {
+        title: "Delay on Aluminum Foil Batch #402",
+        beforeWords: 78, afterWords: 24,
+        before: "Dear Marc, I hope this email finds you well and that you had a nice weekend. I am writing to you because earlier this morning our maintenance team noticed a strange vibration on Slitter #2, and after checking with the technicians and also talking to the warehouse manager about pallet availability, it seems that we will probably not be able to load your order #402 today as planned, so we are thinking about moving it to Thursday morning instead if that works for you.",
+        after: "<strong>Bottom Line:</strong> Order #402 will ship <strong>Thursday at 08:00</strong> (24h delay) due to preventive bearing replacement on Slitter #2.<br><strong>Ask:</strong> Please confirm Thursday's receiving slot works for your dock."
+      },
+      {
+        title: "Requesting Budget Approval for Vision Sensor",
+        beforeWords: 74, afterWords: 23,
+        before: "Hi everyone, as you might remember from last month's quality meeting when we talked about pinhole complaints from dairy clients, we tested three different optical cameras over the past few weeks. Two of them were quite expensive or slow, while the third vendor gave us a really decent quote and good test results. Therefore, I wanted to ask if leadership might be willing to approve €18,500 so we can install it next quarter.",
+        after: "<strong>Decision Needed:</strong> Approve <strong>€18,500</strong> by Friday for Vendor C's optical pinhole sensor.<br><strong>Impact:</strong> Cuts defect escapes by 92% with a 7-month payback period."
+      },
+      {
+        title: "IT Maintenance Window Notification",
+        beforeWords: 69, afterWords: 21,
+        before: "Hello team, just a quick heads-up that our SAP vendor released a security patch last week and our cloud team has been testing it in staging since Tuesday. Because it requires a database restart and we don't want to disturb weekday shifts, we decided that the system will be offline this coming Sunday between 02:00 and 04:00 CET, so please make sure you save your work before then.",
+        after: "<strong>Action Required:</strong> Log out of SAP before <strong>Sunday 02:00 CET</strong>.<br><strong>Impact:</strong> 2-hour security patch window (02:00–04:00); zero impact on Monday shifts."
+      },
+      {
+        title: "Supplier Price Increase Pushback",
+        beforeWords: 72, afterWords: 22,
+        before: "Dear Lukas, thank you very much for sending over the updated Q4 price list yesterday. We appreciate our long-term partnership over the last five years. However, when we looked at the numbers internally with our finance director, the 9% increase is really hard for us to accept right now given current market conditions, so we were wondering if we could meet to discuss keeping Q3 rates until December.",
+        after: "<strong>Position:</strong> We cannot accept the proposed 9% Q4 increase.<br><strong>Proposal:</strong> Hold Q3 rates through December in exchange for a committed Q1 volume forecast."
+      },
+      {
+        title: "Lab HPLC Method Deviation Update",
+        beforeWords: 66, afterWords: 20,
+        before: "Hi QA Team, I wanted to let you know that during yesterday's stability pull for Batch 88B, we saw a small retention-time drift on HPLC #3. We checked the mobile phase and column age and realized the column had exceeded 1,200 injections. We replaced it this morning, re-ran system suitability, and everything is back within specification now.",
+        after: "<strong>Status: Resolved.</strong> Batch 88B HPLC drift was traced to an expired column; replacement passed system suitability with zero product impact."
+      },
+      {
+        title: "Meeting Agenda Reset",
+        beforeWords: 64, afterWords: 19,
+        before: "Hi all, looking at tomorrow's 10:00 call, I know we originally wanted to cover the new truck cabin specs, the Polish tender, and also the warranty claims from last month, but since Jan is out of office and we only have 30 minutes, maybe it makes more sense to just focus on the Polish tender pricing first and move the rest to next week.",
+        after: "<strong>Agenda Update:</strong> Tomorrow's 30-min call will focus strictly on <strong>Polish tender pricing</strong>. Cabin specs and warranty move to next Tuesday."
+      }
+    ];
+
+    const FILLER_ASSASSIN = [
+      { bloated: "Due to the fact that", sharp: "Because" },
+      { bloated: "At this point in time", sharp: "Now / Currently" },
+      { bloated: "In the event that", sharp: "If" },
+      { bloated: "In order to", sharp: "To" },
+      { bloated: "Prior to the start of", sharp: "Before" },
+      { bloated: "With regard to / Pertaining to", sharp: "About / Regarding" },
+      { bloated: "Please do not hesitate to contact me", sharp: "Please reach out / Email me" },
+      { bloated: "We are in the process of reviewing", sharp: "We are reviewing" },
+      { bloated: "Has the capability to", sharp: "Can" },
+      { bloated: "For the purpose of", sharp: "For / To" },
+      { bloated: "In the near future", sharp: "Soon / By [Date]" },
+      { bloated: "Make a decision regarding", sharp: "Decide on" },
+      { bloated: "Take into consideration", sharp: "Consider" },
+      { bloated: "A large number of", sharp: "Many" },
+      { bloated: "Until such time as", sharp: "Until" },
+      { bloated: "I am writing to inform you that", sharp: "(Delete completely—just state the fact!)" }
+    ];
+
+    const BLUF_QUIZ = [
+      { q: "1. You need your director to approve €12,000 for an urgent compressor repair by 3 PM. Pick the sharpest BLUF opener:", opts: [{t:"A) I hope you are having a great week. As you know, our cooling tunnel has been getting older...", c:false},{t:"B) Decision needed by 15:00: Approve €12,000 for emergency Compressor #2 repair to prevent a line halt.", c:true},{t:"C) Regarding the maintenance situation we briefly mentioned last month, we have a quote.", c:false}], fb: "BLUF puts the decision, deadline, euro amount, and business risk in the very first sentence." },
+      { q: "2. Which phrase best replaces 'In the event that the shipment is delayed'?", opts: [{t:"A) Under circumstances where the shipment is delayed", c:false},{t:"B) If the shipment is delayed", c:true},{t:"C) Pertaining to a potential shipment delay", c:false}], fb: "One word ('If') replaces five words of filler with zero loss of professionalism." },
+      { q: "3. What does the acronym BLUF stand for?", opts: [{t:"A) Business Language Under Fire", c:false},{t:"B) Bottom Line Up Front", c:true},{t:"C) Brief Logistics Update Format", c:false}], fb: "BLUF (Bottom Line Up Front) originated in military/executive briefings so decision-makers get the conclusion first." },
+      { q: "4. Which subject line follows BLUF best?", opts: [{t:"A) Quick question", c:false},{t:"B) Update on project", c:false},{t:"C) [ACTION BY FRI] Approve Q4 Foil Spec Rev. 4", c:true}], fb: "Action tag + deadline + exact topic lets the recipient prioritize in 1 second." },
+      { q: "5. Cut the waffle: 'We are currently in the process of conducting an evaluation of three suppliers.'", opts: [{t:"A) We are evaluating three suppliers.", c:true},{t:"B) At this point in time we are making an evaluation of three suppliers.", c:false},{t:"C) An evaluation process is being undertaken by our team.", c:false}], fb: "Active voice + strong verb ('We are evaluating') cuts 13 words down to 5." },
+      { q: "6. When presenting bad news to a busy VP in 30 seconds, what order works best?", opts: [{t:"A) Full chronological history → technical details → bad news at the end", c:false},{t:"B) Headline impact → Containment/Action underway → What you need from them", c:true},{t:"C) Apologize three times → blame the supplier → ask what to do", c:false}], fb: "Executives want: 1) What happened, 2) How it's contained, 3) What decision (if any) they need to make." },
+      { q: "7. Which phrase best replaces 'Due to the fact that we lacked spare parts'?", opts: [{t:"A) Owing to the circumstance that we lacked spare parts", c:false},{t:"B) Because we lacked spare parts", c:true},{t:"C) In consideration of the fact of spare part shortage", c:false}], fb: "'Because' is crisp, direct, and executive." },
+      { q: "8. Why should you delete 'I am writing this email to let you know that...'?", opts: [{t:"A) It is grammatically wrong", c:false},{t:"B) It wastes the first 9 words stating the obvious—they already know you are writing an email", c:true},{t:"C) It is too informal for business", c:false}], fb: "Cutting throat-clearing phrases immediately makes your writing sound more senior and confident." }
+    ];
+
+    // ==================== DATA: TAB 5 TENSE TIME-MACHINE ====================
+    const TENSE_CONTRASTS = [
+      { pair: "Past Simple vs. Present Perfect", a: "“I sent the revised quote yesterday.”", aNote: "Finished past event at a specific time ('yesterday').", b: "“I have sent the revised quote.”", bNote: "Action is complete and RELEVANT NOW—it is sitting in their inbox right now." },
+      { pair: "Present Perfect vs. Present Perfect Continuous", a: "“I have tested three samples.”", aNote: "Focus on COMPLETED RESULT (3 finished).", b: "“I have been testing samples since 8 AM.”", bNote: "Focus on ONGOING EFFORT / DURATION (still working on it)." },
+      { pair: "Closed vs. Open Time Period", a: "“We had two quality claims last quarter.”", aNote: "Last quarter is CLOSED → must use Past Simple.", b: "“We have had two quality claims this quarter.”", bNote: "This quarter is STILL OPEN → use Present Perfect." },
+      { pair: "Finished Work vs. Still Active", a: "“Jan worked on the SAP migration for two years.”", aNote: "He is NO LONGER working on it (finished or left).", b: "“Jan has worked on the SAP migration for two years.”", bNote: "He is STILL working on it today." },
+      { pair: "Will vs. Going to vs. Present Continuous (Future)", a: "“I'll call the carrier right now.”", aNote: "Instant decision / live promise made during the call.", b: "“I'm meeting the carrier at 14:00.”", bNote: "Fixed calendar appointment already confirmed." },
+      { pair: "Past Simple vs. Past Continuous (Incident Reports)", a: "“The sensor tripped and stopped the line.”", aNote: "Sequence of completed events.", b: "“The operator was calibrating the valve when the alarm went off.”", bNote: "Background action in progress interrupted by an incident." },
+      { pair: "Past Simple vs. Past Perfect (Root Cause Order)", a: "“When QA arrived, the shift supervisor quarantined the pallet.”", aNote: "Quarantine happened AFTER QA arrived.", b: "“When QA arrived, the shift supervisor had already quarantined the pallet.”", bNote: "Quarantine happened BEFORE QA arrived (shows proactive control!)." },
+      { pair: "Present Simple vs. Present Continuous", a: "“We ship 40 pallets a week to Germany.”", aNote: "Permanent routine / normal operation.", b: "“We are shipping via Rotterdam this month due to rail works.”", bNote: "Temporary workaround happening right now." },
+      { pair: "Have Been vs. Have Gone", a: "“Lucie has been to the Milan supplier twice.”", aNote: "She visited and came back (experience).", b: "“Lucie has gone to the Milan supplier.”", bNote: "She is there RIGHT NOW (not in the office)." },
+      { pair: "Future Continuous (Polite Scheduling)", a: "“Will you visit the plant tomorrow?”", aNote: "Direct yes/no question (can sound like a request).", b: "“Will you be visiting the plant tomorrow?”", aNote: "Polite check on someone's existing plans." }
+    ];
+
+    const TENSE_TIMELINE = [
+      { id: "past", title: "1. Past Simple (Closed Box)", formula: "Subject + Verb-ed / V2", signals: "yesterday, last week, in 2024, two days ago, at 09:00", ex: "“We resolved the compressor fault at 11:30 yesterday.”", when: "Use when the time period is completely finished. Never pair 'yesterday' or 'last month' with 'have + V3'!" },
+      { id: "pp", title: "2. Present Perfect (Past → Now Bridge)", formula: "have / has + Past Participle (V3)", signals: "already, yet, just, so far, this week/quarter, since, for", ex: "“We have already quarantined the affected batch.”", when: "Use when the exact time doesn't matter—what matters is the CURRENT STATUS right now." },
+      { id: "ppc", title: "3. Present Perfect Continuous (Still Running)", formula: "have / has + been + Verb-ing", signals: "since 08:00, for three hours, all morning, lately", ex: "“Our IT team has been investigating the latency since 09:00.”", when: "Use to show active ongoing effort on an unresolved issue (especially to reassure a waiting client)." },
+      { id: "future", title: "4. Future Precision (Promise vs. Plan vs. Slot)", formula: "will / going to / am+is+are + -ing", signals: "right now (will) • next quarter (going to) • at 14:00 (Present Cont.)", ex: "“I'll email you the PDF now; we're meeting the auditor at 14:00.”", when: "Don't overuse 'will' for confirmed calendar meetings—use Present Continuous for fixed slots." }
+    ];
+
+    const TENSE_QUIZ = [
+      { q: "1. 'We _______ the final PPAP dossier to Ford yesterday afternoon.'", opts: [{t:"A) have submitted", c:false},{t:"B) submitted", c:true},{t:"C) were submitting", c:false}], fb: "'Yesterday afternoon' is a closed past time → always Past Simple ('submitted')." },
+      { q: "2. 'Good news: our lab _______ the purity test, and the batch is ready for release.'", opts: [{t:"A) has completed", c:true},{t:"B) completed last", c:false},{t:"C) was completing", c:false}], fb: "Present Perfect ('has completed') highlights the current result relevant right now." },
+      { q: "3. 'Our engineers _______ on the firewall patch since 07:30 and expect a fix by noon.'", opts: [{t:"A) worked", c:false},{t:"B) have been working", c:true},{t:"C) are working", c:false}], fb: "'Since 07:30' + ongoing action → Present Perfect Continuous ('have been working'). Never use Present Continuous with 'since'!" },
+      { q: "4. 'So far this quarter, we _______ zero safety incidents on the night shift.'", opts: [{t:"A) had", c:false},{t:"B) have had", c:true},{t:"C) were having", c:false}], fb: "'So far this quarter' is an open time period still in progress → Present Perfect ('have had')." },
+      { q: "5. 'By the time the auditor arrived, production _______ the faulty pallets.'", opts: [{t:"A) already isolated", c:false},{t:"B) had already isolated", c:true},{t:"C) has already isolated", c:false}], fb: "Past Perfect ('had already isolated') proves the action happened BEFORE the past event ('arrived')." },
+      { q: "6. 'Don't worry about the missing invoice—I _______ Finance right after this call.'", opts: [{t:"A) am calling", c:false},{t:"B) will call", c:true},{t:"C) have called", c:false}], fb: "An instant promise made on the spot during a conversation uses 'will'." },
+      { q: "7. 'I can't join at 14:00—I _______ the Polish distributor at that time.'", opts: [{t:"A) will meet", c:false},{t:"B) am meeting", c:true},{t:"C) meet", c:false}], fb: "A fixed, already-scheduled appointment in your calendar uses Present Continuous ('am meeting')." },
+      { q: "8. 'Normally we _______ via Hamburg, but this month we are routing through Trieste.'", opts: [{t:"A) ship", c:true},{t:"B) are shipping", c:false},{t:"C) have shipped", c:false}], fb: "'Normally' signals a permanent routine → Present Simple ('ship')." },
+      { q: "9. 'Where is Petr?' — 'He _______ to the Opava plant; he'll be back tomorrow.'", opts: [{t:"A) has been", c:false},{t:"B) has gone", c:true},{t:"C) went already", c:false}], fb: "'Has gone' = he is still there now. 'Has been' = he went and returned." },
+      { q: "10. 'How long _______ you worked with this aluminum supplier?'", opts: [{t:"A) do", c:false},{t:"B) did", c:false},{t:"C) have", c:true}], fb: "For a relationship that started in the past and continues today, use 'How long have you worked...?'." },
+      { q: "11. 'While the technician _______ the pressure valve, the alarm triggered.'", opts: [{t:"A) calibrated", c:false},{t:"B) was calibrating", c:true},{t:"C) has calibrated", c:false}], fb: "Background action in progress interrupted by a sudden event → Past Continuous ('was calibrating')." },
+      { q: "12. 'We _______ three major contracts last year, and we have already signed two this year.'", opts: [{t:"A) signed", c:true},{t:"B) have signed", c:false},{t:"C) were signing", c:false}], fb: "'Last year' = closed past (Past Simple: 'signed'); 'this year' = open present ('have already signed')." }
+    ];
+
+    // ==================== NAVIGATION & RENDERERS ====================
+    function showMainTab(tabId, btn) {
+      document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+      const target = document.getElementById(tabId);
+      if (target) target.classList.add('active');
+      document.querySelectorAll('.tab-btn').forEach(b => {
+        const attr = b.getAttribute('onclick') || '';
+        b.classList.toggle('active', attr.includes(`'${tabId}'`));
+      });
+      if (btn) btn.classList.add('active');
+    }
+
+    function switchSub(prefix, subId, btn) {
+      const parent = btn.closest('.tab-panel');
+      parent.querySelectorAll('.sub-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const map = {
+        euro: ['clashes', 'supplier', 'quiz'],
+        kpi: ['spin', 'verbs', 'spoken'],
+        pron: ['silent', 'stress', 'homophones'],
+        bluf: ['cutter', 'fillers', 'quiz'],
+        tense: ['contrast', 'timeline', 'quiz']
+      };
+      (map[prefix] || []).forEach(id => {
+        const el = document.getElementById(`${prefix}-${id}`);
+        if (el) el.style.display = (id === subId) ? (el.classList.contains('grid-2') || el.classList.contains('grid-3') ? 'grid' : 'block') : 'none';
+      });
+    }
+
+    // Generic Quiz Engine
+    const quizState = { euro: [], kpi: [], pron: [], bluf: [], tense: [] };
+    const quizBanks = { euro: EURO_QUIZ, kpi: KPI_QUIZ, pron: PRON_QUIZ, bluf: BLUF_QUIZ, tense: TENSE_QUIZ };
+
+    function renderQuiz(key) {
+      const data = quizBanks[key];
+      quizState[key] = new Array(data.length).fill(null);
+      const list = document.getElementById(`${key}-quiz-list`);
+      const scoreEl = document.getElementById(`${key}-score`);
+      if (scoreEl) scoreEl.textContent = `Score: 0 / ${data.length}`;
+      list.innerHTML = data.map((item, idx) => `
+        <div class="quiz-card" id="${key}-q-${idx}">
+          <div class="quiz-q">${item.q}</div>
+          <div class="opt-grid">
+            ${item.opts.map((o, oi) => `
+              <button class="opt-btn" id="${key}-btn-${idx}-${oi}" onclick="answerQuiz('${key}', ${idx}, ${oi})">${o.t}</button>
+            `).join('')}
+          </div>
+          <div class="quiz-fb" id="${key}-fb-${idx}">${item.fb}</div>
+        </div>
+      `).join('');
+    }
+
+    function answerQuiz(key, qIdx, oIdx) {
+      if (quizState[key][qIdx] !== null) return;
+      const item = quizBanks[key][qIdx];
+      const chosen = item.opts[oIdx];
+      quizState[key][qIdx] = chosen.c;
+
+      const card = document.getElementById(`${key}-q-${qIdx}`);
+      const fb = document.getElementById(`${key}-fb-${qIdx}`);
+      item.opts.forEach((o, i) => {
+        const b = document.getElementById(`${key}-btn-${qIdx}-${i}`);
+        b.disabled = true;
+        if (o.c) b.classList.add('reveal-correct');
+      });
+      const clickedBtn = document.getElementById(`${key}-btn-${qIdx}-${oIdx}`);
+      if (chosen.c) {
+        clickedBtn.classList.add('is-correct');
+        card.classList.add('correct');
+        fb.className = 'quiz-fb show ok';
+        fb.textContent = '✓ ' + item.fb;
+      } else {
+        clickedBtn.classList.add('is-wrong');
+        card.classList.add('wrong');
+        fb.className = 'quiz-fb show bad';
+        fb.textContent = '✗ ' + item.fb;
+      }
+      const correctCount = quizState[key].filter(v => v === true).length;
+      document.getElementById(`${key}-score`).textContent = `Score: ${correctCount} / ${quizBanks[key].length}`;
+    }
+
+    function resetQuiz(key) { renderQuiz(key); }
+
+    // Render Tab 1
+    function renderEuro() {
+      document.getElementById('euro-clashes').innerHTML = UK_US_CLASHES.map(c => `
+        <article class="card">
+          <div style="display:flex; justify-content:space-between; align-items:center; gap:8px; flex-wrap:wrap;">
+            <strong style="font-size:1.05rem; color:#0f172a;">“${c.phrase}”</strong>
+            <span class="tag tag-red">${c.risk}</span>
+          </div>
+          <div class="clash-split">
+            <div class="clash-box clash-uk"><strong>🇬🇧 UK Meaning:</strong><br>${c.uk}</div>
+            <div class="clash-box clash-us"><strong>🇺🇸 US Meaning:</strong><br>${c.us}</div>
+          </div>
+          <div class="clash-advice">🛡️ <strong>Safe Executive Alternative:</strong> ${c.advice}</div>
+        </article>
+      `).join('');
+
+      document.getElementById('euro-supplier').innerHTML = `
+        <table class="clean-table">
+          <thead><tr><th>🇪🇺 Euro-English Phrase</th><th>🤔 What Native Speakers Hear</th><th>✅ Natural International English</th><th>Origin</th></tr></thead>
+          <tbody>
+            ${EURO_SUPPLIER_DECODER.map(r => `
+              <tr>
+                <td><strong>“${r.euro}”</strong></td>
+                <td style="color:#991b1b;">${r.heard}</td>
+                <td style="color:#065f46; font-weight:700;">${r.native}</td>
+                <td><span class="tag tag-blue">${r.origin}</span></td>
+              </tr>
+            `).join('')}
+          </tbody>
+        </table>
+      `;
+    }
+
+    // Render Tab 2
+    function setSpinMode(idx, mode) {
+      const item = KPI_SPIN_DATA[idx];
+      const out = document.getElementById(`spin-out-${idx}`);
+      const bP = document.getElementById(`sb-p-${idx}`);
+      const bN = document.getElementById(`sb-n-${idx}`);
+      const bE = document.getElementById(`sb-e-${idx}`);
+      bP.className = 'spin-btn' + (mode === 'panic' ? ' active-panic' : '');
+      bN.className = 'spin-btn' + (mode === 'neutral' ? ' active-neutral' : '');
+      bE.className = 'spin-btn' + (mode === 'exec' ? ' active-exec' : '');
+      out.textContent = item[mode];
+    }
+
+    function renderKpi() {
+      document.getElementById('kpi-spin').innerHTML = KPI_SPIN_DATA.map((k, idx) => `
+        <article class="card">
+          <span class="tag tag-green">${k.badge}</span>
+          <div style="font-weight:800; color:#0f172a; margin-top:7px; font-size:0.96rem;">📉 Raw Metric: ${k.metric}</div>
+          <div class="spin-tabs">
+            <button class="spin-btn" id="sb-p-${idx}" onclick="setSpinMode(${idx}, 'panic')">🔴 Brutal Panic</button>
+            <button class="spin-btn" id="sb-n-${idx}" onclick="setSpinMode(${idx}, 'neutral')">🟡 Neutral Audit</button>
+            <button class="spin-btn active-exec" id="sb-e-${idx}" onclick="setSpinMode(${idx}, 'exec')">🟢 Executive Spin</button>
+          </div>
+          <div class="spin-output" id="spin-out-${idx}">${k.exec}</div>
+        </article>
+      `).join('');
+
+      document.getElementById('kpi-verbs').innerHTML = `
+        <table class="clean-table">
+          <thead><tr><th>Trend Direction</th><th>🟡 Neutral Business</th><th>🔴 Dramatic / Media</th><th>🟢 Executive Boardroom</th></tr></thead>
+          <tbody>
+            ${TREND_VERBS.map(v => `
+              <tr>
+                <td><strong>${v.dir}</strong></td>
+                <td>${v.neutral}</td>
+                <td style="color:#991b1b;">${v.dramatic}</td>
+                <td style="color:#065f46; font-weight:700;">${v.exec}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        </table>
+      `;
+    }
+
+    // Render Tab 3
+    function renderPron() {
+      document.getElementById('pron-silent').innerHTML = SILENT_TECH_WORDS.map(p => `
+        <article class="card">
+          <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
+            <strong style="font-size:1.15rem; color:#0f172a;">${p.w}</strong>
+            <span class="phonetic-pill">${p.cheat}</span>
+          </div>
+          <div style="font-size:0.84rem; color:#b91c1c; font-weight:600; margin-top:8px;">⚠️ ${p.trap}</div>
+          <div style="font-size:0.84rem; color:#475569; margin-top:6px; font-style:italic;">“${p.ex}”</div>
+          <div class="audio-row">
+            <button class="btn-speak" onclick="speakText('${p.w}. ${p.ex.replace(/'/g, "\\'")}', 'en-GB')">🇬🇧 UK Audio</button>
+            <button class="btn-speak" onclick="speakText('${p.w}. ${p.ex.replace(/'/g, "\\'")}', 'en-US')">🇺🇸 US Audio</button>
+          </div>
+        </article>
+      `).join('');
+
+      document.getElementById('pron-stress').innerHTML = STRESS_PAIRS.map(s => `
+        <article class="card">
+          <strong style="font-size:1.15rem; color:#1e1b4b;">⚡ ${s.word}</strong>
+          <div class="clash-split" style="margin-top:10px;">
+            <div class="clash-box clash-uk">
+              <strong>NOUN (1st Syllable):</strong><br>${s.noun}<br>
+              <em style="font-size:0.82rem; color:#334155;">“${s.exN}”</em>
+            </div>
+            <div class="clash-box" style="background:#f5f3ff; border-left:3px solid #7c3aed;">
+              <strong>VERB (2nd Syllable):</strong><br>${s.verb}<br>
+              <em style="font-size:0.82rem; color:#334155;">“${s.exV}”</em>
+            </div>
+          </div>
+          <div class="audio-row">
+            <button class="btn-speak" onclick="speakText('${s.exN.replace(/'/g, "\\'")}', 'en-GB')">🔊 Hear Noun</button>
+            <button class="btn-speak" onclick="speakText('${s.exV.replace(/'/g, "\\'")}', 'en-GB')">🔊 Hear Verb</button>
+          </div>
+        </article>
+      `).join('');
+    }
+
+    // Render Tab 4
+    function toggleBluf(idx, btn) {
+      const box = document.getElementById(`bluf-after-${idx}`);
+      box.classList.toggle('shown');
+      btn.textContent = box.classList.contains('shown') ? '▲ Hide BLUF Trim' : '✂️ Trim Waffle → Show BLUF Version';
+    }
+
+    function renderBluf() {
+      document.getElementById('bluf-cutter').innerHTML = BLUF_CASES.map((b, idx) => {
+        const pct = Math.round((1 - b.afterWords / b.beforeWords) * 100);
+        return `
+          <article class="card" style="margin-bottom:16px;">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+              <strong style="font-size:1.05rem; color:#0f172a;">#${idx + 1}: ${b.title}</strong>
+              <span class="tag tag-amber">✂️ ${b.beforeWords} words → ${b.afterWords} words (-${pct}%)</span>
+            </div>
+            <div class="bluf-compare">
+              <div class="bluf-before">
+                <div style="font-size:0.74rem; font-weight:800; text-transform:uppercase; margin-bottom:6px;">❌ Rambling Draft (${b.beforeWords} words)</div>
+                ${b.before}
+              </div>
+              <div class="bluf-after" id="bluf-after-${idx}">
+                <div style="font-size:0.74rem; font-weight:800; text-transform:uppercase; margin-bottom:6px;">✅ BLUF Executive Version (${b.afterWords} words)</div>
+                ${b.after}
+              </div>
+            </div>
+            <button class="btn-trim" onclick="toggleBluf(${idx}, this)">✂️ Trim Waffle → Show BLUF Version</button>
+          </article>
+        `;
+      }).join('');
+
+      document.getElementById('bluf-fillers').innerHTML = `
+        <table class="clean-table">
+          <thead><tr><th>❌ Bloated Corporate Filler</th><th>✅ Surgical Replacement</th></tr></thead>
+          <tbody>
+            ${FILLER_ASSASSIN.map(f => `
+              <tr>
+                <td style="color:#991b1b; text-decoration:line-through;">${f.bloated}</td>
+                <td style="color:#065f46; font-weight:800;">${f.sharp}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        </table>
+      `;
+    }
+
+    // Render Tab 5
+    function selectTimeline(id) {
+      document.querySelectorAll('.tl-card').forEach(el => el.classList.toggle('active', el.dataset.id === id));
+      const item = TENSE_TIMELINE.find(t => t.id === id);
+      document.getElementById('tl-detail').innerHTML = `
+        <div class="card" style="border-left:5px solid #2563eb;">
+          <h3 style="font-size:1.15rem; color:#0f172a;">${item.title}</h3>
+          <div style="margin:10px 0; display:flex; gap:10px; flex-wrap:wrap;">
+            <span class="tag tag-blue">Formula: ${item.formula}</span>
+            <span class="tag tag-amber">Signal Words: ${item.signals}</span>
+          </div>
+          <div style="background:#f8fafc; padding:12px 15px; border-radius:8px; border:1px solid #e2e8f0; font-size:0.98rem; font-weight:700; color:#1e293b; margin-bottom:10px;">
+            ${item.ex}
+          </div>
+          <div style="font-size:0.88rem; color:#475569;">💡 <strong>Boardroom Rule:</strong> ${item.when}</div>
+        </div>
+      `;
+    }
+
+    function renderTense() {
+      document.getElementById('tense-contrast').innerHTML = TENSE_CONTRASTS.map(t => `
+        <article class="card">
+          <span class="tag tag-purple">${t.pair}</span>
+          <div class="clash-split" style="margin-top:10px;">
+            <div class="clash-box clash-uk">
+              <strong>${t.a}</strong><br>
+              <span style="font-size:0.82rem; color:#334155;">${t.aNote}</span>
+            </div>
+            <div class="clash-box" style="background:#ecfdf5; border-left:3px solid #059669;">
+              <strong>${t.b}</strong><br>
+              <span style="font-size:0.82rem; color:#065f46;">${t.bNote}</span>
+            </div>
+          </div>
+        </article>
+      `).join('');
+
+      document.getElementById('tense-timeline').innerHTML = `
+        <div class="timeline-box">
+          ${TENSE_TIMELINE.map((t, i) => `
+            <button class="tl-card ${i === 0 ? 'active' : ''}" data-id="${t.id}" onclick="selectTimeline('${t.id}')">
+              <strong style="display:block; color:#0f172a; font-size:0.92rem;">${t.title}</strong>
+              <span style="font-size:0.78rem; color:#64748b;">${t.formula}</span>
+            </button>
+          `).join('')}
+        </div>
+        <div id="tl-detail"></div>
+      `;
+      selectTimeline('past');
+    }
+
+    // URL Hash Deep-Linking
+    function applyHash() {
+      const h = (window.location.hash || '').replace(/^#/, '').trim();
+      if (['tab-euro', 'tab-kpi', 'tab-pron', 'tab-bluf', 'tab-tense'].includes(h)) {
+        showMainTab(h);
+      }
+    }
+    window.addEventListener('hashchange', applyHash);
+
+    // Init all modules
+    renderEuro();
+    renderKpi();
+    renderPron();
+    renderBluf();
+    renderTense();
+    ['euro', 'kpi', 'pron', 'bluf', 'tense'].forEach(renderQuiz);
+    applyHash();
+  </script>
+</body>
+</html>

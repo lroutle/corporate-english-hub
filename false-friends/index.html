@@ -685,6 +685,71 @@
       line-height: 1.5;
     }
 
+    /* 🕵️‍♂️ Spot the Czenglish Sentence Surgery Styles */
+    .surg-bar {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px 18px;
+      margin-bottom: 18px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+      box-shadow: var(--shadow-sm);
+    }
+    .surg-card {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px 20px;
+      margin-bottom: 14px;
+      box-shadow: var(--shadow-sm);
+    }
+    .surg-card.solved { border-left: 5px solid #10b981; }
+    .surg-card.missed { border-left: 5px solid #ef4444; }
+    .surg-sentence-box {
+      font-size: 1.06rem;
+      font-weight: 600;
+      color: #1e293b;
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 9px;
+      padding: 13px 16px;
+      margin: 10px 0;
+      line-height: 1.8;
+    }
+    .seg-btn {
+      display: inline;
+      padding: 3px 7px;
+      margin: 0 2px;
+      border-radius: 6px;
+      border: 1.5px dashed #94a3b8;
+      background: #ffffff;
+      color: #0f172a;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      font-family: inherit;
+      transition: all 0.15s;
+    }
+    .seg-btn:hover:not(:disabled) { border-color: var(--primary); background: #eef2ff; color: var(--primary); }
+    .seg-btn:disabled { cursor: default; }
+    .seg-btn.seg-bug { background: #fee2e2; border: 1.5px solid #dc2626; color: #991b1b; text-decoration: line-through; }
+    .seg-btn.seg-wrong-pick { background: #fef3c7; border: 1.5px solid #d97706; color: #92400e; }
+    .surg-diag {
+      display: none;
+      margin-top: 8px;
+      padding: 12px 15px;
+      border-radius: 8px;
+      font-size: 0.88rem;
+      line-height: 1.5;
+    }
+    .surg-diag.show { display: block; }
+    .surg-diag.ok { background: #ecfdf5; border-left: 4px solid #059669; color: #064e3b; }
+    .surg-diag.bad { background: #fef2f2; border-left: 4px solid #dc2626; color: #7f1d1d; }
+
   </style>
 </head>
 <body>
@@ -720,6 +785,9 @@
       </button>
       <button class="tab-btn" onclick="switchTab('table')">
         ⚡ Rapid A–Z Matrix <span class="tab-count">52 Pairs</span>
+      </button>
+      <button class="tab-btn" onclick="switchTab('surgery')">
+        🕵️‍♂️ Spot the Czenglish Surgery <span class="tab-count" style="background:#fef3c7; color:#92400e;">25 Cases</span>
       </button>
     </div>
 
@@ -806,6 +874,35 @@
           </tbody>
         </table>
       </div>
+    </div>
+
+    <!-- ============================================================== -->
+    <!-- TAB 5: SPOT THE CZENGLISH — LIVE SENTENCE SURGERY GAME         -->
+    <!-- ============================================================== -->
+    <div id="tab-surgery" style="display: none;">
+      <div style="background: linear-gradient(135deg, #eef2ff 0%, #e0e7ff 100%); border: 2px solid #818cf8; border-radius: var(--radius-lg); padding: 22px 26px; margin-bottom: 20px;">
+        <h2 style="font-size: 1.4rem; font-weight: 800; color: #312e81; margin-bottom: 6px;">
+          🕵️‍♂️ Spot the Czenglish: Live Sentence Surgery Game
+        </h2>
+        <p style="font-size: 0.94rem; color: #3730a3; line-height: 1.55;">
+          Beyond vocabulary false friends, Czech speakers carry structural grammar habits into English (<em>"discussed about"</em>, <em>"according to me"</em>, <em>"mustn't vs. don't have to"</em>). <strong>Click the broken phrase inside each sentence</strong> to operate on it and reveal the natural English fix.
+        </p>
+      </div>
+
+      <div class="surg-bar">
+        <div class="filter-chips" id="surg-filter-chips">
+          <button class="filter-chip active" onclick="filterSurgery('all', this)">All Cases (25)</button>
+          <button class="filter-chip" onclick="filterSurgery('Prepositions', this)">Prepositions (8)</button>
+          <button class="filter-chip" onclick="filterSurgery('Verbs & Collocations', this)">Verbs &amp; Collocations (9)</button>
+          <button class="filter-chip" onclick="filterSurgery('Word Order & Syntax', this)">Word Order &amp; Syntax (8)</button>
+        </div>
+        <div style="display:flex; align-items:center; gap:10px;">
+          <span class="score-badge" id="surg-score" style="font-size:0.86rem; padding:6px 14px;">Surgical Accuracy: 0 / 25</span>
+          <button class="btn" style="background:#f1f5f9; border:1px solid #cbd5e1; color:#0f172a; padding:7px 12px; font-size:0.82rem;" onclick="resetSurgery()">↺ Reset</button>
+        </div>
+      </div>
+
+      <div id="surgery-list"></div>
     </div>
 
   </div>
@@ -2083,18 +2180,139 @@
       }
       document.getElementById('tab-quiz').style.display = tabId === 'quiz' ? 'block' : 'none';
       document.getElementById('tab-table').style.display = tabId === 'table' ? 'block' : 'none';
+      if (document.getElementById('tab-surgery')) {
+        document.getElementById('tab-surgery').style.display = tabId === 'surgery' ? 'block' : 'none';
+      }
 
       document.querySelectorAll('.tab-btn').forEach((btn, i) => {
         const matches = (i === 0 && tabId === 'tutorial') ||
                         (i === 1 && tabId === 'horror') ||
                         (i === 2 && tabId === 'quiz') ||
-                        (i === 3 && tabId === 'table');
+                        (i === 3 && tabId === 'table') ||
+                        (i === 4 && tabId === 'surgery');
         btn.classList.toggle('active', matches);
       });
 
       if (tabId === 'horror') {
         renderHorrorStories();
       }
+      if (tabId === 'surgery') {
+        renderSurgery();
+      }
+    }
+
+    // 🕵️‍♂️ Spot the Czenglish Sentence Surgery Data & Logic (25 Cases)
+    const SURGERY_CASES = [
+      { id: 1, cat: "Prepositions", cz: "diskutovat o ceně", parts: [{t:"Yesterday we", b:false}, {t:"discussed about", b:true, fix:"discussed"}, {t:"the Q4 aluminum pricing", b:false}, {t:"with the supplier.", b:false}], rule: "'Discuss' is transitive in English—NEVER add 'about' after it (use 'discuss the price' or 'talk about the price')." },
+      { id: 2, cat: "Prepositions", cz: "záleží na dodavateli", parts: [{t:"The final delivery date", b:false}, {t:"depends from", b:true, fix:"depends on"}, {t:"the German carrier's", b:false}, {t:"customs clearance.", b:false}], rule: "Always 'depend ON', never 'depend from' or 'depend of'." },
+      { id: 3, cat: "Word Order & Syntax", cz: "podle mě", parts: [{t:"According to me,", b:true, fix:"In my opinion,"}, {t:"the new cooling tunnel", b:false}, {t:"will reduce energy costs", b:false}, {t:"by at least 12%.", b:false}], rule: "Never use 'According to me' for your own view—'according to' is only for external sources ('According to the report'). Use 'In my opinion' or 'I think'." },
+      { id: 4, cat: "Word Order & Syntax", cz: "jak to vypadá?", parts: [{t:"Could you send a photo so I can see", b:false}, {t:"how does it look like", b:true, fix:"what it looks like"}, {t:"after the surface treatment", b:false}, {t:"is finished?", b:false}], rule: "Two Czech traps in one: use 'WHAT ... look like' (never 'how ... look like'), and keep normal statement word order inside indirect questions." },
+      { id: 5, cat: "Verbs & Collocations", cz: "udělat chybu", parts: [{t:"The night shift operator", b:false}, {t:"did a mistake", b:true, fix:"made a mistake"}, {t:"while entering the batch number", b:false}, {t:"into SAP.", b:false}], rule: "We always MAKE a mistake (and MAKE a decision, MAKE progress)—never 'do a mistake'." },
+      { id: 6, cat: "Verbs & Collocations", cz: "vysvětlit mi", parts: [{t:"Could you please", b:false}, {t:"explain me", b:true, fix:"explain to me"}, {t:"why the HPLC peak shifted", b:false}, {t:"on Column #2?", b:false}], rule: "'Explain' requires 'TO' before a person: 'explain TO me' (or simply 'explain why...'). Same rule for 'suggest to me' and 'describe to me'." },
+      { id: 7, cat: "Prepositions", cz: "do pátku", parts: [{t:"Please upload the signed 8D report", b:false}, {t:"until Friday", b:true, fix:"by Friday"}, {t:"so QA can close the ticket", b:false}, {t:"before the audit.", b:false}], rule: "Use 'BY Friday' for a single deadline. 'Until Friday' means an action continues non-stop up to Friday ('I will be in Prague until Friday')." },
+      { id: 8, cat: "Verbs & Collocations", cz: "navrhuji udělat", parts: [{t:"I", b:false}, {t:"suggest to postpone", b:true, fix:"suggest postponing"}, {t:"the firewall migration", b:false}, {t:"until Sunday at 02:00.", b:false}], rule: "Never use 'suggest + to-infinitive'. Use 'suggest + -ing' ('suggest postponing') or 'suggest that we postpone'." },
+      { id: 9, cat: "Word Order & Syntax", cz: "mnoho informací", parts: [{t:"Thank you for sending", b:false}, {t:"many useful informations", b:true, fix:"a lot of useful information"}, {t:"about the NATO tender", b:false}, {t:"requirements.", b:false}], rule: "'Information' (like 'advice', 'equipment', 'feedback', 'news') is UNCOUNTABLE—never add '-s' and never use 'many'." },
+      { id: 10, cat: "Prepositions", cz: "kontaktovat někoho", parts: [{t:"Our export manager will", b:false}, {t:"contact with you", b:true, fix:"contact you"}, {t:"as soon as the chassis", b:false}, {t:"leaves Kopřivnice.", b:false}], rule: "'Contact' as a verb takes NO preposition ('contact you', not 'contact with you'). Only the noun uses 'in contact with'." },
+      { id: 11, cat: "Verbs & Collocations", cz: "oznámit / dát vědět", parts: [{t:"I will", b:false}, {t:"announce you", b:true, fix:"let you know"}, {t:"as soon as the chilled meat", b:false}, {t:"arrives at the dock.", b:false}], rule: "You cannot 'announce a person' in English. Use 'let you know', 'inform you', or 'notify you'." },
+      { id: 12, cat: "Prepositions", cz: "mít zájem o", parts: [{t:"The Dutch distributor is very", b:false}, {t:"interested about", b:true, fix:"interested in"}, {t:"our recyclable aluminum", b:false}, {t:"lidding foil.", b:false}], rule: "Always 'interested IN', never 'interested about' or 'interested for'." },
+      { id: 13, cat: "Word Order & Syntax", cz: "je to pro mě možné", parts: [{t:"Unfortunately, I am", b:false}, {t:"not possible to join", b:true, fix:"unable to join"}, {t:"the 14:00 call", b:false}, {t:"because of a plant audit.", b:false}], rule: "A person cannot be 'possible' in English! Say 'I am unable to join' or 'It is not possible for me to join'." },
+      { id: 14, cat: "Verbs & Collocations", cz: "vyfotit", parts: [{t:"Please", b:false}, {t:"make a photo", b:true, fix:"take a photo"}, {t:"of the damaged pallet", b:false}, {t:"before unloading the truck.", b:false}], rule: "In English you TAKE a photo (never 'make a photo')." },
+      { id: 15, cat: "Prepositions", cz: "být spokojený s", parts: [{t:"Overall, the customer is", b:false}, {t:"satisfied from", b:true, fix:"satisfied with"}, {t:"our corrective action plan", b:false}, {t:"and response speed.", b:false}], rule: "Always 'satisfied WITH' (or 'pleased with')." },
+      { id: 16, cat: "Word Order & Syntax", cz: "těším se na setkání", parts: [{t:"I am", b:false}, {t:"looking forward to meet", b:true, fix:"looking forward to meeting"}, {t:"your engineering team", b:false}, {t:"in Brno next Tuesday.", b:false}], rule: "'To' in 'look forward to' is a preposition, so it MUST be followed by '-ing' ('looking forward to meeting / hearing')." },
+      { id: 17, cat: "Verbs & Collocations", cz: "říct někomu", parts: [{t:"The plant director", b:false}, {t:"said us", b:true, fix:"told us"}, {t:"that Q3 overtime must stay", b:false}, {t:"below 5%.", b:false}], rule: "Use 'TELL + person' ('told us') or 'SAY + to + person' ('said to us'). Never 'said us'!" },
+      { id: 18, cat: "Prepositions", cz: "odpovědný za", parts: [{t:"Lukáš is", b:false}, {t:"responsible of", b:true, fix:"responsible for"}, {t:"all GMP batch release", b:false}, {t:"documentation.", b:false}], rule: "Always 'responsible FOR', never 'responsible of'." },
+      { id: 19, cat: "Word Order & Syntax", cz: "pracuji tady už 5 let", parts: [{t:"I", b:false}, {t:"am working here for five years", b:true, fix:"have been working here for five years"}, {t:"in the quality assurance", b:false}, {t:"department.", b:false}], rule: "Czech uses present tense ('pracuji') for durations up to now, but English REQUIRES Present Perfect ('have worked / have been working for five years')." },
+      { id: 20, cat: "Verbs & Collocations", cz: "udělat meeting", parts: [{t:"Let's", b:false}, {t:"make a meeting", b:true, fix:"hold a meeting"}, {t:"on Thursday morning", b:false}, {t:"to review the rebate tiers.", b:false}], rule: "In business English we HOLD, SCHEDULE, or HAVE a meeting—never 'make a meeting'." },
+      { id: 21, cat: "Word Order & Syntax", cz: "kdybych věděl (2nd Cond.)", parts: [{t:"If we", b:false}, {t:"would have", b:true, fix:"had"}, {t:"two more CNC machines,", b:false}, {t:"we could double output.", b:false}], rule: "Classic Czech trap ('kdybychom měli'): NEVER put 'would' inside the 'if'-clause! Use 'If we had..., we could/would...'." },
+      { id: 22, cat: "Prepositions", cz: "přijít do kanceláře", parts: [{t:"The external auditor", b:false}, {t:"arrived to", b:true, fix:"arrived at"}, {t:"the Opava facility", b:false}, {t:"at 08:45 sharp.", b:false}], rule: "Never 'arrive to'! Use 'arrive AT' for buildings/facilities and 'arrive IN' for cities/countries." },
+      { id: 23, cat: "Verbs & Collocations", cz: "dovolit mi udělat", parts: [{t:"This VPN token", b:false}, {t:"allows me access", b:true, fix:"allows me to access"}, {t:"the production SCADA dashboard", b:false}, {t:"from home.", b:false}], rule: "'Allow + person + TO + verb' ('allows me to access'). By contrast, 'let' takes no 'to' ('lets me access')." },
+      { id: 24, cat: "Word Order & Syntax", cz: "nemusíte to posílat", parts: [{t:"You", b:false}, {t:"mustn't", b:true, fix:"don't have to"}, {t:"send the paper copy—", b:false}, {t:"a signed PDF is enough.", b:false}], rule: "Huge Czech false grammar trap! 'Mustn't' means FORBIDDEN (nesmíte). 'Nemusíte' (optional) is ALWAYS 'don't have to' or 'needn't'." },
+      { id: 25, cat: "Verbs & Collocations", cz: "získat zkušenosti", parts: [{t:"During the rollout, our team gained", b:false}, {t:"many experiences", b:true, fix:"a lot of experience"}, {t:"with automated vision", b:false}, {t:"inspection systems.", b:false}], rule: "Professional 'experience' (skill/knowledge) is uncountable ('a lot of experience'). Plural 'experiences' only means individual life events/adventures." }
+    ];
+
+    let activeSurgCat = 'all';
+    const surgResults = {};
+
+    function filterSurgery(cat, btn) {
+      activeSurgCat = cat;
+      document.querySelectorAll('#surg-filter-chips .filter-chip').forEach(c => c.classList.remove('active'));
+      if (btn) btn.classList.add('active');
+      renderSurgery();
+    }
+
+    function updateSurgScore() {
+      const correct = Object.values(surgResults).filter(v => v === true).length;
+      const el = document.getElementById('surg-score');
+      if (el) el.textContent = `Surgical Accuracy: ${correct} / ${SURGERY_CASES.length}`;
+    }
+
+    function pickSegment(caseId, segIdx) {
+      if (surgResults[caseId] !== undefined) return;
+      const item = SURGERY_CASES.find(c => c.id === caseId);
+      const picked = item.parts[segIdx];
+      const isHit = picked.b === true;
+      surgResults[caseId] = isHit;
+
+      const card = document.getElementById(`sc-${caseId}`);
+      if (card) card.classList.add(isHit ? 'solved' : 'missed');
+
+      item.parts.forEach((p, idx) => {
+        const btn = document.getElementById(`seg-${caseId}-${idx}`);
+        if (!btn) return;
+        btn.disabled = true;
+        if (p.b) {
+          btn.classList.add('seg-bug');
+          btn.insertAdjacentHTML('afterend', ` <span style="background:#dcfce7; color:#14532d; padding:2px 8px; border-radius:5px; font-weight:800; border:1px solid #16a34a;">→ ${p.fix}</span>`);
+        } else if (idx === segIdx && !isHit) {
+          btn.classList.add('seg-wrong-pick');
+        }
+      });
+
+      const diag = document.getElementById(`diag-${caseId}`);
+      if (diag) {
+        diag.className = `surg-diag show ${isHit ? 'ok' : 'bad'}`;
+        diag.innerHTML = `
+          <strong>${isHit ? '✅ Clean Surgery!' : '❌ Missed the Czenglish Bug!'}</strong>
+          <span style="margin-left:8px; font-size:0.82rem; background:rgba(0,0,0,0.06); padding:2px 8px; border-radius:4px;">Czech source: <em>“${item.cz}”</em></span><br>
+          <div style="margin-top:5px;">💡 <strong>Grammar Rule:</strong> ${item.rule}</div>
+        `;
+      }
+      updateSurgScore();
+    }
+
+    function renderSurgery() {
+      const container = document.getElementById('surgery-list');
+      if (!container) return;
+      const filtered = activeSurgCat === 'all' ? SURGERY_CASES : SURGERY_CASES.filter(c => c.cat === activeSurgCat);
+      container.innerHTML = filtered.map(c => {
+        const solved = surgResults[c.id];
+        return `
+          <article class="surg-card ${solved === true ? 'solved' : solved === false ? 'missed' : ''}" id="sc-${c.id}">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+              <span style="font-size:0.74rem; font-weight:800; text-transform:uppercase; padding:3px 9px; border-radius:9999px; background:#ede9fe; color:#5b21b6;">Case #${c.id} • ${c.cat}</span>
+              <span style="font-size:0.78rem; color:#64748b; font-weight:600;">Click the broken Czenglish phrase below</span>
+            </div>
+            <div class="surg-sentence-box">
+              ${c.parts.map((p, idx) => `
+                <button class="seg-btn ${solved !== undefined && p.b ? 'seg-bug' : ''}" id="seg-${c.id}-${idx}" ${solved !== undefined ? 'disabled' : ''} onclick="pickSegment(${c.id}, ${idx})">${p.t}</button>${solved !== undefined && p.b ? ` <span style="background:#dcfce7; color:#14532d; padding:2px 8px; border-radius:5px; font-weight:800; border:1px solid #16a34a;">→ ${p.fix}</span>` : ''}
+              `).join(' ')}
+            </div>
+            <div class="surg-diag ${solved !== undefined ? 'show ' + (solved ? 'ok' : 'bad') : ''}" id="diag-${c.id}">
+              ${solved !== undefined ? `
+                <strong>${solved ? '✅ Clean Surgery!' : '❌ Missed the Czenglish Bug!'}</strong>
+                <span style="margin-left:8px; font-size:0.82rem; background:rgba(0,0,0,0.06); padding:2px 8px; border-radius:4px;">Czech source: <em>“${c.cz}”</em></span><br>
+                <div style="margin-top:5px;">💡 <strong>Grammar Rule:</strong> ${c.rule}</div>
+              ` : ''}
+            </div>
+          </article>
+        `;
+      }).join('');
+    }
+
+    function resetSurgery() {
+      Object.keys(surgResults).forEach(k => delete surgResults[k]);
+      updateSurgScore();
+      renderSurgery();
     }
 
     // Category Filter
@@ -2115,10 +2333,11 @@
     renderCards();
     renderMatrix();
     renderQuiz();
+    renderSurgery();
 
     function applyFFHashNavigation() {
       const rawHash = (window.location.hash || '').replace(/^#/, '').replace(/^tab-/, '').trim();
-      if (['tutorial', 'horror', 'quiz', 'table'].includes(rawHash)) {
+      if (['tutorial', 'horror', 'quiz', 'table', 'surgery'].includes(rawHash)) {
         switchTab(rawHash);
       }
     }

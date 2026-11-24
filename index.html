@@ -640,17 +640,33 @@
           </div>
         </div>
 
-        <!-- Group 3: Czech-English False Friends -->
+        <!-- Group 3: Executive Communication, Data & Pronunciation Hub (NEW) -->
+        <div class="launchpad-group">
+          <div class="launchpad-group-title" style="color:#0369a1;">
+            <span>💼 Executive Toolkit (Data, Audio &amp; BLUF)</span>
+            <a href="executive-toolkit/index.html" style="font-size:0.72rem; color:#0284c7; text-decoration:none;">Open Hub →</a>
+          </div>
+          <div class="pill-links">
+            <a href="executive-toolkit/index.html#tab-euro" class="deep-pill pill-indigo">🌍 Lost in Euro-English</a>
+            <a href="executive-toolkit/index.html#tab-kpi" class="deep-pill pill-emerald">📊 Numbers &amp; KPI Spin</a>
+            <a href="executive-toolkit/index.html#tab-pron" class="deep-pill pill-purple">🔊 Pronunciation + Audio</a>
+            <a href="executive-toolkit/index.html#tab-bluf" class="deep-pill pill-amber">🧠 Say It in 30s (BLUF)</a>
+            <a href="executive-toolkit/index.html#tab-tense" class="deep-pill">⏱️ Tense Time-Machine</a>
+          </div>
+        </div>
+
+        <!-- Group 4: Czech-English False Friends & Czenglish Surgery -->
         <div class="launchpad-group">
           <div class="launchpad-group-title" style="color:#3730a3;">
-            <span>🎭 Czech-English False Friends</span>
+            <span>🎭 False Friends &amp; Czenglish Surgery</span>
             <button onclick="copySuiteLink('false-friends/index.html', 'False Friends Hub')" style="background:none; border:none; font-size:0.72rem; font-weight:700; color:#3730a3; cursor:pointer;">📋 Copy Link</button>
           </div>
           <div class="pill-links">
             <a href="false-friends/index.html#tutorial" class="deep-pill pill-indigo">🃏 52 False Friends Cards</a>
             <a href="false-friends/index.html#horror" class="deep-pill pill-indigo">😱 8 Email Horror Stories</a>
             <a href="false-friends/index.html#quiz" class="deep-pill pill-indigo">🎯 30-Item Diagnostic Quiz</a>
-            <a href="false-friends/index.html#table" class="deep-pill">📊 A–Z Reference Cheat Sheet</a>
+            <a href="false-friends/index.html#surgery" class="deep-pill pill-amber">🕵️‍♂️ Spot the Czenglish Surgery (25)</a>
+            <a href="false-friends/index.html#table" class="deep-pill">📊 A–Z Reference Matrix</a>
           </div>
         </div>
 
@@ -679,8 +695,8 @@
         <input type="text" id="portal-search" placeholder="Search student, company, or specialty (e.g. Lucie, Košař, Vojtěch, Darts, Motorbikes)..." oninput="renderActiveView()">
       </div>
       <div class="company-filters" id="company-chips">
-        <button class="comp-chip active" onclick="setCompanyFilter('all', this)">All Suites (13)</button>
-        <button class="comp-chip" onclick="setCompanyFilter('General', this)">📚 General (3)</button>
+        <button class="comp-chip active" onclick="setCompanyFilter('all', this)">All Suites (14)</button>
+        <button class="comp-chip" onclick="setCompanyFilter('General', this)">📚 General (4)</button>
         <button class="comp-chip" onclick="setCompanyFilter('AL INVEST', this)">🏭 AL INVEST (1)</button>
         <button class="comp-chip" onclick="setCompanyFilter('Bidfood', this)">🥩 Bidfood (3)</button>
         <button class="comp-chip" onclick="setCompanyFilter('TAPI', this)">🧪 TAPI / Teva (4)</button>
@@ -728,6 +744,26 @@
         ]
       },
       {
+        id: 'executive-toolkit',
+        type: 'general',
+        companyGroup: 'General',
+        companyName: 'Universal Lesson Hub',
+        companyBadgeBg: '#dbeafe',
+        companyBadgeColor: '#1e40af',
+        accentColor: '#2563eb',
+        icon: '💼',
+        title: 'Executive Communication, Data & Pronunciation Hub',
+        studentOrDivision: 'All Students (100% Pure English)',
+        topics: ['🌍 Euro-English & UK/US', '📊 KPI Spin & Numbers', '🔊 Pronunciation + Audio', '🧠 30s BLUF Cutter', '⏱️ Tense Time-Machine'],
+        desc: '5-tab pure-English executive suite: UK vs. US & Euro-English supplier traps, Bad-News KPI Spin Simulator & spoken tolerances, Pronunciation Minefield with live UK/US audio, BLUF Waffle Cutter, and Business Tense Time-Machine.',
+        url: 'executive-toolkit/index.html',
+        extraLinks: [
+          { label: '📊 KPI Spin', url: 'executive-toolkit/index.html#tab-kpi' },
+          { label: '🔊 Audio Drill', url: 'executive-toolkit/index.html#tab-pron' },
+          { label: '🧠 BLUF', url: 'executive-toolkit/index.html#tab-bluf' }
+        ]
+      },
+      {
         id: 'false-friends',
         type: 'general',
         companyGroup: 'General',
@@ -736,14 +772,14 @@
         companyBadgeColor: '#3730a3',
         accentColor: '#4f46e5',
         icon: '🎭',
-        title: 'Czech-English False Friends Hub',
+        title: 'Czech-English False Friends & Czenglish Surgery',
         studentOrDivision: 'All Czech Students',
-        topics: ['🃏 52 Word Pairs', '😱 8 Email Horror Stories', '🎯 30-Item Quiz', '📊 A–Z Matrix'],
-        desc: 'Interactive encyclopedia of 52 deceptive Czech-English cognates (kontrolovat vs check, aktuálně vs currently, reklamace vs complaint, penzion vs guesthouse), 8 Email Horror Stories & 30-item quiz.',
+        topics: ['🃏 52 Word Pairs', '😱 8 Email Horror Stories', '🎯 30-Item Quiz', '🕵️‍♂️ 25 Sentence Surgery'],
+        desc: 'Interactive encyclopedia of 52 deceptive Czech-English cognates, 8 Email Horror Stories, 30-item diagnostic quiz, plus the 25-case Spot the Czenglish Live Sentence Surgery Game.',
         url: 'false-friends/index.html',
         extraLinks: [
-          { label: '😱 Horror Stories', url: 'false-friends/index.html#horror' },
-          { label: '🎯 30-Item Quiz', url: 'false-friends/index.html#quiz' }
+          { label: '🕵️‍♂️ Czenglish Surgery', url: 'false-friends/index.html#surgery' },
+          { label: '😱 Horror Stories', url: 'false-friends/index.html#horror' }
         ]
       },
       {
